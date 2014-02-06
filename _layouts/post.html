@@ -9,18 +9,18 @@
 
     <div class="container">
 
+      <ul class="pager">
+        <li>
+          {% if page.previous %}<a href="{{page.previous.url}}">&larr; {{page.previous.title}}</a>{% endif %}
+        </li>
+        <li>
+          {% if page.next %}<a href="{{page.next.url}}">{{page.next.title}} &rarr;</a>{% endif %}
+        </li>
+      </ul>
+
       <div class="row">
 
         <div class="col-sm-8 blog-main">
-
-          <ul class="pager">
-            <li class="previous">
-              {% if page.previous %}<a href="{{page.previous.url}}">&larr; {{page.previous.title}}</a>{% endif %}
-            </li>
-            <li class="next">
-              {% if page.next %}<a href="{{page.next.url}}">{{page.next.title}} &rarr;</a>{% endif %}
-            </li>
-          </ul>
 
           <h2 class="blog-post-title">{{ page.title }}</h2>
           <p class="blog-post-meta">{{ page.date | date: "%-d %b %Y" }} | <a href="#disqus_thread">Comments</a></p>
@@ -52,7 +52,7 @@
           {% endif %}
         </div><!-- /.blog-main -->
 
-        {% include sidebar.html %}
+        {% include sidebar-recent.html %}
 
       </div><!-- /.row -->
 

@@ -17,21 +17,8 @@ layout: default
 {% if paginator.previous_page %}
   <li class="previous"><a rel="previous" href="{{ paginator.previous_page_path | replace: 'index.html', '' }}">&#8592; Previous</a></li>
 {% else %}
-  <li class="prev disabled"><span>&#8592; Previous</span></li>
+  <li class="previous disabled"><span>&#8592; Previous</span></li>
 {% endif %}
-{% for x in (1..paginator.total_pages) %}
-{% if paginator.page == x %}
-  <li class="active"><span>{{ x }}</span></li>
-{% elsif paginator.page == x - 1 %}
-  <li><a rel="previous" href="{{ paginator.previous_page_path }}">{{ x }}</a></li>
-{% elsif paginator.page == x + 1 %}
-  <li><a rel="next" href="/page/{{ x }}/">{{ x }}</a></li>
-{% elsif x == 1 %}
-  <li><a href="/">{{ x }}</a></li>
-{% else %}
-  <li><a href="/page/{{ x }}/">{{ x }}</a></li>
-{% endif %}
-{% endfor %}
 {% if paginator.next_page %}
   <li class="next"><a rel="next" href="{{ paginator.next_page_path }}">Next &#8594;</a></li>
 {% else %}
