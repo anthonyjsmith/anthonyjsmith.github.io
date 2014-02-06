@@ -1,8 +1,32 @@
----
-layout: default
----
-<h2>{{ page.title }}</h2>
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    {% include head.html %}
+  </head>
 
-<div class="post">
-{{ content }}
-</div>
+  <body>
+    {% include masthead.html %}
+
+    <div class="container">
+
+      <div class="row">
+
+        <div class="col-sm-8 blog-main">
+
+          <h2 class="blog-post-title">{{ page.title }}</h2>
+
+          <div class="blog-post">
+            {{ content }}
+          </div>
+
+        </div><!-- /.blog-main -->
+
+        {% include sidebar.html %}
+
+      </div><!-- /.row -->
+
+    </div><!-- /.container -->
+
+    {% include footer.html %}
+  </body>
+</html>
