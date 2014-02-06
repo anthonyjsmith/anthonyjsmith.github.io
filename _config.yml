@@ -1,3 +1,9 @@
-name: Your New Jekyll Site
+name: www.anthonysmith.me.uk
+description: Ceci n'est pas un blog
+url: http://anthonyjsmith.github.io
 markdown: redcarpet
 pygments: true
+exclude: [README.md]
+permalink: /:year/:month/:day/:title/
+paginate: 10
+paginate_path: "page/:num/"
