@@ -1,0 +1,21 @@
+---
+layout: none
+---
+<?xml version="1.0" encoding="UTF-8"?>{% capture src_url %}src="{{ site.url }}/{% endcapture %}{% capture href_url %}href="{{ site.url }}/{% endcapture %}
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>{{ site.name | xml_escape }}</title>
+    <description>{% if site.description %}{{ site.description | xml_escape }}{% endif %}</description>    
+    <link>{{ site.url }}</link>
+    <atom:link href="{{ site.url }}/feed/" rel="self" type="application/rss+xml" />
+    {% for post in site.posts limit: 20 %}
+    <item>
+      <title>{{ post.title | xml_escape }}</title>
+      <description>{{ post.content | replace: '"//', 'BANANABANANA' | replace: 'src="/', src_url | replace: 'href="/', href_url | replace: 'BANANABANANA', '"//' | xml_escape }}</description>
+      <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
+      <link>{{ site.url }}{{ post.url }}</link>
+      <guid isPermaLink="true">{{ site.url }}{{ post.url }}</guid>
+    </item>
+    {% endfor %}
+  </channel>
+</rss>
