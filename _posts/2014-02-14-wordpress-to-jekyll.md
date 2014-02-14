@@ -1,7 +1,6 @@
 ---
 title: WordPress to Jekyll
 layout: post
-draft: true
 ---
 If either of you read my posts by actually visiting this site, rather than by [using an RSS feed reader](http://www.problogger.net/what-is-rss/) (such as [feedly](http://feedly.com/)), then you may have noticed some changes in its appearance. That's because I've moved this (non-)blog from WordPress to [Jekyll](http://jekyllrb.com/).
 
