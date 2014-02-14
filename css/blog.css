@@ -135,6 +135,9 @@ h6, .h6 {
 .sidebar-module-inset ol:last-child {
   margin-bottom: 0;
 }
+.sidebar-module .a2a_dd {
+  width: 100%;
+}
 
 /* Pagination */
 .pager {
