@@ -8,3 +8,5 @@ permalink: /:year/:month/:day/:title/
 paginate: 10
 paginate_path: "page/:num/"
 timezone: Europe/London
+disqus_shortname: anthonysmithmeuk
+twitter_username: anthonyjsmith

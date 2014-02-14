@@ -5,7 +5,7 @@
           </div>
           <div class="sidebar-module">
             <!-- AddToAny BEGIN -->
-            <a class="a2a_dd btn btn-primary" href="http://www.addtoany.com/subscribe?linkurl=http%3A%2F%2Fwww.anthonysmith.me.uk%2Ffeed%2F&amp;linkname=">Subscribe</a>
+            <a class="a2a_dd btn btn-primary" href="http://www.addtoany.com/subscribe?linkurl={{ site.url | append: '/feed/' | cgi_escape }}&amp;linkname=">Subscribe</a>
             <script type="text/javascript">
               var a2a_config = a2a_config || {};
               a2a_config.linkurl = "{{ site.url }}/feed/";
@@ -29,6 +29,6 @@
             <gcse:search></gcse:search>
           </div>          
           <div class="sidebar-module">
-            <a class="twitter-timeline" href="https://twitter.com/anthonyjsmith" data-widget-id="434409884751110144">Tweets by @anthonyjsmith</a>
+            <a class="twitter-timeline" href="https://twitter.com/{{ site.twitter_username }}" data-widget-id="434409884751110144">Tweets by @{{ site.twitter_username }}</a>
             <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
           </div>
