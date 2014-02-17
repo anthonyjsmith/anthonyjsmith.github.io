@@ -50,7 +50,7 @@
               var disqus_shortname = '{{ site.disqus_shortname }}'; // required: replace example with your forum shortname
               var disqus_identifier = '{{ page.url }}';
               var disqus_url = '{{ site.url }}{{ page.url }}';
-              var disqus_title = '{{ page.title }}';
+              var disqus_title = "{{ page.title | replace: '"', '&quot;' }}";
 
               /* * * DON'T EDIT BELOW THIS LINE * * */
               (function() {
