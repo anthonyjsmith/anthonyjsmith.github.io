@@ -11,4 +11,4 @@ man with God is on the throne;
 mighty Lord, in thine ascension  
 we by faith behold our own.
 
-Christopher Wordsworth (1807-1885), [_See the Conqueror mounts in triumph_](http://www.cyberhymnal.org/htm/s/e/seetheco.htm)
+Christopher Wordsworth (1807-1885), [_See, the Conqueror mounts in triumph_](http://www.cyberhymnal.org/htm/s/e/seetheco.htm).
