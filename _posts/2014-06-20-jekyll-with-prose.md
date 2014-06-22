@@ -9,3 +9,5 @@ title: Jekyll with Prose
 I'm just trying it out at the moment... Let's see if it works...
 
 (Not quite, but almost!)
+
+(Update: editing files directly in GitHub would be a good alternative: let's see if this works...!)
