@@ -3,11 +3,11 @@ title: On good disagreement and the future of the Church of England
 layout: post
 ---
 > Live in harmony with one another. ... If it is possible, as far as it depends on you, live at peace with everyone (Romans 12:16,18).
-
+>
 > Make every effort to keep the unity of the Spirit through the bond of peace (Ephesians 4:3).
-
+>
 > [M]ake my joy complete by being like-minded, having the same love, being one in spirit and of one mind (Philippians 2:2).
-
+>
 > Do not be yoked together with unbelievers. For what do righteousness and wickedness have in common? Or what fellowship can light have with darkness? What harmony is there between Christ and Belial? Or what does a believer have in common with an unbeliever? What agreement is there between the temple of God and idols? For we are the temple of the living God (2 Corinthians 6:14-16, all quotations from the NIV).
 
 "Good disagreement" is becoming one of Archbishop Justin Welby's catchphrases. And it's a wonderful idea. The Church is full of bad disagreement. My [previous blog post](/2014/07/15/creation-or-evolution-do-we-have-to-keep-getting-nowhere/) was about creation and evolution, and that is certainly an example. We simply do not make the effort to understand each other, let alone to love one another. Surely the first step we need to take on the road towards full agreement is to turn our bad disagreements into good disagreements.
@@ -100,5 +100,5 @@ So lead us on; till toil and trouble ended,<br />
 one church triumphant one new song shall sing,<br />
 to praise his glory, risen and ascended,<br />
 Christ over all, the everlasting King!
-
+>
 > _Timothy Dudley-Smith_

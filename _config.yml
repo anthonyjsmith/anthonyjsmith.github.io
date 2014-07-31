@@ -1,8 +1,6 @@
 name: www.anthonysmith.me.uk
 description: Ceci n'est pas un blog
 url: http://www.anthonysmith.me.uk
-markdown: redcarpet
-pygments: true
 exclude: [README.md]
 permalink: /:year/:month/:day/:title/
 paginate: 10

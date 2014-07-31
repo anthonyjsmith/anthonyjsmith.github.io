@@ -4,7 +4,7 @@ title: When is a priest not a priest?
 ---
 Our English word _priest_ comes from the Latin word _presbyter_, which itself comes from the Greek word _presbuteros_. When this Greek word appears in the Bible, most English versions translate it _not_ as "priest", but as "elder".
 
-However, the word _priest_ does still appear in English Bibles, but it is used to translate the Greek word _hiereus_ or the Hebrew word _kohen_ (compare the surname [Cohen](http://en.wikipedia.org/wiki/Cohen_(surname)), with the Latin equivalent being _sacerdos_, from which we get the English word _sacerdotal_ ("priestly"). This kind of priest is not an elder, but is someone who offers sacrifices in a temple.
+However, the word _priest_ does still appear in English Bibles, but it is used to translate the Greek word _hiereus_ or the Hebrew word _kohen_ (compare the surname [Cohen](http://en.wikipedia.org/wiki/Cohen_(surname))), with the Latin equivalent being _sacerdos_, from which we get the English word _sacerdotal_ ("priestly"). This kind of priest is not an elder, but is someone who offers sacrifices in a temple.
 
 How did we end up in this linguistic mess?
 
