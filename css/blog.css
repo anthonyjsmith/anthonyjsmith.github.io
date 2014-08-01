@@ -160,19 +160,30 @@ h6, .h6 {
 .blog-post iframe {
   max-width: 100%;
 }
-.blog-post img.alignleft, img.alignright {
-  padding: 3px;
-  margin-top: 4px;
-  margin-bottom: 4px;
-  border-radius: 4px;
+/* At max screen width, blog post takes 617 px     */
+/* At 768 screen width, blog post takes 470 px     */
+/* Below 768, blog post takes up to 737 pixels     */
+/* Don't align images inline for narrower than 470 */
+@media (min-width: 470px) {
+  .blog-post img.alignleft, img.alignright {
+    padding: 3px;
+    margin-top: 4px;
+    margin-bottom: 4px;
+    border-radius: 4px;
+  }
+  .blog-post img.alignright {
+    float: right;
+    margin-left: 8px;
+  }
+  .blog-post img.alignleft {
+    float: left;
+    margin-right: 8px;
+  }
 }
-.blog-post img.alignright {
-  float: right;
-  margin-left: 8px;
-}
-.blog-post img.alignleft {
-  float: left;
-  margin-right: 8px;
+@media (max-width: 469px) {
+  .blog-post img.alignleft, img.alignright {
+    display: block;
+  }
 }
 .blog-post-title {
   margin-bottom: 5px;
