@@ -160,11 +160,12 @@ h6, .h6 {
 .blog-post iframe {
   max-width: 100%;
 }
+/* Padding on blog-post = 15px either side
 /* At max screen width, blog post takes 617 px     */
 /* At 768 screen width, blog post takes 470 px     */
 /* Below 768, blog post takes up to 737 pixels     */
-/* Don't align images inline for narrower than 470 */
-@media (min-width: 470px) {
+/* Don't align images inline for narrower than 500 */
+@media (min-width: 500px) {
   .blog-post img.alignleft, img.alignright {
     padding: 3px;
     margin-top: 4px;
@@ -180,7 +181,7 @@ h6, .h6 {
     margin-right: 8px;
   }
 }
-@media (max-width: 469px) {
+@media (max-width: 499px) {
   .blog-post img.alignleft, img.alignright {
     display: block;
   }
