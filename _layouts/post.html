@@ -35,7 +35,7 @@
 
           {% include addtoany.html %}
 
-          {% if page.draft != true %}
+          {% if page.path contains '_posts/' %}
           <div id="disqus_thread"></div>
           <script type="text/javascript">
               /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
