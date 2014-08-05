@@ -8,4 +8,4 @@ I've appreciated the following video, from [Michael Petty](http://www.stpetersta
 
 (For the record, there were a couple of elements of the video that I wasn't sure about &mdash; such as calling the table an 'altar', a prayer of [epiclesis](http://en.wikipedia.org/wiki/Epiclesis), and the idea that the bread and wine change in some way &mdash; but I don't think those detract too much. Also, while we're in these parentheses, it's worth noting that 'The Book of Common Prayer' refers to a different book on the other side of the Atlantic.)
 
-<iframe src="//player.vimeo.com/video/23092634" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="http://vimeo.com/23092634">Instructed Eucharist</a> from <a href="http://vimeo.com/stpetersanglican">St. Peter&#039;s Anglican Church</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+{% include vimeo.html vimeo_id="23092634" %}

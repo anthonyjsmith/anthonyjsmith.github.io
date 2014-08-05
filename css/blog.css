@@ -157,9 +157,6 @@ h6, .h6 {
   max-width: 100%;
   height: auto;
 }
-.blog-post iframe {
-  max-width: 100%;
-}
 /* Padding on blog-post = 15px either side
 /* At max screen width, blog post takes 617 px     */
 /* At 768 screen width, blog post takes 470 px     */

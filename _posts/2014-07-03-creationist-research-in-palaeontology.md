@@ -10,6 +10,6 @@ As a consequence, he does some fascinating scientific research. And he [publishe
 
 Have a watch...
 
-<iframe width="560" height="315" src="//www.youtube.com/embed/dQI67RW9UYA" frameborder="0" allowfullscreen></iframe>
+{% include youtube.html youtube_id="dQI67RW9UYA" %}
 
 (Hat tip: [Biblical Creation Ministries](https://www.facebook.com/biblicalcreationministries/posts/10152121928480380).)

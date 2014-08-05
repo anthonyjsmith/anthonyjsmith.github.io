@@ -8,7 +8,7 @@ I'll be voting for the [Green Party](http://greenparty.org.uk/) on 22 May, in bo
 
 So I leave you first with a video:
 
-<iframe width="560" height="315" src="//www.youtube.com/embed/BDsV8YumePk" frameborder="0" allowfullscreen></iframe>
+{% include youtube.html youtube_id="BDsV8YumePk" %}
 
 And then with the [Green Party mini-manifesto](http://issuu.com/lifework/docs/minimaniissuu?e=7496317/7612527), which is _very_ brief and _very_ readable:
 

@@ -8,5 +8,5 @@ The bad news is that, as and when these trade winds die down, the oceans will st
 
 There's also [a helpful article in the Guardian](http://www.theguardian.com/environment/planet-oz/2014/feb/12/global-warming-fake-pause-hiatus-climate-change), if you want to read more.
 
-<p><iframe width="560" height="315" src="//www.youtube.com/embed/RifZdKP3VPs" frameborder="0" allowfullscreen></iframe></p>
+{% include youtube.html youtube_id="RifZdKP3VPs" %}
 
