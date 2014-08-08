@@ -1,5 +1,5 @@
 ---
-title: Weapons cause wars: Alan Storkey on the First World War
+title: "Weapons cause wars: Alan Storkey on the First World War"
 layout: post
 date: 2014-08-08 12:10:43 +0100
 ---
