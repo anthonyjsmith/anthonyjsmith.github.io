@@ -1,5 +1,5 @@
-name: Anthony James Smith
-description: This man enjoys math(s)
+name: www.anthonysmith.me.uk
+description: Ceci n'est pas un blog
 url: http://www.anthonysmith.me.uk
 exclude: [README.md]
 permalink: /:year/:month/:day/:title/
