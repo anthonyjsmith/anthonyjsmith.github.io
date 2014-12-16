@@ -30,3 +30,4 @@ It seems that the latter is an example of a _bad_ theological reflection!
 **4. Response**
 
 I like theological reflection. It is better than either (1) experience without reflection, or (2) reflection disconnected from experience. But there is such a thing as bad theological reflection. It isn't a magic bullet.
+
