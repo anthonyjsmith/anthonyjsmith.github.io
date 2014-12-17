@@ -35,7 +35,7 @@ Then type <code>source ~/.bash_profile</code> in Terminal.
 Or Option 2 (uses Python and gives slightly more meaningful error messages): make an executable file called <code>rem</code> somewhere in your <code>$PATH</code>:
 
 {% highlight python %}
-#! /usr/bin/python
+#!/usr/bin/env python
 import os
 import sys
 if len(sys.argv) > 1:
