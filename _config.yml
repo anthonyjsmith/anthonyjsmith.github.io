@@ -1,5 +1,5 @@
 name: www.anthonysmith.me.uk
-description: Ceci n'est pas un blog
+description: This man enjoys math (anag.)
 url: http://www.anthonysmith.me.uk
 exclude: [README.md, Gemfile, Gemfile.lock, CNAME]
 permalink: /:year/:month/:day/:title/
