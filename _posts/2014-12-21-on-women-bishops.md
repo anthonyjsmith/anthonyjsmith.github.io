@@ -24,7 +24,7 @@ However, despite my uncertainty on the issue, there is one thing I am convinced 
 
 First, there are those who believe that women _cannot_ be ordained. Can they remain in the Church of England?
 
-Forward in Faith, as [part](http://www.forwardinfaith.com/resources/Women%20Bishops/true.html) of [a commentary on the Church of England's five guiding principles on the issue of women bishops](http://www.forwardinfaith.com/resources/Women%20Bishops/Commentary.html), make an interesting distinction between the _office_ of bishop and the _order_ of bishop:
+Forward in Faith, as [part](http://www.forwardinfaith.com/WBProvisions.php?id=217) of [a commentary on the Church of England's five guiding principles on the issue of women bishops](http://www.forwardinfaith.com/WBProvisions.php?id=213), make an interesting distinction between the _office_ of bishop and the _order_ of bishop:
 
 > If the Rector of Barchester is a woman, we don't say that the office of rector is vacant. She is the true and lawful holder of that office. She is the rector, but we cannot say that she is a priest. There is in in fact much precedent for church offices that were originally held by clergy being held by people who are not priests: there have been lay rectors &mdash; and, in cathedrals, lay canons and lay vicars.
 >
