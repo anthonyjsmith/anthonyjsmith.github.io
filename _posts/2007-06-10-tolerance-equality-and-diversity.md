@@ -1,19 +1,6 @@
 ---
 layout: post
 title: Tolerance, equality and diversity
-categories:
-- Thoughts
-tags:
-- diversity
-- equality
-- tolerance
-- truth
-status: publish
-type: post
-published: true
-meta:
-  _edit_last: '1'
-  views: '1'
 ---
 Tolerance, equality and diversity: three words that reflect the core values of our culture.  But what do they mean?
 
