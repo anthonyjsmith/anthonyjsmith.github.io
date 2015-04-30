@@ -27,7 +27,7 @@ I don't expect anyone will follow this study and end up knowing who to vote for 
    1. How do you think we should treat people who want to settle permanently, such as refugees, economic migrants, and others?
    1. How do you think we should treat people who are here temporarily, such as international students, or people here for work or business?
 1. Health
-   1. Read Matthew 5:24-34. How does Jesus heal this woman's body?
+   1. Read Mark 5:24-34. How does Jesus heal this woman's body?
    1. How does Jesus heal this woman's state of mind?
    1. How does Jesus restore this woman's place in her society?
    1. The World Health Organisation states, "Health is a state of complete physical, mental and social well-being and not merely the absence of disease or infirmity". What can we do, as individuals, families and churches, to promote people's well-being?
