@@ -91,6 +91,13 @@ h6, .h6 {
   font-size: 60px;
   font-weight: normal;
 }
+/* Fit title www.anthonysmith.me.uk into line for small screens */
+@media (max-width: 768px) {
+  .blog-title {
+    font-size: 60px;
+    font-size: 8vw;
+  }
+}
 .blog-description {
   font-size: 20px;
   color: #999;
