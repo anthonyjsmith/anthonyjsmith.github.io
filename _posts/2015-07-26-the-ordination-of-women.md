@@ -19,3 +19,4 @@ I'll make this post into an index for any posts (past, present or future) that m
 * [A biblical case for female pastors?](/2012/11/26/a-biblical-case-for-female-pastors/) (Nov 2012)
 * [On women bishops](/2014/12/21/on-women-bishops/) (Dec 2014)
 * [The ordination of women](/2015/07/26/the-ordination-of-women/) (Jul 2015)
+* [John Stott on women's ordination](/2015/07/27/john-stott-on-womens-ordination) (Jul 2015)
