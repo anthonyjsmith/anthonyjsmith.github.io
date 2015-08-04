@@ -26,12 +26,14 @@
 
         <div class="col-sm-8 blog-main">
 
-          <div class="blog-post">
+          <header>
             <h2 class="blog-post-title">{{ page.title }}</h2>
-            <p class="blog-post-meta">{{ page.date | date: "%-d %b %Y" }} | <a href="#disqus_thread">Comments</a></p>
+          </header>
 
+          <article class="blog-post">
+            <p class="blog-post-meta">{{ page.date | date: "%-d %b %Y" }} | <a href="#disqus_thread">Comments</a></p>
 {{ content }}
-          </div>
+          </article>
 
           {% include addtoany.html %}
 

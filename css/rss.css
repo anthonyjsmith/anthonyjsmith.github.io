@@ -1,17 +1,21 @@
 img {
-  max-width: 100%;
   height: auto;
+  max-width: 100%;
 }
-img.alignleft, img.alignright {
-  padding: 3px;
-  margin-top: 4px;
-  margin-bottom: 4px;
+
+img.alignleft,
+img.alignright {
   border-radius: 4px;
+  margin-bottom: 4px;
+  margin-top: 4px;
+  padding: 3px;
 }
+
 img.alignright {
   float: right;
   margin-left: 8px;
 }
+
 img.alignleft {
   float: left;
   margin-right: 8px;

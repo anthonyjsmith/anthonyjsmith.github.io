@@ -1,0 +1,220 @@
+@charset 'utf-8';
+
+// Our variables
+$base-font-family: Georgia, "Times New Roman", Times, serif;
+$heading-font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+$base-font-size:   18px;
+$large-font-size:  60px;
+$base-line-height: 1.5;
+
+$spacing-unit:     60px;
+
+$text-color:       #555;
+
+// Globals
+
+body {
+  color: $text-color;
+  font-family: $base-font-family;
+}
+
+h1, .h1,
+h2, .h2,
+h3, .h3,
+h4, .h4,
+h5, .h5,
+h6, .h6 {
+  color: #333;
+  font-family: $heading-font-family;
+  font-weight: normal;
+  margin-top: 0;
+}
+
+// Override Bootstrap's default container.
+
+@media (min-width: 1200px) {
+  .container {
+    width: 970px;
+  }
+}
+
+// Masthead for nav
+
+.blog-masthead {
+  background-color: #428bca;
+  box-shadow: inset 0 -2px 5px rgba(0,0,0,.1);
+}
+
+// Nav links
+.blog-nav {
+  .blog-nav-item {
+    color: #cdddeb;
+    display: inline-block;
+    font-weight: 500;
+    position: relative;
+    padding: 10px;
+  }
+  .blog-nav-item:hover,
+  .blog-nav-item:focus {
+    color: #fff;
+    text-decoration: none;
+  }
+
+  // Active state gets a caret at the bottom
+  .active {
+    color: #fff;
+  }
+  .active:after {
+    border-bottom: 5px solid;
+    border-left: 5px solid transparent;
+    border-right: 5px solid transparent;
+    bottom: 0;
+    content: ' ';
+    display: block;
+    height: 0;
+    left: 50%;
+    margin-left: -5px;
+    position: absolute;
+    vertical-align: middle;
+    width: 0;
+  }
+}
+
+// Blog name and description
+
+.blog-header {
+  padding-bottom: 20px;
+  padding-top: 20px;
+}
+
+.blog-title {
+  font-size: $large-font-size;
+  font-weight: normal;
+  margin-bottom: 0;
+  margin-top: 30px;
+}
+
+// Fit title www.anthonysmith.me.uk into line for small screens
+@media (max-width: 768px) {
+  .blog-title {
+    font-size: $large-font-size;
+    font-size: 8vw;
+  }
+}
+
+.blog-description {
+  color: #999;
+  font-size: 20px;
+}
+
+// Main column and sidebar layout
+
+.blog-main {
+  font-size: $base-font-size;
+  line-height: $base-line-height;
+}
+
+// Sidebar modules for boxing content
+.sidebar-module {
+  margin: 0 -15px 15px;
+  padding: 15px;
+
+  ul {
+    list-style-position: inside;
+    padding-left: 0;
+  }
+
+  .a2a_dd {
+    width: 100%;
+  }
+}
+
+.sidebar-module-inset {
+  background-color: #f5f5f5;
+  border-radius: 4px;
+  padding: 15px;
+
+  p:last-child,
+  ul:last-child,
+  ol:last-child {
+    margin-bottom: 0;
+  }
+}
+
+// Pagination
+.pager {
+  font-size: $base-font-size;
+  text-align: left;
+}
+
+// Blog posts
+
+.blog-post {
+  margin-bottom: $spacing-unit;
+
+  img {
+    height: auto;
+    max-width: 100%;
+  }
+}
+
+// Padding on blog-post = 15px either side
+// At max screen width, blog post takes 617 px
+// At 768 screen width, blog post takes 470 px
+// Below 768, blog post takes up to 737 pixels
+// Don't align images inline for narrower than 500
+@media (min-width: 500px) {
+  .blog-post {
+    img.alignleft,
+    img.alignright {
+      padding: 3px;
+      margin-top: 4px;
+      margin-bottom: 4px;
+      border-radius: 4px;
+    }
+
+    img.alignright {
+      float: right;
+      margin-left: 8px;
+    }
+
+    img.alignleft {
+      float: left;
+      margin-right: 8px;
+    }
+  }
+}
+@media (max-width: 499px) {
+  .blog-post {
+    img.alignleft,
+    img.alignright {
+      display: block;
+    }
+  }
+}
+
+.blog-post-title {
+  margin-bottom: 5px;
+  font-size: 40px;
+  text-align: left;
+}
+
+.blog-post-meta {
+  color: #999;
+  margin-bottom: 20px;
+}
+
+.a2a_kit {
+  margin-bottom: $spacing-unit;
+  margin-top: $spacing-unit;
+}
+
+// Footer
+
+.blog-footer {
+  background-color: #f9f9f9;
+  border-top: 1px solid #e5e5e5;
+  color: #999;
+  padding: 40px 0;
+  text-align: center;
+}
