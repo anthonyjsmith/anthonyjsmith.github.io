@@ -2,11 +2,13 @@
     <header class="blog-masthead">
       <div class="container">
         <nav class="blog-nav">
-          <a class="blog-nav-item active" href="/">Home</a>
-          <a class="blog-nav-item" href="/about/">About</a>
-          <a class="blog-nav-item" href="http://www.enkaptic.co.uk/">Software</a>
-          <a class="blog-nav-item" href="/singing/">Singing</a>
-          <a class="blog-nav-item" href="/contact/">Contact</a>
+          <ul>
+            <li><a class="blog-nav-item{% if page.url == '/index.html' %} active{% endif %}" href="/">Home</a></li>
+            <li><a class="blog-nav-item{% if page.url == '/about/' %} active{% endif %}" href="/about/">About</a></li>
+            <li><a class="blog-nav-item" href="http://www.enkaptic.co.uk/">Software</a></li>
+            <li><a class="blog-nav-item{% if page.url == '/singing/' %} active{% endif %}" href="/singing/">Singing</a></li>
+            <li><a class="blog-nav-item{% if page.url == '/contact/' %} active{% endif %}" href="/contact/">Contact</a></li>
+          </ul>
         </nav>
       </div>
     </header>
