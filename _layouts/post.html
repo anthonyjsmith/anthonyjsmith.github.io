@@ -1,14 +1,6 @@
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    {% include head.html %}
-  </head>
-
-  <body>
-    {% include masthead.html %}
-
-    <div class="container">
-
+---
+layout: default
+---
       <ul class="pager">
         {% if page.previous %}
         <li>
@@ -63,10 +55,3 @@
         {% include sidebar-recent.html %}
 
       </div><!-- /.row -->
-
-    </div><!-- /.container -->
-
-    {% include footer.html %}
-  </body>
-</html>
-
