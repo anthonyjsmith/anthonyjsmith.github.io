@@ -1,24 +1,22 @@
 ---
 layout: default
 ---
+      <ul class="pager">
+      </ul>
+
       <div class="row">
 
-        <div class="col-sm-8 blog-main">
-
-          <ul class="pager">
-          </ul>
-
-          <header>
-            <h2 class="blog-post-title">{{ page.title }}</h2>
-          </header>
+        <main class="col-sm-8 blog-main">
 
           <article class="blog-post">
+            <header>
+              <h2 class="blog-post-title">{{ page.title }}</h2>
+            </header>
 {{ content }}
+{% include addtoany.html %}
           </article>
 
-          {% include addtoany.html %}
-
-        </div><!-- /.blog-main -->
+        </main><!-- /.blog-main -->
 
         {% include sidebar-recent.html %}
 
