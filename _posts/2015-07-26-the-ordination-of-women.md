@@ -21,3 +21,4 @@ I'll make this post into an index for any posts (past, present or future) that m
 * [The ordination of women](/2015/07/26/the-ordination-of-women/) (Jul 2015)
 * [John Stott on women's ordination](/2015/07/27/john-stott-on-womens-ordination) (Jul 2015)
 * [Kenneth Bailey on women in the New Testament](/2015/07/31/kenneth-bailey-on-women-in-the-new-testament) (Jul 2015)
+* [Women bishops and the question of conscience](/2015/09/05/women-bishops-and-the-question-of-conscience) (Sep 2015)
