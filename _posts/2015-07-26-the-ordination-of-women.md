@@ -23,3 +23,4 @@ I'll make this post into an index for any posts (past, present or future) that m
 * [Kenneth Bailey on women in the New Testament](/2015/07/31/kenneth-bailey-on-women-in-the-new-testament/) (Jul 2015)
 * [Women bishops and the question of conscience](/2015/09/05/women-bishops-and-the-question-of-conscience/) (Sep 2015)
 * [Women teaching men: why was Eve deceived?](/2015/09/08/women-teaching-men-why-was-eve-deceived/) (Sep 2015)
+* [Back to Genesis: why was Eve deceived?]({% post_url 2015-09-11-back-to-genesis-why-was-eve-deceived %}) (Sep 2015)
