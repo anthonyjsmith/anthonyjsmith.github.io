@@ -10,7 +10,7 @@ layout: post
 >
 > Do not be yoked together with unbelievers. For what do righteousness and wickedness have in common? Or what fellowship can light have with darkness? What harmony is there between Christ and Belial? Or what does a believer have in common with an unbeliever? What agreement is there between the temple of God and idols? For we are the temple of the living God (2 Corinthians 6:14-16, all quotations from the NIV).
 
-"Good disagreement" is becoming one of Archbishop Justin Welby's catchphrases. And it's a wonderful idea. The Church is full of bad disagreement. My [previous blog post](/2014/07/15/creation-or-evolution-do-we-have-to-keep-getting-nowhere/) was about creation and evolution, and that is certainly an example. We simply do not make the effort to understand each other, let alone to love one another. Surely the first step we need to take on the road towards full agreement is to turn our bad disagreements into good disagreements.
+"Good disagreement" is becoming one of Archbishop Justin Welby's catchphrases. And it's a wonderful idea. The Church is full of bad disagreement. My [previous blog post]({% post_url 2014-07-15-creation-or-evolution-do-we-have-to-keep-getting-nowhere %}) was about creation and evolution, and that is certainly an example. We simply do not make the effort to understand each other, let alone to love one another. Surely the first step we need to take on the road towards full agreement is to turn our bad disagreements into good disagreements.
 
 Welby was interviewed on [The Andrew Marr Show on Sunday (13 July 2014)](http://www.bbc.co.uk/iplayer/episode/b04b62gr/the-andrew-marr-show-13072014), and the topic of "good disagreement" came up twice.
 
@@ -88,7 +88,7 @@ In this case, the Church of England as an institution would need to degenerate i
 
 Is this what "good disagreement" and "flourishing" will look like in practice?
 
-I hope not. But I suspect it might be, though it does seem to be one of the features of [Anglicanism](/2014/06/08/anglicanism/), with its organic structure and its bishops, that this kind of breadth never feels even remotely comfortable.
+I hope not. But I suspect it might be, though it does seem to be one of the features of [Anglicanism]({% post_url 2014-06-08-anglicanism %}), with its organic structure and its bishops, that this kind of breadth never feels even remotely comfortable.
 
 Yes, let's turn our "bad disagreements" into "good disagreements". But let's not allow the process to stop there.
 

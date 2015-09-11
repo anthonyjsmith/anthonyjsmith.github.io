@@ -12,5 +12,5 @@ You can read his article [on the God and Politics blog](http://godandpoliticsuk.
 
 But, if you are desperate to read something from my own pen (or fingers) about my membership of the Green Party, try reading these posts from when I joined the Green Party in 2011:
 
-* [I've joined the Green Party](/2011/09/12/ive-joined-the-green-party/)
-* [Why would a Christian join the Green Party?](/2011/09/13/why-would-a-christian-join-the-green-party/)
+* [I've joined the Green Party]({% post_url 2011-09-12-ive-joined-the-green-party %})
+* [Why would a Christian join the Green Party?]({% post_url 2011-09-13-why-would-a-christian-join-the-green-party %})

@@ -16,4 +16,4 @@ But, within those limits, Anglicanism does have certain characteristic features.
 
 <sup>1</sup> Quoted by Paul Avis, _The Anglican Understanding of the Church_, SPCK, 2013, p. 75.
 
-<sup>2</sup> See Stephen Neill, [_Anglicanism_](/2013/01/23/anglicanism-comprehensive-unity-in-the-gospel/), Penguin, 1960, p. 418–427.
+<sup>2</sup> See Stephen Neill, [_Anglicanism_]({% post_url 2013-01-23-anglicanism-comprehensive-unity-in-the-gospel %}), Penguin, 1960, p. 418–427.

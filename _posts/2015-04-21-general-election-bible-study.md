@@ -3,7 +3,7 @@ layout: post
 title: General election Bible study
 date: 2015-04-21 21:50:20.352615000 +01:00
 ---
-I cobbled this Bible study together at the weekend. It is unrefined and untested, but I post it here in case it might be useful. The main inspiration is [_Votewise 2015_ (Guy Brandon)](/2015/03/21/a-christian-guide-to-the-general-election-votewise-2015/), along with [an associated talk](https://www.youtube.com/watch?v=3qi_sFK4a9g). The latter used the excellent idea of focussing on one topic per major party (roughly speaking), and I've followed that approach below. One emphasis from the book was the implications of these issues for ordinary everyday life, as well as for politicians. It's so easy to assume it's entirely their responsibility (and hence their fault).
+I cobbled this Bible study together at the weekend. It is unrefined and untested, but I post it here in case it might be useful. The main inspiration is [_Votewise 2015_ (Guy Brandon)]({% post_url 2015-03-21-a-christian-guide-to-the-general-election-votewise-2015 %}), along with [an associated talk](https://www.youtube.com/watch?v=3qi_sFK4a9g). The latter used the excellent idea of focussing on one topic per major party (roughly speaking), and I've followed that approach below. One emphasis from the book was the implications of these issues for ordinary everyday life, as well as for politicians. It's so easy to assume it's entirely their responsibility (and hence their fault).
 
 I don't expect anyone will follow this study and end up knowing who to vote for (at least, I hope they won't). But it might help people to approach the topic in a slightly better way.
 

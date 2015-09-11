@@ -47,7 +47,7 @@ On moving to Brighton in 2002 Anthony began studying with Charles Corp in Worthi
 
 ### 2007
 
-8 & 12 May: Solo recitals in Brighton with [James Lloyd Thomas (piano)](http://www.organlessons.co.uk/biography.htm). Music by **Mozart, Handel, Schubert, Elgar** and **Finzi**. [Details here](/2007/05/01/recitals-in-may/).
+8 & 12 May: Solo recitals in Brighton with [James Lloyd Thomas (piano)](http://www.organlessons.co.uk/biography.htm). Music by **Mozart, Handel, Schubert, Elgar** and **Finzi**. [Details here]({% post_url 2007-05-01-recitals-in-may %}).
 
 ### 2006
 

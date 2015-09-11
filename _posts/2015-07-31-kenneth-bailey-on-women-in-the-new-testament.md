@@ -3,7 +3,7 @@ layout: post
 title: Kenneth Bailey on women in the New Testament
 date: 2015-07-31 13:52:33.115389000 +01:00
 ---
-Discussions about [the ordination of women](/2015/07/26/the-ordination-of-women/) often focus on certain key passages in the New Testament. This can give the impression that it's just a matter of proof-texting, or that it all hinges on just a couple of passages. I don't think this is the case.
+Discussions about [the ordination of women]({% post_url 2015-07-26-the-ordination-of-women %}) often focus on certain key passages in the New Testament. This can give the impression that it's just a matter of proof-texting, or that it all hinges on just a couple of passages. I don't think this is the case.
 
 When we are asking whether women should be ordained, we are ultimately looking for a big-picture understanding of what it means to be male and female, and of the nature of ordained ministry. It is only when those general principles are in place that we can work through what it looks like in practice in our own context.
 
@@ -26,7 +26,7 @@ On Junia (Romans 16:7), Douglas Moo comments:
  
 > [I]t is quite unlikely that [Andronicus and Junia], never mentioned elsewhere in the New Testament, were 'apostles' in the sense that Paul and Peter and John were apostles. The Greek word _apostolos_ has a variety of meanings in the New Testament; the one that best fits this text is 'commissioned missionary' (_Encountering the Book of Romans_, 196).
 
-The claim about women elders comes from 1 Timothy 5:2. This verse uses the female form of _presbuteros_ (as does Titus 2:3), a word usually translated as 'elder', from which we get the words _presbyter_ and [_priest_](/2014/02/24/when-is-a-priest-not-a-priest/). Bailey claims that, since this section of 1 Timothy is dealing with holders of the office of 'elder', the reference to 'older women' should really be translated as 'women presbyters'. But this is not convincing: as in Titus, the mention of older women is mingled with instruction about younger men and younger women. Even if Paul did have the office of 'elder' in mind in 5:1, he clearly broadens this to the more colloquial use of 'elder' (as the opposite of 'younger') in what follows. So the NIV, in line with every translation under the sun, translates it as follows, without even a footnote providing an alternative reading:
+The claim about women elders comes from 1 Timothy 5:2. This verse uses the female form of _presbuteros_ (as does Titus 2:3), a word usually translated as 'elder', from which we get the words _presbyter_ and [_priest_]({% post_url 2014-02-24-when-is-a-priest-not-a-priest %}). Bailey claims that, since this section of 1 Timothy is dealing with holders of the office of 'elder', the reference to 'older women' should really be translated as 'women presbyters'. But this is not convincing: as in Titus, the mention of older women is mingled with instruction about younger men and younger women. Even if Paul did have the office of 'elder' in mind in 5:1, he clearly broadens this to the more colloquial use of 'elder' (as the opposite of 'younger') in what follows. So the NIV, in line with every translation under the sun, translates it as follows, without even a footnote providing an alternative reading:
 
 > Do not rebuke an older man harshly, but exhort him as if he were your father. Treat younger men as brothers, older women as mothers, and younger women as sisters, with absolute purity.
 
