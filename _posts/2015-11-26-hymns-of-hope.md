@@ -9,6 +9,8 @@ Sadly it's often the former!
 
 In the posts listed below, I'm trying to do two things. First, I want to draw attention to those hymns and songs that do an excellent job at expressing our hope for the future. And, second, I want to see whether those songs that fall short in this respect can themselves be 'renewed', so that they help us to look forward to the coming of Christ's kingdom (rather than looking forward simply to getting out of here!).
 
+I never created an index for the series, so here goes...
+
 1. [King of the ages]({% post_url 2012-02-13-hymns-of-hope-1-king-of-the-ages %}) (Feb 2012)
 1. [There is a day]({% post_url 2012-02-16-hymns-of-hope-2-there-is-a-day %}) (Feb 2012)
 1. [It is well with my soul]({% post_url 2012-02-20-hymns-of-hope-3-it-is-well-with-my-soul %}) (Feb 2012)
