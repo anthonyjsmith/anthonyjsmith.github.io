@@ -3,7 +3,9 @@ layout: post
 title: Hymns of hope (6) Hail to the Lord's anointed
 ---
 <p>Jesus taught his followers to pray, "Your kingdom come, your will be done, on earth as it is in heaven." The confident hope of the Christian is that this prayer will be answered. We look forward to the day when God's kingdom will be established on the earth, through the loving rule of his Son, the anointed King.</p>
-<p>One of my favourite hymns for expressing this hope is <a href="http://www.hymnary.org/text/hail_to_the_lords_anointed">the following paraphrase of Psalm 72</a>, by James Montgomery (1771-1854). It's normally sung in a shorter version, with four of five verses, but here it is, <a href="http://books.google.co.uk/books?id=QQkDAAAAQAAJ&amp;pg=PA276">as it appeared in Montgomery's own 1853 book, <em>Original Hymns for Public, Private, and Social Devotion</em></a>:</p>
+
+One of my favourite [hymns for expressing this hope]({% post_url 2015-11-26-hymns-of-hope %}) is <a href="http://www.hymnary.org/text/hail_to_the_lords_anointed">the following paraphrase of Psalm 72</a>, by James Montgomery (1771-1854). It's normally sung in a shorter version, with four of five verses, but here it is, <a href="http://books.google.co.uk/books?id=QQkDAAAAQAAJ&amp;pg=PA276">as it appeared in Montgomery's own 1853 book, <em>Original Hymns for Public, Private, and Social Devotion</em></a>:
+
 <blockquote><p>1 Hail to the Lord’s anointed!<br />
 &nbsp;&nbsp;&nbsp;&nbsp;Great David’s greater Son;<br />
 Hail in the time appointed,<br />

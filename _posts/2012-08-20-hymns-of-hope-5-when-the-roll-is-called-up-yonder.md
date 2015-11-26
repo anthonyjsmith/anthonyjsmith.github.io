@@ -2,7 +2,8 @@
 layout: post
 title: Hymns of hope (5) When the roll is called up yonder
 ---
-<p>It's not hard to find hymns that express the Christian hope for the future (wrongly) as a hope to escape this world and spend eternity far away in heaven. A prime example of this is James M Black's 1893 hymn <a href="http://www.cyberhymnal.org/htm/w/h/e/whenroll.htm"><em>When the roll is called up yonder, I'll be there</em></a>. I've taken the liberty of making a few changes (in <strong>bold</strong>). I'm not too keen on "in glory" in place of "up yonder", but it was the best I could do. Let me know what you think...</p>
+It's not hard to find [hymns that express the Christian hope for the future]({% post_url 2015-11-26-hymns-of-hope %}) (wrongly) as a hope to escape this world and spend eternity far away in heaven. A prime example of this is James M Black's 1893 hymn <a href="http://www.cyberhymnal.org/htm/w/h/e/whenroll.htm"><em>When the roll is called up yonder, I'll be there</em></a>. I've taken the liberty of making a few changes (in <strong>bold</strong>). I'm not too keen on "in glory" in place of "up yonder", but it was the best I could do. Let me know what you think...
+
 <blockquote><p>When the trumpet of the Lord shall sound, and <strong>death</strong> shall be no more,<br />
 And the morning breaks, eternal, bright and fair;<br />
 When the saved of earth shall gather <strong>here and all shall be restored</strong>,<br />
