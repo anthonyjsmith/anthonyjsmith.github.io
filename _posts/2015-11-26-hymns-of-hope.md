@@ -19,5 +19,6 @@ I never created an index for the series, so here goes...
 1. [Hail to the Lord's anointed]({% post_url 2012-10-30-hymns-of-hope-6-hail-to-the-lords-anointed %}) (Oct 2012)
 1. [For all the saints]({% post_url 2013-08-19-hymns-of-hope-7-for-all-the-saints %}) (Aug 2013)
 1. [God is working his purpose out]({% post_url 2013-11-25-hymns-of-hope-8-god-is-working-his-purpose-out %}) (Nov 2013)
+1. [Lo! He comes]({% post_url 2015-11-29-hymns-of-hope-9-lo-he-comes %}) (Nov 2015)
 
 Any requests? Mention them in the comments...
