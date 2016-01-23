@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Hymns of hope (4) Creation sings
 ---
 A hymn, not so much sung by us, but sung by the whole creation. We know what <em>we</em> think about God's redemptive work, but if the whole creation could sing, what would <em>its</em> song be? What is the whole creation's [hymn of hope]({% post_url 2015-11-26-hymns-of-hope %})? What does the whole creation think about the prospect of Christ's return?

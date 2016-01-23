@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Christian same-sex marriage?
 date: 2015-01-09 09:04:08.122496000 +00:00
 ---

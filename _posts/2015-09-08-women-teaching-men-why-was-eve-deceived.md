@@ -1,5 +1,4 @@
 ---
-layout: post
 title: 'Women teaching men: why was Eve deceived?'
 date: 2015-09-08 21:47:36.459407000 +01:00
 ---

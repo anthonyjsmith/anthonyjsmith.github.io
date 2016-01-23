@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Women bishops and the question of conscience
 date: 2015-09-05 15:44:59.883773000 +01:00
 ---

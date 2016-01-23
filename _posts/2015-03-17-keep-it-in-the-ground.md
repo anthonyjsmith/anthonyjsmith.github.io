@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Keep it in the ground
 date: 2015-03-17 08:27:33.805625000 +00:00
 ---

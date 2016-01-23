@@ -1,5 +1,4 @@
 ---
-layout: post
 title: The ordination of women
 date: 2015-07-26 19:05:50.072056000 +01:00
 ---

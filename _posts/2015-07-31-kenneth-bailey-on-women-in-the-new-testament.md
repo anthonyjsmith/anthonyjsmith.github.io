@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Kenneth Bailey on women in the New Testament
 date: 2015-07-31 13:52:33.115389000 +01:00
 ---

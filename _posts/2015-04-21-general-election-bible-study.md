@@ -1,5 +1,4 @@
 ---
-layout: post
 title: General election Bible study
 date: 2015-04-21 21:50:20.352615000 +01:00
 ---

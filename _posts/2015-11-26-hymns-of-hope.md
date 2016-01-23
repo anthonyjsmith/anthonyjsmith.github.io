@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Hymns of hope
 date: 2015-11-26 15:21:45.409889000 +00:00
 ---

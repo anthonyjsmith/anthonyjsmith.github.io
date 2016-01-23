@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Hymns of hope (6) Hail to the Lord's anointed
 ---
 <p>Jesus taught his followers to pray, "Your kingdom come, your will be done, on earth as it is in heaven." The confident hope of the Christian is that this prayer will be answered. We look forward to the day when God's kingdom will be established on the earth, through the loving rule of his Son, the anointed King.</p>

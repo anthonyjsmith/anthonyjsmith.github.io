@@ -8,3 +8,17 @@ paginate_path: "page/:num/"
 timezone: Europe/London
 disqus_shortname: anthonysmithmeuk
 twitter_username: anthonyjsmith
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "page"

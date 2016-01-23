@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Ministry in Three Dimensions
 date: 2015-01-01 19:44:47.530861000 +01:00
 ---

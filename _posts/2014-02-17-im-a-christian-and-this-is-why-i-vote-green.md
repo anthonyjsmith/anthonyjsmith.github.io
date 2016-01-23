@@ -1,5 +1,4 @@
 ---
-layout: post
 title: I'm a Christian and this is why I vote Green
 ---
 <a href="/assets/green-party-logo.jpg"><img title="Green Party logo" src="/assets/green-party-logo-300x253.jpg" alt="" /></a>

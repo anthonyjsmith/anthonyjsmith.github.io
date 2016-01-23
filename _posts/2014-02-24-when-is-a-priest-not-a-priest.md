@@ -1,5 +1,4 @@
 ---
-layout: post
 title: When is a priest not a priest?
 ---
 Our English word _priest_ comes from the Latin word _presbyter_, which itself comes from the Greek word _presbuteros_. When this Greek word appears in the Bible, most English versions translate it _not_ as "priest", but as "elder".

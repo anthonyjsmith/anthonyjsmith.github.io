@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Why and how do we celebrate the Lord's Supper?
 ---
 Whether our tradition is 'liturgical' or 'non-liturgical', it's all too easy to simply go through the motions when sharing the Lord's Supper. Whether we are working from a written script, or from an unwritten script, it's perfectly possible to do what we always do, without thinking about what we are doing or why we are doing it.

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: 'Election 2015: Christian comment from KLICE'
 date: 2015-01-05 11:26:23.811261000 +00:00
 ---

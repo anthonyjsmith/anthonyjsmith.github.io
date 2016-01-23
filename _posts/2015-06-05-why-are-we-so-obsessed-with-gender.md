@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Why are we so obsessed with gender?
 date: 2015-06-05 21:45:59.682737000 +01:00
 ---

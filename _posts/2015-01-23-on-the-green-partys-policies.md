@@ -1,5 +1,4 @@
 ---
-layout: post
 title: On the Green Party's policies
 date: 2015-01-23 09:01:22.031505000 +00:00
 ---

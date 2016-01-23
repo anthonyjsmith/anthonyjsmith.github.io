@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Contact
 ---
 Drop me an email at [anthony@anthonysmith.me.uk](mailto:anthony@anthonysmith.me.uk).

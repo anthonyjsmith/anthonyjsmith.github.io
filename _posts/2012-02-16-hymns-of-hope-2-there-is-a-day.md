@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Hymns of hope (2) There is a day
 ---
 Another [Christian song that expresses the Christian hope]({% post_url 2015-11-26-hymns-of-hope %}) well is one of my favourites, <a href="http://www.phatfish.net/featured/thereisaday/"><em>There is a day</em>, by Nathan Fellingham (2001)</a> of <a href="http://www.phatfish.net/">Phatfish</a>. Helpfully, it doesn't make us look forward to escaping this creation and going somewhere else, but the first lines express the Christian hope for the creation itself:

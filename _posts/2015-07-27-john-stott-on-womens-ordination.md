@@ -1,5 +1,4 @@
 ---
-layout: post
 title: John Stott on women's ordination
 date: 2015-07-27 08:28:17.258643000 +01:00
 ---

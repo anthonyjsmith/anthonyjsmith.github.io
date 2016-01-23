@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Do you feel called by God?
 date: 2014-12-30 11:45:23.273913000 +01:00
 ---

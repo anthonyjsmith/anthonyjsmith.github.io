@@ -1,5 +1,4 @@
 ---
-layout: post
 title: 'Back to Genesis: why was Eve deceived?'
 date: 2015-09-11 10:41:47.286329000 +01:00
 ---

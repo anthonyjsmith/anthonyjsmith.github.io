@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Singing
 ---
 ### On this page

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: 'Hymns of hope (9) Lo! He comes'
 date: 2015-11-29 16:55:21.163521000 +00:00
 ---

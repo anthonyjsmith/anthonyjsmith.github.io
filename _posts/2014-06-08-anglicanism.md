@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Anglicanism
 ---
 _I was asked to write a one-sided essay on Anglicanism. Let me know if you think I succeeded!_

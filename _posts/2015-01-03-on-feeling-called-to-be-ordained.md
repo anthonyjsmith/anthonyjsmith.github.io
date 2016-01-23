@@ -1,5 +1,4 @@
 ---
-layout: post
 title: On feeling called to be ordained
 date: 2015-01-03 14:56:45.061100000 +00:00
 ---

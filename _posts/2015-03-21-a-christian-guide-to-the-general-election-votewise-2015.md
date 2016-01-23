@@ -1,5 +1,4 @@
 ---
-layout: post
 title: 'A Christian guide to the General Election: Votewise 2015'
 date: 2015-03-21 22:52:49.701466000 +00:00
 ---

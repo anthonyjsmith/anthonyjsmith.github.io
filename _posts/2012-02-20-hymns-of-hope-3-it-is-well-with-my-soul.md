@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Hymns of hope (3) It is well with my soul
 ---
 <p>Horatio Spafford's moving hymn, <em><a href="http://www.hymnary.org/text/when_peace_like_a_river_attendeth_my_way">When peace, like a river</a></em>, is somewhat marred by a line in a verse that apparently was not in the <a href="http://spaffordhymn.com/html/manuscript.html">original version</a> or even the <a href="http://www.archive.org/stream/gospelhymns16sank#page/412/">original (?) published version</a>:</p>

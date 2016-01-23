@@ -1,6 +1,5 @@
 ---
 title: What is ordained ministry?
-layout: post
 ---
 _I was asked to write something about the difference between lay and ordained ministry, with particular reference to the Church of England. Here it is..._
 

@@ -1,6 +1,5 @@
 ---
 title: Coding for Christ?
-layout: post
 date: 2015-04-30 13:00:12.919025000 +01:00
 ---
 There was a post of mine on the [Faith in Scholarship blog](http://faithinscholarship.org.uk/) a couple of days ago. It begins as follows...

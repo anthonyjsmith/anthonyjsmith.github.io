@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Models of the Church
 date: 2014-11-11 21:14:07 +0000
 ---

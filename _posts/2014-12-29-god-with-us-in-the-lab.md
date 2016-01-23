@@ -1,5 +1,4 @@
 ---
-layout: post
 title: God with us (in the lab)
 date: 2014-12-29 07:14:07.041485000 +00:00
 ---

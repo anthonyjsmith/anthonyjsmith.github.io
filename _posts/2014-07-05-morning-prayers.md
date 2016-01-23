@@ -1,6 +1,5 @@
 ---
 title: Morning Prayers
-layout: post
 ---
 From the [Book of Common Prayer](http://www.churchofengland.org/prayer-worship/worship/book-of-common-prayer/the-order-for-morning-prayer.aspx):
 

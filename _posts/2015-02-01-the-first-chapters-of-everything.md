@@ -1,5 +1,4 @@
 ---
-layout: post
 title: The first chapters of everything
 date: 2015-02-01 19:27:09.356467000 +00:00
 ---

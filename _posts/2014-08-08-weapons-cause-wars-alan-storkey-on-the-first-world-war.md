@@ -1,6 +1,5 @@
 ---
 title: "Weapons cause wars: Alan Storkey on the First World War"
-layout: post
 date: 2014-08-08 12:10:43 +0100
 ---
 <img alt="Alan Storkey" title="Alan Storkey" src="/assets/alan-storkey.png" class="alignright" />I first heard [Alan](http://www.alanstorkey.com/) [Storkey](http://en.wikipedia.org/wiki/Alan_Storkey) give a talk about the arms trade in 2010, at a [WYSOCS](http://wysocs.org.uk/) event, and it had a deep effect on me. He made me realise something that should have been obvious: that sales of weapons are not only an extremely good way of making money, but also an extremely good way of building up tension between nations, and ultimately of causing wars. '[Weapons cause wars](http://www.whyworldwar1.com/weapons-cause-wars),' as he puts it.

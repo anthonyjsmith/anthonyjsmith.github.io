@@ -1,5 +1,4 @@
 ---
-layout: post
 title: I'm not a person of faith
 date: 2015-05-23 10:55:44.385366000 +01:00
 ---

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Creationist research in palaeontology
 ---
 Leonard Brand is a [biologist and palaeontologist](http://resweb.llu.edu/lbrand/). He's also a [young-age creationist](http://www.universitypress.andrews.edu/catalog.php?key=198). He believes the world was deluged by a global flood just a few thousand years ago.

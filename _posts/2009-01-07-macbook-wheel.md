@@ -1,5 +1,4 @@
 ---
-layout: post
 title: MacBook Wheel
 ---
 {% include youtube.html youtube_id="9BnLbv6QYcA" %}

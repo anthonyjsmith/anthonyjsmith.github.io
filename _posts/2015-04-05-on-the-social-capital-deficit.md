@@ -1,5 +1,4 @@
 ---
-layout: post
 title: On the (social capital) deficit
 date: 2015-04-05 18:39:08.981348000 +01:00
 ---

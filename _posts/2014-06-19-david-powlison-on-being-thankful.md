@@ -1,5 +1,4 @@
 ---
-layout: post
 title: David Powlison on being thankful
 ---
 [David Powlison](http://www.ccef.org/authors/david-powlison) is a Christian counsellor. In the video below he talks about gratitude as an antidote to grumbling, and about the pastoral value of the [General Thanksgiving from the Book of Common Prayer](http://churchofengland.org/prayer-worship/worship/book-of-common-prayer/prayers-and-thanksgivings.aspx), which begins as follows:

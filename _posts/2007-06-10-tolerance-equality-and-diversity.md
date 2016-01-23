@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Tolerance, equality and diversity
 ---
 Tolerance, equality and diversity: three words that reflect the core values of our culture.  But what do they mean?

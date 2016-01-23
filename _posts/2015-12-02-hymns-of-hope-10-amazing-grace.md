@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Hymns of hope (10) Amazing grace
 date: 2015-12-02 16:15:18.820858000 +00:00
 ---

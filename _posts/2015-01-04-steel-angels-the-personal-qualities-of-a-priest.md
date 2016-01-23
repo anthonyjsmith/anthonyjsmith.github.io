@@ -1,5 +1,4 @@
 ---
-layout: post
 title: 'Steel Angels: the personal qualities of a priest'
 date: 2015-01-04 16:35:01.155729000 +00:00
 ---

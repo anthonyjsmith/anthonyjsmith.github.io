@@ -1,5 +1,4 @@
 ---
-layout: post
 title: It is not a supper you eat
 date: 2015-08-21 11:11:46.579887000 +01:00
 ---

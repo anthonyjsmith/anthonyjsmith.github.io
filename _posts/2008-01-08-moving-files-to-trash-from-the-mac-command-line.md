@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Moving files to trash from the Mac command line
 ---
 Ever wished you could move files to the trash from the command line on the Mac? Here's how.

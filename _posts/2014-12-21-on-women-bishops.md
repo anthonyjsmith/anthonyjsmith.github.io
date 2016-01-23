@@ -1,5 +1,4 @@
 ---
-layout: post
 title: On women bishops
 date: 2014-12-21 20:53:39.185622000 +00:00
 ---

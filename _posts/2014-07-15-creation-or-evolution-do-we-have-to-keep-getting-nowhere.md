@@ -1,5 +1,4 @@
 ---
-layout: post
 title: 'Creation or evolution: do we have to keep getting nowhere?'
 ---
 It is with some reluctance that I turn to the topic of creation and evolution. It's something I've thought about a lot in years gone by, but I've tried to avoid it more recently. The whole debate is so polarised, and shows little sign of coming any nearer to a resolution, so I've allowed my interests to roam in different directions. But I'm preparing some talks on the early chapters of Genesis, so I feel I ought to make myself a bit more familiar with the way things currently stand.

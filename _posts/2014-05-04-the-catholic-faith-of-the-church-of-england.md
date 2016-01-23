@@ -1,5 +1,4 @@
 ---
-layout: post
 title: The Catholic Faith (of the Church of England)
 ---
 <img src="/assets/the-catholic-faith.jpg" title="The Catholic Faith" alt="The Catholic Faith">

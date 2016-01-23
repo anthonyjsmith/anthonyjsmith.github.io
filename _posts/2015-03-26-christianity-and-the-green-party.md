@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Christianity and the Green Party
 date: 2015-03-26 08:30:03.674702000 +00:00
 ---

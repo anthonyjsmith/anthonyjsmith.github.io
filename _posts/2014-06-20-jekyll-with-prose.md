@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Jekyll with Prose
 ---
 [Jekyll](http://jekyllrb.com/) is a beautifully lightweight alternative to the likes of WordPress. But the main disadvantage, for 'normal' users, is that you really need to be at least slightly geeky to get it to work. Even in order to edit the content on an existing site, you need to be comfortable managing text files (without Microsoft Word!), and, if you are hosting it (for free!) with [GitHub Pages](https://pages.github.com/), you need to be competent with handling remote repositories. Not an insignificant hurdle, and the psychological barrier is very high compared with learning to use WordPress, even if that actual time taken to pick up the skills might well be shorter.

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: The human being who rules the universe
 ---
 > He has raised our human nature  
