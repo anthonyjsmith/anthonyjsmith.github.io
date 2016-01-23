@@ -2,7 +2,7 @@ name: www.anthonysmith.me.uk
 description: This man enjoys math (anag.)
 url: http://www.anthonysmith.me.uk
 exclude: [README.md, Gemfile, Gemfile.lock, CNAME]
-permalink: /:year/:month/:day/:title/
+permalink: pretty
 paginate: 10
 paginate_path: "page/:num/"
 timezone: Europe/London

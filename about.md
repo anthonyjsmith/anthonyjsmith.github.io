@@ -1,7 +1,6 @@
 ---
 layout: page
 title: About
-permalink: /about/
 ---
 
 By day, I [work](http://www.enkaptic.co.uk/about/) in computer software. Previously I was a university researcher in astronomy, but that drifted towards astronomical computer software, and now I'm mainly doing freelance web development. I also spend a fair bit of time trying to support Christian postgraduate students in Liverpool and elsewhere (partly through involvement in [Faith-in-Scholarship](http://wysocs.org.uk/faith-in-scholarship) and [Transforming the Mind](http://christianpostgrad.org.uk/content/node/34)).
