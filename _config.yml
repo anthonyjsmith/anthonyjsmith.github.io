@@ -1,3 +1,4 @@
+gems: [jekyll-paginate]
 name: www.anthonysmith.me.uk
 description: This man enjoys math (anag.)
 url: http://www.anthonysmith.me.uk
@@ -22,3 +23,4 @@ defaults:
       type: "pages"
     values:
       layout: "page"
+
