@@ -1,5 +1,6 @@
 ---
 title: Singing
+excerpt: "On this page Audio samples Biography Recent concerts Audio samples Brief samples in MP3 format from a live concert recording, with James Lloyd Thomas (piano)."
 ---
 ### On this page
 

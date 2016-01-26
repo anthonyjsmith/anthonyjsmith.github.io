@@ -1,7 +1,7 @@
 ---
 title: About
+excerpt: "By day, I work in computer software. Previously I was a university researcher in astronomy, but that drifted towards astronomical computer software, and now I'm mainly doing freelance web development."
 ---
-
 By day, I [work](http://www.enkaptic.co.uk/about/) in computer software. Previously I was a university researcher in astronomy, but that drifted towards astronomical computer software, and now I'm mainly doing freelance web development. I also spend a fair bit of time trying to support Christian postgraduate students in Liverpool and elsewhere (partly through involvement in [Faith-in-Scholarship](http://wysocs.org.uk/faith-in-scholarship) and [Transforming the Mind](http://christianpostgrad.org.uk/content/node/34)).
 
 I bought this domain name back in 2002, and haven't yet persuaded myself to give it up. Initially it was just a few static (and tasteless) HTML pages with a bit about myself and lots of links, but [it became a non-blog on 24 April 2006]({% post_url 2006-04-24-ceci-nest-pas-un-blog %}) (using WordPress). I don't have a particular purpose for the (non-)blog, but I enjoy writing from time to time, and I like to delude myself into thinking that I have something worthwhile to say. I tend to focus on Christian-related topics, but you'll see occasional posts about astronomy, computing, music, green issues, politics, current affairs, random thoughts and random trivia. (Posts of a more technical nature related to astronomy or computing can be found [on my other blog](http://www.enkaptic.co.uk/).) Comments welcome, unless you're a spambot!
