@@ -9,6 +9,7 @@ paginate_path: "page/:num/"
 timezone: Europe/London
 disqus_shortname: anthonysmithmeuk
 twitter_username: anthonyjsmith
+excerpt_separator: INCLUDEALLOFTHEPOSTINTHEEXCERPT
 
 defaults:
   -
