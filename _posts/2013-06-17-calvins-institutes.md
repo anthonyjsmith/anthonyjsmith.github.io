@@ -15,9 +15,9 @@ Comments welcome, and don't forget to subscribe to future posts, either using th
 
 **Book One. The Knowledge of God the Creator**
 
-* [The knowledge of God and Scripture](/2013/06/28/calvin-on-the-knowledge-of-god-and-scripture/) (chapters 1-9, 61 pages)
-* [God](/2013/10/23/calvin-on-god/) (10-13, 63pp)
-* Creation (14-15, 38pp)
+* [The knowledge of God and Scripture]({% post_url 2013-06-28-calvin-on-the-knowledge-of-god-and-scripture %}) (chapters 1-9, 61 pages)
+* [God]({% post_url 2013-10-23-calvin-on-god %}) (10-13, 63pp)
+* [Creation]({% post_url 2016-01-31-calvin-on-creation-angels-and-devils %}) (14-15, 38pp)
 * Providence (16-18, 42pp)
 
 **Book Two. The Knowledge of God the Redeemer in Christ, First Disclosed to the Fathers Under the Law, and Then to Us in the Gospel**
