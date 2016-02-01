@@ -21,13 +21,9 @@ layout: index
               <ul class="pager">
               {% if paginator.previous_page %}
                 <li class="previous"><a rel="previous" href="{{ paginator.previous_page_path | replace: 'index.html', '' }}">&#8592; Previous</a></li>
-              {% else %}
-                <li class="previous disabled"><span>&#8592; Previous</span></li>
               {% endif %}
               {% if paginator.next_page %}
                 <li class="next"><a rel="next" href="{{ paginator.next_page_path }}">Next &#8594;</a></li>
-              {% else %}
-                <li class="next disabled"><span>Next &#8594;</span></li>
               {% endif %}
               </ul>
             </nav>
