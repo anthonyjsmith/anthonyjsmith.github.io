@@ -9,20 +9,20 @@ First, buy a Mac. Then
 
 Option 1 (uses bash): add the following to your <code>~/.bash_profile</code>:
 
-{% highlight bash %}
+```bash
 function rem {
   for b in "$@"
   do
     osascript -e "tell app \"Finder\" to delete POSIX file \"${PWD}/$b\""
   done
 }
-{% endhighlight %}
+```
 
 Then type <code>source ~/.bash_profile</code> in Terminal.
 
 Or Option 2 (uses Python and gives slightly more meaningful error messages): make an executable file called <code>rem</code> somewhere in your <code>$PATH</code>:
 
-{% highlight python %}
+```python
 #!/usr/bin/env python
 import os
 import sys
@@ -37,7 +37,7 @@ if len(sys.argv) > 1:
 else:
     print "usage: rem file(s)"
     print "       move file(s) to Trash"
-{% endhighlight %}
+```
 
 Now, either way, to move <code>blah.txt</code> to Trash, simply type <code>rem blah.txt</code>. Wildcards and lists of files are permitted. You even get the sound effects!
 
