@@ -7,8 +7,9 @@ paginate: 10
 paginate_path: "page/:num/"
 timezone: Europe/London
 disqus_shortname: anthonysmithmeuk
-twitter_username: anthonyjsmith
-excerpt_separator: INCLUDEALLOFTHEPOSTINTHEEXCERPT
+twitter:
+  username: anthonyjsmith
+author: anthonyjsmith
 
 defaults:
   -
@@ -34,6 +35,7 @@ kramdown:
 gems:
   - jekyll-coffeescript
   - jekyll-paginate
+  - jekyll-seo-tag
 
 # Settings that cannot be changed
 lsi: false
