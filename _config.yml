@@ -1,5 +1,5 @@
-name: www.anthonysmith.me.uk
-description: This man enjoys math (anag.)
+name: Anthony Smith
+description: Christian (C of E), freelance software gardener, astronomer, married, green, singer, organist, Wirral
 url: http://www.anthonysmith.me.uk
 exclude: [README.md, Gemfile, Gemfile.lock, CNAME]
 permalink: pretty
