@@ -10,7 +10,7 @@ The day on which Jesus rose from the dead was, [plausibly](http://www.nature.com
 
 1. the first day of the week,
 1. the day after [Passover](https://en.wikipedia.org/wiki/Passover),
-1. the 16th day of first (lunar) month of spring,
+1. the 16th day of the first (lunar) month of spring,
 1. the first Sunday after the first full moon after the vernal equinox,
 1. the first Sunday after the first full moon after 21 March,
 1. the 5th day of April, according to the Julian calendar,
