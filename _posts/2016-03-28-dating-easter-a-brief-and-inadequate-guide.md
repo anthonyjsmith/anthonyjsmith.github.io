@@ -1,5 +1,6 @@
 ---
 title: 'Dating Easter: a brief (and inadequate) guide'
+description: One of the outcomes of the meeting of Anglican primates in January was an agreement to work towards a fixed date for Easter. What's that all about then?
 date: 2016-03-28 12:02:53.636835000 +01:00
 ---
 One of the outcomes of the meeting of Anglican primates in January was [an agreement to work towards a fixed date for Easter](http://www.christiantoday.com/article/anglican.primates.agree.to.set.fixed.common.date.for.easter/76730.htm). What's that all about then? That's what I've been wondering, and I thought I'd try to find out.
