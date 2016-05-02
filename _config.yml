@@ -35,7 +35,8 @@ kramdown:
 gems:
   - jekyll-coffeescript
   - jekyll-paginate
-  - jekyll-seo-tag
+  - jekyll-seo-tag # Added
+  - jekyll-redirect-from # Added
 
 # Settings that cannot be changed
 lsi: false

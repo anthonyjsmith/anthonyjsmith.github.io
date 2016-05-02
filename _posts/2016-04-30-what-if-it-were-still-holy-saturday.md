@@ -1,10 +1,11 @@
 ---
-title: What if it was still Easter Saturday?
-description: What if Jesus' body was still in the tomb until the day when God ushers
+title: What if it were still Holy Saturday?
+description: What if Jesus' body were still in the tomb until the day when God ushers
   in his eternal kingdom? What difference would that make?
 date: 2016-04-30 12:50:08.876151000 +01:00
+redirect_from: "/2016/04/30/what-if-it-was-still-easter-saturday/"
 ---
-It's Easter Saturday again! (This time according to the [Eastern church calendar]({% post_url 2016-03-28-dating-easter-a-brief-and-inadequate-guide %}).) But what if it was still the _original_ Easter Saturday? What if the original Good Friday had been followed not by a single day, but by an extremely long 'Easter Saturday', continuing up to the present and into the future, and lasting until a grand 'Easter Day', on which not only Jesus but all the dead will be raised? In other words, what if Jesus' body was still in the tomb, and will remain there until the day when God ushers in his eternal kingdom? What difference would that make?
+It's Holy Saturday again, the day before Easter Day! (This time according to the [Eastern church calendar]({% post_url 2016-03-28-dating-easter-a-brief-and-inadequate-guide %}).) But what if it were still the _original_ Holy Saturday? What if the original Good Friday had been followed not by a single day, but by an extremely long 'Holy Saturday', continuing up to the present and into the future, and lasting until a grand 'Easter Day', on which not only Jesus but all the dead will be raised? In other words, what if Jesus' body were still in the tomb, and will remain there until the day when God ushers in his eternal kingdom? What difference would that make?
 
 One answer would be to say that, if Jesus had not been raised from the dead, we would have no way of knowing that the Friday on which Jesus died was in any sense 'Good Friday'. There were lots of would-be Messiahs around at the time. All of them lived and all of them died without ushering in the Kingdom of God. A dead Messiah is a failed Messiah &ndash; especially if he was betrayed by his own people, and especially if he died a shameful death at the hands of the very Romans over whom he was supposed to triumph. If Jesus had not been raised from the dead, we would have never even heard of him.
 
@@ -91,6 +92,6 @@ So Christ's resurrection is a call to confident and hope-filled action:
 >
 > Let us not become weary in doing good, for at the proper time we will reap a harvest if we do not give up. Therefore, as we have opportunity, let us do good to all people, especially to those who belong to the family of believers (Gal 6:9-10).
 
-Too often we live as though it was still Easter Saturday. Too often we live as though Pentecost hadn't happened and as though God didn't care about our good works. Too often we think of Jesus' resurrection as nothing more than the proof that he is the Messiah and that his death paid for our sins. It is that. But it is so much more than that. It means that it is no longer Easter Saturday. The new creation has begun, all authority has been given to Jesus, God's enemies are being transformed into his children, and Jesus is pouring out the Spirit of God into the world to bring healing and renewal to all nations.
+Too often we live as though it was still Holy Saturday. Too often we live as though Pentecost hadn't happened and as though God didn't care about our good works. Too often we think of Jesus' resurrection as nothing more than the proof that he is the Messiah and that his death paid for our sins. It is that. But it is so much more than that. It means that it is no longer Holy Saturday. The new creation has begun, all authority has been given to Jesus, God's enemies are being transformed into his children, and Jesus is pouring out the Spirit of God into the world to bring healing and renewal to all nations.
 
 Alleluia! Christ is risen!
