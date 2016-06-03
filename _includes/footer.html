@@ -1,18 +1,49 @@
 
+    <!-- Footer -->
     <footer class="blog-footer">
-      <p>Blog template built for <a href="http://getbootstrap.com">Bootstrap</a> by <a href="https://twitter.com/mdo">@mdo</a>.</p>
-      <p>
-        <a href="#">Back to top</a>
-      </p>
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+            <ul class="list-inline text-center">
+              <li>
+                <a href="https://twitter.com/anthonyjsmith">
+                  <span class="fa-stack fa-lg">
+                    <i class="fa fa-circle fa-stack-2x"></i>
+                    <i class="fa fa-twitter fa-stack-1x fa-inverse"></i>
+                  </span>
+                </a>
+              </li>
+              <li>
+                <a href="https://www.linkedin.com/in/anthonyjamessmith">
+                  <span class="fa-stack fa-lg">
+                    <i class="fa fa-circle fa-stack-2x"></i>
+                    <i class="fa fa-linkedin fa-stack-1x fa-inverse"></i>
+                  </span>
+                </a>
+              </li>
+              <li>
+                <a href="https://www.facebook.com/anthonyjamessmith">
+                  <span class="fa-stack fa-lg">
+                    <i class="fa fa-circle fa-stack-2x"></i>
+                    <i class="fa fa-facebook fa-stack-1x fa-inverse"></i>
+                  </span>
+                </a>
+              </li>
+            </ul>
+            <p class="copyright text-muted">Copyright &copy; Anthony Smith {{ site.time | date: '%Y' }}. Built with <a href="http://jekyllrb.com/">Jekyll</a>. Theme by <a href="http://startbootstrap.com/template-overviews/clean-blog/">Start Bootstrap</a>. Kindly hosted on <a href="https://pages.github.com/">GitHub Pages</a>.</p>
+          </div>
+        </div>
+      </div>
     </footer>
 
-    <!-- Bootstrap core JavaScript
-    ================================================== -->
-    <!-- Placed at the end of the document so the pages load faster -->
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+    <!-- jQuery -->
+    <script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+
+    <!-- Bootstrap Core JavaScript -->
     <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
-    <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
-    <script src="/assets/js/ie10-viewport-bug-workaround.js"></script>
+
+    <!-- Custom Theme JavaScript -->
+    <script src="/assets/js/clean-blog.js"></script>
 
     <!-- Disqus -->
     <script type="text/javascript">
@@ -28,19 +59,6 @@
           (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
       };
       disqusCallback();
-    </script>
-
-    <!-- jQuery scroll -->
-    <script src="/assets/js/jquery.jscroll.js"></script>
-    <script type="text/javascript">
-      $('.blog-main').jscroll({
-        contentSelector: ".content",
-        nextSelector: 'a[rel="next"]:last',
-        pagingSelector: ".pager",
-        loadingHtml: "<p>Loading...</p>",
-        callback: disqusCallback,
-        autoTrigger: false // autoTrigger not good on narrow screen layout!
-      });
     </script>
 
     <!-- Statcounter -->
