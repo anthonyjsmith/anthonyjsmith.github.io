@@ -5,8 +5,6 @@ Ever wished you could move files to the trash from the command line on the Mac? 
 
 First, buy a Mac. Then
 
-<!--more-->
-
 Option 1 (uses bash): add the following to your <code>~/.bash_profile</code>:
 
 ```bash
