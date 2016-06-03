@@ -9,11 +9,7 @@ layout: index
               <footer>
                 <p class="blog-post-meta">{{ post.date | date: "%-d %b %Y" }} | <a href="{{ post.url }}#disqus_thread" data-disqus-identifier="{{ post.url }}">Comments</a></p>
               </footer>
-{% if post.content contains "<!--more-->" %}
-{{ post.content | split: "<!--more-->" | first }}<p><a href="{{ post.url }}">More...</a></p>
-{% else %}
-{{ post.content }}
-{% endif %}
+              {% if post.description %}{{ post.description | markdownify }}{% else %}<p>{{ post.content | strip_html | truncate: 155 }}</p>{% endif %}
             </article><!-- /.blog-post -->
 {% endfor %}
 
