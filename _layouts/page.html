@@ -10,7 +10,7 @@ layout: default
 
           <article class="blog-post">
             <header>
-              <h2 class="blog-post-title">{{ page.title | default: '' | markdownify | strip_html | strip_newlines }}</h2>
+              <h2 class="blog-post-title">{{ page.title | default: '' | smartify }}</h2>
             </header>
 {{ content }}
 {% include addtoany.html %}
