@@ -22,7 +22,7 @@ layout: default
 
           <article class="blog-post">
             <header>
-              <h2 class="blog-post-title">{{ page.title }}</h2>
+              <h2 class="blog-post-title">{{ page.title | markdownify | strip_html | strip_newlines }}</h2>
             </header>
             <footer>
               <p class="blog-post-meta">{{ page.date | date: "%-d %b %Y" }} | <a href="#disqus_thread">Comments</a></p>
