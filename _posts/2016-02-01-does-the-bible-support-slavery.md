@@ -1,6 +1,7 @@
 ---
 title: Does the Bible support slavery?
 date: 2016-02-01 09:20:58.879889000 +00:00
+description: 'Short answer: No. Longer answer comes from Peter J Williams...'
 ---
 Short answer: No.
 

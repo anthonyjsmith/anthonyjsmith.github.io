@@ -1,8 +1,8 @@
 ---
 title: Ten years of (non-)blogging
 description: 'There have been lots of tenth anniversaries so far this year. But the
-  biggest celebration comes today, 24 April: exactly ten years of blogging on this
-  site'
+  biggest celebration is today, 24 April: exactly ten years of blogging on this
+  site.'
 image: "/assets/blog-2006.png"
 date: 2016-04-24 16:47:16.364406000 +01:00
 ---

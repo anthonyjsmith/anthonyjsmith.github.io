@@ -1,6 +1,7 @@
 ---
 title: 'Women teaching men: why was Eve deceived?'
 date: 2015-09-08 21:47:36.459407000 +01:00
+description: I honestly thought I'd have nailed 1 Timothy 2 by now ('I do not permit a woman to teach…'). But I haven't. So this post is a bit of a work in progress.
 ---
 I honestly thought I'd have nailed [1 Timothy 2](https://www.biblegateway.com/passage/?search=1Timothy2&version=NIVUK) by now ('I do not permit a woman to teach...'). But I haven't. So this post is a bit of a work in progress. As far as I can discern the motives of my [deceitful heart](https://www.biblegateway.com/passage/?search=Jeremiah17.9&version=NIVUK), I'm not stubbornly resisting the obvious meaning of the passage out of some prior commitment to a particular view on [women's ordination]({% post_url 2015-07-26-the-ordination-of-women %}). I could, as far as I can tell, go either way on this. Or I could go _neither_ way, and fly off in some bizarre and novel direction, which I'm (mercifully) becoming less prone to do in my old age. Anyway, shall we get going?
 

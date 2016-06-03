@@ -1,6 +1,7 @@
 ---
 title: Hymns of hope
 date: 2015-11-26 15:21:45.409889000 +00:00
+description: I've been wanting to resurrect this occasional series, looking at the theme of hope in Christian hymns and songs. Here is an index for the series.
 ---
 I've been wanting to resurrect this occasional series, looking at the theme of hope in Christian hymns and songs. Do we sing about going 'home' to heaven when we die, and remaining there for ever? Or do we sing about Jesus appearing on the earth in glory to reign in his kingdom, about the bodies of the dead being brought back to life again and glorified, and about the whole created order being made new?
 

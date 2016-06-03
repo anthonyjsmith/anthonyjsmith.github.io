@@ -1,6 +1,7 @@
 ---
 title: Women bishops and the question of conscience
 date: 2015-09-05 15:44:59.883773000 +01:00
+description: Supposing we reach the conclusion that women shouldn't be ordained as priests or bishops, then what next? What are we consicence-bound to do?
 ---
 Supposing we reach the conclusion that [women]({% post_url 2015-07-26-the-ordination-of-women %}) shouldn't be ordained as [priests]({% post_url 2014-02-24-when-is-a-priest-not-a-priest %}) (presbyters, elders) or bishops, then what next? Should we just muddle along and hope the church will come to her senses in due course? Or should we distance ourselves in some way? For example, should we leave a church if a women is appointed as its incumbent, or refuse to share in the Eucharist if a woman is presiding, or refuse to be ordained by a female bishop, or even refuse to recognise the ministry of those who have themselves been ordained by a woman? And if we do distance ourselves in these ways, is it because, on balance, this seems the best course of action, or is it because, before God, we feel obliged to do so?
 

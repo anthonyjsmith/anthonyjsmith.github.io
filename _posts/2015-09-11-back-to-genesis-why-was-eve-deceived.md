@@ -1,6 +1,7 @@
 ---
 title: 'Back to Genesis: why was Eve deceived?'
 date: 2015-09-11 10:41:47.286329000 +01:00
+description: Still thinking about women's ordination, I'm afraid. The key verses from 1 Timothy 2 clearly allude to Genesis 2 and 3, so maybe we should head there?
 ---
 Still thinking about [women's ordination]({% post_url 2015-07-26-the-ordination-of-women %}), I'm afraid. Here, [again]({% post_url 2015-09-08-women-teaching-men-why-was-eve-deceived %}), are those key verses from 1 Timothy 2, in which Paul explains why, in the context of the church gathering, he didn't permit a woman to teach or to assume authority over a man (all quotes from the NIV):
 
