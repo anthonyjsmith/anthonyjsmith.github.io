@@ -11,7 +11,7 @@ layout: index
                   </h2>
                 </header>
                 <h3 class="post-subtitle">
-                  {% if post.description %}{{ post.description | smartify }}{% else %}{{ post.content | strip_html | truncate: 155 }}{% endif %}
+                  {% if post.description %}{{ post.description | smartify }}{% else %}{{ post.content | markdownify | strip_html | truncate: 155 }}{% endif %}
                 </h3>
               </a>
               <footer>
