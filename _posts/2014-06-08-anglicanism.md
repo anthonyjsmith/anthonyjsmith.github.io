@@ -1,5 +1,6 @@
 ---
 title: Anglicanism
+description: Anglicanism is certainly broad. But does it have only an organic nature, which may be stretched and remoulded without constraint? What are its limits?
 ---
 _I was asked to write a one-sided essay on Anglicanism. Let me know if you think I succeeded!_
 
