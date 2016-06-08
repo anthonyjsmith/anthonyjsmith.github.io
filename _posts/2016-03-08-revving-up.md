@@ -3,6 +3,9 @@ title: Revving up
 description: Just a quick announcement to say that I've been given the green light
   to train for ordained ministry in the Church of England!
 date: 2016-03-08 14:52:43.303384000 +00:00
+tags:
+- Christianity
+- Me
 ---
 [![The Church of England](/assets/c-of-e.png)](https://www.churchofengland.org/)
 

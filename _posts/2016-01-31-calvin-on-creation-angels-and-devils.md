@@ -2,6 +2,9 @@
 title: Calvin on creation, angels and devils
 date: 2016-01-31 18:02:22.530711000 +00:00
 description: Picking up Calvin's Institutes after a short (ahem) pause, we move from the doctrine of God to the doctrine of creation, in chapters 14 and 15 of Book I.
+tags:
+- Christianity
+- Reviews
 ---
 Picking up [Calvin's _Institutes_]({% post_url 2013-06-17-calvins-institutes %}) after a short (ahem) pause, we move from the [doctrine of God]({% post_url 2013-10-23-calvin-on-god %}) to the doctrine of creation, in chapters 14 and 15 of Book I. What is striking here is that, in this relatively short treatment of the subject (38 pages), almost half (17 pages) is devoted to the topic of angels and devils. Meanwhile, of the remaining 19 pages, the 14 pages of chapter 15 are devoted to the human soul and its faculties. Why might there be so little about the rest of God's creation?
 

@@ -1,6 +1,9 @@
 ---
 title: 'Election 2015: Christian comment from KLICE'
 date: 2015-01-05 11:26:23.811261000 +00:00
+tags:
+- Christianity
+- Culture
 ---
 The excellent [Kirby Laing Institute for Christian Ethics (KLICE)](http://klice.co.uk/) has a [new page devoted to the 2015 (general) election](http://klice.co.uk/index.php/resources/election2015).
 

@@ -3,6 +3,8 @@ title: What if Jesus' body were still in the tomb?
 description: What if I told you that Jesus had been raised from the dead, but that
   his body was still in the tomb? What difference would it make?
 date: 2016-05-04 14:31:51.378823000 +01:00
+tags:
+- Christianity
 ---
 What if I told you that Jesus had been raised from the dead, but that his body was still in the tomb?
 

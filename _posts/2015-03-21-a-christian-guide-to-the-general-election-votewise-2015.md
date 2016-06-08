@@ -1,6 +1,10 @@
 ---
 title: 'A Christian guide to the General Election: Votewise 2015'
 date: 2015-03-21 22:52:49.701466000 +00:00
+tags:
+- Christianity
+- Culture
+- Reviews
 ---
 [<img alt="Guy Brandon: Votewise 2015" title="Guy Brandon: Votewise 2015" src="/assets/votewise-2015.jpg" class="alignright" />](http://www.jubilee-centre.org/votewise-2015/)If you're a Christian thinking about how to vote (or _whether_ to vote) in the 2015 General Election, and if you read just one short book on the topic, then make it this one. I doubt anyone else will publish something more helpful, in terms of being brief and to the point, covering a wide range of issues (rather than just a couple of headline 'Christian' issues), and in terms of bridging the gap between the Bible and the political questions facing us today.
 

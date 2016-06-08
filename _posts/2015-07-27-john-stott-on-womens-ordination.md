@@ -1,6 +1,8 @@
 ---
 title: John Stott on women's ordination
 date: 2015-07-27 08:28:17.258643000 +01:00
+tags:
+- Christianity
 ---
 [<img alt="John Stott: Issues facing Christians today" title="John Stott: Issues facing Christians today" src="/assets/stott-issues.jpg" class="alignright" />](http://www.zondervan.com/issues-facing-christians-today)
 John Stott seemed broadly in favour of [women's ordination]({% post_url 2015-07-26-the-ordination-of-women %}), based on his [_Issues facing Christians today_](http://www.zondervan.com/issues-facing-christians-today) (4th edition, 2006). He unpacks the Bible's teaching on the equality and complementarity of men and women in a very helpful and attractive way, and then looks at what Paul says about masculine headship in 1 Corinthians 11 and Ephesians 5. This, he suggests, 'implies some degree of leadership, which ... is best expressed in terms not of "authority" but of "responsibility"' (p. 343f).

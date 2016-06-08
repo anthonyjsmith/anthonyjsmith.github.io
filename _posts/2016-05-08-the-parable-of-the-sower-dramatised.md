@@ -3,6 +3,8 @@ title: The parable of the sower, dramatised
 description: Is Jesus, perhaps, acting out the parable of the sower as he tells it?
   Jesus tells the parable so that the crowd do not understand but the disciples do.
 date: 2016-05-08 21:47:02.379603000 +01:00
+tags:
+- Christianity
 ---
 > That same day Jesus **went out** of the house and sat by the lake. ... Then he told them many things in parables, saying: 'A farmer **went out** to sow his seed...' (Mt 13:1, 3, NIV, emphasis added).
 

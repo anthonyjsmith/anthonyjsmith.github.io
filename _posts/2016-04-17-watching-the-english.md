@@ -4,6 +4,9 @@ description: The 'core' of Englishness, says Kate Fox, is our acute social dis-e
   This is reflected in our use of humour, our aversion to earnestness, and more.
 image: "/assets/watching-english.jpg"
 date: 2016-04-17 18:20:11.949145000 +01:00
+tags:
+- Culture
+- Reviews
 ---
 [<img alt="Watching the English, by Kate Fox" title="Watching the English, by Kate Fox" src="/assets/watching-english.jpg" class="alignright" />](http://www.amazon.co.uk/Watching-English-Hidden-Rules-Behaviour/dp/0340818867/)A revised (2014) edition of this book had been released before I started reading the first (2004) edition. But I bought my copy years ago, and I'm sufficiently northern for it to be unthinkable to buy a second copy of the same book. Besides, the new edition added ['about 150 new pages'](http://www.amazon.co.uk/Watching-English-International-Bestseller-Revised-Updated/dp/1444785206/) to the already lengthy [first edition](http://www.amazon.co.uk/Watching-English-Hidden-Rules-Behaviour/dp/0340818867/) (424 pages in small print), and that's quite long enough already.
 

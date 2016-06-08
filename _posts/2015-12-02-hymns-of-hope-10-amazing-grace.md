@@ -2,6 +2,8 @@
 title: Hymns of hope (10) Amazing grace
 date: 2015-12-02 16:15:18.820858000 +00:00
 description: John Newton's classic hymn, Amazing grace, was published in 1779 as part of his Olney Hymns. How does it speak about our future hope?
+tags:
+- Christianity
 ---
 John Newton's classic hymn, _Amazing grace_, was published in 1779 as part of his [_Olney Hymns_](http://www.ccel.org/ccel/newton/olneyhymns.Book1.iCH.h1_41.html). It wasn't widely sung in Great Britain until [Judy Collins put it into the charts in 1970](http://www.officialcharts.com/search/singles/amazing%20grace/), with this remarkable rendition:
 

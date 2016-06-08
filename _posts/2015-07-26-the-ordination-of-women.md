@@ -1,6 +1,8 @@
 ---
 title: The ordination of women
 date: 2015-07-26 19:05:50.072056000 +01:00
+tags:
+- Christianity
 ---
 I'm trying to think through my position on women's ordination, having tried to avoid the issue for years.
 

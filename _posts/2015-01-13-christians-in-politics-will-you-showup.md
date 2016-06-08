@@ -1,6 +1,9 @@
 ---
 title: 'Christians in Politics: will you #ShowUp?'
 date: 2015-01-13 21:46:53.384265000 +00:00
+tags:
+- Christianity
+- Culture
 ---
 In politics, it has been said, decisions are made by those who show up.
 

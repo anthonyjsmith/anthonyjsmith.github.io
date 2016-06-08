@@ -1,6 +1,9 @@
 ---
 title: Christian same-sex marriage?
 date: 2015-01-09 09:04:08.122496000 +00:00
+tags:
+- Christianity
+- Reviews
 ---
 [<img alt="Jeffrey John: Permanent, Faithful, Stable" title="Jeffrey John: Permanent, Faithful, Stable" src="/assets/john-pfs.jpg" class="alignright" />](http://www.dltbooks.com/titles/1741-9780232530117-permanent-faithful-stable)I recently read one of the most prominent books of its kind: Jeffrey John's [_Permanent, Faithful, Stable: Christian Same-sex Marriage_](http://www.dltbooks.com/titles/1741-9780232530117-permanent-faithful-stable). It's the first such book that I've read; I understand it might not be the best example, but it is certainly short.
 

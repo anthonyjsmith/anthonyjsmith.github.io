@@ -2,6 +2,9 @@
 title: Disconnected?
 date: 2016-02-01 17:09:19.759322000 +00:00
 description: I've been trying to cut down on my usage of social media, and of the internet in general. This is what I've been trying...
+tags:
+- Culture
+- Me
 ---
 I've been trying to cut down on my usage of social media, and of the internet in general. Perhaps I'll make this a long-term thing? This is what I've been trying:
 

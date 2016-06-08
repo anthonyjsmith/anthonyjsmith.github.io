@@ -1,6 +1,8 @@
 ---
 title: Kenneth Bailey on women in the New Testament
 date: 2015-07-31 13:52:33.115389000 +01:00
+tags:
+- Christianity
 ---
 Discussions about [the ordination of women]({% post_url 2015-07-26-the-ordination-of-women %}) often focus on certain key passages in the New Testament. This can give the impression that it's just a matter of proof-texting, or that it all hinges on just a couple of passages. I don't think this is the case.
 

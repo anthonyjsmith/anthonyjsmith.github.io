@@ -1,6 +1,8 @@
 ---
 title: Why are we so obsessed with gender?
 date: 2015-06-05 21:45:59.682737000 +01:00
+tags:
+- Culture
 ---
 It might not be overstating things to say that we find ourselves at a turning point in Western history. History is moving forwards at a considerable pace, and some people find themselves on the right side, others on the wrong side. And as the past gives way to the future, the transition seems to be hinging on one issue in particular: gender.
 

@@ -2,6 +2,8 @@
 title: 'Hymns of hope (9) Lo! He comes'
 date: 2015-11-29 16:55:21.163521000 +00:00
 description: If you had to describe the Christian hope for the future in terms of someone moving in some direction, then who would be moving, and in which direction?
+tags:
+- Christianity
 ---
 If you had to describe the [Christian hope for the future]({% post_url 2015-11-26-hymns-of-hope %}) in terms of someone moving in some direction, then who would be moving, and in which direction?
 

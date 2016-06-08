@@ -1,6 +1,8 @@
 ---
 title: On the Green Party's policies
 date: 2015-01-23 09:01:22.031505000 +00:00
+tags:
+- Culture
 ---
 A couple of people asked me what I made of the Telegraph's recent article on Green Party policy, [_Drugs, brothels, al-Qaeda and the Beyonce tax: the Green Party plan for Britain_](http://www.telegraph.co.uk/news/politics/green-party/11356354/Drugs-brothels-al-Qaeda-and-the-Beyonce-tax-the-Green-Party-plan-for-Britain.html). So I thought I'd jot down a few notes for a (potentially) wider readership.
 

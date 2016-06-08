@@ -3,6 +3,8 @@ title: Three cheers for the EU!
 description: 'Solidarity, subsidiarity, democracy: three reasons why I''ll be voting
   to remain, in the EU referendum.'
 date: 2016-06-07 17:48:47.366026000 +02:00
+tags:
+- Culture
 ---
 With just over two weeks to go until the referendum, here is why I'll be voting to remain.
 

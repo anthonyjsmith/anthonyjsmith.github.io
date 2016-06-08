@@ -1,6 +1,9 @@
 ---
 title: I'm not a person of faith
 date: 2015-05-23 10:55:44.385366000 +01:00
+tags:
+- Christianity
+- Culture
 ---
 There are two types of people: normal people, and everyone else.
 

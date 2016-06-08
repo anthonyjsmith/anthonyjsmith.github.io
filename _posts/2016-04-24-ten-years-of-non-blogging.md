@@ -5,6 +5,8 @@ description: 'There have been lots of tenth anniversaries so far this year. But 
   site.'
 image: "/assets/blog-2006.png"
 date: 2016-04-24 16:47:16.364406000 +01:00
+tags:
+- Me
 ---
 There have been lots of tenth anniversaries so far this year. 21 March was [the tenth anniversary of Twitter](https://blog.twitter.com/2016/thank-you-love-twitter). 21 March was also [the tenth anniversary of the Archbishop Cranmer blog](http://archbishopcranmer.com/archbishop-cranmer-10-years-of-religio-political-edification-and-enlightenment/). 13 April marked [ten years of the liturgy.co.nz website](http://liturgy.co.nz/celebrating-10-years-online). But the biggest celebration comes today, 24 April, which marks exactly ten years of blogging on this site. (Except that this isn't a blog, of course, as I explained in my [first]({% post_url 2006-04-24-ceci-nest-pas-un-blog %}) [three]({% post_url 2006-05-04-blogging-good-or-bad %}) [posts]({% post_url 2006-05-08-ceci-what %}).)
 

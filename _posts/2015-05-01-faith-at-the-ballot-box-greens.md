@@ -1,6 +1,9 @@
 ---
 title: 'Faith at the ballot box: Greens'
 date: 2015-05-01 09:23:34.129585000 +01:00
+tags:
+- Christianity
+- Culture
 ---
 Over on [Thomas Creedy's blog](http://admiralcreedy.blogspot.co.uk/) there has been a [series of posts](http://admiralcreedy.blogspot.co.uk/search/label/The%20Politics%20Series), in which Christians from various political parties answer a set of questions. I took part, as a Christian member of the Green Party, and my responses have been [posted on the blog](http://admiralcreedy.blogspot.co.uk/2015/04/greens-politics-series.html), and also incorporated into an eBook, [_Faith at the Ballot Box_](http://admiralcreedy.blogspot.co.uk/2015/04/faith-at-ballot-box.html). Here's how it begins...
 

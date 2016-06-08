@@ -2,6 +2,9 @@
 title: Calvin on providence
 date: 2016-02-21 17:37:28.437033000 +00:00
 description: Calvin is perhaps best known for his teaching about predestination, free will and providence. His approach to providence is both scriptural and pastoral.
+tags:
+- Christianity
+- Reviews
 ---
 Calvin is perhaps best known for his teaching about predestination, free will and providence. We've reached the final chapters (16-18) of Book I of his [_Institutes_]({% post_url 2013-06-17-calvins-institutes %}), which provide us with his treatment of providence. (Free will is bound near the start of Book II, while predestination, at the end of Book III, brings us into the church, which is the theme of Book IV.)
 

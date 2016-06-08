@@ -1,6 +1,9 @@
 ---
 title: Christianity and the Green Party
 date: 2015-03-26 08:30:03.674702000 +00:00
+tags:
+- Christianity
+- Culture
 ---
 A little flurry of online activity on this topic over the past few days.
 

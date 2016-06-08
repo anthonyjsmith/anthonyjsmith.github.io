@@ -3,6 +3,9 @@ title: The mission of the church and the decline in voluntary organisations
 description: Voluntary organisations are declining as consumerism rises. This affects
   the church too. How should we respond? How should we do church in this context?
 date: 2016-06-06 20:12:09.015937000 +02:00
+tags:
+- Christianity
+- Culture
 ---
 _This is an assignment I wrote last year. Sorry if it reads more like an essay than a blog post..._
 

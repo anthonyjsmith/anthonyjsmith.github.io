@@ -4,6 +4,9 @@ description: It was twenty years ago today, but I remember it vividly. At that y
   service, the preacher encouraged us to commit our lives to God, and I did so, out
   of a real sense of God drawing me to himself.
 date: 2016-03-02 21:46:55.236345000 +00:00
+tags:
+- Christianity
+- Me
 ---
 "Weren't you going to go to that thing at Christchurch?"
 

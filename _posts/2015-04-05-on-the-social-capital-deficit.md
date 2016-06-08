@@ -1,6 +1,8 @@
 ---
 title: On the (social capital) deficit
 date: 2015-04-05 18:39:08.981348000 +01:00
+tags:
+- Culture
 ---
 [<img alt="Robert D. Putnam: Bowling Alone" title="Robert D. Putnam: Bowling Alone" src="/assets/putnam-bowling-alone.jpg" class="alignright" />](http://bowlingalone.com/)Any who are concerned about the sharp decline in "social capital" over recent decades would do well to read Harvard professor Robert Putnam's 2000 classic, [_Bowling Alone: The Collapse and Revival of American Community_](http://bowlingalone.com/). I'll attempt to give you a flavour of the book here...
 

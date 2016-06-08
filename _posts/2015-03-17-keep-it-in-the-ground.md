@@ -1,6 +1,8 @@
 ---
 title: Keep it in the ground
 date: 2015-03-17 08:27:33.805625000 +00:00
+tags:
+- Culture
 ---
 [Major new campaign from the Guardian](http://theguardian.com/keep-it-in-the-ground), in partnership with [350.org](http://350.org). We're heading for disaster if we burn the vast quantity of known fossil fuel reserves. We need to _keep it in the ground_.
 

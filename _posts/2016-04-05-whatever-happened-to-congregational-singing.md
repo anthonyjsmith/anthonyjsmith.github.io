@@ -3,6 +3,8 @@ title: Whatever happened to congregational singing?
 description: The text of a short talk I gave as part of my BAP. There's something
   about singing together (as opposed to singing along) that forms and binds a community.
 date: 2016-04-05 15:11:41.577994000 +01:00
+tags:
+- Christianity
 ---
 _What follows is the text of a short talk I gave as part of my [interviews for the Church of England (BAP)]({% post_url 2016-03-08-revving-up %}). I've given it a title, but I haven't otherwise altered it. So if it doesn't quite read like a blog post, you know why..._
 

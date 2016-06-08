@@ -1,6 +1,9 @@
 ---
 title: Coding for Christ?
 date: 2015-04-30 13:00:12.919025000 +01:00
+tags:
+- Christianity
+- Computing
 ---
 There was a post of mine on the [Faith in Scholarship blog](http://faithinscholarship.org.uk/) a couple of days ago. It begins as follows...
 

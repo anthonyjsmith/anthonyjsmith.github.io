@@ -2,6 +2,8 @@
 title: It is not a supper you eat
 date: 2015-08-21 11:11:46.579887000 +01:00
 description: John Stevens has a timely and provocative article on the Lord's Supper, in which he argues that it should be celebrated in the context of a proper meal.
+tags:
+- Christianity
 ---
 > The word "Supper" is not a technical, theological or religious term, but is simply the designation of the ordinary evening meal. In the culture of the time this would have been the main meal of the day, not just a light snack before bedtime, which is how we are culturally attuned to hear the term. The "Lord's Dinner" might be a more accurate rendition of what is meant.
 

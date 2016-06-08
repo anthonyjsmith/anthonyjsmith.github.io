@@ -4,6 +4,8 @@ description: What if Jesus' body were still in the tomb until the day when God u
   in his eternal kingdom? What difference would that make?
 date: 2016-04-30 12:50:08.876151000 +01:00
 redirect_from: "/2016/04/30/what-if-it-was-still-easter-saturday/"
+tags:
+- Christianity
 ---
 It's Holy Saturday again, the day before Easter Day! (This time according to the [Eastern church calendar]({% post_url 2016-03-28-dating-easter-a-brief-and-inadequate-guide %}).) But what if it were still the _original_ Holy Saturday? What if the original Good Friday had been followed not by a single day, but by an extremely long 'Holy Saturday', continuing up to the present and into the future, and lasting until a grand 'Easter Day', on which not only Jesus but all the dead will be raised? In other words, what if Jesus' body were still in the tomb, and will remain there until the day when God ushers in his eternal kingdom? What difference would that make?
 
