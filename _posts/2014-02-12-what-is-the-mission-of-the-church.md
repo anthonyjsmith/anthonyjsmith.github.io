@@ -1,5 +1,7 @@
 ---
 title: What is the mission of the church?
+tags:
+- Christianity
 ---
 [<img alt="Kevin DeYoung" title="Kevin DeYoung" src="/assets/kevin-deyoung.png" class="alignright" />Kevin DeYoung](http://www.universityreformedchurch.org/about-us/staff/kevin-deyoung.html) is very concerned about the church fulfilling its calling to proclaim the gospel. And rightly so: people's greatest need is for a restored relationship with the God who made them, and that restored relationship will come about only through people hearing the good news and responding with faith. So if a church simply seeks to serve the society and transform the culture, without putting any effort into evangelism, then it has completely lost the plot. Evangelism is essential.
 

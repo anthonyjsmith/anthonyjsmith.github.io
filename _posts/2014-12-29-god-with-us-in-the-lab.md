@@ -1,6 +1,8 @@
 ---
 title: God with us (in the lab)
 date: 2014-12-29 07:14:07.041485000 +00:00
+tags:
+- Christianity
 ---
 There's a post of mine on the [Faith in Scholarship blog](http://faithinscholarship.org.uk/) this morning. It begins as follows...
 

@@ -1,6 +1,8 @@
 ---
 title: On women bishops
 date: 2014-12-21 20:53:39.185622000 +00:00
+tags:
+- Christianity
 ---
 This week (in case you missed it) the [Church of England announced its first ever female bishop: Libby Lane, to serve as the (suffragan) Bishop of Stockport](https://www.churchofengland.org/media-centre/news/2014/12/the-revd-libby-lane-announced-as-bishop-of-stockport.aspx), in my own diocese, the Diocese of Chester.
 

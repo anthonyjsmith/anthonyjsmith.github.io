@@ -1,6 +1,9 @@
 ---
 title: 'Steel Angels: the personal qualities of a priest'
 date: 2015-01-04 16:35:01.155729000 +00:00
+tags:
+- Christianity
+- Reviews
 ---
 [<img alt="Magdalen Smith: Steel Angels" title="Magdalen Smith: Steel Angels" src="/assets/smith-steel-angels.jpg" class="alignright" />](http://www.spckpublishing.co.uk/shop/steel-angels/)The Church of England puts people forward for ordination based on nine criteria. Those criteria form the basis for [this 2014 book](http://www.spckpublishing.co.uk/shop/steel-angels/) by Magdalen Smith, who is the [new Diocesan Director of Ordinands (DDO) for the Diocese of Chester](http://www.chester.anglican.org/news.asp?Page=705).
 

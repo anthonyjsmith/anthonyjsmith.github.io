@@ -1,6 +1,9 @@
 ---
 title: Models of the Church
 date: 2014-11-11 21:14:07 +0000
+tags:
+- Christianity
+- Reviews
 ---
 We live in an age of ecclesiastical chaos. Never before have so many wildly different kinds of churches existed side by side in the same towns and cities. And while these churches are invariably friendly towards each other, only occasionally do they think of each other as being basically on the same page. On the contrary, they generally view each other with a bemused sense of bafflement, wondering how on earth what _they_ do week by week can in any sense be thought of as being 'Church'.
 

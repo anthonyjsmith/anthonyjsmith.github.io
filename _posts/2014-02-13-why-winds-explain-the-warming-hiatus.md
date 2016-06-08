@@ -1,5 +1,7 @@
 ---
 title: Why winds explain the warming hiatus
+tags:
+- Culture
 ---
 There has been a lot of talk recently about a suppose "pause" in global warming. Well, a study led by Professor Matt England of the University of New South Wales seems to have found an explanation. The past couple of decades have witnessed very strong trade winds in the Pacific, which would transfer heat from the ocean surface to the ocean depths.
 

@@ -1,5 +1,8 @@
 ---
 title: The Catholic Faith (of the Church of England)
+tags:
+- Christianity
+- Reviews
 ---
 <img src="/assets/the-catholic-faith.jpg" title="The Catholic Faith" alt="The Catholic Faith">
 

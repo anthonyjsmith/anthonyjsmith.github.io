@@ -1,5 +1,7 @@
 ---
 title: The human being who rules the universe
+tags:
+- Christianity
 ---
 > He has raised our human nature  
 in the clouds to God's right hand;  

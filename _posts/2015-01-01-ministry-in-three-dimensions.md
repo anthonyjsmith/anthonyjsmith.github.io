@@ -1,6 +1,9 @@
 ---
 title: Ministry in Three Dimensions
 date: 2015-01-01 19:44:47.530861000 +01:00
+tags:
+- Christianity
+- Reviews
 ---
 [<img alt="Steven Croft: Ministry in Three Dimensions" title="Steven Croft: Ministry in Three Dimensions" src="/assets/croft-three-dimensions.jpg" class="alignright" />](http://www.darton-longman-todd.co.uk/titles/1532-9780232527438-ministry-in-three-dimensions)I'm writing this from [the Bible Belt of the Netherlands](http://en.wikipedia.org/wiki/Bible_Belt_(Netherlands)): a strip running from the south west towards the east of the country, in which there are many conservative Protestant Christians. As a result of the [pillarisation](http://en.wikipedia.org/wiki/Pillarisation) of Dutch society, for well over a century, there has been a whole 'pillar' of society shaped by Protestant or Reformed Christian thinking. Many or most Christians send their children to Christian schools, read Christian newspapers, listen to Christian radio stations, watch Christian TV stations (or don't watch TV at all), and vote for Christian political parties. This has allowed the church to remain strong, even in an increasingly non-Christian society, and has allowed it to continue to operate largely in what Steven Croft refers to as 'inherited mode' in his book, [_Ministry in Three Dimensions: Ordination and Leadership in the Local Church_](http://www.darton-longman-todd.co.uk/titles/1532-9780232527438-ministry-in-three-dimensions).
 

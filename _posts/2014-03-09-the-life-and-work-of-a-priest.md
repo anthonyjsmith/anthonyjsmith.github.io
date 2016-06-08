@@ -1,5 +1,8 @@
 ---
 title: The life and work of a priest
+tags:
+- Christianity
+- Reviews
 ---
 [<img src="/assets/johnpritchard.jpg" title="John Pritchard" alt="John Pritchard" class="alignright">John Pritchard](http://www.oxford.anglican.org/who-we-are/oxford/bishop-of-oxford/) is Bishop of Oxford, and has spent many years either serving in parish ministry, training others to serve in parish ministry, or overseeing the parish ministry of others. His book, [_The Life and Work of a Priest_](http://www.spckpublishing.co.uk/shop/life-and-work-of-a-priest-the/), is thus written with a great deal of practical wisdom and experience.
 

@@ -1,5 +1,7 @@
 ---
 title: 'Government orders "lazy" population to get out of bed earlier'
+tags:
+- Culture
 ---
 The British population has been described as "lazy" and chided for "excessive lie-ins", in a scathing attack by the Chancellor.
 

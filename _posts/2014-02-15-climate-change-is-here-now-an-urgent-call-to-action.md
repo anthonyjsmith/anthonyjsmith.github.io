@@ -1,5 +1,7 @@
 ---
 title: "Climate change is here now: an urgent call to action"
+tags:
+- Culture
 ---
 Harsh though it may sound, I'm glad that we are experiencing yet more crazy weather here in the West. Not glad for those people suffering real hardship, of course. But glad for those people in the years to come who are bound to experience much worse, unless we change our ways.
 

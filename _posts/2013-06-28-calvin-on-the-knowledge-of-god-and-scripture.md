@@ -1,5 +1,8 @@
 ---
 title: Calvin on the knowledge of God and Scripture
+tags:
+- Christianity
+- Reviews
 ---
 Calvin wrote his [_Institutes_]({% post_url 2013-06-17-calvins-institutes %}) as "a key to open a way for all children of God into a good and right understanding of Holy Scripture" (p.7). So it is appropriate that the first chapters are about the role Scripture plays in leading us to a true knowledge of God (and, consequently, to a true knowledge of ourselves, I.i*).
 

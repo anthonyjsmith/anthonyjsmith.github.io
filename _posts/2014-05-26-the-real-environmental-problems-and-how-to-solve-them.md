@@ -1,5 +1,7 @@
 ---
 title: The real environmental problems and how to solve them
+tags:
+- Culture
 ---
 Just came across this quote<sup>1</sup> by [Gus Speth](http://www.vermontlaw.edu/Our_Faculty/Faculty_Directory/James_Gustave_Speth.htm), a professor of law and former administrator of the UN Development Programme, in the latest issue of Tearfund's [_Tear Times_](http://www.tearfund.org/en/about_you/resources/printed_publications/tear_times/):
 

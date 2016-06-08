@@ -1,5 +1,7 @@
 ---
 title: Hymns of hope (7) For all the saints
+tags:
+- Christianity
 ---
 William Walsham How's classic hymn, <a href="http://www.hymnary.org/text/for_all_the_saints_who_from_their_labors"><em>For all the saints</em></a>, [helps us to look forward]({% post_url 2015-11-26-hymns-of-hope %}) to two things. First, we look forward to being with the Lord when we die:
 

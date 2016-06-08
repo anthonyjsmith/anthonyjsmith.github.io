@@ -1,6 +1,9 @@
 ---
 title: Do you feel called by God?
 date: 2014-12-30 11:45:23.273913000 +01:00
+tags:
+- Christianity
+- Reviews
 ---
 [<img alt="Michael Bennett: Do you feel called by God?" title="Michael Bennett: Do you feel called by God?" src="/assets/bennett-called.jpg" class="alignright" />](http://www.matthiasmedia.com.au/do-you-feel-called-by-god)You don't need to!
 

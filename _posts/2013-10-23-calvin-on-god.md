@@ -1,5 +1,8 @@
 ---
 title: Calvin on God
+tags:
+- Christianity
+- Reviews
 ---
 Calvin isn't bothered with idle speculation about the nature of God:
 

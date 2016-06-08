@@ -1,5 +1,7 @@
 ---
 title: Vote Green on 22 May!
+tags:
+- Culture
 ---
 I haven't had much time for blogging lately, but I interrupt my (non-)blog silence for a brief party political broadcast.
 

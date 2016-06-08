@@ -1,5 +1,7 @@
 ---
 title: On good disagreement and the future of the Church of England
+tags:
+- Christianity
 ---
 > Live in harmony with one another. ... If it is possible, as far as it depends on you, live at peace with everyone (Romans 12:16,18).
 >

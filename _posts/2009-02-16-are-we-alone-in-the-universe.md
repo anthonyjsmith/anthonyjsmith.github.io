@@ -1,5 +1,8 @@
 ---
 title: Are we alone in the Universe?
+tags:
+- Christianity
+- Astronomy
 ---
 <a href="http://commons.wikimedia.org/wiki/File:Smiley_green_alien_unhappy.svg"><img title="Alien" src="/assets/alien.png" alt="alien" /></a>
 

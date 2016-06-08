@@ -1,6 +1,10 @@
 ---
 title: Debating Darwin
 date: 2014-07-28 10:11:40 +0100
+tags:
+- Christianity
+- Culture
+- Reviews
 ---
 [<img alt="Debating Darwin" title="Debating Darwin" src="/assets/debating-darwin.jpg" class="alignright" />_Debating Darwin_ (Paternoster, 2009)](http://www.authenticmedia.co.uk/search/product/debating-darwin-graeme-finlay-stephen-lloyd-stephen-pattemore/9781842276198.jhtml) is a multi-author book, seeking to debate Darwinism first on theological grounds, and then on scientific grounds. Each half of the book has four chapters: two setting out the case for and against, and two responses. It has some strong points, but the choice of two very different authors to oppose Darwinism, along with the theological approach of the pro-Darwinism authors, combine to make the book into something that is likely to weaken the faith of the average evangelical Christian. This is probably not what the authors (or the strikingly invisible editor) intended.
 

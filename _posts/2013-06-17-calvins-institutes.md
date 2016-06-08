@@ -1,5 +1,8 @@
 ---
 title: Calvin's Institutes
+tags:
+- Christianity
+- Reviews
 ---
 I've started (again) to read John Calvin's _Institutes of the Christian Religion_. Undoubtedly it's one of the most important books of the sixteenth-century Reformation. Luther had kicked things off in 1517, and the first edition of the _Institutes_ was published in 1536. It was subsequently revised and enlarged several times, with the final edition being that of 1559. (I'm reading that final version neither in Latin nor in French, I confess, but in the English edition of McNeill and Battles.)
 

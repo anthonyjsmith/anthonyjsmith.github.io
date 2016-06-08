@@ -1,6 +1,8 @@
 ---
 title: "Theological reflection: a theological reflection"
 date: 2014-12-16 13:28:06 +0000
+tags:
+- Christianity
 ---
 **1. Experience**
 

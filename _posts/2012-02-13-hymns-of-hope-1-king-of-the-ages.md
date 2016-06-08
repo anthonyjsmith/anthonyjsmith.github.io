@@ -1,5 +1,7 @@
 ---
 title: Hymns of hope (1) King of the ages
+tags:
+- Christianity
 ---
 This is part 1 of a [series looking at the theme of hope in Christian hymns and songs]({% post_url 2015-11-26-hymns-of-hope %}). (I <em>hope</em> the series will have more than one part, but don't assume I have a coherent plan!)
 

@@ -1,6 +1,9 @@
 ---
 title: The Lost World of Genesis One
 date: 2014-08-15 15:03:46 +0100
+tags:
+- Christianity
+- Reviews
 ---
 [<img alt="John Walton: The Lost World of Genesis One" title="John Walton: The Lost World of Genesis One" src="/assets/walton-lost-world.jpg" class="alignright" />](https://www.ivpress.com/cgi-ivpress/book.pl/code=3704)Continuing on the theme of creation/evolution-related books from around five years ago ([1]({% post_url 2014-07-15-creation-or-evolution-do-we-have-to-keep-getting-nowhere %}), [2]({% post_url 2014-07-28-debating-darwin %})), we now move across the pond to Wheaton College, Illinois, and to [John Walton](http://www.wheaton.edu/Academics/Faculty/W/John-Walton) and his very influential book, [_The Lost World of Genesis One_](https://www.ivpress.com/cgi-ivpress/book.pl/code=3704) (2009).
 

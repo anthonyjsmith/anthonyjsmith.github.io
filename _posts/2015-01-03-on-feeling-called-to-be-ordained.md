@@ -1,6 +1,9 @@
 ---
 title: On feeling called to be ordained
 date: 2015-01-03 14:56:45.061100000 +00:00
+tags:
+- Christianity
+- Reviews
 ---
 [<img alt="Francis Dewar: Called or Collared?" title="Francis Dewar: Called or Collared?" src="/assets/dewar-called-collared.jpg" class="alignright" />](http://www.spckpublishing.co.uk/shop/called-or-collared/)The most helpful parts of Francis Dewar's book [_Called or Collared?_](http://www.spckpublishing.co.uk/shop/called-or-collared/) are those dealing with the idea that you must believe that you are 'inwardly moved by the Holy Ghost' in order to be ordained. (These words, from the Book of Common Prayer, have been removed in more recent ordination services, I'm pleased to note.)
 

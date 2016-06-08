@@ -1,5 +1,7 @@
 ---
 title: Morning Prayers
+tags:
+- Christianity
 ---
 From the [Book of Common Prayer](http://www.churchofengland.org/prayer-worship/worship/book-of-common-prayer/the-order-for-morning-prayer.aspx):
 

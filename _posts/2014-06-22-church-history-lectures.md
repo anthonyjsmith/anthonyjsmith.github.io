@@ -1,5 +1,7 @@
 ---
 title: Church history lectures
+tags:
+- Christianity
 ---
 You can learn a huge amount by downloading lecture courses and listening to them while doing other bits and pieces. Specifically, over the space of several years, I've listened to three (double) courses in church history, which have been fascinating and really enjoyable. They were...
 
