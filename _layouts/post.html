@@ -14,7 +14,7 @@ layout: default
                     <h1>{{ page.title | smartify }}</h1>
                   </header>
                   <footer>
-                    <span class="meta">{{ page.date | date: "%-d %b %Y" }} | <a href="#disqus_thread">Comments</a></span>
+                    <span class="meta">{{ page.date | date: "%-d %b %Y" }}{% if page.tags.size > 0 %} | {% endif %}{{ page.tags | join: ', ' }} | <a href="#disqus_thread">Comments</a></span>
                   </footer>
                 </div>
               </div>
