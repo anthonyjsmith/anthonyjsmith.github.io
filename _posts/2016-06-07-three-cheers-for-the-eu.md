@@ -47,3 +47,5 @@ Having said that, there are plenty of ways in which the EU should be more democr
 So it's **three cheers for the EU** from me. Of course the EU isn't perfect. But it is vitally important, at this time in world history, for us to be seeking ways of expressing solidarity with other countries, particularly with our nearest neighbours. Failure to do so will leave us increasingly at the mercy of global forces that are outside of our control.
 
 (_In addition_, it seems clear that a decision to leave the EU would be a massive and near-suicidal leap into the dark, and that might be a relevant consideration.)
+
+_Update 9 June: if you want to read more, my friend Tom King has written a mammoth post here: [Why I'm voting to remain in the EU](https://nevercruelnorcowardly.com/2016/06/08/why-im-voting-to-remain-in-the-eu/)._
