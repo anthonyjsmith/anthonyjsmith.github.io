@@ -94,6 +94,9 @@ hr.small {
   .navbar-custom .nav li a:focus {
     color: rgba(255, 255, 255, 0.8);
   }
+  .navbar-custom .dropdown-menu .form-control {
+    width: 400px; // Wider search box
+  }
 }
 @media only screen and (min-width: 1170px) {
   .navbar-custom {
