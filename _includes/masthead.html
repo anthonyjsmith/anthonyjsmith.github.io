@@ -23,6 +23,19 @@
               <li><a href="/contact/">Contact</a></li>
               <li><a class="a2a_dd" href="http://www.addtoany.com/subscribe?linkurl={{ site.url | append: '/feed/' | cgi_escape }}&amp;linkname=">Subscribe<span class="caret"></span></a></li>
               <li><a href="http://twitter.com/anthonyjsmith"><span class="fa fa-twitter fa-2x"></span></a></li>
+              <li class="dropdown">
+                <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><span class="fa fa-search fa-2x"></span></a>
+                <ul class="dropdown-menu">
+                  <li>
+                    <a>
+                      <form role="search" method="get" action="http://duckduckgo.com/">
+                        <input type="hidden" name="sites" value="www.anthonysmith.me.uk">
+                        <input name="q" type="search" class="form-control" placeholder="Search..." size="100">
+                      </form>
+                    </a>
+                  </li>
+                </ul>
+              </li>
             </ul>
           </div>
           <!-- /.navbar-collapse -->
