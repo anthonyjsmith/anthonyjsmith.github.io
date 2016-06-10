@@ -8,7 +8,9 @@ layout: default
         <div class="row">
           <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
             <div class="site-heading">
-              <h1>Tag: {{ page.tag }}</h1>
+              <h1>{{ page.tag }}</h1>
+              <hr class="small">
+              <span class="subheading">{{ site.tags[page.tag] | size }} posts {{ page.subheading }}</span>
             </div>
           </div>
         </div>
