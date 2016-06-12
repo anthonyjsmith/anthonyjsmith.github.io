@@ -2,7 +2,7 @@
 title: About
 excerpt: "By day, I work in computer software. Previously I was a university researcher in astronomy, but that drifted towards astronomical computer software, and now I'm mainly doing freelance web development."
 ---
-_Christian, C of E ordinand-in-waiting, [freelance software gardener](http://www.enkaptic.co.uk/about/), [married](http://elinevanasperen.wordpress.com/), astronomer, [green](/2011/09/13/why-would-a-christian-join-the-green-party/), [singer](/singing/), organist, Wirral._
+_Christian, CofE ordinand-in-waiting, [freelance software gardener](http://www.enkaptic.co.uk/about/), [married](http://elinevanasperen.wordpress.com/), astronomer, [green](/2011/09/13/why-would-a-christian-join-the-green-party/), [singer](/singing/), organist, Wirral._
 
 <img alt="Me" title="Me" src="/assets/me.jpg" class="alignleft">By day, I [work](http://www.enkaptic.co.uk/about/) in computer software. Previously I was a university researcher in astronomy, but that drifted towards astronomical computer software, and now I'm mainly doing freelance web development. I also spend a fair bit of time trying to support Christian postgraduate students in Liverpool and elsewhere (partly through involvement in [Faith-in-Scholarship](http://wysocs.org.uk/faith-in-scholarship) and [Transforming the Mind](http://christianpostgrad.org.uk/content/node/34)).
 

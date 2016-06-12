@@ -1,5 +1,5 @@
 name: Anthony Smith
-description: Christian, C of E ordinand-in-waiting, freelance software gardener, married, astronomer, green, singer, organist, Wirral
+description: Christian, CofE ordinand-in-waiting, freelance software gardener, married, astronomer, green, singer, organist, Wirral
 url: http://www.anthonysmith.me.uk
 exclude: [README.md, Gemfile, Gemfile.lock, CNAME]
 permalink: pretty
