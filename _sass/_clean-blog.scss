@@ -73,6 +73,10 @@ hr.small {
   font-weight: 800;
   letter-spacing: 1px;
 }
+.navbar-custom .dropdown-menu .btn {
+  padding: 6px 12px; // Search button: default bootstrap
+}
+
 @media only screen and (min-width: 768px) {
   .navbar-custom {
     background: transparent;
