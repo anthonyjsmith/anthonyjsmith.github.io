@@ -6,6 +6,7 @@ tags:
 - Christianity
 - Reviews
 date: 2016-06-16 08:16:04.634208000 +01:00
+image: "/assets/wright-resurrection.jpg"
 ---
 [<img alt="The Resurrection of the Son of God, by NT Wright" title="The Resurrection of the Son of God, by NT Wright" src="/assets/wright-resurrection.jpg" class="alignright" />](http://spckpublishing.co.uk/product/the-resurrection-of-the-son-of-god/)A few reflections on NT Wright's 2003 book, [_The Resurrection of the Son of God_](http://spckpublishing.co.uk/product/the-resurrection-of-the-son-of-god/):
 
