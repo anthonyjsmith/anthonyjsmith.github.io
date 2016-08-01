@@ -25,7 +25,7 @@ Comments welcome, and don't forget to subscribe to future posts, either using th
 
 **Book Two. The Knowledge of God the Redeemer in Christ, First Disclosed to the Fathers Under the Law, and Then to Us in the Gospel**
 
-* Guilt and original sin (1-5, 99pp)
+* [Guilt and original sin]({% post_url 2016-08-01-calvin-on-our-need-for-redemption-in-christ %}) (1-5, 99pp)
 * Salvation through Christ (6-11, 124pp)
 * Christ's person and work (12-17, 71pp)
 
