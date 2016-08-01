@@ -15,6 +15,10 @@ p {
   line-height: 1.5;
   margin: 30px 0;
 }
+// For when a post starts or ends with something other than a "p" element
+.post-content {
+  margin: 30px 0;
+}
 // Same margin for embedded videos
 .embed-responsive {
   margin: 30px 0;
