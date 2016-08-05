@@ -15,7 +15,7 @@ Accordingly, having established in chapters 1-5 that 'The whole human race peris
 
 > Moses was not made a lawgiver to wipe out the blessing promised to the race of Abraham. Rather, we see him repeatedly reminding the Jews of that freely given covenant made with their fathers of which they were the heirs. It was as if he were sent to renew it (II.vii.1).
 
-It is fitting, then, that of the three 'uses' or 'functions' of the law identified by Calvin, it is the third that is described as the 'principle use' (II.vii.12):
+It is fitting, then, that of the three 'uses' or 'functions' of the law identified by Calvin, it is the third that is described as the 'principal use' (II.vii.12):
 
 1. 'The law shows the righteousness of God, and as a mirror discloses our sinfulness, leading us to implore divine help' (II.vii.6-9). The law, by calling us to love God wholeheartedly, makes us aware of our infirmity, so that we flee to God for his mercy.
 1. 'The law restrains malefactors and those who are not yet believers' (II.vii.10-11). There are some for whom the dread of divine punishment will act as a deterrent. '[T]his constrained and forced righteousness is necessary for the public community of men' (II.vii.10).
