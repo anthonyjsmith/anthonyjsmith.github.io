@@ -27,7 +27,7 @@ Comments welcome, and don't forget to subscribe to future posts, either using th
 
 * [Guilt and original sin]({% post_url 2016-08-01-calvin-on-our-need-for-redemption-in-christ %}) (1-5, 99pp)
 * [Salvation through Christ, revealed in the law and in the gospel]({% post_url 2016-08-05-calvin-on-christ-in-the-law-and-the-gospel %}) (6-11, 124pp)
-* Christ's person and work (12-17, 71pp)
+* [Christ's person and work]({% post_url 2016-08-18-calvin-on-christs-person-and-work %}) (12-17, 71pp)
 
 **Book Three. The Way in Which We Receive the Grace of Christ: What Benefits Come to Us from It, and What Effects Follow**
 
