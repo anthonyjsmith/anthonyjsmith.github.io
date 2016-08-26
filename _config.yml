@@ -40,7 +40,7 @@ gems:
 
 # Settings that cannot be changed
 lsi: false
-# safe: true # <-- activating this seems to disable jekyll-paginate!
+# safe: true # <-- activating this seems to disable jekyll-paginate!
 # source: [your repo's top level directory]
 incremental: false
 highlighter: rouge

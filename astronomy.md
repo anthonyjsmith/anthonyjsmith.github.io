@@ -8,7 +8,7 @@ Between October 2004 and September 2008 I worked with [Jon Loveday](http://astro
 
 The main results included a K-band luminosity function from UKIDSS (with redshifts from SDSS), along with the bivariate brightness distribution (number of galaxies per unit volume as a function of luminosity and surface brightness). See [this paper](http://adsabs.harvard.edu/abs/2009MNRAS.397..868S).
 
-From 2002-2003 I studied for the new MSc in Cosmology at the University of Sussex. Around half of my work that year was spent on my project, _[Braneworld Inflation](/assets/mscthesis.pdf)_, supervised by [Andrew Liddle](http://astronomy.sussex.ac.uk/~andrewl/andrewl.html). If you want to know more, see [this paper](http://link.aps.org/abstract/PRD/v68/e061301) (or [here](http://uk.arxiv.org/abs/astro-ph/0307017)). Cosmology is the study of the Universe, so the MSc made me a **master of the universe**. In fact, I reckon (but am just about willing to be corrected) that I was the first person anywhere to have a masters degree entitled 'cosmology'. This therefore made me indisputably _[the](http://www.he-man.org/cartoon/cartoon.php?id=44)_ [master of the universe](http://www.he-man.org/cartoon/cartoon.php?id=44) for a year, as I'd wanted to be since I was very small.
+From 2002-2003 I studied for the new MSc in Cosmology at the University of Sussex. Around half of my work that year was spent on my project, _[Braneworld Inflation](/assets/mscthesis.pdf)_, supervised by [Andrew Liddle](http://astronomy.sussex.ac.uk/~andrewl/andrewl.html). If you want to know more, see [this paper](http://link.aps.org/abstract/PRD/v68/e061301) (or [here](http://uk.arxiv.org/abs/astro-ph/0307017)). Cosmology is the study of the Universe, so the MSc made me a **master of the universe**. In fact, I reckon (but am just about willing to be corrected) that I was the first person anywhere to have a masters degree entitled 'cosmology'. This therefore made me indisputably _[the](http://www.he-man.org/cartoon/cartoon.php?id=44)_ [master of the universe](http://www.he-man.org/cartoon/cartoon.php?id=44) for a year, as I'd wanted to be since I was very small.
 
 Prior to starting the MSc, I was at [Jesus College](http://www.jesus.cam.ac.uk/), [Cambridge](http://www.cam.ac.uk/), where I gained a BA in [mathematics](http://www.maths.cam.ac.uk/).
 
@@ -28,10 +28,10 @@ K-band galaxy luminosity and surface brightness distribution from the LAS (Scien
 
 ## Popular/non-specialist talks
 
-23 Apr 2012: **Astronomy through a Christian telescope**\\
+23 Apr 2012: **Astronomy through a Christian telescope**\\
 _[West Yorkshire School of Christian Studies (WYSOCS)](http://www.wysocs.org.uk/lifematters/recent-events.php), Leeds_
 
-12 Mar 2011: **Once upon a time in reality: how to read a scientific story** (with Eline van Asperen) [PDF](http://christianacademicnetwork.net/2011Conference/reports/CANScientificStories.pdf) | [MP3](http://christianacademicnetwork.net/2011Conference/Recordings/AnthonyEline.mp3)\\
+12 Mar 2011: **Once upon a time in reality: how to read a scientific story** (with Eline van Asperen) [PDF](http://christianacademicnetwork.net/2011Conference/reports/CANScientificStories.pdf) | [MP3](http://christianacademicnetwork.net/2011Conference/Recordings/AnthonyEline.mp3)\\
 _["Knowing In God's World"](http://christianacademicnetwork.net/newjoomla/index.php?option=com_content&amp;view=article&amp;id=228&amp;Itemid=109), Christian Academic Network, Nottingham_
 
 12 Jun 2010: **Surveying the Universe with the Herschel Space Observatory**\\

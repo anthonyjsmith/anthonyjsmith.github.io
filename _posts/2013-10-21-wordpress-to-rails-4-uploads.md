@@ -3,9 +3,9 @@ title: WordPress to Rails (4) uploads
 tags:
 - Computing
 ---
-WordPress allows you to upload files (such as images) and include them in posts. These end up in a location such as <code>.../wp-content/uploads/2012/06/githuboctocat.jpeg</code>.
+WordPress allows you to upload files (such as images) and include them in posts. These end up in a location such as <code>.../wp-content/uploads/2012/06/githuboctocat.jpeg</code>.
 
-I'm trying to keep things simple (for now), so I want all the uploaded files in one folder, with no fancy way of managing the files, and with only one version of each image (no thumbnails). So the above file would move to  <code>.../uploads/githuboctocat.jpeg</code>.
+I'm trying to keep things simple (for now), so I want all the uploaded files in one folder, with no fancy way of managing the files, and with only one version of each image (no thumbnails). So the above file would move to  <code>.../uploads/githuboctocat.jpeg</code>.
 
 I didn't want this folder to be part of the application code, so (following <a href="http://stackoverflow.com/questions/1287342/is-it-safe-to-use-capistrano">this</a>) I added the following to <code>deploy.rb</code>:
 

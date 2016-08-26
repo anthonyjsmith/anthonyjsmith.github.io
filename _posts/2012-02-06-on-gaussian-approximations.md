@@ -15,7 +15,7 @@ $$f(x) \simeq f(\hat{x})\exp \left[-\frac{1}{2} (x-\hat{x})^\mathrm{T} \Sigma^{-
 
 where $$\Sigma$$ is the covariance matrix, and our task it to figure out what it is.
 
-But fear not, help is at hand. If we find the following [Hessian matrix](http://en.wikipedia.org/wiki/Hessian_matrix), and if we assume that the covariance matrix is symmetric, we have
+But fear not, help is at hand. If we find the following [Hessian matrix](http://en.wikipedia.org/wiki/Hessian_matrix), and if we assume that the covariance matrix is symmetric, we have
 
 $$\begin{align} H_{ij} &\equiv \frac{\partial^2}{\partial x_i \partial x_j} \left( - \ln f(x) \right) \\ &\simeq \frac{\partial^2}{\partial x_i \partial x_j} \left( - \ln f(\hat{x}) + \frac{1}{2} (x-\hat{x})^\mathrm{T} \Sigma^{-1} (x-\hat{x}) \right) \\ &= \frac{1}{2} (\Sigma^{-1}_{ij} + \Sigma^{-1}_{ji}) \\ &= \Sigma^{-1}_{ij} \end{align}$$
 

@@ -19,9 +19,9 @@ Random bits of code that may be useful to some people...
 
 [University of Sussex LaTeX thesis template](https://github.com/anthonyjsmith/usthesis)
 
-[mn.bst](/assets/mn.bst) Bibliography style file (BST, Bibtex, Latex) for MNRAS (Monthly Notices of the Royal Astronomical Society), modified to give "et al." when there are more than eight authors.
+[mn.bst](/assets/mn.bst) Bibliography style file (BST, Bibtex, Latex) for MNRAS (Monthly Notices of the Royal Astronomical Society), modified to give "et al." when there are more than eight authors.
 
-[hapalike_8max.bst](/assets/hapalike_8max.bst) Modified version of [hapalike.bst](http://arxiv.org/hypertex/bibstyles/hapalike.bst) (from [here](http://arxiv.org/hypertex/bibstyles/)), changed to give (1) "et al." when there are more then eight authors, (2) sort by first author and then year, rather than all authors and then year, (3) added month to sorting: author, year, month, and (4) changed from "Smith and Jones" to "Smith &amp; Jones".
+[hapalike_8max.bst](/assets/hapalike_8max.bst) Modified version of [hapalike.bst](http://arxiv.org/hypertex/bibstyles/hapalike.bst) (from [here](http://arxiv.org/hypertex/bibstyles/)), changed to give (1) "et al." when there are more then eight authors, (2) sort by first author and then year, rather than all authors and then year, (3) added month to sorting: author, year, month, and (4) changed from "Smith and Jones" to "Smith &amp; Jones".
 
 ## IDL
 
