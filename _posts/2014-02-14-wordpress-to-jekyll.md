@@ -14,6 +14,6 @@ In contrast, Jekyll is really designed with slightly geeky people in mind. (Havi
 
 I'm doing a lot more work "under the bonnet" now, but I'm actually finding it easier, and much more fun, than faffing about with WordPress plugins.
 
-If you want to know more about migrating from WordPress to Jekyll, I made [some notes about the transition on my software blog](http://www.enkaptic.co.uk/2014/02/05/wordpress-to-jekyll/), which is also now powered by Jekyll.
+If you want to know more about migrating from WordPress to Jekyll, I made [some notes about the transition on my software blog]({% post_url 2014-02-05-wordpress-to-jekyll %}), which is also now powered by Jekyll.
 
 And if you want to see how it works under the bonnet, have a look at [this site's repository on GitHub](https://github.com/anthonyjsmith/anthonyjsmith.github.io).
