@@ -1,6 +1,6 @@
 ---
 title: About
-excerpt: "By day, I work in computer software. Previously I was a university researcher in astronomy, but that drifted towards astronomical computer software, and now I'm mainly doing freelance web development."
+excerpt: "Christian. Soon to be CofE ordinand in Durham. Previous lives: organist, astronomer, software developer. Married, green, singer"
 ---
 _Christian. Soon to be CofE ordinand in Durham. Previous lives: organist, [astronomer](http://www.enkaptic.co.uk/astronomy/), [software developer](http://www.enkaptic.co.uk/software/). Married, [green](/2011/09/13/why-would-a-christian-join-the-green-party/), [singer](/singing/)._
 
