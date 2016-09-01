@@ -2,6 +2,7 @@
 title: The CofE is not about to split
 description: Don't believe what you read in the headlines. The Church of England is
   not on the verge of schism. But why are there so many reports suggesting it is?
+image: "/assets/cofe-split.jpg"
 tags:
 - Christianity
 date: 2016-09-01 09:23:54.144525000 +01:00
