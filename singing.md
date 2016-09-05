@@ -6,7 +6,7 @@ excerpt: "On this page Audio samples Biography Recent concerts Audio samples Bri
 
 [Audio samples](#audio-samples)\\
 [Biography](#biography)\\
-[Recent concerts](#recent-concerts)
+[Recent concerts](#concerts)
 
 ### Audio samples
 
