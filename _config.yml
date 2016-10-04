@@ -1,5 +1,5 @@
 name: Anthony Smith
-description: 'Christian. Soon to be CofE ordinand in Durham. Previous lives: organist, astronomer, software developer. Married, green, singer'
+description: 'Christian. CofE ordinand in Durham. Previous lives: organist, astronomer, software developer. Married, green, singer'
 url: http://www.anthonysmith.me.uk
 exclude: [README.md, Gemfile, Gemfile.lock, CNAME]
 permalink: pretty
