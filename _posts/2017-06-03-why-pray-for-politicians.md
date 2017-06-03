@@ -4,6 +4,7 @@ description: Have we misunderstood what the Bible says about praying for our pol
   leaders? Why are we told to pray 'for kings and all those in authority'?
 tags:
 - Christianity
+- Culture
 date: 2017-06-03 21:55:20.144775000 +01:00
 ---
 Have we misunderstood what the Bible says about praying for our political leaders? The most famous verses on this theme are from Paul's first letter to Timothy, who was a church leader in Ephesus:
