@@ -1,4 +1,5 @@
 name: Anthony Smith
+title: Anthony Smith # for jekyll-seo-tag, otherwise <title> ends up as <page title> | anthonyjsmith.github.io
 description: 'Christian. CofE ordinand in Durham. Previous lives: organist, astronomer, software developer. Married, green, singer'
 url: http://www.anthonysmith.me.uk
 exclude: [README.md, Gemfile, Gemfile.lock, CNAME]
