@@ -33,7 +33,7 @@ github: [metadata]
 kramdown:
   input: GFM
   hard_wrap: false
-gems:
+plugins:
   - jekyll-coffeescript
   - jekyll-paginate
   - jekyll-seo-tag # Added
