@@ -4,6 +4,7 @@ date: 2014-08-08 11:08:53 +0100
 tags:
 - Christianity
 - Culture
+- Origins
 ---
 There's a post of mine on the [Faith in Scholarship blog](http://faithinscholarship.org.uk/) this morning. It begins as follows...
 

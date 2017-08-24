@@ -2,6 +2,7 @@
 title: 'Intelligent Design: a Bayesian summary'
 tags:
 - Culture
+- Origins
 ---
 This post concludes my recent splurge on Intelligent Design (ID).
 

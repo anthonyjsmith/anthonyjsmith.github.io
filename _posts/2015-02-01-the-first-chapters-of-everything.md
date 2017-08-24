@@ -4,6 +4,7 @@ date: 2015-02-01 19:27:09.356467000 +00:00
 tags:
 - Christianity
 - Reviews
+- Origins
 ---
 [<img alt="Alasdair Paine: The first chapters of everything" title="Alasdair Paine: The first chapters of everything" src="/assets/paine-first-chapters.jpg" class="alignright" />This recent (2014) book on Genesis 1-4](http://www.christianfocus.com/item/show/1639) by Alasdair Paine (of St Andrew the Great in Cambridge) is a joy to read. The emphasis is on how the chapters make sense of the world in which we live. Indeed, the book's subtitle is, 'How Genesis 1-4 explains our world'. Summing up the value of these chapters, Paine notes how they make sense of 'the magnificence of the world we inhabit', its orderliness, the 'dominance of the world by the human race', 'the extraordinarily mixed nature of life in our world', 'hatred, and the power of sin to master us', and much more (p. 179-181). The book grew out of a preaching ministry &mdash; and it shows. Issues beyond the concern of the text are kept in their proper place, and dealt with in a sensitive way, and the book is filled with vivid illustrations and pointed applications.
 
