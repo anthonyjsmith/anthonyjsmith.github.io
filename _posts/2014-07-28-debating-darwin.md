@@ -3,7 +3,6 @@ title: Debating Darwin
 date: 2014-07-28 10:11:40 +0100
 tags:
 - Christianity
-- Culture
 - Reviews
 - Origins
 ---

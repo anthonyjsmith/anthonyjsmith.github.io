@@ -2,7 +2,6 @@
 title: 'Creation or evolution: do we have to keep getting nowhere?'
 tags:
 - Christianity
-- Culture
 - Reviews
 - Origins
 ---
