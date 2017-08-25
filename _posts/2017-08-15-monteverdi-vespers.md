@@ -5,6 +5,7 @@ description: 'In anticipation of the Monteverdi Vespers in October (Durham Singe
 image: "/assets/monteverdi-vespro.jpeg"
 tags:
 - Culture
+- Reviews
 date: 2017-08-15 12:26:29.789717000 +01:00
 ---
 [<img alt="Vespro della Beata Vergine: La Compagnia del Madrigale" title="Vespro della Beata Vergine: La Compagnia del Madrigale" src="/assets/monteverdi-vespro.jpeg" class="alignright" />](http://www.lacompagniadelmadrigale.com/page/en/discography)In anticipation of singing in the Monteverdi _Vespers_ in October with the [Durham Singers](http://www.durham-singers.org/) and [I Fagiolini](http://www.ifagiolini.com/), I've been searching for the best recording. I think I've found it, in the 2017 release by [La Compagnia Del Madrigale](http://www.lacompagniadelmadrigale.com/page/en/home), directed by Giuseppe Maletto.
