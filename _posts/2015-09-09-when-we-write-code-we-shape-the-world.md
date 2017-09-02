@@ -20,7 +20,7 @@ Why does all this matter?
 
 > Reality is socially constructed. And we reflect our constructions of reality into the software we write. And then software goes and reflects those realities back up into society (38:15).
 
-Compare the quote, 'We shape our tools and thereafter they shape us', which I [discovered recently](http://faithinscholarship.org.uk/coding-christ/).
+Compare the quote, 'We shape our tools and thereafter they shape us', which I [discovered recently](http://thinkfaith.net/fisch/blog/coding-christ).
 
 So this puts software developers in a terrifyingly powerful position:
 

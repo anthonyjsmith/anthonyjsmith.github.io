@@ -4,7 +4,7 @@ date: 2014-12-29 07:14:07.041485000 +00:00
 tags:
 - Christianity
 ---
-There's a post of mine on the [Faith in Scholarship blog](http://faithinscholarship.org.uk/) this morning. It begins as follows...
+There's a post of mine on the [Faith in Scholarship blog](http://thinkfaith.net/fisch/blog) this morning. It begins as follows...
 
 > It’s hard to predict how I will feel at the end of the Christmas break. Will I be refreshed and eager to get back to work? Or will the thought fill me with dread? Or both?
 >
@@ -12,4 +12,4 @@ There's a post of mine on the [Faith in Scholarship blog](http://faithinscholars
 >
 > It all depends on how we approach Christmas. ...
 
-[Read more...](http://faithinscholarship.org.uk/god-with-us-in-the-lab/)
+[Read more...](http://thinkfaith.net/fisch/blog/god-us-lab)
