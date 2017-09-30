@@ -15,7 +15,7 @@ This year, I'm expecting my modules to look something like this _(final set of m
   * Old Testament (Psalms and wisdom this term, then prophets next term)
   * New Testament (Paul this term, focusing on 1 Corinthians, then John next term)
   * New Testament Greek (based on Duff's _Elements_)
-* _Christian tradition (smaller module) (6%)_
+* _Christian tradition (smaller module) (6%):_
   * _Topics in church history_
 * Church ministry and mission (38%):
   * Mission and evangelism
