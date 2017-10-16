@@ -19,18 +19,18 @@ Placements will continue during the autumn and spring terms, and this year I'll 
 
 In terms of my modules for the coming year, here is what I'm expecting:
 
-* Biblical studies (11%):
+* Biblical studies (~~11%~~ _13%_):
   * Further Biblical Studies
-* Christian tradition (50%):
+* Christian tradition (~~50%~~ _44%_):
   * Topics in Christian Doctrine
-  * Church Growth: Pentecost to Constantine
+  * ~~Church Growth: Pentecost to Constantine~~
   * Science and Theology
   * Independent Learning Project (probably on something theological)
   * Ethics (smaller module)
-* Church ministry and mission (22%):
+* Church ministry and mission (~~22%~~ _25%_):
   * Denominational Ministry (Anglicanism)
   * Death and Dying
-* Ministerial formation (smaller modules) (17%):
+* Ministerial formation (smaller modules) (~~17%~~ _19%_):
   * Pastoral Ministry
   * Conflict Transformation
   * Reflective Practice
