@@ -13,7 +13,7 @@ One of the ways in which Anglican ministers are called to act as shepherds is by
 
 It was with this in mind that I found myself after chapel on Wednesday evening absorbing the odours not of sheep, but of risotto, beer, and students. Here are some of them:
 
-[![Hild Bede Discussion](/assets/hild-bede-discussion.jpg)](/assets/hild-bede-discussion.jpg "Hild Bede Discussion")
+![Hild Bede Discussion](/assets/hild-bede-discussion.jpg)
 
 I'm on placement with the chaplain at [Hild Bede College, Durham University](https://www.dur.ac.uk/hild-bede/undergraduate/facilities/faith/), and this is part 2 of a [four-part series]({% post_url 2017-11-10-a-chaplains-brunch %}) documenting my antics.
 

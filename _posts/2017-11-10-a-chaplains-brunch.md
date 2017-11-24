@@ -11,11 +11,11 @@ I'm on placement this year at [Hild Bede College, Durham University](https://www
 
 The college chapel has a fine acoustic, and is a '[rare example of art deco architecture](https://www.dur.ac.uk/hild-bede/undergraduate/facilities/faith/)'. Here's what it looks like on the inside:
 
-[![Hild Bede Chapel](/assets/hild-bede-chapel.jpg)](/assets/hild-bede-chapel.jpg "Hild Bede Chapel")
+![Hild Bede Chapel](/assets/hild-bede-chapel.jpg)
 
 Around half of my time on placement is spent in chapel &ndash; at communion on Sunday mornings, or at choral evensong on Wednesday evenings. (More about those before long.) But a lot of my time is spent here:
 
-[![Hild Bede Brunch](/assets/hild-bede-brunch.jpg)](/assets/hild-bede-brunch.jpg "Hild Bede Brunch")
+![Hild Bede Brunch](/assets/hild-bede-brunch.jpg)
 
 Why is the eating of baked beans such an important part of a chaplain's ministry?
 
