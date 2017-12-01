@@ -5,7 +5,7 @@ description: As promised, there is more food and drink for the final instalment 
 tags:
 - Christianity
 image: "/assets/hild-bede-chapel-exterior.jpg"
-date: 2017-12-01 10:21:32.840172000 +00:00
+date: 2017-11-30
 ---
 As promised, there is more food and drink for the final instalment of this four-week series. So far, on my placement with the chaplain at Hild Bede College, we've been [eating in the dining room]({% post_url 2017-11-10-a-chaplains-brunch %}), [drinking in the bar]({% post_url 2017-11-17-table-talk-meaningful-conversations %}), and [singing at choral evensong]({% post_url 2017-11-24-choral-evensong %}). Now we return to the chapel for the weekly Sunday morning service of Holy Communion.
 
