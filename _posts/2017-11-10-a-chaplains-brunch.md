@@ -7,7 +7,7 @@ tags:
 image: "/assets/hild-bede-chapel.jpg"
 date: 2017-11-10 14:21:39.457285341 +00:00
 ---
-I'm on placement this year at [Hild Bede College, Durham University](https://www.dur.ac.uk/hild-bede/undergraduate/facilities/faith/), with the chaplain, Tim Ferguson. This is the first of four short blog posts telling you what I'm up to, and why.
+I'm on placement this year at [Hild Bede College, Durham University](https://www.dur.ac.uk/hild-bede/undergraduate/facilities/faith/), with the chaplain, Tim Ferguson. This is the first of four short blog posts telling you what I'm up to, and why ([2]({% post_url 2017-11-17-table-talk-meaningful-conversations %}), [3]({% post_url 2017-11-24-choral-evensong %}), [4]({% post_url 2017-12-01-feasting-in-the-kingdom %})).
 
 The college chapel has a fine acoustic, and is a '[rare example of art deco architecture](https://www.dur.ac.uk/hild-bede/undergraduate/facilities/faith/)'. Here's what it looks like on the inside:
 
