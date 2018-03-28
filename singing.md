@@ -30,11 +30,11 @@ Brief samples in MP3 format from a live concert recording, with [James Lloyd Tho
 
 ### Biography
 
-Anthony Smith started singing as a boy chorister in Hitchin, Hertfordshire, and proceeded to learn the organ to a high standard. He began to take singing seriously only when offered free singing lessons on his arrival as an Organ Scholar at Cambridge in 1999. During his time at Jesus College he had lessons with Suzanne Flowers and Geoffrey Davidson, and sang as a soloist in Haydn's _Nelson Mass_ and Zelenka's _Lamentations_. He was also a member of _Les Joly Boys_, an ensemble specializing in early secular vocal music.
+Anthony Smith started singing as a boy chorister in Hitchin, Hertfordshire, and proceeded to learn the organ to a high standard. He began to take singing seriously only when offered singing lessons on his arrival as an Organ Scholar at Cambridge in 1999. During his time at Jesus College he had lessons with Suzanne Flowers and Geoffrey Davidson, and sang as a soloist in Haydn's _Nelson Mass_ and Zelenka's _Lamentations_. He was also a member of _Les Joly Boys_, an ensemble specializing in early secular vocal music.
 
 On moving to Brighton in 2002 Anthony began studying with Charles Corp in Worthing. His most recent performances as a soloist have included Handel's _Messiah_ in Hitchin and Worthing, Bach's _St Matthew Passion_ (Christus) in Wandsworth and, with the Worthing Philharmonic Choir, Haydn's _Creation_, _Nelson Mass_ and _Harmoniemesse_ and Mozart's _Mass in C Minor_.
 
-As a choral singer, while in Brighton he sang regularly with the [BREMF Singers](http://www.bremf.org.uk/Bremfsingers.htm) and the [BREMF Consort of Voices](http://www.bremf.org.uk/BCV.htm), both linked with the [Brighton Early Music Festival (BREMF)](http://www.bremf.org.uk/). In York, he was a member of the [Yorkshire Bach Choir](http://www.yorkshirebachchoir.org.uk/) from 2011-2013.
+As a choral singer, while in Brighton he sang regularly with the [BREMF Singers](http://www.bremf.org.uk/Bremfsingers.htm) and the [BREMF Consort of Voices](http://www.bremf.org.uk/BCV.htm), both linked with the [Brighton Early Music Festival (BREMF)](http://www.bremf.org.uk/). In York, he was a member of the [Yorkshire Bach Choir](http://www.yorkshirebachchoir.org.uk/) from 2011-2013. He has been a member of the [Durham Singers](http://www.durham-singers.org/) since 2017.
 
 ### Concerts
 
