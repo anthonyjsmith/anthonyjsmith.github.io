@@ -1,6 +1,6 @@
 ---
 title: Singing
-excerpt: "On this page Audio samples Biography Recent concerts Audio samples Brief samples in MP3 format from a live concert recording, with James Lloyd Thomas (piano)."
+excerpt: Bass-baritone singing activities, including audio samples, biography, and details of recent concerts.
 ---
 ### On this page
 
