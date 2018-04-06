@@ -4,7 +4,7 @@ excerpt: Subscribe to get the latest updates by email or via the RSS feed.
 ---
 Probably the simplest way to get updates is to <a href="https://app.feedblitz.com/f/f.fbz?track={{ site.url | append: '/feed/' | cgi_escape }}" target="_blank">subscribe by email (using feedblitz)</a>.
 
-All methods of subscribing (including email subscriptions) make use of this site's [RSS feed](/feed/). If you're not familiar with this, you can read about RSS, or 'Really Simple Syndication', on [Wikipedia](https://en.wikipedia.org/wiki/RSS). Basically, most blogs and news sites provide an RSS feed (or an Atom feed). There are numerous services and apps that will collect together all your feeds, so you can easily see when there is a new post on one of your favourite sites.
+All methods of subscribing (including email subscriptions) make use of this site's [RSS feed](/feed/). If you're not familiar with this, you can read about RSS, or 'Really Simple Syndication', [here]({% post_url 2018-04-06-take-back-control-of-the-internet-with-rss %}). Basically, most blogs and news sites provide an RSS feed (or an Atom feed). There are numerous services and apps that will collect together all your feeds, so you can easily see when there is a new post on one of your favourite sites.
 
 Personally, I use [Feedly](https://feedly.com/) to keep track of my RSS feeds. If you're a Feedly user, <a href="https://feedly.com/i/subscription/feed/{{ site.url | append: '/feed/' | cgi_escape }}" target="_blank">click here to add to Feedly</a>.
 
