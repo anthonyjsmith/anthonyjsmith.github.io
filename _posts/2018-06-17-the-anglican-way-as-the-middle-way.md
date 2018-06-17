@@ -4,6 +4,7 @@ description: What do Anglicans elsewhere in the world think about Anglicanism? F
   Thomas McKenzie in the USA, the Anglican way holds together apparent opposites.
 tags:
 - Christianity
+image: "/assets/anglican-rose.png"
 date: 2018-06-17 14:40:33.043988000 +01:00
 ---
 What is the English way of life? For us English people living in England the answer is easy: just do what seems normal. Do what your friends do, if that seems normal. Or alternatively, just be yourself, because that might well feel normal too. But ask us to explain what it means to live in an English way, and we quickly get stuck.
