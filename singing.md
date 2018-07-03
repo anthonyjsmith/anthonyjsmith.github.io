@@ -40,6 +40,16 @@ As a choral singer, while in Brighton he sang regularly with the [BREMF Singers]
 
 (As bass/baritone soloist)
 
+### 2018
+
+30 June: Durham Singers concert, soloist in **Purcell's _O sing unto the Lord_**.
+
+> _Anthony Smith rose to the challenge with an assured account of his florid lines_ ([Northern Echo](http://www.thenorthernecho.co.uk/culture/16329270.the-durham-singers-st-brandons-church-brancepeth/))
+
+24 March: Durham Singers concert, soloist in **Scarlatti's _Stabat Mater_**.
+
+> _superb singing by ten soloists ... earthy basses of ... and Anthony Smith_ ([Northern Echo](http://www.thenorthernecho.co.uk/culture/16119020.Durham_Singers__St_Cuthbert_s_Chapel__Ushaw_College/))
+
 ### 2008
 
 12 July: **Haydn's _Harmoniemesse_**, **Vaughan Williams's _Serenade to Music_** and **_We know no thought of vengeance_** from **_The Magic Flute_ (Mozart)**. [Worthing Philharmonic Choir](http://www.worthingphilharmonicchoir.org.uk) concert at St Mary de Haura Church, Shoreham-by-Sea.
