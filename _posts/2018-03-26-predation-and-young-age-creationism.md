@@ -3,7 +3,7 @@ title: Predation and young-age creationism
 description: Even within young-age creationism, it is not easy to explain why animals
   'savagely kill and devour each other'. It seems neither plausible nor justifiable.
 tags:
-- Christian
+- Christianity
 - Origins
 date: 2018-03-26 13:12:46.811573562 +01:00
 ---

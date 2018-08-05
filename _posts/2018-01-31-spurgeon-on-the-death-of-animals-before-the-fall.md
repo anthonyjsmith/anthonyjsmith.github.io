@@ -3,7 +3,7 @@ title: Spurgeon on the death of animals before the fall
 description: The views of the great preacher Charles Haddon Spurgeon about the death
   of animals before the fall seem to have evolved during his ministry.
 tags:
-- Christian
+- Christianity
 - Origins
 date: 2018-01-31 12:07:11.083859000 +00:00
 ---

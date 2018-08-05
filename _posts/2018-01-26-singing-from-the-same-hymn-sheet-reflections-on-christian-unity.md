@@ -3,7 +3,7 @@ title: 'Singing from the same hymn sheet: reflections on Christian unity'
 description: I must confess that the Week of Prayer for Christian Unity has passed
   me by almost unnoticed. But I've been pondering the topic this week.
 tags:
-- Christian
+- Christianity
 date: 2018-01-26 11:05:39.214076952 +00:00
 ---
 I must confess that the Week of Prayer for Christian Unity has passed me by almost unnoticed. But I've been pondering the topic this week.

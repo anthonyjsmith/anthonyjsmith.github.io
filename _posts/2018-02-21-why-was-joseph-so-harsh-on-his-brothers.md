@@ -3,7 +3,7 @@ title: Why was Joseph so harsh on his brothers?
 description: The account of Joseph in Genesis is one of my favourite parts of the
   Bible. But have we missed a key element of the story?
 tags:
-- Christian
+- Christianity
 date: 2018-02-21 07:07:49.210303000 +00:00
 ---
 The account of Joseph in Genesis is one of my favourite parts of the Bible. I love how God's purposes for the world are inseparably linked to the transformation of messed-up individuals and the restoration of a broken family. But have we missed a key element of the story?
