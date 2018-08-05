@@ -21,7 +21,7 @@ Practically, here are some hints for preachers:
 
 * Don't try to preach from all of the readings. One is probably enough. It doesn't have to be the Gospel reading!
 * Look at the lectionary for the surrounding weeks, to see which series (plural) are currently in progress.
-* Co-ordinate with other preachers to decide which readings to use for the sermons. For example, the lectionary is currently taking us through 1 and 2 Samuel, Ephesians, and John 6, and it makes most sense to pick just one set of readings to use over the summer.
+* Co-ordinate with other preachers to decide which readings to use for the sermons. For example, the lectionary is currently taking us through 1 and 2 Samuel, Ephesians, and John 6, and it makes most sense to pick just one set of readings to use over the summer as the basis for the sermons.
 * Co-ordinate with service leaders, musicians, etc, to give some coherence to the service. For example, if the preaching is on the New Testament reading, it makes little sense to have all of the hymns based on the (unrelated) Gospel reading. (Or, worse &ndash; as I have experienced &ndash; for all of the hymns to be based on the completely unrelated theme of the equivalent Sunday in the _ASB_, because the hymn book with suggested hymns for each Sunday was published prior to the year 2000!)
 
 A couple of comments to explain a bit more about the _Common Worship_ Lectionary:
