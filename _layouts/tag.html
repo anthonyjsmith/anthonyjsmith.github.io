@@ -22,11 +22,7 @@ layout: default
       <div class="row">
         <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
 
-          {% for post in site.tags[page.tag] %}
-{% include post.html %}
-          {% endfor %}
-
-{% include addtoany.html %}
+{% assign posts=site.tags[page.tag] %}{% include posts.html posts=posts %}
 
         </div>
       </div>

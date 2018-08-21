@@ -1,11 +1,7 @@
 ---
 layout: index
 ---
-          {% for post in paginator.posts %}
-{% include post.html %}
-          {% endfor %}
-
-{% include addtoany.html %}
+{% include posts.html posts=paginator.posts %}
 
           <!-- Pager -->
           <nav>
