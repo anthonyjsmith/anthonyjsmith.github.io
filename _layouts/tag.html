@@ -22,7 +22,18 @@ layout: default
       <div class="row">
         <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
 
-{% assign posts=site.tags[page.tag] %}{% include posts.html posts=posts %}
+{% if page.page_number %}
+  {% assign offset = page.page_number | minus:1 | times:100 %}
+  {% if page.page_number > 1 %}
+    {% assign previous_path = page.page_number | minus:1 | prepend:'/page/' | prepend:page.tag | prepend:'/tag/' | append: '/' | downcase | replace: 'page/1/', '' %}
+  {% endif %}
+  {% if page.page_number < site.data.tags[page.tag].pages %}
+    {% assign limit = 100 %}
+    {% assign next_path = page.page_number | plus:1 | prepend:'/page/' | prepend:page.tag | prepend:'/tag/' | append: '/' | downcase %}
+  {% endif %}
+{% endif %}
+{% assign posts = site.tags[page.tag] %}
+{% include posts.html posts=posts offset=offset limit=limit previous_path=previous_path next_path=next_path %}
 
         </div>
       </div>

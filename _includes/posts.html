@@ -1,4 +1,4 @@
-          {% for post in include.posts %}
+          {% for post in include.posts offset:include.offset limit:include.limit %}
 {% include post.html %}
           {% endfor %}
 
