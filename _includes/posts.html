@@ -3,3 +3,21 @@
           {% endfor %}
 
 {% include addtoany.html %}
+
+          {% if include.previous_path or include.next_path %}
+          <!-- Pager -->
+          <nav>
+            <ul class="pager">
+                {% if include.previous_path %}
+                <li class="previous">
+                    <a rel="previous" href="{{ include.previous_path | replace: 'index.html', '' }}">&larr; Newer Posts</a>
+                </li>
+                {% endif %}
+                {% if include.next_path %}
+                <li class="next">
+                    <a rel="next" href="{{ include.next_path }}">Older Posts &rarr;</a>
+                </li>
+                {% endif %}
+            </ul>
+          </nav>
+          {% endif %}
