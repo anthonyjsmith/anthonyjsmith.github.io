@@ -10,7 +10,7 @@ layout: default
             <div class="site-heading">
               <h1>{{ page.tag }}</h1>
               <hr class="small">
-              <span class="subheading">{{ site.tags[page.tag] | size }} posts {{ page.subheading }}</span>
+              <span class="subheading">{{ site.tags[page.tag] | size }} posts {{ site.data.tags[page.tag].subheading }}</span>
             </div>
           </div>
         </div>
