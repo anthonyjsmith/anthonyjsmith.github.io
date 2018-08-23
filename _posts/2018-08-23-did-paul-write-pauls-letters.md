@@ -1,14 +1,14 @@
 ---
 title: Did Paul write Paul's letters?
 description: "'I am unconvinced that Paul wrote any of his letters.' So says New Testament
-  scholar Scott McKnight. But what on earth does he mean?"
+  scholar Scot McKnight. But what on earth does he mean?"
 tags:
 - Christianity
 date: 2018-08-23 18:42:44.132742000 +01:00
 ---
 > I am unconvinced that Paul wrote _any_ of his letters.
 
-So says New Testament scholar [Scott McKnight](https://en.wikipedia.org/wiki/Scot_McKnight) in [the latest OnScript podcast](http://onscript.study/podcast/scot-mcknight-colossians-and-philemon/) about his new NICNT commentaries on [Colossians](https://www.eerdmans.com/Products/6798/the-letter-to-the-colossians.aspx) and [Philemon](https://www.eerdmans.com/Products/7382/the-letter-to-philemon.aspx).
+So says New Testament scholar [Scot McKnight](https://en.wikipedia.org/wiki/Scot_McKnight) in [the latest OnScript podcast](http://onscript.study/podcast/scot-mcknight-colossians-and-philemon/) about his new NICNT commentaries on [Colossians](https://www.eerdmans.com/Products/6798/the-letter-to-the-colossians.aspx) and [Philemon](https://www.eerdmans.com/Products/7382/the-letter-to-philemon.aspx).
 
 But what on earth does he mean?
 
