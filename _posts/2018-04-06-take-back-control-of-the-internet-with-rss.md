@@ -34,12 +34,12 @@ First, sign up for a free feed reader. The three highlighted in a [recent Wired 
 Then, if you are a user of mobile technology, it's worth installing an app. The readers listed above all have their own apps ([Feedly](https://feedly.com/apps.html), [The Old Reader](https://theoldreader.com/pages/apps), [Inoreader](https://www.inoreader.com/)), but the following often provide better features, and synchronise with the feed readers mentioned above:
 
 * Android
-  * [Palabre](https://play.google.com/store/apps/details?id=com.levelup.palabre)
-  * [gReader](https://play.google.com/store/apps/details?id=com.noinnion.android.greader.reader). The one I use, though it hasn't been updated in a couple of years, and doesn't claim to be compatible with Inoreader
+  * [Palabre](https://play.google.com/store/apps/details?id=com.levelup.palabre). _Edit: I'm currently using this app_
+  * ~~[gReader](https://play.google.com/store/apps/details?id=com.noinnion.android.greader.reader). The one I use, though it hasn't been updated in a couple of years, and doesn't claim to be compatible with Inoreader.~~ _Edit: not currently available, not being listed on the Play Store, although [the app's own page](http://noinnion.com/greader/) still exists_
 * iOS
   * [Newify](https://itunes.apple.com/us/app/newsify-rss-reader/id510153374). Feedly only, apparently
   * [Reeder](https://itunes.apple.com/us/app/reeder-3/id697846300). Costs a few dollars
 
-Other recommendations? Leave a comment below...
+Other recommendations? Leave a comment below... _Edit: see [here](https://blogging.com/rss-dead/#readers) for a list of RSS readers._
 
 Finally, you can start adding feeds! [Click here for starters...](/subscribe/)
