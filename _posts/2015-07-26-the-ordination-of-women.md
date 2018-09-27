@@ -26,3 +26,4 @@ I'll make this post into an index for any posts (past, present or future) that m
 * [Women teaching men: why was Eve deceived?]({% post_url 2015-09-08-women-teaching-men-why-was-eve-deceived %}) (Sep 2015)
 * [Back to Genesis: why was Eve deceived?]({% post_url 2015-09-11-back-to-genesis-why-was-eve-deceived %}) (Sep 2015)
 * [Liturgical Man, Liturgical Women]({% post_url 2018-04-27-liturgical-man-liturgical-women %}) (Apr 2018)
+* [Alastair Roberts on (women's) ordination]({% post_url 2018-09-27-alastair-roberts-on-womens-ordination %}) (Sep 2018)
