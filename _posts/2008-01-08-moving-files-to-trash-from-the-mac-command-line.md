@@ -20,23 +20,33 @@ function rem {
 
 Then type <code>source ~/.bash_profile</code> in Terminal.
 
-Or Option 2 (uses Python and gives slightly more meaningful error messages): make an executable file called <code>rem</code> somewhere in your <code>$PATH</code>:
+Or Option 2 (uses Python and gives slightly more meaningful error messages): make an executable file called <code>rem</code> or <code>trash</code> somewhere in your <code>$PATH</code> (updated version 1 Oct 2018, in collaboration with Dave Abrahams: see [here](https://gist.github.com/dabrahams/14fedc316441c350b382528ea64bc09c)):
 
 ```python
 #!/usr/bin/env python
 import os
 import sys
+import subprocess
+
 if len(sys.argv) > 1:
+    files = []
     for arg in sys.argv[1:]:
         if os.path.exists(arg):
-            os.system('osascript -e \'tell app "Finder" '
-                      + 'to move the POSIX file "'
-                      + os.path.abspath(arg) + '" to trash\'')
+            p = os.path.abspath(arg).replace('\\', '\\\\').replace('"', '\\"')
+            files.append('the POSIX file "' + p + '"')
         else:
-            print "Error:", os.path.abspath(arg), "does not exist"
+            sys.stderr.write(
+                "%s: %s: No such file or directory\n" % (sys.argv[0], arg))
+    if len(files) > 0:
+        cmd = ['osascript', '-e',
+               'tell app "Finder" to move {' + ', '.join(files) + '} to trash']
+        r = subprocess.call(cmd, stdout=open(os.devnull, 'w'))
+        sys.exit(r if len(files) == len(sys.argv[1:]) else 1)
 else:
-    print "usage: rem file(s)"
-    print "       move file(s) to Trash"
+    sys.stderr.write(
+        'usage: %s file(s)\n'
+        '       move file(s) to Trash\n' % os.path.basename(sys.argv[0]))
+    sys.exit(64) # matches what rm does on my system
 ```
 
 Now, either way, to move <code>blah.txt</code> to Trash, simply type <code>rem blah.txt</code>. Wildcards and lists of files are permitted. You even get the sound effects!
