@@ -42,11 +42,13 @@ As a choral singer, while in Brighton he sang regularly with the [BREMF Singers]
 
 ### 2018
 
-30 June: Durham Singers concert, soloist in **Purcell's _O sing unto the Lord_**.
+30 June, 15 &amp; 16 Sep: soloist in **Purcell's _O sing unto the Lord_**, Durham Singers concerts at St Brandon's Church, Brancepeth, the Stiftskirche in Tübingen, and Castle Solitude near Stuttgart.
 
 > _Anthony Smith rose to the challenge with an assured account of his florid lines_ ([Northern Echo](http://www.thenorthernecho.co.uk/culture/16329270.the-durham-singers-st-brandons-church-brancepeth/))
 
-24 March: Durham Singers concert, soloist in **Scarlatti's _Stabat Mater_**.
+> _baritone Anthony Smith was especially pleasing_ (_besonders gefiel Bariton Anthony Smith_) ([Schwäbisches Tagblatt](https://www.tagblatt.de/Nachrichten/Alles-was-Odem-hat-386560.html), Tübingen)
+
+24 Mar: soloist in **Scarlatti's _Stabat Mater_**, Durham Singers concert at Ushaw College.
 
 > _superb singing by ten soloists ... earthy basses of ... and Anthony Smith_ ([Northern Echo](http://www.thenorthernecho.co.uk/culture/16119020.Durham_Singers__St_Cuthbert_s_Chapel__Ushaw_College/))
 
