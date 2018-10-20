@@ -1,8 +1,8 @@
 ---
 title: About
-excerpt: "Christian. CofE ordinand in Durham. Previous lives: organist, astronomer, software developer. Married, green, singer"
+excerpt: "Christian. Husband. CofE ordinand in Durham. Previous lives: organist, astronomer, software developer. Singer (classical)."
 ---
-_Christian. CofE ordinand in Durham. Previous lives: organist, [astronomer](/astronomy/), [software developer](/software/). [Married](http://elinevanasperen.wordpress.com/), green, [singer](/singing/)._
+_Christian. [Husband](http://elinevanasperen.wordpress.com/). CofE ordinand in Durham. Previous lives: organist, [astronomer](/astronomy/), [software developer](/software/). [Singer (classical)](/singing/)._
 
 <img alt="Me" title="Me" src="/assets/me.jpg" class="alignleft">Since October 2016, I've been training for ordained ministry in the Church of England as a student at [Cranmer Hall](https://community.dur.ac.uk/cranmer.hall/) in Durham.
 
