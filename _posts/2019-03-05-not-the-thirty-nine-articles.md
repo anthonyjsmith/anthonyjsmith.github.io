@@ -1,6 +1,6 @@
 ---
 title: Not the Thirty-nine Articles
-description: 
+description: "The 'Articles of Religion' count as one of the constitutional documents of the Church of England. I'm going to be blogging about them during Lent."
 tags:
 - Christianity
 image: "/assets/packer-beckwith-thirty-nine-articles.jpg"
