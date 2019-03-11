@@ -6,7 +6,7 @@ tags:
 image: "/assets/packer-beckwith-thirty-nine-articles.jpg"
 date: 2019-03-05 12:33:36.460366000 +00:00
 ---
-The Thirty-nine 'Articles of Religion', which reached their final form in 1571, count as one of the 'historic formularies' (constitutional documents) of the Church of England. I'm going to be reading and blogging about them during Lent. But fear not: this is not the first of thirty-nine articles about them! My plan is to group them together, and to offer a brief summary and one or two reflections, perhaps over seven or eight blog posts.
+The Thirty-nine 'Articles of Religion', which reached their final form in 1571, count as one of the 'historic formularies' (constitutional documents) of the Church of England. I'm going to be reading and blogging about them during Lent. But fear not: this is not the first of thirty-nine articles about them! My plan is to group them together, and to offer a brief summary and one or two reflections, perhaps over seven or eight blog posts [[1-5]({% post_url 2019-03-11-god-39-articles-1-5 %}), ...].
 
 'Not the Thirty-nine Articles' would be fairly accurate as a description of my journey over the past few years. I don't recall being directed to them during the process of exploring the possibility of training for ordained ministry (though they might have been mentioned in passing). Nor have they made more than a couple of appearances during my training in college (though recent changes to the Anglicanism modules at Cranmer Hall have given them a more prominent place). So why bother? Why treat them as more than a historical curiosity?
 
