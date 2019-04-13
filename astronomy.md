@@ -14,7 +14,7 @@ Prior to starting the MSc, I was at [Jesus College](http://www.jesus.cam.ac.uk/)
 
 ## Papers
 
-[Publications (ADS)](http://adsabs.harvard.edu/cgi-bin/nph-abs_connect?library&amp;libname=Publications&amp;libid=463761478a)
+[Publications (ADS)](https://ui.adsabs.harvard.edu/public-libraries/sGcq_61aQa6u_2R5zK3eww)
 
 ## Posters
 
