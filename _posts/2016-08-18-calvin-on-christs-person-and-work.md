@@ -11,25 +11,25 @@ The final chapters (12-17) of Book II of Calvin's [_Institutes_]({% post_url 201
 
 Why was it necessary for the Mediator to be both God and human? Among the lengthy answers to objections, this is explained with beautiful simplicity.
 
-First, the Mediator needed to be *human* because, in order for us to be reconciled to God, it was necessary for humanity to pay the penalty for sin through death:
+First, the Mediator needed to be **human** because, in order for us to be reconciled to God, it was necessary for humanity to pay the penalty for sin through death:
 
 > Accordingly, our Lord came forth as true man and took the person and the name of Adam in order to take Adam's place in obeying the Father, to present our flesh as the price of satisfaction to God's righteous judgment, and, in the same flesh, to pay the penalty that we had deserved (II.xii.3).
 
-But, second, the Mediator needed to be *God* because 'It was his task to swallow up death. Who but the Life could do this?' (II.xii.2).
+But, second, the Mediator needed to be **God** because 'It was his task to swallow up death. Who but the Life could do this?' (II.xii.2).
 
 Putting these together,
 
 > In short, since neither as God alone could he feel death, nor as man alone could he overcome it, he coupled human nature with divine that to atone for sin he might submit the weakness of the one to death; and that, wrestling with death by the power of the other nature, he might win victory for us (II.xii.3).
 
-The word 'Christ' means 'anointed'. So, as the fulfilment of the Old Testament types, Christ comes as prophet, king and priest, 'for we know that under the law prophets as well as priests and kings were anointed with holy oil' (II.xv.2). As *prophet*,
+The word 'Christ' means 'anointed'. So, as the fulfilment of the Old Testament types, Christ comes as prophet, king and priest, 'for we know that under the law prophets as well as priests and kings were anointed with holy oil' (II.xv.2). As **prophet**,
 
 > he received anointing, not only for himself that he might carry out the office of teaching, but for his whole body that the power of the Spirit might be present in the continuing preaching of the gospel (II.xv.2).
 
-As *king*,
+As **king**,
 
 > he assures the godly of the everlasting preservation of the church, and encourages them to hope, whenever it happens to be oppressed (II.xv.3).
 
-As *priest*, he is sent by God to offer a sacrifice to God, but he himself is that sacrifice.
+As **priest**, he is sent by God to offer a sacrifice to God, but he himself is that sacrifice.
 
 > This was because no other satisfaction adequate for our sins, and no man worthy to offer to God the only-begotten Son, could be found (II.xv.6).
 
