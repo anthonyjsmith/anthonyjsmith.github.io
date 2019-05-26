@@ -1,7 +1,7 @@
 ---
 title: The Lord's Supper (39 Articles, 28-31)
 description: The Lord's Supper was at the heart of the controversies of the Reformation,
-  so the Articles have much to say about it. But the basic point is quite simple.
+  so the Articles say much about it. But the basic point is quite simple.
 tags:
 - Christianity
 date: 2019-05-26 11:47:06.339118000 +01:00
