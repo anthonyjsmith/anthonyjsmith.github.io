@@ -17,7 +17,7 @@ UPDATE: here they are...
 * [Church (19-24)]({% post_url 2019-04-02-church-39-articles-19-24 %})
 * [The sacraments and baptism (25-27)]({% post_url 2019-04-27-the-sacraments-and-baptism-39-articles-25-27 %})
 * [The Lord's Supper (28-31)]({% post_url 2019-05-26-the-lords-supper-39-articles-28-31 %})
-* ...
+* [Church and civil government (32-39)]({% post_url 2019-05-27-church-and-civil-government-39-articles-32-39 %})
 
 'Not the Thirty-nine Articles' would be fairly accurate as a description of my journey over the past few years. I don't recall being directed to them during the process of exploring the possibility of training for ordained ministry (though they might have been mentioned in passing). Nor have they made more than a couple of appearances during my training in college (though recent changes to the Anglicanism modules at Cranmer Hall have given them a more prominent place). So why bother? Why treat them as more than a historical curiosity?
 
