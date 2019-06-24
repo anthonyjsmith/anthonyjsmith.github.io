@@ -1,6 +1,6 @@
 name: Anthony Smith
 title: Anthony Smith # for jekyll-seo-tag, otherwise <title> ends up as <page title> | anthonyjsmith.github.io
-description: 'Christian. Husband. CofE ordinand in Durham. Previous lives: organist, astronomer, software developer. Singer (classical).'
+description: "Christian. Husband. Soon-to-be curate at St Paul's Spennymoor & Whitworth Church. Previous lives: organist, astronomer, software developer. Singer (classical)."
 url: https://www.anthonysmith.me.uk
 exclude: [README.md, Gemfile, Gemfile.lock, CNAME]
 permalink: pretty

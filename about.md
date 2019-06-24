@@ -1,8 +1,8 @@
 ---
 title: About
-excerpt: "Christian. Husband. CofE ordinand in Durham. Previous lives: organist, astronomer, software developer. Singer (classical)."
+excerpt: "Christian. Husband. Soon-to-be curate at St Paul's Spennymoor & Whitworth Church. Previous lives: organist, astronomer, software developer. Singer (classical)."
 ---
-_Christian. [Husband](http://elinevanasperen.wordpress.com/). CofE ordinand in Durham. Previous lives: organist, [astronomer](/astronomy/), [software developer](/software/). [Singer (classical)](/singing/)._
+_Christian. [Husband](http://elinevanasperen.wordpress.com/). Soon-to-be curate at [St Paul's Spennymoor](http://www.stpaulsspennymoor.co.uk) & [Whitworth Church](https://www.achurchnearyou.com/church/13568/). Previous lives: organist, [astronomer](/astronomy/), [software developer](/software/). [Singer (classical)](/singing/)._
 
 <img alt="Me" title="Me" src="/assets/me.jpg" class="alignleft">Since October 2016, I've been training for ordained ministry in the Church of England as a student at [Cranmer Hall](https://community.dur.ac.uk/cranmer.hall/) in Durham.
 
