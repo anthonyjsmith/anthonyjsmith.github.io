@@ -4,7 +4,9 @@ excerpt: "Christian. Husband. Soon-to-be curate at St Paul's Spennymoor & Whitwo
 ---
 _Christian. [Husband](http://elinevanasperen.wordpress.com/). Soon-to-be curate at [St Paul's Spennymoor](http://www.stpaulsspennymoor.co.uk) & [Whitworth Church](https://www.achurchnearyou.com/church/13568/). Previous lives: organist, [astronomer](/astronomy/), [software developer](/software/). [Singer (classical)](/singing/)._
 
-<img alt="Me" title="Me" src="/assets/me.jpg" class="alignleft">Since October 2016, I've been training for ordained ministry in the Church of England as a student at [Cranmer Hall](https://community.dur.ac.uk/cranmer.hall/) in Durham.
+<img alt="Me" title="Me" src="/assets/me.jpg" class="alignleft">On 30 June 2019 I am [due to be ordained]({% post_url 2018-10-14-curacy-announcement %}) as a deacon in the Church of England, to serve as [curate](http://www.stpaulsspennymoor.co.uk/site/index.php?page=content&content=8879) of [St Paul's Church, Spennymoor](http://www.stpaulsspennymoor.co.uk), and [Whitworth Church](https://www.achurchnearyou.com/church/13568/), in the Diocese of Durham.
+
+From 2016 to 2019 I trained for ordained ministry in the Church of England at [Cranmer Hall](https://community.dur.ac.uk/cranmer.hall/) in Durham.
 
 Until the summer of 2016, I worked in [computer software](/software/). Previously I was a university researcher in [astronomy](/astronomy/), but that drifted towards astronomical computer software, and then I moved into freelance web development. I also spent a fair bit of time trying to support Christian postgraduate students in Liverpool and elsewhere (partly through involvement in [Faith-in-Scholarship](http://wysocs.org.uk/faith-in-scholarship) and [Transforming the Mind](http://christianpostgrad.org.uk/content/node/34)).
 
