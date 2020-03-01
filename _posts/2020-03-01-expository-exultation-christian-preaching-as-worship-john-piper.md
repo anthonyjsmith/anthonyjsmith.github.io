@@ -1,6 +1,6 @@
 ---
 title: 'Expository Exultation: Christian Preaching as Worship (John Piper)'
-description: 
+description: "For Piper, preaching ought to be expository, and it ought serve worship: 'seeing, savoring, and showing the supreme beauty and worth of the triune God'."
 tags:
 - Christianity
 - Reviews
