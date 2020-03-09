@@ -28,11 +28,17 @@ K-band galaxy luminosity and surface brightness distribution from the LAS (Scien
 
 ## Popular/non-specialist talks
 
+9 Mar 2020: **Journey through the Universe**\\
+_[St Paul's Mothers' Union, Spennymoor](http://www.stpaulsspennymoor.co.uk/site/index.php?page=content&content=4871)_
+
 23 Apr 2012: **Astronomy through a Christian telescope**\\
 _[West Yorkshire School of Christian Studies (WYSOCS)](http://www.wysocs.org.uk/lifematters/recent-events.php), Leeds_
 
 12 Mar 2011: **Once upon a time in reality: how to read a scientific story** (with Eline van Asperen) [PDF](http://christianacademicnetwork.net/2011Conference/reports/CANScientificStories.pdf) | [MP3](http://christianacademicnetwork.net/2011Conference/Recordings/AnthonyEline.mp3)\\
 _["Knowing In God's World"](http://christianacademicnetwork.net/newjoomla/index.php?option=com_content&amp;view=article&amp;id=228&amp;Itemid=109), Christian Academic Network, Nottingham_
+
+13 Nov 2010: **Journey through the Universe**\\
+_Calvary International Cafe, [Calvary Evangelical Church, Brighton, UK](http://www.calvary-brighton.org.uk/)_
 
 12 Jun 2010: **Surveying the Universe with the Herschel Space Observatory**\\
 _Men's breakfast, [Hurstpierpoint Evangelical Church](http://www.hppevangelical.org.uk/)_
