@@ -31,7 +31,7 @@ Comments welcome, and don't forget to subscribe to future posts, either using th
 
 **Book Three. The Way in Which We Receive the Grace of Christ: What Benefits Come to Us from It, and What Effects Follow**
 
-* The Holy Spirit and faith (1-2, 55pp)
+* [The Holy Spirit and faith]({% post_url 2020-09-01-calvin-on-the-holy-spirit-and-faith %}) (1-2, 55pp)
 * Regeneration and repentance (3-5, 92pp)
 * The Christian life (6-10, 41pp)
 * Justification (11-19, 125pp)
