@@ -1,10 +1,10 @@
 ---
 title: About
-excerpt: "Christian. Husband. Deacon. Curate at St Paul's Spennymoor & Whitworth Church. Previous lives: organist, astronomer, software developer. Singer (classical)."
+excerpt: "Christian. Husband. Curate at St Paul's Spennymoor & Whitworth Church. Previous lives: organist, astronomer, software developer. Singer (classical)."
 ---
-_Christian. [Husband](http://elinevanasperen.wordpress.com/). Deacon. Curate at [St Paul's Spennymoor](http://www.stpaulsspennymoor.co.uk) & [Whitworth Church](https://www.achurchnearyou.com/church/13568/). Previous lives: organist, [astronomer](/astronomy/), [software developer](/software/). [Singer (classical)](/singing/)._
+_Christian. [Husband](http://elinevanasperen.wordpress.com/). Curate at [St Paul's Spennymoor](http://www.stpaulsspennymoor.co.uk) & [Whitworth Church](https://www.achurchnearyou.com/church/13568/). Previous lives: organist, [astronomer](/astronomy/), [software developer](/software/). [Singer (classical)](/singing/)._
 
-<img alt="Me" title="Me" src="/assets/me.jpg" class="alignleft">On 30 June 2019 I was [ordained]({% post_url 2018-10-14-curacy-announcement %}) in Durham Cathedral as a deacon, to serve as [curate](http://www.stpaulsspennymoor.co.uk/site/index.php?page=content&content=8879) of [St Paul's Church, Spennymoor](http://www.stpaulsspennymoor.co.uk), and [Whitworth Church](https://www.achurchnearyou.com/church/13568/), in the Diocese of Durham (Church of England).
+<img alt="Me" title="Me" src="/assets/me.jpg" class="alignleft">On 30 June 2019 I was [ordained]({% post_url 2018-10-14-curacy-announcement %}) in Durham Cathedral, to serve as [curate](http://www.stpaulsspennymoor.co.uk/site/index.php?page=content&content=8879) of [St Paul's Church, Spennymoor](http://www.stpaulsspennymoor.co.uk), and [Whitworth Church](https://www.achurchnearyou.com/church/13568/), in the Diocese of Durham (Church of England).
 
 From 2016 to 2019 I trained for ordained ministry in the Church of England at [Cranmer Hall](https://community.dur.ac.uk/cranmer.hall/) in Durham. Previously I was a university researcher in [astronomy](/astronomy/), but that drifted towards [computer software](/software/), first astronomical computer software, and then freelance web development. I also spent a fair bit of time trying to support Christian postgraduate students, partly through involvement in [Faith-in-Scholarship](http://wysocs.org.uk/faith-in-scholarship) and [Transforming the Mind](http://christianpostgrad.org.uk/content/node/34).
 
