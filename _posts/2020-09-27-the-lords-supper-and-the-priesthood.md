@@ -6,7 +6,7 @@ tags:
 - Christianity
 date: 2020-09-27 17:50:33.662068000 +01:00
 ---
-_My sermon from this morning, in which I attempt to explain the meaning of Lord's Supper and its connection with being ordained as a 'priest' in the Church of England. You can watch it [here](https://www.facebook.com/watch/?v=817149432156928)._
+_My sermon from this morning, in which I attempt to explain the meaning of Lord's Supper and its connection with being ordained as a priest in the Church of England. You can watch it [here](https://www.facebook.com/watch/?v=817149432156928)._
 
 [On Friday evening, in Sunderland Minster, I was ordained as a priest](https://www.youtube.com/watch?v=sOWIlpvA_Ow). And one immediate difference that makes is that now I'm allowed to take a communion service. So Matt and I thought we'd have a break from our series in Luke's Gospel, and have a one-off sermon about Holy Communion, otherwise known as the Lord's Supper.
 
