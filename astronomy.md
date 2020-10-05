@@ -28,6 +28,9 @@ K-band galaxy luminosity and surface brightness distribution from the LAS (Scien
 
 ## Popular/non-specialist talks
 
+4 Oct 2020: **'When I consider your heavens...’**\\
+_[St Barnabas, Middlesbrough](http://www.st-barnabas.net/) (via Zoom)_
+
 9 Mar 2020: **Journey through the Universe**\\
 _[St Paul's Mothers' Union, Spennymoor](http://www.stpaulsspennymoor.co.uk/site/index.php?page=content&content=4871)_
 
