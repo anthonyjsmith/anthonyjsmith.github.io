@@ -18,6 +18,6 @@ If this is correct, it does help to emphasise the unity of God's redemptive work
 
 It also makes me wonder why we don't make more of the Annunciation? It's not as if the incarnation happened when Jesus emerged from his mother's womb, after all: the unborn baby was God incarnate from the moment of conception.
 
-However, calendars are messy, and even if there was originally a connection between Passover and the Annunciation, it has been obscured by the subsequent dating of Easter, and even further by our rules for ordering the Christian year. In fact, if the Annunciation has the audacity to fall between Palm Sunday and the Second Sunday of Easter, it is transferred to the following Monday!
+However, calendars are messy, and even if there was originally a connection between Passover and the Annunciation, it has been obscured by the subsequent [dating of Easter]({% post_url 2016-03-28-dating-easter-a-brief-and-inadequate-guide %}), and even further by our rules for ordering the Christian year. In fact, if the Annunciation has the audacity to fall between Palm Sunday and the Second Sunday of Easter, it is transferred to the following Monday!
 
 Perhaps it's time to reform our calendars and straighten everything out...?
