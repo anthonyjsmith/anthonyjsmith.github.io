@@ -21,3 +21,5 @@ It also makes me wonder why we don't make more of the Annunciation? It's not as 
 However, calendars are messy, and even if there was originally a connection between Passover and the Annunciation, it has been obscured by the subsequent [dating of Easter]({% post_url 2016-03-28-dating-easter-a-brief-and-inadequate-guide %}), and even further by our rules for ordering the Christian year. In fact, if the Annunciation has the audacity to fall between Palm Sunday and the Second Sunday of Easter, it is transferred to the following Monday!
 
 Perhaps it's time to reform our calendars and straighten everything out...?
+
+(Update: James Patrick published a blog post on this same topic a few days ago: [The Jewish Origins of the Date of Christmas](https://alabastertheology.wordpress.com/2020/12/22/jewish-origins-of-date-of-christmas/).)
