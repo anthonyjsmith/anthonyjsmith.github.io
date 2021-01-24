@@ -40,7 +40,7 @@ Still more recently he has continued to explore this issue, writing that
 
 This is then likened to another constraint upon God, which 'is the necessity, oft-repeated in the New Testament, that Jesus should have to endure degrading execution to release, finally and fully, the redemptive purposes of God into the world'.[^50] However, there is a significant difference between the two constraints. The latter is conventionally seen as necessary in order to redeem humanity from the consequences of the human fall into sin, whereas the former involves God's purposes in creation. The comparison therefore risks implying that there is no fundamental difference between God's act of creation and God's act of redemption.[^51]
 
-The problem of animal pain and suffering appears not to admit a simple solution, either in terms of a fall (whether human or angelic), or in terms of an 'only way' argument. Both of these avenues involve a great deal of speculation beyond the biblical text, and both have serious difficulties. Is there another way to proceed?
+The problem of animal pain and suffering appears not to admit a simple solution, either in terms of a fall (whether human or angelic), or in terms of an 'only way' argument. Both of these avenues involve a great deal of speculation beyond the biblical text, and both have serious difficulties. [Is there another way to proceed?]({% post_url 2021-01-24-is-the-groaning-of-creation-good %})
 
 [^33]: Christopher Southgate, _The Groaning of Creation: God, Evolution, and the Problem of Evil_ (Louisville: Westminster John Knox, 2008), 48.
 [^34]: Southgate, _Groaning_, 12.
