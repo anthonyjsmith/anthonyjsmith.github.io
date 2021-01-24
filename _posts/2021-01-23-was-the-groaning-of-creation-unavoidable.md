@@ -60,4 +60,4 @@ The problem of animal pain and suffering appears not to admit a simple solution,
 [^48]: Christopher Southgate, 'Re-reading Genesis, John, and Job: A Christian Response to Darwinism', _Zygon_, 46 (2011), 388.
 [^49]: Christopher Southgate, 'Cosmic Evolution and Evil', in _The Cambridge Companion to the Problem of Evil_, ed. by Chad Meister and Paul K. Moser (Cambridge: Cambridge University Press, 2017), 157.
 [^50]: Southgate, 'Cosmic Evolution', 158.
-[^51]: J. Richard Middleton, 'The Problem of Animal Suffering in a Good Creation—Engaging Ronald Osborn's _Death Before the Fall_ (IVP, 2014), Part 3', <https://wp.me/p3VA6E-kY> visited on 4 March 2018.
+[^51]: J. Richard Middleton, ['The Problem of Animal Suffering in a Good Creation—Engaging Ronald Osborn's _Death Before the Fall_ (IVP, 2014), Part 3'](https://wp.me/p3VA6E-kY), visited on 4 March 2018.
