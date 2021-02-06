@@ -5,7 +5,7 @@ tags:
 - Christianity
 - Reviews
 ---
-The Bible [seems to attribute an astonishing power to baptism](http://www.biblegateway.com/passage/?search=Acts2:38;22:16;Romans6:1-7;1Cor6:11;12:13;Gal3:27-28;Col2:12;1Peter3:21&amp;version=ESVUK).
+The Bible [seems to attribute an astonishing power](http://www.biblegateway.com/passage/?search=Acts2:38;22:16;Romans6:1-7;1Cor6:11;12:13;Gal3:27-28;Col2:12;1Peter3:21&amp;version=ESVUK) to [baptism]({% post_url 2013-12-27-ecclesiocredopaedobaptism %}).
 
 What are we to make of this?
 

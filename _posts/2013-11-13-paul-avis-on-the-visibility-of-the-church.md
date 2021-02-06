@@ -11,7 +11,7 @@ So I really can't continue to think of the Church primarily in invisible and "sp
 
 So, as I was enjoying my first visit to [Liverpool Central Library](http://liverpool.gov.uk/libraries/find-a-library/central-library/) last week, taking careful note of where the books fell in the Dewey Decimal Classification, I was delighted to stumble across a small book on [_The Anglican Understanding of the Church_](http://www.spckpublishing.co.uk/shop/anglican-understanding-of-the-church-an/) by [Paul Avis](http://en.wikipedia.org/wiki/Paul_Avis) (1st edition, 2000). Delighted, because it was (1) about the Church, (2) about the Anglican understanding of the Church, and (3) small. So I borrowed it and read it (which is more than can be said for most of my books, which I tend to buy and _not_ read). As I need to return the book to the library, permit me to jot down a couple of key points.
 
-Central for Avis are the sacraments of baptism and the eucharist (the Lord’s Supper):
+Central for Avis are the sacraments of [baptism]({% post_url 2013-12-27-ecclesiocredopaedobaptism %}) and the eucharist (the Lord’s Supper):
 
 > [B]aptism and the eucharist provide the primary ecclesiological condition for the mutual acceptance of one another as fellow Christians, united with one another through our union with Christ (p.49).
 

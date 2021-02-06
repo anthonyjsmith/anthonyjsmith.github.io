@@ -4,7 +4,7 @@ description: Most in the Reformed tradition would (I think) argue that infants s
 tags:
 - Christianity
 ---
-Baptism is slightly topical at the moment, with the Church of England putting an article on its website yesterday entitled [_Top 10 facts about Christenings_](http://www.churchofengland.org/media-centre/news/2013/07/top-10-facts-about-christenings.aspx) (see the helpful [commentary/critique by Jake Belder](http://blog.jakebelder.com/post/if-you-want-to-know-about-baptism-dont-ask-the-church-of-england)), and (perhaps not unrelated?) with a baby having been born recently (maybe you heard?).
+[Baptism]({% post_url 2013-12-27-ecclesiocredopaedobaptism %}) is slightly topical at the moment, with the Church of England putting an article on its website yesterday entitled [_Top 10 facts about Christenings_](http://www.churchofengland.org/media-centre/news/2013/07/top-10-facts-about-christenings.aspx) (see the helpful [commentary/critique by Jake Belder](http://blog.jakebelder.com/post/if-you-want-to-know-about-baptism-dont-ask-the-church-of-england)), and (perhaps not unrelated?) with a baby having been born recently (maybe you heard?).
 
 So it seems a good excuse to put up a few thoughts I was having a while ago about the Anglican understanding of infant baptism.
 

@@ -4,7 +4,7 @@ description: Baptism is the sign of someone being a Christian. It represents the
 tags:
 - Christianity
 ---
-Baptism is the sign of someone being a Christian. It represents the washing away of a person's sins by the Spirit and the beginning of a new life in Jesus Christ.
+[Baptism]({% post_url 2013-12-27-ecclesiocredopaedobaptism %}) is the sign of someone being a Christian. It represents the washing away of a person's sins by the Spirit and the beginning of a new life in Jesus Christ.
 
 There are lots of differences of understanding regarding baptism within the Christian church. Those in the Protestant Reformed tradition (and others) do not see the water of baptism as having any power in and of itself. Rather, it functions as a sign and seal of rebirth only when it accompanies the reality which it signifies. That is, baptism is a sign and seal of regeneration only when accompanied by faith on the part of the one being baptised, since faith in Christ is evidence of regeneration.
 

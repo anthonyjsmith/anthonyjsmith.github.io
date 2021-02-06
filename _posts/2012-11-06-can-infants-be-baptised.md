@@ -4,7 +4,7 @@ description: Is infant baptism something that should not be done, but can be don
 tags:
 - Christianity
 ---
-Still pondering the issue of baptism. Previous I asked, [Should infants be baptised?]({% post_url 2012-08-27-should-infants-be-baptised %}) I thought not. But there's another question, which is also important: _Can_ infants be baptised?
+Still pondering the issue of [baptism]({% post_url 2013-12-27-ecclesiocredopaedobaptism %}). Previous I asked, [Should infants be baptised?]({% post_url 2012-08-27-should-infants-be-baptised %}) I thought not. But there's another question, which is also important: _Can_ infants be baptised?
 
 To explain...
 

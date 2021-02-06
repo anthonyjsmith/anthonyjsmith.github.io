@@ -4,7 +4,7 @@ description: Regular readers will (both) be aware that I've been trying to get a
 tags:
 - Christianity
 ---
-Regular readers will (both) be aware that I've been trying to get a better understanding and appreciation of baptism, that wonderful sign of cleansing and new life that Jesus Christ gave to his church.
+Regular readers will (both) be aware that I've been trying to get a better understanding and appreciation of [baptism]({% post_url 2013-12-27-ecclesiocredopaedobaptism %}), that wonderful sign of cleansing and new life that Jesus Christ gave to his church.
 
 So I was delighted to find the [latest issue](http://www.affinity.org.uk/foundations-issues/issue-63) of [Affinity](http://affinity.org.uk/)'s [_Foundations_](http://www.affinity.org.uk/resources/foundations) journal devoted to this topic.
 
