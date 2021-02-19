@@ -37,9 +37,6 @@ The remainder of Part 1 of the book consists of a masterful survey of the histor
 
 And here are the results (everyone would describe the God's gift as 'superabundant', so this is not included below)...
 
-
-
-
 | **Marcion**   | Singularity&nbsp; |          | Incongruity    |          |                 |
 | **Augustine**&nbsp; |             | Priority&nbsp; | Incongruity&nbsp;    | Efficacy&nbsp; |                 |
 | **Pelagius**  |             | Priority |                |          |                 |
