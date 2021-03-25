@@ -23,3 +23,5 @@ However, calendars are messy, and even if there was originally a connection betw
 Perhaps it's time to reform our calendars and straighten everything out...?
 
 (Update: James Patrick published a blog post on this same topic a few days ago: [The Jewish Origins of the Date of Christmas](https://alabastertheology.wordpress.com/2020/12/22/jewish-origins-of-date-of-christmas/).)
+
+(Update 2: Tom Holland has also written on this topic: [The myth of 'pagan' Christmas](https://unherd.com/2020/12/the-myth-of-pagan-christmas/). 'Christian scholars, drawing on similar traditions, came to believe that Jesus had died on the anniversary of his incarnation. And the date of that anniversary? First in Carthage, and then in Rome, it came to be identified with what, according to the Roman calendar, was 25 March. Then, once that particular date had bedded down — and operating on the assumption that Christ had been born nine months after his conception — it required only a simple calculation to arrive at the date of his birth. By the 4th century, 25 December was coming to be enshrined across the western half of the empire as the anniversary of Christ’s birth.')
