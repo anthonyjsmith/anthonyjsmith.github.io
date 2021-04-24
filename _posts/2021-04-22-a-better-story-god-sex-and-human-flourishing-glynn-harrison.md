@@ -16,7 +16,7 @@ Since the 1960s, we have been living through a sexual revolution.
 
 So writes Christian psychiatrist Glynn Harrison in his 2017 book, [_A Better Story_](https://ivpbooks.com/a-better-story).
 
-Harrison's contention is that the sexual revolution has been so effective because it is build around a powerful _story_. Here is how he summarises it:
+Harrison's contention is that the sexual revolution has been so effective because it is built around a powerful _story_. Here is how he summarises it:
 
 > For centuries, traditional morality had us &ndash; all of us &ndash; in its suffocating grip. Year after year the same old rules, chained to the past, heaped shame on ordinary men and women (and boys and girls) whose only crime was being different. Enemies of the human spirit, these bankrupt ideologies befriended bigots and encouraged the spiteful. They nurtured a seedbed of hypocrisy and offered safe havens to perpetrators of abuse.
 >
