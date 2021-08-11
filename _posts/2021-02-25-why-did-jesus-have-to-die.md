@@ -38,11 +38,11 @@ That's the question I want us to think about for a few minutes.
 
 There are lots of ways in which Christians have described Jesus' death.
 
-People describe it as an act of **love**. 'God so _loved_ the world that he gave his only Son' (John 3:16). But that's about motive. It's about what motivated Jesus to go to the cross. But it doesn't explain why dying on the cross is an act of love.
+People describe it as an act of **love**. 'God so _loved_ the world that he gave his only Son' (John 3:16). But that's about motive. It's about what motivated Jesus to go to the cross. But it doesn't explain why dying on the cross was an act of love.
 
-Two people are walking together by the river. One turns to the other and says, 'I love you so much, I'd do anything for you.' And then he jumps in the river and drowns. Is that an act of love? No. It's a pointless waste of life.
+Two people are walking together by the river. One turns to the other and says, 'I love you so much, I'd do anything for you.' And then jumps in the river and drowns. Is that an act of love? No. It's a pointless waste of life.
 
-Two people are walking together by the river again. One trips and falls in. The other jumps in after him, and brings him to shore. But then that second guy gets swept away and drowns. Is that an act of love? Yes.
+Two people are walking together by the river again. One trips and falls in. The other jumps in after him, and brings him to shore. But then that second person gets swept away and drowns. Is that an act of love? Yes.
 
 So if Jesus' death was an act of love, then why? What did it achieve? Jesus was crucified between two other people. What made his death different to theirs?
 
@@ -64,9 +64,9 @@ Something like this ...
 
 Once upon a time ...
 
-The reason people are here is to populate the world, to take care of the world, to make it more and more beautiful and magnificent, and to prepare it to be filled with God's presence and God's glory and God's love.
+The reason people were created was to populate the world, to take care of the world, to make it more and more beautiful and magnificent, and to prepare it to be filled with God's presence and God's glory and God's love.
 
-But people made a mess of it. They rejected God's loving rule, and started serving other gods. They made gods of money and sex and power, and filled the world with violence.
+But people made a mess of things. They rejected God's loving rule, and started serving other gods. They made gods of money and sex and power, and filled the world with violence.
 
 But then God picked one man, Abraham, and said that through Abraham and Abraham's descendants God would sort things out.
 
@@ -76,7 +76,7 @@ But Abraham's descendants, the people of Israel, were just as bad as everyone el
 
 But then Jesus came along.
 
-And he knew his family history. He knew he was descended from Abraham, but that Abraham's vocation hadn't been fulfilled, to bring blessing to the world. He knew that his ancestors had been slaves to Pharaoh in Egypt. But now his people were slaves to the Romans, and to all sorts of evil powers. He knew that he was descended from King David. But he knew that his people were waiting for another king to arise, a descendant of David. He knew that his ancestors sinned and had been sent into exile in Babylon. But he knew that those sins hadn't really been dealt with, and that they were waiting for God to return to his temple. And Jesus saw all of these lines of history coming together in him.
+And he knew his family history. He knew he was descended from Abraham, but that Abraham's vocation hadn't been fulfilled, to bring blessing to the world. He knew that his ancestors had been slaves to Pharaoh in Egypt. But now his people were slaves to the Romans, and to all sorts of evil powers. He knew that he was descended from King David. But he knew that his people were waiting for another king to arise, a descendant of David. He knew that his ancestors had sinned and had been sent into exile in Babylon. But he knew that those sins hadn't really been dealt with, and that they were still waiting for God to return to his temple. And Jesus saw all of these lines of history coming together in him.
 
 So why did Jesus have to die?
 
@@ -86,4 +86,4 @@ I don't know if you've ever fried an ant with a magnifying glass. But it's as if
 
 And the question for us, during this season of Lent, and every day, is whether we will follow Jesus. Whether we will entrust our lives to him. Whether through baptism we will die with him to the old way of being human, and rise as members of a new humanity. And whether we will go through life as members of his body, the church, eating and drinking in his presence, living lives of service and suffering and self-denial, and taking up our human vocation again, to make this world more beautiful and more glorious, so that we and the whole creation may one day be filled with God's presence and God's love.
 
-'He called the crowd with his disciples, and said to them, "If any want to become my followers, let them deny themselves and take up their cross and follow me. For those who want to save their life will lose it, and those who lose their life for my sake, and for the sake of the gospel, will save it."'
+Jesus 'called the crowd with his disciples, and said to them, "If any want to become my followers, let them deny themselves and take up their cross and follow me. For those who want to save their life will lose it, and those who lose their life for my sake, and for the sake of the gospel, will save it."'
