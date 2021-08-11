@@ -88,7 +88,7 @@ So, what is a priest?
 
 Here we need a bit of history. Because our English word 'priest' has two different meanings.
 
-The word itself, the word 'priest', comes from the Latin word 'presbyter', and a similar Greek word, which means 'elder'. So a priest is simply an elder. And that's we mean in the Church of England when we describe someone as a 'priest'.
+The word itself, the word 'priest', comes from the Latin word 'presbyter', and a similar Greek word, which means 'elder'. So a priest is simply an elder. And that's what we mean in the Church of England when we describe someone as a 'priest'.
 
 In the time of Jesus, the Jews were scattered all over the place, and they would gather together in synagogues, to read the Scriptures and to pray. And the people who had oversight of the synagogues were known as 'elders'. So when Christians started meeting together, they took the same model. They had local congregations, local churches, and the people who had oversight of the churches were known as 'elders'. And how would they exercise this oversight? By the Bible, which is God's word to us. So that's why priests need to be people who study the Bible, and who teach the Bible.
 
