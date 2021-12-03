@@ -16,6 +16,8 @@ Prior to starting the MSc, I was at [Jesus College](http://www.jesus.cam.ac.uk/)
 
 [Publications (ADS)](https://ui.adsabs.harvard.edu/public-libraries/sGcq_61aQa6u_2R5zK3eww)
 
+[Google Scholar](https://scholar.google.com/citations?user=jDrhqdUAAAAJ&sortby=pubdate)
+
 ## Posters
 
 A census of K-band galaxies from the UKIDSS Large Area Survey (RAS Young Astronomers Meeting, Royal Observatory, Edinburgh, 7 Dec 2007) [PDF](/assets/yam2007.pdf) \| [PDF (B&W)](/assets/yam2007_bw.pdf) \| [JPEG](/assets/yam2007.jpg) \| [Summary PDF](/assets/yam2007_summary.pdf)
