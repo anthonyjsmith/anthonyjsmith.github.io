@@ -33,7 +33,7 @@ Comments welcome, and don't forget to subscribe to future posts, either using th
 
 * [The Holy Spirit and faith]({% post_url 2020-09-01-calvin-on-the-holy-spirit-and-faith %}) (1-2, 55pp)
 * [Regeneration and repentance]({% post_url 2021-10-08-calvin-on-regeneration-and-repentance %}) (3-5, 92pp)
-* The Christian life (6-10, 41pp)
+* [The Christian life]({% post_url 2021-12-27-calvin-on-the-christian-life %}) (6-10, 41pp)
 * Justification (11-19, 125pp)
 * Prayer (20, 70pp)
 * Election (21-24, 67pp)
