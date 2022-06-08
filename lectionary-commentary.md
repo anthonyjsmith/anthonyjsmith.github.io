@@ -4,15 +4,17 @@ excerpt: 'This is a commentary on the lectionary, not a commentary on the passag
 ---
 This is a commentary on the _lectionary_, not a commentary on the _passages_. The aim is to answer the question: _Why was this passage chosen?_
 
-Note that there is often no 'theme' tying the readings together. (Many people persist in looking for one, even decades after the ASB.) Where readings are closely related, they are grouped together below. In many cases, however, a particular reading will not be related to other readings on the same day, but it will turn out to be part of a series on a particular book of the Bible running over several weeks. The principle of continuous (or semicontinuous) reading of Scripture is one of the key principles behind the lectionary.
+Note that there is often no 'theme' tying the readings together. (Many people persist in looking for one, even decades after the ASB.) Where readings are closely related, they are grouped together below. In many cases, however, a particular reading will not be related to other readings on the same day, but it will turn out to be part of a series on a particular book of the Bible running over several weeks. This principle of continuous (or semicontinuous) reading of Scripture is one of the key principles behind the lectionary.
 
 **Common Worship** was introduced in the Church of England in 2000. It includes a [Lectionary for Sundays, Principal Feasts and Holy Days, and Festivals](https://www.churchofengland.org/prayer-and-worship/worship-texts-and-resources/common-worship/churchs-year/lectionary). This page covers the **Principal Service Lectionary**, which is drawn (with modifications) from the ecumenical **Revised Common Lectionary (RCL)**.
+
+Most of the comments below are 'reverse engineered' using the lectionary and a fair bit of guesswork, so they should not be taken as authoritative.
 
 **_Work in progress!_**
 
 * Year A: hardly begun
 * Year B: hardly begun
-* Year C: complete from Easter Day to Trinity
+* Year C: complete from Easter Day to Trinity, and Proper 1-9.
 * Festivals: what festivals?!
 
 ## The Bible and the lectionary
@@ -36,22 +38,11 @@ New Testament readings after Trinity and before Advent cover the following books
 What about the rest of the Bible (apart from the Gospels and the Psalms)? As well as cameo appearances during seasons and festivals, and 'Related' Old Testament readings after Trinity, the Bible is read systematically as follows:
 
 * Old Testament
-  * Leviticus, Numbers, Deuteronomy and Joshua: no systematic readings
-  * Judges, Ruth: not included
+  * Leviticus, Numbers, Deuteronomy, Joshua, Nehemiah, Ezekiel, Daniel, Jonah, Micah, Zephaniah and Malachi: no systematic readings
+  * Judges, Ruth, Ezra, Obadiah, Nahum and Haggai: not included
   * 1 and 2 Chronicles: not included (outside festivals)
-  * Ezra: not included
-  * Nehemiah: no systematic readings
-  * Ecclesiastes: once as a 'Related' reading
+  * Ecclesiastes, Habakkuk and Zechariah: once as a 'Related' reading
   * Isaiah: features prominently in Advent, Christmas and Epiphany, and at other times (not sequential)
-  * Ezekiel, Daniel: no systematic readings
-  * Obadiah: not included
-  * Jonah, Micah: no systematic readings
-  * Nahum: not included
-  * Habakkuk: once as a 'Related' reading
-  * Zephaniah: no systematic readings
-  * Haggai: not included
-  * Zechariah: once as a 'Related' reading
-  * Malachi: no systemic readings
 * New Testament
   * Acts: Easter season, Years A, B and C (vaguely sequential)
   * 1 Corinthians:
@@ -140,9 +131,24 @@ Web resources
 
 ## Sunday between 4 and 10 February (Proper 1)*
 
+Year C
+
+* **1 Corinthians 15.1-11**, on the preaching of the resurrection, begins a three-part series on 1 Corinthians 15, covering most of the chapter. (NB: on Easter Day, verses 1-11 are read in Year B, and verses 19-26 in Year C.)
+* **Luke 5.1-11** begins a semicontinuous series in Luke 5-21 (plus a bit of 23), which covers these three Sundays in February, and all the Sundays between Trinity and Advent. Jesus calls his first disciples. **Isaiah 6.1-8 [9-13]** continues the theme of calling, with the calling of Isaiah. Isaiah saw the Lord, 'high and lofty', in his heavenly temple, and **Psalm 138** refers to God as 'high' and speaks of his 'holy temple'.
+
 ## Sunday between 11 and 17 February (Proper 2)*
 
+Year C
+
+* **1 Corinthians 15.12-20**, on the resurrection of the dead, continues the series in 1 Corinthians 15.
+* **Luke 6.17-26** continues the series in Luke, with the blessings and woes. **Jeremiah 17.5-10** continues the theme ('Cursed are those ...', 'Blessed are those ...'), as does **Psalm 1** ('Blessed are they ...', 'As for the wicked ...').
+
 ## Sunday between 18 and 24 February (Proper 3)*
+
+Year C
+
+* **1 Corinthians 15.35-38, 42-50** concludes the series in 1 Corinthians 15, with extracts from the section on the resurrection body.
+* **Luke 6.27-38** continues the series in Luke, following immediately from the previous week, and focusing on loving one's enemies. **Genesis 45.3-11, 15** is about Joseph's love for his brothers, who had behaved like his enemies. **Psalm 37.1-11, 40, 41** (EV: 1-11, 39, 40) calls us not to fret about evildoers.
 
 ## The Second Sunday before Lent
 
@@ -388,7 +394,7 @@ Year C
 * (The alternative first reading, **Genesis 11.1-9**, recounts Babel, of which Pentecost is something of a reversal.)
 * **Psalm 104.26-36, 37b**: see Year A.
 * **Romans 8.14-17** is about the work of the Spirit.
-* **John 14.8-17[25-27]** continues the series John's 'farewell discourse', with Jesus' promise of the Spirit.
+* **John 14.8-17 [25-27]** continues the series John's 'farewell discourse', with Jesus' promise of the Spirit.
 
 # Ordinary Time
 
@@ -422,15 +428,51 @@ See Sunday between 18 and 24 February.
 
 ## Sunday between 29 May and 4 June (Proper 4)*
 
+Year C
+
+* **1 Kings 18.20, 21 [22-29] 30-39** begins a series in 1 and 2 Kings, with Elijah on Mount Carmel. The series covers four episodes from Elijah's life (out of sequence), followed by the transition from Elijah to Elisha, and then one episode from Elisha's life. **Psalm 96** contrasts the Lord with idols.
+* **Galatians 1.1-12** begins a semicontinuous series in Galatians, with Paul's preaching of the gospel.
+* **Luke 7.1-10** continues the series in Luke, with the centurion's faith. The 'Related' reading from **1 Kings 8.22-23, 41-43** asks God to answer the prayers of foreigners, while the 'Related' psalm, **Psalm 96.1-9** (part of the 'Continuous' psalm), invites the whole earth to draw near to the Lord.
+
 ## Sunday between 5 and 11 June (Proper 5)*
+
+Year C
+
+* **1 Kings 17.8-16 [17-24]** continues the series in 1 and 2 Kings (out of sequence, presumably to give some connections with the Gospel reading), and tells of Elijah providing for the widow in Zaraphath [and raising her son: see the Gospel reading]. **Psalm 146** rejoices in the Lord's provision for the orphan and widow.
+* **Galatians 1.11-24** continues the series in Galatians, overlapping slightly with the previous section. Paul recounts his calling. 
+* **Luke 7.11-17** continues the series in Luke (without a gap), and tells of Jesus raising the widow's son in Nain. The 'Related' reading, **1 Kings 17.17-24** (also the optional section of the 'Continuous' reading) tells of Elijah raising the widow's son in Zaraphath. The 'Related' psalm, **Psalm 30** thanks God for raising the psalmist 'from the dead'.
 
 ## Sunday between 12 and 18 June (Proper 6)*
 
+Year C
+
+* **1 Kings 21.1-10 [11-14] 15-21a** continues the series in 1 and 2 Kings, with Naboth's vineyard. **Psalm 5.1-8** is a plea to God in the face of 'the bloodthirsty and deceitful'.
+* **Galatians 2.15-21** continues the series in Galatians, on justification by faith.
+* **Luke 7.36 – 8.3** continues the series in Luke, with Jesus being anointed by the sinful woman, who had been forgiven. The 'Related' reading, **2 Samuel 11.26 – 12.10, 13-15** is about David being forgiven for his sin. The 'Related' psalm, **Psalm 32**, is about the blessing of forgiveness.
+
 ## Sunday between 19 and 25 June (Proper 7)*
+
+Year C
+
+* **1 Kings 19.1-4 [5-7] 8-15a** continues the series in 1 and 2 Kings (out of sequence, for some reason), with Elijah fleeing to Horeb. **Psalms 42, 43** reflect Elijah's troubled state and his longing for God.
+* **Galatians 3.23-29** continues the series in Galatians, on being children of God together.
+* **Luke 8.26-39** continues the series in Luke, with Jesus restoring the demon-possessed man. The 'Related' reading, **Isaiah 65.1-9** is about God holding out his hands to those who 'sit inside tombs' and 'eat swine's flesh'. The 'Related' psalm, **Psalm 22.19-28** praises God for his deliverance, and calls the nations to worship.
 
 ## Sunday between 26 June and 2 July (Proper 8)
 
+Year C
+
+* **2 Kings 2.1-2, 6-14** continues the series in 1 and 2 Kings, and is about Elijah being taken into heaven and the water dividing before Elijah and Elisha. **Psalm 77.1-2, 11-20** is about the waters seeing God and being afraid.
+* **Galatians 5.1, 13-25** continues the series in Galatians, on the acts of the flesh and the fruit of the Spirit.
+* **Luke 9.51-62** continues the series in Luke, with Jesus heading towards Jerusalem and teaching on what it means to follow him. The 'Related' reading, **1 Kings 19.15-16, 19-21** is about Elisha following Elijah. The 'Related' psalm, **Psalm 16** is about following the Lord wholeheartedly.
+
 ## Sunday between 3 and 9 July (Proper 9)
+
+Year C
+
+* **2 Kings 5.1-14** concludes the series in 1 and 2 Kings, and is about Naaman being healed of leprosy. **Psalm 30** gives thanks to God for answered prayer.
+* **Galatians 6.[1-6] 7-16** concludes the series in Galatians, with an exhortation to do good to all.
+* **Luke 10.1-11, 16-20** continues the series in Luke (without a gap), with Jesus sending out the seventy-two who then return rejoicing. The 'Related' reading, **Isaiah 66.10-14**, calls on people to rejoice. The 'Related' psalm, **Psalm 66.1-8** (EV: 1-9), begins with a call to be joyful.
 
 ## Sunday between 10 and 16 July (Proper 10)
 
