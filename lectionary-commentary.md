@@ -14,20 +14,20 @@ Most of the comments below are 'reverse engineered' using the lectionary and a f
 
 * Year A: hardly begun
 * Year B: hardly begun
-* Year C: complete from Easter Day to Trinity, and Proper 1-9.
+* Year C: complete from Easter Day to Trinity, and Proper 1-17.
 * Festivals: what festivals?!
 
 ## The Bible and the lectionary
 
 For the Gospels, Year A focuses on Matthew, Year B on Mark, and Year C on Luke. John is read in Years A, B and C, mostly during the seasons (especially Easter), but with some appearances in Ordinary Time in Year B (such as a summer series on John 6). During the Sundays in Ordinary Time (excluding the two before Lent), the readings in Matthew, Mark and Luke are sequential (semicontinuous), with just one exception (Year B, 3 before Advent, Mark 1.14-20). This covers the bulk of each gospel (Matthew 5-25, Mark 1-13 and Luke 5-21, plus a bit of 23). Material from Matthew 1-4, Mark 1 and Luke 1-4 is included in Advent, Christmas, Epiphany and Lent (along with extracts from other chapters), and the resurrection accounts are included during Easter. Note that the passion narratives (Matthew 26-27, Mark 14-15 and Luke 22-23), with one or two small exceptions, are included _only_ on Palm Sunday, within the Liturgy of the Passion.
 
-Acts is read only at the Baptism of Christ and in every Principal Service between Easter Day and Pentecost (and on some festivals).
+Acts is read only at the Baptism of Christ, between Easter Day and Pentecost, and on some festivals.
 
 Old Testament 'Continuous' readings after Trinity, cover the following books sequentially (but not completely):
 
-* Year A: Genesis, Exodus and Deuteronomy 34
-* Year B: 1 Samuel, 2 Samuel, 1 Kings (up to chapter 8), and selections from Song of Solomon, Proverbs, Esther and Job
-* Year C: 1 Kings (from chapter 17), 2 Kings (up to chapter 5), Amos, Hosea, Isaiah (briefly!), Jeremiah, Lamentations, Joel
+* Year A (Pentateuch): Genesis, Exodus and Deuteronomy 34
+* Year B (History and Wisdom): 1 Samuel, 2 Samuel, 1 Kings (up to chapter 8), and selections from Song of Solomon, Proverbs, Esther and Job
+* Year C (Prophets): 1 Kings 17 – 2 Kings 5 (Elijah and Elisha), Amos, Hosea, Isaiah (briefly!), Jeremiah, Lamentations, Joel
 
 New Testament readings after Trinity and before Advent cover the following books sequentially (but not completely):
 
@@ -430,7 +430,7 @@ See Sunday between 18 and 24 February.
 
 Year C
 
-* **1 Kings 18.20, 21 [22-29] 30-39** begins a series in 1 and 2 Kings, with Elijah on Mount Carmel. The series covers four episodes from Elijah's life (out of sequence), followed by the transition from Elijah to Elisha, and then one episode from Elisha's life. **Psalm 96** contrasts the Lord with idols.
+* **1 Kings 18.20, 21 [22-29] 30-39** begins a long (chronological) series on the prophets, which lasts until the end of Ordinary Time, and also begins a series in 1 and 2 Kings, with Elijah on Mount Carmel. The series covers four episodes from Elijah's life (out of sequence), followed by the transition from Elijah to Elisha, and then one episode from Elisha's life. **Psalm 96** contrasts the Lord with idols.
 * **Galatians 1.1-12** begins a semicontinuous series in Galatians, with Paul's preaching of the gospel.
 * **Luke 7.1-10** continues the series in Luke, with the centurion's faith. The 'Related' reading from **1 Kings 8.22-23, 41-43** asks God to answer the prayers of foreigners, while the 'Related' psalm, **Psalm 96.1-9** (part of the 'Continuous' psalm), invites the whole earth to draw near to the Lord.
 
@@ -438,7 +438,7 @@ Year C
 
 Year C
 
-* **1 Kings 17.8-16 [17-24]** continues the series in 1 and 2 Kings (out of sequence, presumably to give some connections with the Gospel reading), and tells of Elijah providing for the widow in Zaraphath [and raising her son: see the Gospel reading]. **Psalm 146** rejoices in the Lord's provision for the orphan and widow.
+* **1 Kings 17.8-16 [17-24]** continues the series on the prophets and in 1 and 2 Kings (out of sequence, presumably to give some connections with the Gospel reading), and tells of Elijah providing for the widow in Zaraphath [and raising her son: see the Gospel reading]. **Psalm 146** rejoices in the Lord's provision for the orphan and widow.
 * **Galatians 1.11-24** continues the series in Galatians, overlapping slightly with the previous section. Paul recounts his calling. 
 * **Luke 7.11-17** continues the series in Luke (without a gap), and tells of Jesus raising the widow's son in Nain. The 'Related' reading, **1 Kings 17.17-24** (also the optional section of the 'Continuous' reading) tells of Elijah raising the widow's son in Zaraphath. The 'Related' psalm, **Psalm 30** thanks God for raising the psalmist 'from the dead'.
 
@@ -446,7 +446,7 @@ Year C
 
 Year C
 
-* **1 Kings 21.1-10 [11-14] 15-21a** continues the series in 1 and 2 Kings, with Naboth's vineyard. **Psalm 5.1-8** is a plea to God in the face of 'the bloodthirsty and deceitful'.
+* **1 Kings 21.1-10 [11-14] 15-21a** continues the series on the prophets and in 1 and 2 Kings, with Naboth's vineyard. **Psalm 5.1-8** is a plea to God in the face of 'the bloodthirsty and deceitful'.
 * **Galatians 2.15-21** continues the series in Galatians, on justification by faith.
 * **Luke 7.36 – 8.3** continues the series in Luke, with Jesus being anointed by the sinful woman, who had been forgiven. The 'Related' reading, **2 Samuel 11.26 – 12.10, 13-15** is about David being forgiven for his sin. The 'Related' psalm, **Psalm 32**, is about the blessing of forgiveness.
 
@@ -454,7 +454,7 @@ Year C
 
 Year C
 
-* **1 Kings 19.1-4 [5-7] 8-15a** continues the series in 1 and 2 Kings (out of sequence, for some reason), with Elijah fleeing to Horeb. **Psalms 42, 43** reflect Elijah's troubled state and his longing for God.
+* **1 Kings 19.1-4 [5-7] 8-15a** continues the series on the prophets and in 1 and 2 Kings (out of sequence, for some reason), with Elijah fleeing to Horeb. **Psalms 42, 43** reflect Elijah's troubled state and his longing for God.
 * **Galatians 3.23-29** continues the series in Galatians, on being children of God together.
 * **Luke 8.26-39** continues the series in Luke, with Jesus restoring the demon-possessed man. The 'Related' reading, **Isaiah 65.1-9** is about God holding out his hands to those who 'sit inside tombs' and 'eat swine's flesh'. The 'Related' psalm, **Psalm 22.19-28** praises God for his deliverance, and calls the nations to worship.
 
@@ -462,7 +462,7 @@ Year C
 
 Year C
 
-* **2 Kings 2.1-2, 6-14** continues the series in 1 and 2 Kings, and is about Elijah being taken into heaven and the water dividing before Elijah and Elisha. **Psalm 77.1-2, 11-20** is about the waters seeing God and being afraid.
+* **2 Kings 2.1-2, 6-14** continues the series on the prophets and in 1 and 2 Kings, and is about Elijah being taken into heaven and the water dividing before Elijah and Elisha. (Perhaps coincidentally, there is a link with Luke 9:51, which speaks of Jesus being 'taken up'.) **Psalm 77.1-2, 11-20** is about the waters seeing God and being afraid.
 * **Galatians 5.1, 13-25** continues the series in Galatians, on the acts of the flesh and the fruit of the Spirit.
 * **Luke 9.51-62** continues the series in Luke, with Jesus heading towards Jerusalem and teaching on what it means to follow him. The 'Related' reading, **1 Kings 19.15-16, 19-21** is about Elisha following Elijah. The 'Related' psalm, **Psalm 16** is about following the Lord wholeheartedly.
 
@@ -470,25 +470,74 @@ Year C
 
 Year C
 
-* **2 Kings 5.1-14** concludes the series in 1 and 2 Kings, and is about Naaman being healed of leprosy. **Psalm 30** gives thanks to God for answered prayer.
+* **2 Kings 5.1-14** continues the series on the prophets, and concludes the series in 1 and 2 Kings, with Naaman being healed of leprosy. **Psalm 30** gives thanks to God for answered prayer.
 * **Galatians 6.[1-6] 7-16** concludes the series in Galatians, with an exhortation to do good to all.
 * **Luke 10.1-11, 16-20** continues the series in Luke (without a gap), with Jesus sending out the seventy-two who then return rejoicing. The 'Related' reading, **Isaiah 66.10-14**, calls on people to rejoice. The 'Related' psalm, **Psalm 66.1-8** (EV: 1-9), begins with a call to be joyful.
 
 ## Sunday between 10 and 16 July (Proper 10)
 
+Year C
+
+* **Amos 7.7-17** continues the series on the prophets, and is the first of two weeks in Amos (the earliest of the prophetic books). The theme of God as judge is reflected in **Psalm 82**.
+* **Colossians 1.1-14** begins a series covering much of Colossians 1.1 – 3.11, and gives thanks for the fruitfulness that comes from 'the word of the truth, the gospel'.
+* **Luke 10.25-37** continues the series in Luke, on the importance of love for God and neighbour, explained in the parable of the good Samaritan, The 'Related' reading, **Deuteronomy 30.9-14** is about turning to God 'with all your heart and with all your soul' and obeying God's commandments. (The promise of fruitfulness might relate to the reading from Colossians.) The 'Related' psalm, **Psalm 25.1-10** (EV: 1-11) asks for guidance in keeping God's ways.
+
+
 ## Sunday between 17 and 23 July (Proper 11)
+
+Year C
+
+* **Amos 8.1-12** continues the series on the prophets, and is the second of two weeks in Amos, continuing from last week without a gap. The warnings of judgment are reflected in **Psalm 52**.
+* **Colossians 1.15-28** continues the series in Colossians (without a gap), focusing on the person and work of the Son of God.
+* **Luke 10.38-42** continues the series in Luke (without a gap), with Martha and Mary welcoming Jesus. The 'Related' reading, **Genesis 18.1-10a** is about Abraham showing hospitality to three visitors. The 'Related' psalm, **Psalm 15**, describes the purity of life displayed by Abraham.
 
 ## Sunday between 24 and 30 July (Proper 12)
 
+Year C
+
+* **Hosea 1.2-10** continues the series on the prophets, and is the first of two weeks in Hosea (moving on chronologically from Amos). Hosea's faithfulness to 'a wife of whoredom' is an image of God's faithfulness to Israel. **Psalm 85** is about God's faithfulness to his people, forgiving their sins.
+* **Colossians 2.6-15 [16-19]** continues the series in Colossians, and is about fullness in Christ.
+* **Luke 11.1-13** continues the series in Luke (without a gap), and is about prayer. The 'Related' reading, **Genesis 18.20-32**, is from the same chapter as last week's reading, and is about Abraham interceding for Sodom. The 'Related' psalm, **Psalm 138**, gives thanks for answered prayer, and speaks of God differentiating between the lowly and the proud.
+
 ## Sunday between 31 July and 6 August (Proper 13)
+
+Year C
+
+* **Hosea 11.1-11** continues the series on the prophets, and is the second of two weeks in Hosea. God loves Israel, despite their waywardness. **Psalm 107.1-9, 43** is about God restoring those who have gone astray because of his steadfast love.
+* **Colossians 3.1-11** concludes the series in Colossians, and is about dying to the old life and rising to the new life in Christ.
+* **Luke 12.13-21** continues the series in Luke, and is about possessions and the importance of being 'rich towards God'. The 'Related' reading, **Ecclesiastes 1.2, 12-14; 2.18-23** is about the futility of toiling in the face of death. The 'Related' psalm, **Psalm 49.1-12**, is a reminder that all will die and 'leave their riches to others'.
 
 ## Sunday between 7 and 13 August (Proper 14)
 
+Year C
+
+* **Isaiah 1.1, 10-20** continues the series on the prophets, and is the first of two weeks in Isaiah (moving on chronologically from Hosea). God has no pleasure in his people's offerings when their hands are 'full of blood'. **Psalm 50.1-8, 23, 24** (EV: 1-8, 22, 23) speaks of God testifying against his people, despite their sacrifices.
+* **Hebrews 11.1-3, 8-16** begins a series in Hebrews 11-13, and is about the faith of Abraham.
+* **Luke 12.32-40** continues the series in Luke, and is about treasure in heaven and the coming of the Son of Man. The 'Related' reading, **Genesis 15.1-6**, is about Abram looking to his reward and trusting God's promise. The 'Related' psalm, **Psalm 33.12-22** is about waiting for God, who is our 'shield' (Genesis 15.1).
+
 ## Sunday between 14 and 20 August (Proper 15)
+
+Year C
+
+* **Isaiah 5.1-7** continues the series on the prophets, and is the second of two weeks in Isaiah. God's vineyard, Israel, has 'yielded wild grapes'. **Psalm 80.1-2, 9-20** (EV: 1-2a, 8-19) is about God's 'vine'.
+* **Hebrews 11.29 – 12.2** continues the series in Hebrews 11-13, and is about faith and perseverance.
+* **Luke 12.49-56** continues the series in Luke, and is about Jesus coming to bring 'fire to the earth', not bringing peace but division. The 'Related' reading, **Jeremiah 23.23-29**, speaks of God's word being like fire, and is about the God who fills heaven and earth coming in judgment. The 'Related' psalm, **Psalm 82**, calls on God to 'judge the earth'.
 
 ## Sunday between 21 and 27 August (Proper 16)
 
+Year C
+
+* **Jeremiah 1.4-10** continues the series on the prophets, and begins an 8-week series in Jeremiah (moving on chronologically from Isaiah), along with one week in Lamentations. Jeremiah the prophet is commissioned, having been set apart before he was born. **Psalm 71.1-6** is about trusting in God from birth onwards.
+* **Hebrews 12.18-29** continues the series in Hebrews 11-13, contrasting Sinai with Mount Zion.
+* **Luke 13.10-17** continues the series in Luke, and is about the crippled woman being healed on the sabbath, so that she 'stood up straight and began praising God'. The 'Related' reading, **Isaiah 58.9b-14**, is about honouring the sabbath and delighting in God, who will 'satisfy your needs'. The 'Related' psalm, **Psalm 103.1-8**, speaks of God as the one who 'satisfies you with good things'.
+
 ## Sunday between 28 August and 3 September (Proper 17)
+
+Year C
+
+* **Jeremiah 2.4-13** continues the series on the prophets and in Jeremiah, and is about God's people forsaking him in favour of 'cracked cisterns'. **Psalm 81.1, 10-16** is about God's desire to 'fill' and 'satisfy' his people, but their refusal to listen.
+* **Hebrews 13.1-8, 15, 16** concludes the series in Hebrews 11-13, and is about the 'sacrifices' that are 'pleasing to God'.
+* **Luke 14.1, 7-14** continues the series in Luke, and is about taking the place of honour at a feast. The 'Related' reading from the Apocrypha, **Ecclesiasticus 10.12-18**, is about pride and humility. The alternative 'Related' reading, **Proverbs 25.6-7**, says it is better to take the humble place and be exalted than vice versa. The 'Related' psalm, **Psalm 112**, says that those who give freely to the poor will be exalted.
 
 ## Sunday between 4 and 10 September (Proper 18)
 
