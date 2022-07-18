@@ -14,7 +14,7 @@ Most of the comments below are 'reverse engineered' using the lectionary and a f
 
 * Year A: hardly begun
 * Year B: hardly begun
-* Year C: complete from Easter Day to Trinity, and Proper 1-17.
+* Year C: complete from Easter Day to Trinity, and Proper 1-19.
 * Festivals: what festivals?!
 
 ## The Bible and the lectionary
@@ -527,7 +527,7 @@ Year C
 
 Year C
 
-* **Jeremiah 1.4-10** continues the series on the prophets, and begins an 8-week series in Jeremiah (moving on chronologically from Isaiah), along with one week in Lamentations. Jeremiah the prophet is commissioned, having been set apart before he was born. **Psalm 71.1-6** is about trusting in God from birth onwards.
+* **Jeremiah 1.4-10** continues the series on the prophets, and begins an 8-week vaguely-sequential series in Jeremiah (moving on chronologically from Isaiah), along with one week in Lamentations. Jeremiah the prophet is commissioned, having been set apart before he was born. **Psalm 71.1-6** is about trusting in God from birth onwards.
 * **Hebrews 12.18-29** continues the series in Hebrews 11-13, contrasting Sinai with Mount Zion.
 * **Luke 13.10-17** continues the series in Luke, and is about the crippled woman being healed on the sabbath, so that she 'stood up straight and began praising God'. The 'Related' reading, **Isaiah 58.9b-14**, is about honouring the sabbath and delighting in God, who will 'satisfy your needs'. The 'Related' psalm, **Psalm 103.1-8**, speaks of God as the one who 'satisfies you with good things'.
 
@@ -541,7 +541,19 @@ Year C
 
 ## Sunday between 4 and 10 September (Proper 18)
 
+Year C
+
+* **Jeremiah 18.1-11** continues the series on the prophets and in Jeremiah (out of sequence, perhaps chosen to fit with the Gospel reading and its themes of choice and consequences). God is the potter, and is calling his people to change their ways. **Psalm 139.1-5, 12-18** (EV: 1-6, 13-18) is about the God who formed us (as a potter).
+* **Philemon 1-21** is Paul's appeal for runaway slave Onesimus. Perhaps it appears here because it mentions Timothy (see next week).
+* **Luke 14.25-33** continues the series in Luke, and is about the cost of being a disciple. The 'Related' reading, **Deuteronomy 30.15-20** calls its hearers to consider the benefits that follow when they 'choose life', and the curses that follow when they do not. The 'Related' psalm, **Psalm 1**, is about the blessings that await the righteous, and the judgment that awaits the wicked.
+
 ## Sunday between 11 and 17 September (Proper 19)
+
+Year C
+
+* **Jeremiah 4.11-12, 22-28** continues the series on the prophets and in Jeremiah, and is about the land becoming a desolation as a consequence of the people's foolishness. **Psalm 14** is about the foolishness of turning from God.
+* **1 Timothy 1.12-17** begins a three-week series on 1 Timothy. Paul, the foremost of sinners, received mercy.
+* **Luke 15.1-10** continues the series in Luke, and is about God welcoming sinners, and the parables of the lost sheep and the lost coin. The 'Related' reading, **Exodus 32.7-14**, is about God forgiving sinners, after the incident with the golden calf. The 'Related' psalm, **Psalm 51.1-11** (EV: 1-10), is about the forgiveness of sins.
 
 ## Sunday between 18 and 24 September (Proper 20)
 
