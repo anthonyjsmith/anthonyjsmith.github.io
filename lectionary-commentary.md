@@ -48,7 +48,7 @@ What about the rest of the Bible (apart from the Gospels and the Psalms)? As wel
   * 1 Corinthians:
     * Year A: chapters 1-3 after Epiphany and in February
     * Year B: chapter 9 for two Sundays in February
-    * Year C: chapters 12-13 for two Sundays in Epiphany, preceded by chapter 15 for three Sundays in February
+    * Year C: chapters 12-13 for two Sundays in Epiphany, followed by chapter 15 for three Sundays in February
   * Titus: no systematic readings
   * 1 Peter: Easter season, Year A
   * 2 Peter: no systematic readings
@@ -83,9 +83,9 @@ Those who prefer the readings to cohere can have their wishes partially satisfie
 
 ## Notes
 
-Psalm references are to the Common Worship psalter. Where the versification is different in standard English versions of the Bible, this is indicated by 'EV'.
+Psalm references are to the Common Worship psalter. Where the versification is different in standard English versions of the Bible, this is indicated by 'EV'. Quotations are drawn from the Common Worship psalter or the NRSV.
 
-Depending on the day of the week for Christmas and Epiphany, and the date of Easter, lectionary provision for days marked with * might not be used in any given year. Other days might also be interfered with for various reasons.
+Depending on the day of the week for Christmas and Epiphany, and the date of Easter, lectionary provision for days marked with * might not be used in any given year. Other days might also be displaced for various reasons.
 
 ## Further reading
 
