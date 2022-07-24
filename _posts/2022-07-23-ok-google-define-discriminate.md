@@ -42,7 +42,7 @@ So which definition does Google use?
 
 Although the [terms](https://support.google.com/nonprofits/answer/9004493) do not make it explicit, it seems clear that Google is using a moralised definition: to 'discriminate' is wrong, by definition. Google does not list the protected characteristics or mention any exceptions. You simply need to confirm that your organisation 'does not discriminate against any person or group of people' in employment or the provision of services. This is clearly not intended to include those many cases in which it is appropriate to treat different people differently.
 
-It is also worth noting that, if were Google to make it impossible for the majority of religious organisations to sign up to their terms, that would count as discrimination on the basis of religion, and would therefore presumably be illegal.
+It is also worth noting that, if Google were to make it impossible for the majority of religious organisations to sign up to their terms, that would count as discrimination on the basis of religion, and would therefore presumably be illegal.
 
 [Note also](https://policies.google.com/terms?hl=en&gl=uk):
 
