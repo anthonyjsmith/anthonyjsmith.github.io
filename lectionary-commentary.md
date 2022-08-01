@@ -1,12 +1,14 @@
 ---
 title: Commentary on the Common Worship Principal Service Lectionary
-excerpt: 'This is a commentary on the lectionary, not a commentary on the passages. The aim is to answer the question: Why was this passage chosen?'
+excerpt: 'Work in progress! This is a commentary on the lectionary, not a commentary on the passages. The aim is to answer the question: Why was this passage chosen?'
 ---
+**_Work in progress!_**
+
 This is a commentary on the _lectionary_, not a commentary on the _passages_. The aim is to answer the question: _Why was this passage chosen?_
 
 Note that there is often no 'theme' tying the readings together. (Many people persist in looking for one, even decades after the ASB.) Where readings are closely related, they are grouped together below. In many cases, however, a particular reading will not be related to other readings on the same day, but it will turn out to be part of a series on a particular book of the Bible running over several weeks. This principle of continuous (or semicontinuous) reading of Scripture is one of the key principles behind the lectionary.
 
-**Common Worship** was introduced in the Church of England in 2000. It includes a [Lectionary for Sundays, Principal Feasts and Holy Days, and Festivals](https://www.churchofengland.org/prayer-and-worship/worship-texts-and-resources/common-worship/churchs-year/lectionary). This page covers the **Principal Service Lectionary**, which is drawn (with modifications) from the ecumenical **Revised Common Lectionary (RCL)**.
+**Common Worship** was introduced in the Church of England in 2000. It includes a [Lectionary for Sundays, Principal Feasts and Holy Days, and Festivals](https://www.churchofengland.org/prayer-and-worship/worship-texts-and-resources/common-worship/churchs-year/lectionary), which provides a lectionary for three services on each of those days: Principal Service, Second Service, and Third Service (along with 'Evening Prayer on the Eve' for some occasions). This page covers the **Principal Service Lectionary**, which is drawn (with modifications) from the ecumenical **Revised Common Lectionary (RCL)**.
 
 Most of the comments below are 'reverse engineered' using the lectionary and a fair bit of guesswork, so they should not be taken as authoritative.
 
@@ -503,7 +505,7 @@ Year C
 
 Year C
 
-* **Hosea 11.1-11** continues the series on the prophets, and is the second of two weeks in Hosea. God loves Israel, despite their waywardness. **Psalm 107.1-9, 43** is about God restoring those who have gone astray because of his steadfast love.
+* **Hosea 11.1-11** continues the series on the prophets, and is the second of two weeks in Hosea. God loves Israel, despite their waywardness. **Psalm 107.1-9, 43** is about God restoring those who have gone astray, because of his steadfast love.
 * **Colossians 3.1-11** concludes the series in Colossians, and is about dying to the old life and rising to the new life in Christ.
 * **Luke 12.13-21** continues the series in Luke, and is about possessions and the importance of being 'rich towards God'. The 'Related' reading, **Ecclesiastes 1.2, 12-14; 2.18-23** is about the futility of toiling in the face of death. The 'Related' psalm, **Psalm 49.1-12**, is a reminder that all will die and 'leave their riches to others'.
 
