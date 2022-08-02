@@ -16,7 +16,7 @@ Most of the comments below are 'reverse engineered' using the lectionary and a f
 
 * Year A: hardly begun
 * Year B: hardly begun
-* Year C: complete from Easter Day to Trinity, and Proper 1-19.
+* Year C: complete from Easter Day to Trinity, and Proper 1-22.
 * Festivals: what festivals?!
 
 ## The Bible and the lectionary
@@ -513,7 +513,7 @@ Year C
 
 Year C
 
-* **Isaiah 1.1, 10-20** continues the series on the prophets, and is the first of two weeks in Isaiah (moving on chronologically from Hosea). God has no pleasure in his people's offerings when their hands are 'full of blood'. **Psalm 50.1-8, 23, 24** (EV: 1-8, 22, 23) speaks of God testifying against his people, despite their sacrifices.
+* **Isaiah 1.1, 10-20** continues the series on the prophets, and is the first of two weeks in Isaiah (moving on chronologically from Hosea). Both readings are quite hard-hitting, which provides a smooth transition into Jeremiah. (Isaiah's call featured in Proper 1.) God has no pleasure in his people's offerings when their hands are 'full of blood'. **Psalm 50.1-8, 23, 24** (EV: 1-8, 22, 23) speaks of God testifying against his people, despite their sacrifices.
 * **Hebrews 11.1-3, 8-16** begins a series in Hebrews 11-13, and is about the faith of Abraham.
 * **Luke 12.32-40** continues the series in Luke, and is about treasure in heaven and the coming of the Son of Man. The 'Related' reading, **Genesis 15.1-6**, is about Abram looking to his reward and trusting God's promise. The 'Related' psalm, **Psalm 33.12-22** is about waiting for God, who is our 'shield' (Genesis 15.1).
 
@@ -529,7 +529,7 @@ Year C
 
 Year C
 
-* **Jeremiah 1.4-10** continues the series on the prophets, and begins an 8-week vaguely-sequential series in Jeremiah (moving on chronologically from Isaiah), along with one week in Lamentations. Jeremiah the prophet is commissioned, having been set apart before he was born. **Psalm 71.1-6** is about trusting in God from birth onwards.
+* **Jeremiah 1.4-10** continues the series on the prophets, and begins an 8-week vaguely-sequential series in Jeremiah (moving on chronologically from Isaiah), along with one week in Lamentations. The series moves from warning to judgment to hope. This week, Jeremiah the prophet is commissioned, having been set apart before he was born. **Psalm 71.1-6** is about trusting in God from birth onwards.
 * **Hebrews 12.18-29** continues the series in Hebrews 11-13, contrasting Sinai with Mount Zion.
 * **Luke 13.10-17** continues the series in Luke, and is about the crippled woman being healed on the sabbath, so that she 'stood up straight and began praising God'. The 'Related' reading, **Isaiah 58.9b-14**, is about honouring the sabbath and delighting in God, who will 'satisfy your needs'. The 'Related' psalm, **Psalm 103.1-8**, speaks of God as the one who 'satisfies you with good things'.
 
@@ -545,7 +545,7 @@ Year C
 
 Year C
 
-* **Jeremiah 18.1-11** continues the series on the prophets and in Jeremiah (out of sequence, perhaps chosen to fit with the Gospel reading and its themes of choice and consequences). God is the potter, and is calling his people to change their ways. **Psalm 139.1-5, 12-18** (EV: 1-6, 13-18) is about the God who formed us (as a potter).
+* **Jeremiah 18.1-11** continues the series on the prophets and in Jeremiah (out of sequence, perhaps to maintain a thematic sequence from warning to judgment, and perhaps chosen to fit with the Gospel reading and its themes of choice and consequences). God is the potter, and is calling his people to change their ways. **Psalm 139.1-5, 12-18** (EV: 1-6, 13-18) is about the God who formed us (as a potter).
 * **Philemon 1-21** is Paul's appeal for runaway slave Onesimus. Perhaps it appears here because it mentions Timothy (see next week).
 * **Luke 14.25-33** continues the series in Luke, and is about the cost of being a disciple. The 'Related' reading, **Deuteronomy 30.15-20** calls its hearers to consider the benefits that follow when they 'choose life', and the curses that follow when they do not. The 'Related' psalm, **Psalm 1**, is about the blessings that await the righteous, and the judgment that awaits the wicked.
 
@@ -554,20 +554,50 @@ Year C
 Year C
 
 * **Jeremiah 4.11-12, 22-28** continues the series on the prophets and in Jeremiah, and is about the land becoming a desolation as a consequence of the people's foolishness. **Psalm 14** is about the foolishness of turning from God.
-* **1 Timothy 1.12-17** begins a three-week series on 1 Timothy. Paul, the foremost of sinners, received mercy.
+* **1 Timothy 1.12-17** begins a three-week series in 1 Timothy. Paul, the foremost of sinners, received mercy.
 * **Luke 15.1-10** continues the series in Luke, and is about God welcoming sinners, and the parables of the lost sheep and the lost coin. The 'Related' reading, **Exodus 32.7-14**, is about God forgiving sinners, after the incident with the golden calf. The 'Related' psalm, **Psalm 51.1-11** (EV: 1-10), is about the forgiveness of sins.
 
 ## Sunday between 18 and 24 September (Proper 20)
 
+Year C
+
+* **Jeremiah 8.18 – 9.1** continues the series on the prophets and in Jeremiah, and expresses sorrow for the pain of 'my poor people'. **Psalm 79.1-9** cries out to God over the desolation of Jerusalem.
+* **1 Timothy 2.1-7** continues the series in 1 Timothy, with a call to pray for everyone.
+* **Luke 16.1-13** continues the series in Luke, with the parable of the shrewd and dishonest manager. The 'Related' reading, **Amos 8.4-7**, speaks against those who 'trample on the needy' and 'practise deceit'. The 'Related' psalm, **Psalm 113**, speaks of God who 'lifts the needy from the ashes'.
+
 ## Sunday between 25 September and 1 October (Proper 21)
+
+Year C
+
+* **Jeremiah 32.1-3a, 6-15** continues the series on the prophets and in Jeremiah, and begins to glimpse hope for the distant future, with the purchase of a field. **Psalm 91.1-6, 14-16** promises deliverance for those who take refuge in God.
+* **1 Timothy 6.6-19** concludes the series in 1 Timothy, with a call to 'Fight the good fight of the faith'.
+* **Luke 16.19-31** continues the series in Luke, with the rich man and Lazarus. The 'Related' reading, **Amos 6.1a, 4-7**, is a warning for the rich. The 'Related' psalm, **Psalm 146**, warns that princes will perish, but promises 'bread to those who hunger'.
 
 ## Sunday between 2 and 8 October (Proper 22)
 
+Year C
+
+* **Lamentations 1.1-6** continues the series on the prophets, and provides a brief excursion from Jeremiah. It laments the desolation of Jerusalem, but the canticle, **Lamentations 3.19-26** glimpses hope for the future. As an alternative to the canticle, **Psalm 137**, is about the desolation of Jerusalem.
+* **2 Timothy 1.1-14** begins a four-week series in 2 Timothy, with a call to remain faithful to the gospel.
+* **Luke 17.5-10** continues the series in Luke, with teaching about faith and duty. The 'Related' reading, **Habakkuk 1.1-4; 2.1-4**, features the prophet's faith being increased (perhaps). The 'Related' psalm, **Psalm 37.1-9**, is a response to Habakkuk's cries about wrongdoers, and calls for faith in God.
+
 ## Sunday between 9 and 15 October (Proper 23)
+
+Year C
+
+* **Jeremiah 29.1, 4-7** continues the series on the prophets and in Jeremiah, and is a word of comfort and assurance for God's people in exile (out of sequence, presumably for thematic reasons). (Extending the reading by a few verses would provide additional comfort: see rule 5 at the top of the [lectionary](https://www.churchofengland.org/prayer-and-worship/worship-texts-and-resources/common-worship/churchs-year/lectionary#p539a).)
 
 ## Sunday between 16 and 22 October (Proper 24)
 
+Year C
+
+* **Jeremiah 31.27-34** continues the series on the prophets and concludes the series in Jeremiah, with the promise of a new covenant.
+
 ## Sunday between 23 and 29 October (Proper 25)
+
+Year C
+
+* **Joel 2.23-32** concludes the series on the prophets, with a single extract from Joel. Joel is difficult to date, so it is unlikely that this passage is here for chronological reasons. It follows well from last week, with the promise of the outpouring of the Spirit.
 
 ## The Last Sunday after Trinity if observed as Bible Sunday
 
