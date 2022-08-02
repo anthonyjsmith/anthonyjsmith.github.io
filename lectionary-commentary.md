@@ -432,7 +432,7 @@ See Sunday between 18 and 24 February.
 
 Year C
 
-* **1 Kings 18.20, 21 [22-29] 30-39** begins a long (chronological) series on the prophets, which lasts until the end of Ordinary Time, and also begins a series in 1 and 2 Kings, with Elijah on Mount Carmel. The series covers four episodes from Elijah's life (out of sequence), followed by the transition from Elijah to Elisha, and then one episode from Elisha's life. **Psalm 96** contrasts the Lord with idols.
+* **1 Kings 18.20, 21 [22-29] 30-39** begins a long (chronological) series on the prophets, which lasts until the end of Ordinary Time. The series has between zero and four weeks on Elijah (depending on the date of Easter, and out of sequence), followed by two weeks each for Elisha (the first of which is the transition from Elijah), Amos, Hosea and Isaiah, nine weeks in Jeremiah and Lamentations, and a final week in Joel. This reading begins the Elijah/Elisha series in 1 and 2 Kings, with Elijah on Mount Carmel. **Psalm 96** contrasts the Lord with idols.
 * **Galatians 1.1-12** begins a semicontinuous series in Galatians, with Paul's preaching of the gospel.
 * **Luke 7.1-10** continues the series in Luke, with the centurion's faith. The 'Related' reading from **1 Kings 8.22-23, 41-43** asks God to answer the prayers of foreigners, while the 'Related' psalm, **Psalm 96.1-9** (part of the 'Continuous' psalm), invites the whole earth to draw near to the Lord.
 
