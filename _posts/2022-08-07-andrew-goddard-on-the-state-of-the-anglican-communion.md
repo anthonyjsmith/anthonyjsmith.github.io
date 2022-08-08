@@ -66,6 +66,6 @@ The Archbishop takes us 'perilously close' to Autonomous Inclusivism, but doesn'
 
 The Global South Fellowship of Anglican Churches (GSFA), however &ndash; representing the 'overwhelming majority' of Anglicans &ndash; are clearly 'committed to both Lambeth I.10 and the vision of life in communion set out in Windsor and The Covenant'. They assert that 'There need to be limits to theological diversity, limits that are set by a plain and canonical reading of Scripture and which is supported by church history'. They also believe that 'we cannot be a true Communion if some Provinces insist on their own autonomy and disregard the necessity of being an interdependent, ecclesial body'. They speak of there now being 'degrees of communion' between Provinces, and say that they will 'continue to connect with the Communion Instruments as best we can', while adopting 'visible differentiation' where necessary.
 
-Some form of 'visible differentiation' seems likely to emerge in the Anglican Communion in the coming years, marking 'the end (termination) of the Communion)'.
+Some form of 'visible differentiation' seems likely to emerge in the Anglican Communion in the coming years, marking 'the end (termination) of the Communion'.
 
 > But, if that is indeed the case, then, thanks be to God, the gospel is one of resurrection hope.
