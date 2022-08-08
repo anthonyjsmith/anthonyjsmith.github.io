@@ -34,7 +34,7 @@ K-band galaxy luminosity and surface brightness distribution from the LAS (Scien
 _[St Barnabas, Middlesbrough](http://www.st-barnabas.net/) (via Zoom)_
 
 9 Mar 2020: **Journey through the Universe**\\
-_[St Paul's Mothers' Union, Spennymoor](http://www.stpaulsspennymoor.co.uk/site/index.php?page=content&content=4871)_
+_[St Paul's Mothers' Union, Spennymoor](https://www.stpaulsspennymoor.co.uk/church-life/)_
 
 23 Apr 2012: **Astronomy through a Christian telescope**\\
 _[West Yorkshire School of Christian Studies (WYSOCS)](http://www.wysocs.org.uk/lifematters/recent-events.php), Leeds_

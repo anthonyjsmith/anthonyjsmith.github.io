@@ -19,7 +19,7 @@ The town of Spennymoor is 5 miles or so to the south of Durham city, and has a p
 
 The parish of Whitworth, on the other hand, has a population of around 62! It contains [Whitworth Hall Hotel](http://www.bw-whitworthhall.co.uk/), which was formerly the home of the Shafto family (as in Bobby). [Whitworth Parish Church](https://www.achurchnearyou.com/church/13568/) is situated next to Whitworth Hall, and is a [listed building](https://britishlistedbuildings.co.uk/101121448-whitworth-parish-church-spennymoor) and a popular wedding venue.
 
-If you want to know more, have a look at the [website for St Paul's, Spennymoor](http://www.stpaulsspennymoor.co.uk), or take a look at the [Diocese of Durham parish map on ArcGIS](http://arcg.is/1qSniv) (click within the map for details about each parish).
+If you want to know more, have a look at the [website for St Paul's, Spennymoor](https://www.stpaulsspennymoor.co.uk), or take a look at the [Diocese of Durham parish map on ArcGIS](http://arcg.is/1qSniv) (click within the map for details about each parish).
 
 I had the privilege of spending four weeks on placement in Spennymoor and Whitworth last summer, and grew to love the town and the churches during that time. So when the opportunity came up of returning there for my curacy, it wasn't a difficult decision!
 

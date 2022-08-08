@@ -7,7 +7,7 @@ tags:
 - Culture
 date: 2022-01-26 20:37:14.467653000 +00:00
 ---
-_It's still the season of Epiphany (just), so here is my article for the January [Crossways](http://www.stpaulsspennymoor.co.uk/site/index.php?page=content&content=4869) newsletter for St Paul's Church Spennymoor and Whitworth Church._
+_It's still the season of Epiphany (just), so here is my article for the January [Crossways](https://www.stpaulsspennymoor.co.uk/crossways/) newsletter for St Paul's Church Spennymoor and Whitworth Church._
 
 You might know that [I used to be an astronomer](/astronomy/). I spent a good few years studying distant galaxies, with the help of some powerful telescopes.
 

@@ -8,7 +8,7 @@ tags:
 image: "/assets/cracked-brown-soil.jpg"
 date: 2021-11-03 13:47:22.274459000 +00:00
 ---
-_With COP26 in the news, my article for the November [Crossways](http://www.stpaulsspennymoor.co.uk/site/index.php?page=content&content=4869) newsletter for St Paul's Church Spennymoor and Whitworth Church._
+_With COP26 in the news, my article for the November [Crossways](https://www.stpaulsspennymoor.co.uk/crossways/) newsletter for St Paul's Church Spennymoor and Whitworth Church._
 
 [<img alt="Photo by redcharlie on Unsplash" src="/assets/cracked-brown-soil.jpg" class="alignright" />](https://unsplash.com/photos/HxxmKwvUbgI "Photo by redcharlie on Unsplash")
 

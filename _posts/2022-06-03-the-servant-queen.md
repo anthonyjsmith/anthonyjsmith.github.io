@@ -6,7 +6,7 @@ tags:
 - Christianity
 date: 2022-06-03 11:03:27.053079000 +01:00
 ---
-_My article for the June [Crossways](http://www.stpaulsspennymoor.co.uk/site/index.php?page=content&content=4869) newsletter for St Paul's Church Spennymoor and Whitworth Church._
+_My article for the June [Crossways](https://www.stpaulsspennymoor.co.uk/crossways/) newsletter for St Paul's Church Spennymoor and Whitworth Church._
 
 If you were to describe Her Majesty Queen Elizabeth II, what words would you use? I'm sure one word that would come to mind would be: service.
 

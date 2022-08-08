@@ -10,7 +10,7 @@ _Below is my first ever online sermon, delivered on 25 March 2020, during the co
 
 {% include facebook.html facebook_id="1264938013696587" %}
 
-In our Wednesday morning services at [St Paul's](http://www.stpaulsspennymoor.co.uk/), before everything changed, we were on a journey, following Jesus as he went towards the cross. We're going to pick up now where we left off, and continue in these online sermons. Time is moving strangely at the moment, but we're heading towards Good Friday and Easter Day, so we've been reading about the events that led up to Jesus' crucifixion.
+In our Wednesday morning services at [St Paul's](https://www.stpaulsspennymoor.co.uk/), before everything changed, we were on a journey, following Jesus as he went towards the cross. We're going to pick up now where we left off, and continue in these online sermons. Time is moving strangely at the moment, but we're heading towards Good Friday and Easter Day, so we've been reading about the events that led up to Jesus' crucifixion.
 
 The tension has been building up. You can feel the anxiety. And there's a real sense that death is just around the corner.
 

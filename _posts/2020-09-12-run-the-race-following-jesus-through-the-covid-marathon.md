@@ -6,7 +6,7 @@ tags:
 - Christianity
 date: 2020-09-12 09:58:54.657912000 +01:00
 ---
-_My article for the September [Crossways](http://www.stpaulsspennymoor.co.uk/site/index.php?page=content&content=4869) newsletter for St Paul's Church Spennymoor and Whitworth Church._
+_My article for the September [Crossways](https://www.stpaulsspennymoor.co.uk/crossways/) newsletter for St Paul's Church Spennymoor and Whitworth Church._
 
 '... let us run with perseverance the race marked out for us ...' (Hebrews 12:1).
 

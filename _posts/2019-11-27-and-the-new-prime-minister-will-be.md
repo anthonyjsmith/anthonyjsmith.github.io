@@ -6,7 +6,7 @@ tags:
 - Christianity
 date: 2019-11-27 14:31:40.983335000 +00:00
 ---
-_My article for the December [Crossways](http://www.stpaulsspennymoor.co.uk/site/index.php?page=content&content=4869) newsletter for St Paul's Church Spennymoor and Whitworth Church._
+_My article for the December [Crossways](https://www.stpaulsspennymoor.co.uk/crossways/) newsletter for St Paul's Church Spennymoor and Whitworth Church._
 
 Yes, that's right. It's still November as I write this, but I'm about to reveal the name of the new Prime Minister. Many people don't realise it, but the monarch has already asked someone to be Prime Minister and to rule over the whole kingdom.
 

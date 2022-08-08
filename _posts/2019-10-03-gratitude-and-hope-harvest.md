@@ -6,7 +6,7 @@ tags:
 - Christianity
 date: 2019-10-03 18:13:59.061918000 +01:00
 ---
-_My article for the October [Crossways](http://www.stpaulsspennymoor.co.uk/site/index.php?page=content&content=4869) newsletter for St Paul's Church Spennymoor and Whitworth Church._
+_My article for the October [Crossways](https://www.stpaulsspennymoor.co.uk/crossways/) newsletter for St Paul's Church Spennymoor and Whitworth Church._
 
 Harvest is a good time to stop and think about God's creation. What attitude should we have towards our world?
 

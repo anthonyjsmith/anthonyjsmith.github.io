@@ -6,7 +6,7 @@ tags:
 - Christianity
 date: 2022-03-16 14:36:48.576791000 +00:00
 ---
-_My article for the March [Crossways](http://www.stpaulsspennymoor.co.uk/site/index.php?page=content&content=4869) newsletter for St Paul's Church Spennymoor and Whitworth Church._
+_My article for the March [Crossways](https://www.stpaulsspennymoor.co.uk/crossways/) newsletter for St Paul's Church Spennymoor and Whitworth Church._
 
 Every year, as Lent approaches, I seem to be bombarded with books and resources offering me 40 things to read, and 40 different practical changes I can make to revolutionise my life. It's all quite overwhelming!
 

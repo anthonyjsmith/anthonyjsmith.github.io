@@ -6,7 +6,7 @@ tags:
 - Christianity
 date: 2021-03-04 19:49:05.210795000 +00:00
 ---
-_My article for the March [Crossways](http://www.stpaulsspennymoor.co.uk/site/index.php?page=content&content=4869) newsletter for St Paul's Church Spennymoor and Whitworth Church._
+_My article for the March [Crossways](https://www.stpaulsspennymoor.co.uk/crossways/) newsletter for St Paul's Church Spennymoor and Whitworth Church._
 
 'You are the God who sees me.'
 

@@ -6,7 +6,7 @@ tags:
 - Christianity
 date: 2020-07-15 17:34:01.718918000 +01:00
 ---
-_My article for the July [Crossways](http://www.stpaulsspennymoor.co.uk/site/index.php?page=content&content=4869) newsletter for St Paul's Church Spennymoor and Whitworth Church._
+_My article for the July [Crossways](https://www.stpaulsspennymoor.co.uk/crossways/) newsletter for St Paul's Church Spennymoor and Whitworth Church._
 
 Some readers will know that I used to be an astronomer. I spent most of my 20s counting galaxies &ndash; with the help of a computer! So, in the midst of this terrible pandemic, I've been pleased to see science reaching the headlines so often. But what should we make of it?
 

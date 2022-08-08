@@ -7,7 +7,7 @@ tags:
 - Me
 date: 2021-05-01 14:46:47.677101000 +01:00
 ---
-_My article for the May [Crossways](http://www.stpaulsspennymoor.co.uk/site/index.php?page=content&content=4869) newsletter for St Paul's Church Spennymoor and Whitworth Church._
+_My article for the May [Crossways](https://www.stpaulsspennymoor.co.uk/crossways/) newsletter for St Paul's Church Spennymoor and Whitworth Church._
 
 Our church annual meetings are taking place later in May, and we will be looking for new churchwardens and PCC members. 'Please send someone else' might be your response!
 

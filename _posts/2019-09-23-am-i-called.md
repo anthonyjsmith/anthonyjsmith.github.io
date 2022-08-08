@@ -6,7 +6,7 @@ tags:
 - Christianity
 date: 2019-09-23 17:13:37.506443000 +01:00
 ---
-_[Crossways](http://www.stpaulsspennymoor.co.uk/site/index.php?page=content&content=4869) is a monthly newsletter for St Paul's Church Spennymoor and Whitworth Church. Every couple of months, I'll be writing the front-page article. Here's my first, from the August edition..._
+_[Crossways](https://www.stpaulsspennymoor.co.uk/crossways/) is a monthly newsletter for St Paul's Church Spennymoor and Whitworth Church. Every couple of months, I'll be writing the front-page article. Here's my first, from the August edition..._
 
 Would you say you are called by God? Has God given you a vocation?
 

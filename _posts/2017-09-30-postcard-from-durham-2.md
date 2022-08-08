@@ -12,7 +12,7 @@ As I begin my second year (of three) studying theology at Cranmer Hall (Durham),
 Over the summer I had some fascinating placement experiences:
 
 * two weeks based in Leuven (Belgium) visiting the Diocese in Europe. I wrote about this in a separate post: [What is the Church of England doing on the continent?]({% post_url 2017-06-28-what-is-the-church-of-england-doing-on-the-continent %})
-* four weeks on placement in Spennymoor (near Durham), at [St Paul's Church](http://www.stpaulsspennymoor.co.uk/), experiencing something resembling normal parish ministry, and
+* four weeks on placement in Spennymoor (near Durham), at [St Paul's Church](https://www.stpaulsspennymoor.co.uk/), experiencing something resembling normal parish ministry, and
 * two weeks on placement with a mental health chaplain in and around Darlington, learning what it means to be a Christian presence alongside people who are living with mental health problems.
 
 Placements will continue during the autumn and spring terms, and this year I'll be on placement with a university chaplain.
