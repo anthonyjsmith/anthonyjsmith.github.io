@@ -135,7 +135,11 @@ Web resources
 
 # Ordinary Time
 
+The addition of a creation-themed week on the Second Sunday before Lent means that 'Proper 3' in the RCL is not included.
+
 ## Sunday between 4 and 10 February (Proper 1)*
+
+(RCL 'Fifth Sunday after the Epiphany'.)
 
 Year C
 
@@ -144,6 +148,8 @@ Year C
 
 ## Sunday between 11 and 17 February (Proper 2)*
 
+(RCL 'Sixth Sunday after the Epiphany', 'Proper 1'.)
+
 Year C
 
 * **1 Corinthians 15.12-20**, on the resurrection of the dead, continues the series in 1 Corinthians 15.
@@ -151,16 +157,20 @@ Year C
 
 ## Sunday between 18 and 24 February (Proper 3)*
 
+(RCL 'Seventh Sunday after the Epiphany', 'Proper 2'.)
+
 Year C
 
-* **1 Corinthians 15.35-38, 42-50** concludes the series in 1 Corinthians 15, with extracts from the section on the resurrection body.
-* **Luke 6.27-38** continues the series in Luke (without a gap), and focuses on loving one's enemies. (6.39-45 is omitted, strangely, along with its parallel in Matthew 7.3-5, 16-20, but could be included 'when opportunity allows'. 6.46 is omitted, but 6.47-49 is covered in Matthew 7.21-29.) **Genesis 45.3-11, 15** is about Joseph's love for his brothers, who had behaved like his enemies. **Psalm 37.1-11, 40, 41** (EV: 1-11, 39, 40) calls us not to fret about evildoers.
+* **1 Corinthians 15.35-38, 42-50** concludes the series in 1 Corinthians 15, with extracts from the section on the resurrection body. (15.51-58 is the reading for the following week in the RCL.)
+* **Luke 6.27-38** continues the series in Luke (without a gap), and focuses on loving one's enemies. (6.39-49 is the reading for the following week in the RCL. So, in Common Worship, 6.39-45 is omitted, along with its parallel in Matthew 7.3-5 and 16-20. 6.46 is omitted, but 6.47-49 is covered in Matthew 7.21-29.) **Genesis 45.3-11, 15** is about Joseph's love for his brothers, who had behaved like his enemies. **Psalm 37.1-11, 40, 41** (EV: 1-11, 39, 40) calls us not to fret about evildoers.
 
 ## The Second Sunday before Lent
 
 Creation theme.
 
 ## The Sunday next before Lent
+
+(RCL 'Last Sunday after the Epiphany', or 'Transfiguration Sunday'.)
 
 # Lent
 
@@ -446,7 +456,7 @@ Year C
 
 * **1 Kings 17.8-16 [17-24]** continues the series on the prophets and in 1 and 2 Kings (out of sequence, presumably to give some connections with the Gospel reading), and tells of Elijah providing for the widow in Zaraphath [and raising her son: see the Gospel reading]. **Psalm 146** rejoices in the Lord's provision for the orphan and widow.
 * **Galatians 1.11-24** continues the series in Galatians, overlapping slightly with the previous section. Paul recounts his calling. 
-* **Luke 7.11-17** continues the series in Luke (without a gap), and tells of Jesus raising the widow's son in Nain. The 'Related' reading, **1 Kings 17.17-24** (also the optional section of the 'Continuous' reading) tells of Elijah raising the widow's son in Zaraphath. The 'Related' psalm, **Psalm 30** thanks God for raising the psalmist 'from the dead'.
+* **Luke 7.11-17** continues the series in Luke (without a gap), and tells of Jesus raising the widow's son in Nain. (7.18-35 has its parallel in Matthew 11.2-19, which is mostly covered on two separate occasions by Matthew 11.2-11 and 16-19.) The 'Related' reading, **1 Kings 17.17-24** (also the optional section of the 'Continuous' reading) tells of Elijah raising the widow's son in Zaraphath. The 'Related' psalm, **Psalm 30** thanks God for raising the psalmist 'from the dead'.
 
 ## Sunday between 12 and 18 June (Proper 6)*
 
@@ -454,7 +464,7 @@ Year C
 
 * **1 Kings 21.1-10 [11-14] 15-21a** continues the series on the prophets and in 1 and 2 Kings, with Naboth's vineyard. **Psalm 5.1-8** is a plea to God in the face of 'the bloodthirsty and deceitful'.
 * **Galatians 2.15-21** continues the series in Galatians, on justification by faith.
-* **Luke 7.36 – 8.3** continues the series in Luke, with Jesus being anointed by the sinful woman, who had been forgiven. The 'Related' reading, **2 Samuel 11.26 – 12.10, 13-15** is about David being forgiven for his sin. The 'Related' psalm, **Psalm 32**, is about the blessing of forgiveness.
+* **Luke 7.36 – 8.3** continues the series in Luke, with Jesus being anointed by the sinful woman, who had been forgiven. (8.4-15 is partially covered by Matthew 13.1-9, 18-23; 8.16-18 is omitted; 8.19-21 is covered in Mark 3.20-35; and 8.22-25 is set for the Second Sunday before Lent, and also covered in Mark 4.35-41.) The 'Related' reading, **2 Samuel 11.26 – 12.10, 13-15** is about David being forgiven for his sin. The 'Related' psalm, **Psalm 32**, is about the blessing of forgiveness.
 
 ## Sunday between 19 and 25 June (Proper 7)*
 
@@ -462,7 +472,7 @@ Year C
 
 * **1 Kings 19.1-4 [5-7] 8-15a** continues the series on the prophets and in 1 and 2 Kings (out of sequence, for some reason), with Elijah fleeing to Horeb. **Psalms 42, 43** reflect Elijah's troubled state and his longing for God.
 * **Galatians 3.23-29** continues the series in Galatians, on being children of God together.
-* **Luke 8.26-39** continues the series in Luke, with Jesus restoring the demon-possessed man. The 'Related' reading, **Isaiah 65.1-9** is about God holding out his hands to those who 'sit inside tombs' and 'eat swine's flesh'. The 'Related' psalm, **Psalm 22.19-28** praises God for his deliverance, and calls the nations to worship.
+* **Luke 8.26-39** continues the series in Luke, with Jesus restoring the demon-possessed man. (8.40-56 is covered in Matthew 9.9-13, 18-26 and in Mark 5.21-43; 9.1-9 is covered by Mark 6.1-13 and 6.14-29; 9.10-17 is covered by Matthew 14.13-21 and John 6.1-21; 9.18-27 is covered in Mark 8.27-31; 9.18-20 is covered in Matthew 16.13-20; 9.21-27 is covered in Matthew 16.21-28 and Mark 8.31-38; 9.28-43a is set for the Sunday next before Lent; 9.43b-48 is covered in Mark 9.30-37; and 9.49-50 is covered in Mark 9.38-50.) The 'Related' reading, **Isaiah 65.1-9** is about God holding out his hands to those who 'sit inside tombs' and 'eat swine's flesh'. The 'Related' psalm, **Psalm 22.19-28** praises God for his deliverance, and calls the nations to worship.
 
 ## Sunday between 26 June and 2 July (Proper 8)
 
@@ -478,7 +488,7 @@ Year C
 
 * **2 Kings 5.1-14** continues the series on the prophets, and concludes the series in 1 and 2 Kings, with Naaman being healed of leprosy. **Psalm 30** gives thanks to God for answered prayer.
 * **Galatians 6.[1-6] 7-16** concludes the series in Galatians, with an exhortation to do good to all.
-* **Luke 10.1-11, 16-20** continues the series in Luke (without a gap), with Jesus sending out the seventy-two who then return rejoicing. (Verses 12-15 and 21-24 could be included 'when opportunity allows'.) The 'Related' reading, **Isaiah 66.10-14**, calls on people to rejoice. The 'Related' psalm, **Psalm 66.1-8** (EV: 1-9), begins with a call to be joyful.
+* **Luke 10.1-11, 16-20** continues the series in Luke (without a gap), with Jesus sending out the seventy-two who then return rejoicing. (10.12-15 could be included 'when opportunity allows': compare Matthew 11.16-19, 25-30, which also omits this bit. 10.21-22 is covered in Matthew 11.16-19, 25-30. 10.23-24 is omitted, but could be included if the gap is filled in Matthew 13.1-9, 18-23.) The 'Related' reading, **Isaiah 66.10-14**, calls on people to rejoice. The 'Related' psalm, **Psalm 66.1-8** (EV: 1-9), begins with a call to be joyful.
 
 ## Sunday between 10 and 16 July (Proper 10)
 
@@ -551,7 +561,7 @@ Year C
 
 * **Jeremiah 18.1-11** continues the series on the prophets and in Jeremiah (out of sequence, perhaps to maintain a thematic sequence from warning to judgment, and perhaps chosen to fit with the Gospel reading and its themes of choice and consequences). God is the potter, and is calling his people to change their ways. **Psalm 139.1-5, 12-18** (EV: 1-6, 13-18) is about the God who formed us (as a potter).
 * **Philemon 1-21** is Paul's appeal for runaway slave Onesimus. Perhaps it appears here because it mentions Timothy (see next week).
-* **Luke 14.25-33** continues the series in Luke, and is about the cost of being a disciple. (Verses 34 and 35 are omitted, perhaps for brevity, perhaps because of their obscurity, but they could be included for completeness 'when opportunity allows'.) The 'Related' reading, **Deuteronomy 30.15-20** calls its hearers to consider the benefits that follow when they 'choose life', and the curses that follow when they do not. The 'Related' psalm, **Psalm 1**, is about the blessings that await the righteous, and the judgment that awaits the wicked.
+* **Luke 14.25-33** continues the series in Luke, and is about the cost of being a disciple. (14.34-35 is covered by a similar saying in Matthew 5.13-20 and Mark 9.38-50, but could be included for completeness 'when opportunity allows'.) The 'Related' reading, **Deuteronomy 30.15-20** calls its hearers to consider the benefits that follow when they 'choose life', and the curses that follow when they do not. The 'Related' psalm, **Psalm 1**, is about the blessings that await the righteous, and the judgment that awaits the wicked.
 
 ## Sunday between 11 and 17 September (Proper 19)
 
