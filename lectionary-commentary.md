@@ -60,6 +60,10 @@ What about the rest of the Bible (apart from the Gospels and the Psalms)? As wel
 
 ## Choosing between the readings
 
+It is worth noting rule 5 at the top of the [lectionary](https://www.churchofengland.org/prayer-and-worship/worship-texts-and-resources/common-worship/churchs-year/lectionary#p539a), which gives permission to extend the readings:
+
+> In a compact cycle of readings such as these, some passages have necessarily been abbreviated. When opportunity allows, the passages may be read in full. Verses in brackets may be included or omitted, as desired.
+
 Each service has the following readings:
 
 * **Old Testament reading** (or sometimes a reading from Acts),
@@ -539,7 +543,7 @@ Year C
 
 * **Jeremiah 2.4-13** continues the series on the prophets and in Jeremiah, and is about God's people forsaking him in favour of 'cracked cisterns'. **Psalm 81.1, 10-16** is about God's desire to 'fill' and 'satisfy' his people, but their refusal to listen.
 * **Hebrews 13.1-8, 15, 16** concludes the series in Hebrews 11-13, and is about the 'sacrifices' that are 'pleasing to God'.
-* **Luke 14.1, 7-14** continues the series in Luke, and is about taking the place of honour at a feast. The 'Related' reading from the Apocrypha, **Ecclesiasticus 10.12-18**, is about pride and humility. The alternative 'Related' reading, **Proverbs 25.6-7**, says it is better to take the humble place and be exalted than vice versa. The 'Related' psalm, **Psalm 112**, says that those who give freely to the poor will be exalted.
+* **Luke 14.1, 7-14** continues the series in Luke, and is about taking the place of honour at a feast. (These verses are selected from verses 1-24, which form a single unit. The reading could be extended 'when opportunity allows'.) The 'Related' reading from the Apocrypha, **Ecclesiasticus 10.12-18**, is about pride and humility. The alternative 'Related' reading, **Proverbs 25.6-7**, says it is better to take the humble place and be exalted than vice versa. The 'Related' psalm, **Psalm 112**, says that those who give freely to the poor will be exalted.
 
 ## Sunday between 4 and 10 September (Proper 18)
 
@@ -547,7 +551,7 @@ Year C
 
 * **Jeremiah 18.1-11** continues the series on the prophets and in Jeremiah (out of sequence, perhaps to maintain a thematic sequence from warning to judgment, and perhaps chosen to fit with the Gospel reading and its themes of choice and consequences). God is the potter, and is calling his people to change their ways. **Psalm 139.1-5, 12-18** (EV: 1-6, 13-18) is about the God who formed us (as a potter).
 * **Philemon 1-21** is Paul's appeal for runaway slave Onesimus. Perhaps it appears here because it mentions Timothy (see next week).
-* **Luke 14.25-33** continues the series in Luke, and is about the cost of being a disciple. The 'Related' reading, **Deuteronomy 30.15-20** calls its hearers to consider the benefits that follow when they 'choose life', and the curses that follow when they do not. The 'Related' psalm, **Psalm 1**, is about the blessings that await the righteous, and the judgment that awaits the wicked.
+* **Luke 14.25-33** continues the series in Luke, and is about the cost of being a disciple. (Verses 34 and 35 are omitted, perhaps for brevity, perhaps because of their obscurity, but they could be included for completeness 'when opportunity allows'.) The 'Related' reading, **Deuteronomy 30.15-20** calls its hearers to consider the benefits that follow when they 'choose life', and the curses that follow when they do not. The 'Related' psalm, **Psalm 1**, is about the blessings that await the righteous, and the judgment that awaits the wicked.
 
 ## Sunday between 11 and 17 September (Proper 19)
 
@@ -555,7 +559,7 @@ Year C
 
 * **Jeremiah 4.11-12, 22-28** continues the series on the prophets and in Jeremiah, and is about the land becoming a desolation as a consequence of the people's foolishness. **Psalm 14** is about the foolishness of turning from God.
 * **1 Timothy 1.12-17** begins a three-week series in 1 Timothy. Paul, the foremost of sinners, received mercy.
-* **Luke 15.1-10** continues the series in Luke, and is about God welcoming sinners, and the parables of the lost sheep and the lost coin. The 'Related' reading, **Exodus 32.7-14**, is about God forgiving sinners, after the incident with the golden calf. The 'Related' psalm, **Psalm 51.1-11** (EV: 1-10), is about the forgiveness of sins.
+* **Luke 15.1-10** continues the series in Luke, and is about God welcoming sinners, and the parables of the lost sheep and the lost coin. (These parables go together with that of the lost son, which follows directly, and which is set for Lent 4, but which might have been 'displaced' by Mothering Sunday.) The 'Related' reading, **Exodus 32.7-14**, is about God forgiving sinners, after the incident with the golden calf. The 'Related' psalm, **Psalm 51.1-11** (EV: 1-10), is about the forgiveness of sins.
 
 ## Sunday between 18 and 24 September (Proper 20)
 
@@ -585,7 +589,7 @@ Year C
 
 Year C
 
-* **Jeremiah 29.1, 4-7** continues the series on the prophets and in Jeremiah, and is a word of comfort and assurance for God's people in exile (out of sequence, presumably for thematic reasons). (Extending the reading by a few verses would provide additional comfort: see rule 5 at the top of the [lectionary](https://www.churchofengland.org/prayer-and-worship/worship-texts-and-resources/common-worship/churchs-year/lectionary#p539a).)
+* **Jeremiah 29.1, 4-7** continues the series on the prophets and in Jeremiah, and is a word of comfort and assurance for God's people in exile (out of sequence, presumably for thematic reasons). (Extending the reading by a few verses would provide additional comfort.)
 
 ## Sunday between 16 and 22 October (Proper 24)
 
