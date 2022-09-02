@@ -144,7 +144,7 @@ The addition of a creation-themed week on the Second Sunday before Lent means th
 Year C
 
 * **1 Corinthians 15.1-11**, on the preaching of the resurrection, begins a three-part series on 1 Corinthians 15, covering most of the chapter. (NB: on Easter Day, verses 1-11 are read in Year B, and verses 19-26 in Year C.)
-* **Luke 5.1-11** begins a semicontinuous series in Luke 5-21 (plus a bit of 23), which covers these three Sundays in February, and all the Sundays between Trinity and Advent. Jesus calls his first disciples. (5.12-16 is covered in Mark 1.40-45, 5.17-26 in Mark 2.1-12, 5.27-32 in Matthew 9.9-13, 5.33-39 is omitted along with its parallels in Matthew 9.14-17 and Mark 2.18-22, 6.1-11 is covered in Mark 2.23-3.6, and 6.12-16 in Matthew 9.35 – 10.8.) **Isaiah 6.1-8 [9-13]** continues the theme of calling, with the calling of Isaiah. Isaiah saw the Lord, 'high and lofty', in his heavenly temple, and **Psalm 138** refers to God as 'high' and speaks of his 'holy temple'.
+* **Luke 5.1-11** begins a semicontinuous series in Luke 5-21 (plus a bit of 23), which covers these three Sundays in February, and all the Sundays between Trinity and Advent. Jesus calls his first disciples. (5.12-16 is covered in Mark 1.40-45, 5.17-26 in Mark 2.1-12, 5.27-32 in Matthew 9.9-13, 5.33-39 is omitted along with its parallels in Matthew 9.14-17 and Mark 2.18-22 [NB: RCL 'Proper 3'], 6.1-11 is covered in Mark 2.23-3.6, and 6.12-16 in Matthew 9.35 – 10.8.) **Isaiah 6.1-8 [9-13]** continues the theme of calling, with the calling of Isaiah. Isaiah saw the Lord, 'high and lofty', in his heavenly temple, and **Psalm 138** refers to God as 'high' and speaks of his 'holy temple'.
 
 ## Sunday between 11 and 17 February (Proper 2)*
 
@@ -521,7 +521,7 @@ Year C
 
 * **Hosea 11.1-11** continues the series on the prophets, and is the second of two weeks in Hosea. God loves Israel, despite their waywardness. **Psalm 107.1-9, 43** is about God restoring those who have gone astray, because of his steadfast love.
 * **Colossians 3.1-11** concludes the series in Colossians, and is about dying to the old life and rising to the new life in Christ.
-* **Luke 12.13-21** continues the series in Luke, and is about possessions and the importance of being 'rich towards God'. The 'Related' reading, **Ecclesiastes 1.2, 12-14; 2.18-23** is about the futility of toiling in the face of death. The 'Related' psalm, **Psalm 49.1-12**, is a reminder that all will die and 'leave their riches to others'.
+* **Luke 12.13-21** continues the series in Luke, and is about possessions and the importance of being 'rich towards God'. (12.22-31 is omitted, along with its parallel in Matthew 6.25-33 [NB: RCL 'Proper 3'].) The 'Related' reading, **Ecclesiastes 1.2, 12-14; 2.18-23** is about the futility of toiling in the face of death. The 'Related' psalm, **Psalm 49.1-12**, is a reminder that all will die and 'leave their riches to others'.
 
 ## Sunday between 7 and 13 August (Proper 14)
 
