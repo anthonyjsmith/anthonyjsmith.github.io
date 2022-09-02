@@ -140,7 +140,7 @@ Web resources
 Year C
 
 * **1 Corinthians 15.1-11**, on the preaching of the resurrection, begins a three-part series on 1 Corinthians 15, covering most of the chapter. (NB: on Easter Day, verses 1-11 are read in Year B, and verses 19-26 in Year C.)
-* **Luke 5.1-11** begins a semicontinuous series in Luke 5-21 (plus a bit of 23), which covers these three Sundays in February, and all the Sundays between Trinity and Advent. Jesus calls his first disciples. **Isaiah 6.1-8 [9-13]** continues the theme of calling, with the calling of Isaiah. Isaiah saw the Lord, 'high and lofty', in his heavenly temple, and **Psalm 138** refers to God as 'high' and speaks of his 'holy temple'.
+* **Luke 5.1-11** begins a semicontinuous series in Luke 5-21 (plus a bit of 23), which covers these three Sundays in February, and all the Sundays between Trinity and Advent. Jesus calls his first disciples. (5.12-16 is covered in Mark 1.40-45, 5.17-26 in Mark 2.1-12, 5.27-32 in Matthew 9.9-13, 5.33-39 is omitted along with its parallels in Matthew 9.14-17 and Mark 2.18-22, 6.1-11 is covered in Mark 2.23-3.6, and 6.12-16 in Matthew 9.35 – 10.8.) **Isaiah 6.1-8 [9-13]** continues the theme of calling, with the calling of Isaiah. Isaiah saw the Lord, 'high and lofty', in his heavenly temple, and **Psalm 138** refers to God as 'high' and speaks of his 'holy temple'.
 
 ## Sunday between 11 and 17 February (Proper 2)*
 
@@ -154,7 +154,7 @@ Year C
 Year C
 
 * **1 Corinthians 15.35-38, 42-50** concludes the series in 1 Corinthians 15, with extracts from the section on the resurrection body.
-* **Luke 6.27-38** continues the series in Luke, following immediately from the previous week, and focusing on loving one's enemies. **Genesis 45.3-11, 15** is about Joseph's love for his brothers, who had behaved like his enemies. **Psalm 37.1-11, 40, 41** (EV: 1-11, 39, 40) calls us not to fret about evildoers.
+* **Luke 6.27-38** continues the series in Luke (without a gap), and focuses on loving one's enemies. (6.39-45 is omitted, strangely, along with its parallel in Matthew 7.3-5, 16-20, but could be included 'when opportunity allows'. 6.46 is omitted, but 6.47-49 is covered in Matthew 7.21-29.) **Genesis 45.3-11, 15** is about Joseph's love for his brothers, who had behaved like his enemies. **Psalm 37.1-11, 40, 41** (EV: 1-11, 39, 40) calls us not to fret about evildoers.
 
 ## The Second Sunday before Lent
 
@@ -438,7 +438,7 @@ Year C
 
 * **1 Kings 18.20, 21 [22-29] 30-39** begins a long (chronological) series on the prophets, which lasts until the end of Ordinary Time. The series has between zero and four weeks on Elijah (depending on the date of Easter, and out of sequence), followed by two weeks each for Elisha (the first of which is the transition from Elijah), Amos, Hosea and Isaiah, nine weeks in Jeremiah and Lamentations, and a final week in Joel. This reading begins the Elijah/Elisha series in 1 and 2 Kings, with Elijah on Mount Carmel. **Psalm 96** contrasts the Lord with idols.
 * **Galatians 1.1-12** begins a semicontinuous series in Galatians, with Paul's preaching of the gospel.
-* **Luke 7.1-10** continues the series in Luke, with the centurion's faith. The 'Related' reading from **1 Kings 8.22-23, 41-43** asks God to answer the prayers of foreigners, while the 'Related' psalm, **Psalm 96.1-9** (part of the 'Continuous' psalm), invites the whole earth to draw near to the Lord.
+* **Luke 7.1-10** continues the series in Luke (from Proper 3), with the centurion's faith. The 'Related' reading from **1 Kings 8.22-23, 41-43** asks God to answer the prayers of foreigners, while the 'Related' psalm, **Psalm 96.1-9** (part of the 'Continuous' psalm), invites the whole earth to draw near to the Lord.
 
 ## Sunday between 5 and 11 June (Proper 5)*
 
@@ -478,7 +478,7 @@ Year C
 
 * **2 Kings 5.1-14** continues the series on the prophets, and concludes the series in 1 and 2 Kings, with Naaman being healed of leprosy. **Psalm 30** gives thanks to God for answered prayer.
 * **Galatians 6.[1-6] 7-16** concludes the series in Galatians, with an exhortation to do good to all.
-* **Luke 10.1-11, 16-20** continues the series in Luke (without a gap), with Jesus sending out the seventy-two who then return rejoicing. The 'Related' reading, **Isaiah 66.10-14**, calls on people to rejoice. The 'Related' psalm, **Psalm 66.1-8** (EV: 1-9), begins with a call to be joyful.
+* **Luke 10.1-11, 16-20** continues the series in Luke (without a gap), with Jesus sending out the seventy-two who then return rejoicing. (Verses 12-15 and 21-24 could be included 'when opportunity allows'.) The 'Related' reading, **Isaiah 66.10-14**, calls on people to rejoice. The 'Related' psalm, **Psalm 66.1-8** (EV: 1-9), begins with a call to be joyful.
 
 ## Sunday between 10 and 16 July (Proper 10)
 
