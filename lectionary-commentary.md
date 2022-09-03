@@ -40,7 +40,7 @@ New Testament readings after Trinity and before Advent cover the following books
 What about the rest of the Bible (apart from the Gospels and the Psalms)? As well as cameo appearances during seasons and festivals, and 'Related' Old Testament readings after Trinity, the Bible is read systematically as follows:
 
 * Old Testament
-  * Leviticus, Numbers, Deuteronomy, Joshua, Nehemiah, Ezekiel, Daniel, Jonah, Micah, Zephaniah and Malachi: no systematic readings
+  * Leviticus, Numbers, Deuteronomy, Joshua, Nehemiah, Ezekiel, Daniel, Jonah, Micah, Zephaniah and Malachi: included, but not in a systematic way
   * Judges, Ruth, Ezra, Obadiah, Nahum and Haggai: not included
   * 1 and 2 Chronicles: not included (outside festivals)
   * Ecclesiastes, Habakkuk and Zechariah: once as a 'Related' reading
