@@ -135,8 +135,6 @@ Web resources
 
 # Ordinary Time
 
-The addition of a creation-themed week on the Second Sunday before Lent means that 'Proper 3' in the RCL is not included.
-
 ## Sunday between 4 and 10 February (Proper 1)*
 
 (RCL 'Fifth Sunday after the Epiphany'.)
@@ -162,11 +160,24 @@ Year C
 Year C
 
 * **1 Corinthians 15.35-38, 42-50** concludes the series in 1 Corinthians 15, with extracts from the section on the resurrection body. (15.51-58 is the reading for the following week in the RCL.)
-* **Luke 6.27-38** continues the series in Luke (without a gap), and focuses on loving one's enemies. (6.39-49 is the reading for the following week in the RCL. So, in Common Worship, 6.39-45 is omitted, along with its parallel in Matthew 7.3-5 and 16-20. 6.46 is omitted, but 6.47-49 is covered in Matthew 7.21-29.) **Genesis 45.3-11, 15** is about Joseph's love for his brothers, who had behaved like his enemies. **Psalm 37.1-11, 40, 41** (EV: 1-11, 39, 40) calls us not to fret about evildoers.
+* **Luke 6.27-38** continues the series in Luke (without a gap), and focuses on loving one's enemies. (6.39-49 is the reading for the following week in the RCL, which is omitted in Common Worship: see discussion below. To fill in the gap, this week's reading could be extended to 6.42 'when opportunity allows'.) **Genesis 45.3-11, 15** is about Joseph's love for his brothers, who had behaved like his enemies. **Psalm 37.1-11, 40, 41** (EV: 1-11, 39, 40) calls us not to fret about evildoers.
 
 ## The Second Sunday before Lent
 
 Creation theme.
+
+The addition of this creation-themed week means that 'Proper 3' in the RCL is not included. As a consequence, the Common Worship lectionary does not include the following, which contain several famous sayings of Jesus:
+
+* Matthew 6.24-34 ('No one can serve two masters ... do not worry'). Its parallel in Luke 12.22-31 is also omitted, but could be included by extending the reading from Luke 12.32-40.
+* Mark 2.13-22 ('I have come to call not the righteous but sinners ... new wine into old wineskins'). The parallel passage in Luke 5.27-38 is also omitted, but the other parallel in Matthew 9.9-17 is partially included in Matthew 9.9-13, 18-26, and the gap could easily be filled.
+* Luke 6.39-49
+  * 6.39 ('Can a blind person guide a blind person?') has a parallel in Matthew 15.14, which is included in Matthew 15.[10-20] 21-28
+  * 6.40 ('A disciple is not above the teacher') has a parallel in John 13.16, which is included on Maundy Thursday
+  * 6.41-42 ('speck ... log') has a parallel in Matthew 7.3-5, which is also omitted (last week's reading could be extended to this point)
+  * 6.43-44 ('tree is known by its fruit') has a parallel in Matthew 7.16, 18, 20, which could be included by extending the reading from 7.21-29 to begin at verse 16
+  * 6.45 ('it is out of the abundance of the heart that the mouth speaks') has a parallel in Matthew 12.34-35, which is omitted, and a near parallel in Mark 7.20-23, which is (mostly) included in Mark 7.1-8, 14, 15, 21-23
+  * 6.46 ('Lord ... do what I say') has a parallel in Matthew 7.21, which is included in 7.21-29
+  * 6.47-49 ('house ... without a foundation') has a parallel in Matthew 7.24-27, which is included in 7.21-29
 
 ## The Sunday next before Lent
 
@@ -529,7 +540,7 @@ Year C
 
 * **Isaiah 1.1, 10-20** continues the series on the prophets, and is the first of two weeks in Isaiah (moving on chronologically from Hosea). Both readings are quite hard-hitting, which provides a smooth transition into Jeremiah. (Isaiah's call featured in Proper 1.) God has no pleasure in his people's offerings when their hands are 'full of blood'. **Psalm 50.1-8, 23, 24** (EV: 1-8, 22, 23) speaks of God testifying against his people, despite their sacrifices.
 * **Hebrews 11.1-3, 8-16** begins a series in Hebrews 11-13, and is about the faith of Abraham.
-* **Luke 12.32-40** continues the series in Luke, and is about treasure in heaven and the coming of the Son of Man. The choice of verses seems odd, but it captures the seamless transition between 'don't worry' (22-34) and 'be ready' (35-48). The 'Related' reading, **Genesis 15.1-6**, is about Abram looking to his reward and trusting God's promise. The 'Related' psalm, **Psalm 33.12-22** is about waiting for God, who is our 'shield' (Genesis 15.1).
+* **Luke 12.32-40** continues the series in Luke, and is about treasure in heaven and the coming of the Son of Man. The choice of verses seems odd, but it captures the seamless transition between 'don't worry' (22-34) and 'be ready' (35-48). The reading could be extended to begin at 12.22 'when opportunity allows', to compensate for the omission of RCL 'Proper 3'. The 'Related' reading, **Genesis 15.1-6**, is about Abram looking to his reward and trusting God's promise. The 'Related' psalm, **Psalm 33.12-22** is about waiting for God, who is our 'shield' (Genesis 15.1).
 
 ## Sunday between 14 and 20 August (Proper 15)
 
