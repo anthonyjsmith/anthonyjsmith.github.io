@@ -30,17 +30,23 @@ K-band galaxy luminosity and surface brightness distribution from the LAS (Scien
 
 ## Popular/non-specialist talks
 
+12 Jun 2022: **Journey through the Universe**\\
+_SPY: St Paul's Youth, Spennymoor_
+
 4 Oct 2020: **'When I consider your heavens...’**\\
 _[St Barnabas, Middlesbrough](http://www.st-barnabas.net/) (via Zoom)_
+
+14 Mar 2020: **Journey through the Universe**\\
+_SHED Talk, The Potting Shed, Northallerton (part of the 'Come and See' Northern Bishops' Mission to the Diocese of York)_
 
 9 Mar 2020: **Journey through the Universe**\\
 _[St Paul's Mothers' Union, Spennymoor](https://www.stpaulsspennymoor.co.uk/church-life/)_
 
 23 Apr 2012: **Astronomy through a Christian telescope**\\
-_[West Yorkshire School of Christian Studies (WYSOCS)](http://www.wysocs.org.uk/lifematters/recent-events.php), Leeds_
+_[West Yorkshire School of Christian Studies (WYSOCS)](https://thinkfaith.net/lifematters/past-events/), Leeds_
 
 12 Mar 2011: **Once upon a time in reality: how to read a scientific story** (with Eline van Asperen) [PDF](http://christianacademicnetwork.net/2011Conference/reports/CANScientificStories.pdf) | [MP3](http://christianacademicnetwork.net/2011Conference/Recordings/AnthonyEline.mp3)\\
-_["Knowing In God's World"](http://christianacademicnetwork.net/newjoomla/index.php?option=com_content&amp;view=article&amp;id=228&amp;Itemid=109), Christian Academic Network, Nottingham_
+_["Knowing In God's World"](http://christianacademicnetwork.net/website/2020/06/13/2011-conference-knowing-in-gods-world/), Christian Academic Network, Nottingham_
 
 13 Nov 2010: **Journey through the Universe**\\
 _Calvary International Cafe, [Calvary Evangelical Church, Brighton, UK](http://www.calvary-brighton.org.uk/)_
