@@ -142,7 +142,13 @@ Web resources
 Year C
 
 * **1 Corinthians 15.1-11**, on the preaching of the resurrection, begins a three-part series on 1 Corinthians 15, covering most of the chapter. (NB: on Easter Day, verses 1-11 are read in Year B, and verses 19-26 in Year C.)
-* **Luke 5.1-11** begins a semicontinuous series in Luke 5-21 (plus a bit of 23), which covers these three Sundays in February, and all the Sundays between Trinity and Advent. Jesus calls his first disciples. (5.12-16 is covered in Mark 1.40-45, 5.17-26 in Mark 2.1-12, 5.27-32 in Matthew 9.9-13, 5.33-39 is omitted along with its parallels in Matthew 9.14-17 and Mark 2.18-22 [NB: RCL 'Proper 3'], 6.1-11 is covered in Mark 2.23-3.6, and 6.12-16 in Matthew 9.35 – 10.8.) **Isaiah 6.1-8 [9-13]** continues the theme of calling, with the calling of Isaiah. Isaiah saw the Lord, 'high and lofty', in his heavenly temple, and **Psalm 138** refers to God as 'high' and speaks of his 'holy temple'.
+* **Luke 5.1-11** begins a semicontinuous series in Luke 5-21 (plus a bit of 23), which covers these three Sundays in February, and all the Sundays between Trinity and Advent. Jesus calls his first disciples. **Isaiah 6.1-8 [9-13]** continues the theme of calling, with the calling of Isaiah. Isaiah saw the Lord, 'high and lofty', in his heavenly temple, and **Psalm 138** refers to God as 'high' and speaks of his 'holy temple'.
+  * Luke 5.12-16: see Mark 1.40-45.
+  * Luke 5.17-26: see Mark 2.1-12.
+  * Luke 5.27-32: see Matthew 9.9-13.
+  * Luke 5.33-39: omitted, along with its parallels in Matthew 9.14-17 and Mark 2.18-22 (NB: RCL 'Proper 3').
+  * Luke 6.1-11: see Mark 2.23-3.6.
+  * Luke 6.12-16: see Matthew 9.35 – 10.8.
 
 ## Sunday between 11 and 17 February (Proper 2)*
 
@@ -170,14 +176,14 @@ The addition of this creation-themed week means that 'Proper 3' in the RCL is no
 
 * Matthew 6.24-34 ('No one can serve two masters ... do not worry'). Its parallel in Luke 12.22-31 is also omitted, but could be included by extending the reading from Luke 12.32-40.
 * Mark 2.13-22 ('I have come to call not the righteous but sinners ... new wine into old wineskins'). The parallel passage in Luke 5.27-38 is also omitted, but the other parallel in Matthew 9.9-17 is partially included in Matthew 9.9-13, 18-26, and the gap could easily be filled.
-* Luke 6.39-49
-  * 6.39 ('Can a blind person guide a blind person?') has a parallel in Matthew 15.14, which is included in Matthew 15.[10-20] 21-28
-  * 6.40 ('A disciple is not above the teacher') has a parallel in John 13.16, which is included on Maundy Thursday
-  * 6.41-42 ('speck ... log') has a parallel in Matthew 7.3-5, which is also omitted (last week's reading could be extended to this point)
-  * 6.43-44 ('tree is known by its fruit') has a parallel in Matthew 7.16, 18, 20, which could be included by extending the reading from 7.21-29 to begin at verse 16
-  * 6.45 ('it is out of the abundance of the heart that the mouth speaks') has a parallel in Matthew 12.34-35, which is omitted, and a near parallel in Mark 7.20-23, which is (mostly) included in Mark 7.1-8, 14, 15, 21-23
-  * 6.46 ('Lord ... do what I say') has a parallel in Matthew 7.21, which is included in 7.21-29
-  * 6.47-49 ('house ... without a foundation') has a parallel in Matthew 7.24-27, which is included in 7.21-29
+* Luke 6.39-49...
+  * 6.39 ('Can a blind person guide a blind person?'): see Matthew 15.14, which is included in Matthew 15.[10-20] 21-28.
+  * 6.40 ('A disciple is not above the teacher'): see John 13.16, which is included on Maundy Thursday.
+  * 6.41-42 ('speck ... log'): see Matthew 7.3-5, which is also omitted (last week's reading could be extended to this point).
+  * 6.43-44 ('tree is known by its fruit'): see Matthew 7.16, 18, 20, which could be included by extending the reading from 7.21-29 to begin at verse 16.
+  * 6.45 ('it is out of the abundance of the heart that the mouth speaks'): see Matthew 12.34-35 (which is omitted) and a near parallel in Mark 7.20-23, which is (mostly) included in Mark 7.1-8, 14, 15, 21-23.
+  * 6.46 ('Lord ... do what I say'): see Matthew 7.21, which is included in 7.21-29.
+  * 6.47-49 ('house ... without a foundation'): see Matthew 7.24-27, which is included in 7.21-29.
 
 ## The Sunday next before Lent
 
@@ -467,7 +473,8 @@ Year C
 
 * **1 Kings 17.8-16 [17-24]** continues the series on the prophets and in 1 and 2 Kings (out of sequence, presumably to give some connections with the Gospel reading), and tells of Elijah providing for the widow in Zaraphath [and raising her son: see the Gospel reading]. **Psalm 146** rejoices in the Lord's provision for the orphan and widow.
 * **Galatians 1.11-24** continues the series in Galatians, overlapping slightly with the previous section. Paul recounts his calling. 
-* **Luke 7.11-17** continues the series in Luke (without a gap), and tells of Jesus raising the widow's son in Nain. (7.18-35 has its parallel in Matthew 11.2-19, which is mostly covered on two separate occasions by Matthew 11.2-11 and 16-19.) The 'Related' reading, **1 Kings 17.17-24** (also the optional section of the 'Continuous' reading) tells of Elijah raising the widow's son in Zaraphath. The 'Related' psalm, **Psalm 30** thanks God for raising the psalmist 'from the dead'.
+* **Luke 7.11-17** continues the series in Luke (without a gap), and tells of Jesus raising the widow's son in Nain. The 'Related' reading, **1 Kings 17.17-24** (also the optional section of the 'Continuous' reading) tells of Elijah raising the widow's son in Zaraphath. The 'Related' psalm, **Psalm 30** thanks God for raising the psalmist 'from the dead'.
+  * Luke 7.18-35: see Matthew 11.2-19, which is mostly covered on two separate occasions by Matthew 11.2-11 and 16-19.
 
 ## Sunday between 12 and 18 June (Proper 6)*
 
@@ -475,7 +482,11 @@ Year C
 
 * **1 Kings 21.1-10 [11-14] 15-21a** continues the series on the prophets and in 1 and 2 Kings, with Naboth's vineyard. **Psalm 5.1-8** is a plea to God in the face of 'the bloodthirsty and deceitful'.
 * **Galatians 2.15-21** continues the series in Galatians, on justification by faith.
-* **Luke 7.36 – 8.3** continues the series in Luke, with Jesus being anointed by the sinful woman, who had been forgiven. (8.4-15 is partially covered by Matthew 13.1-9, 18-23; 8.16-18 is omitted; 8.19-21 is covered in Mark 3.20-35; and 8.22-25 is set for the Second Sunday before Lent, and also covered in Mark 4.35-41.) The 'Related' reading, **2 Samuel 11.26 – 12.10, 13-15** is about David being forgiven for his sin. The 'Related' psalm, **Psalm 32**, is about the blessing of forgiveness.
+* **Luke 7.36 – 8.3** continues the series in Luke, with Jesus being anointed by the sinful woman, who had been forgiven. The 'Related' reading, **2 Samuel 11.26 – 12.10, 13-15** is about David being forgiven for his sin. The 'Related' psalm, **Psalm 32**, is about the blessing of forgiveness.
+  * Luke 8.4-15: partially covered by Matthew 13.1-9, 18-23
+  * Luke 8.16-18: omitted.
+  * Luke 8.19-21: see Mark 3.20-35.
+  * Luke 8.22-25: set for the Second Sunday before Lent, and also covered in Mark 4.35-41.
 
 ## Sunday between 19 and 25 June (Proper 7)*
 
@@ -483,7 +494,16 @@ Year C
 
 * **1 Kings 19.1-4 [5-7] 8-15a** continues the series on the prophets and in 1 and 2 Kings (out of sequence, for some reason), with Elijah fleeing to Horeb. **Psalms 42, 43** reflect Elijah's troubled state and his longing for God.
 * **Galatians 3.23-29** continues the series in Galatians, on being children of God together.
-* **Luke 8.26-39** continues the series in Luke, with Jesus restoring the demon-possessed man. (8.40-56 is covered in Matthew 9.9-13, 18-26 and in Mark 5.21-43; 9.1-9 is covered by Mark 6.1-13 and 6.14-29; 9.10-17 is covered by Matthew 14.13-21 and John 6.1-21; 9.18-27 is covered in Mark 8.27-31; 9.18-20 is covered in Matthew 16.13-20; 9.21-27 is covered in Matthew 16.21-28 and Mark 8.31-38; 9.28-43a is set for the Sunday next before Lent; 9.43b-48 is covered in Mark 9.30-37; and 9.49-50 is covered in Mark 9.38-50.) The 'Related' reading, **Isaiah 65.1-9** is about God holding out his hands to those who 'sit inside tombs' and 'eat swine's flesh'. The 'Related' psalm, **Psalm 22.19-28** praises God for his deliverance, and calls the nations to worship.
+* **Luke 8.26-39** continues the series in Luke, with Jesus restoring the demon-possessed man. The 'Related' reading, **Isaiah 65.1-9** is about God holding out his hands to those who 'sit inside tombs' and 'eat swine's flesh'. The 'Related' psalm, **Psalm 22.19-28** praises God for his deliverance, and calls the nations to worship.
+  * Luke 8.40-56: see Matthew 9.9-13, 18-26 and Mark 5.21-43.
+  * Luke 9.1-9: see Mark 6.1-13 and 6.14-29.
+  * Luke 9.10-17: see Matthew 14.13-21 and John 6.1-21.
+  * Luke 9.18-27: see Mark 8.27-31.
+  * Luke 9.18-20: see Matthew 16.13-20.
+  * Luke 9.21-27: see Matthew 16.21-28 and Mark 8.31-38.
+  * Luke 9.28-43a: set for the Sunday next before Lent.
+  * Luke 9.43b-48: see Mark 9.30-37.
+  * Luke 9.49-50: see Mark 9.38-50.
 
 ## Sunday between 26 June and 2 July (Proper 8)
 
@@ -499,7 +519,9 @@ Year C
 
 * **2 Kings 5.1-14** continues the series on the prophets, and concludes the series in 1 and 2 Kings, with Naaman being healed of leprosy. **Psalm 30** gives thanks to God for answered prayer.
 * **Galatians 6.[1-6] 7-16** concludes the series in Galatians, with an exhortation to do good to all.
-* **Luke 10.1-11, 16-20** continues the series in Luke (without a gap), with Jesus sending out the seventy-two who then return rejoicing. (10.12-15 could be included 'when opportunity allows': compare Matthew 11.16-19, 25-30, which also omits this bit. 10.21-22 is covered in Matthew 11.16-19, 25-30. 10.23-24 is omitted, but could be included if the gap is filled in Matthew 13.1-9, 18-23.) The 'Related' reading, **Isaiah 66.10-14**, calls on people to rejoice. The 'Related' psalm, **Psalm 66.1-8** (EV: 1-9), begins with a call to be joyful.
+* **Luke 10.1-11, 16-20** continues the series in Luke (without a gap), with Jesus sending out the seventy-two who then return rejoicing. (10.12-15 could be included 'when opportunity allows': compare Matthew 11.16-19, 25-30, which also omits this bit.) The 'Related' reading, **Isaiah 66.10-14**, calls on people to rejoice. The 'Related' psalm, **Psalm 66.1-8** (EV: 1-9), begins with a call to be joyful.
+  * Luke 10.21-22: see Matthew 11.16-19, 25-30.
+  * Luke 10.23-24: omitted, but could be included if the gap is filled in Matthew 13.1-9, 18-23.
 
 ## Sunday between 10 and 16 July (Proper 10)
 
