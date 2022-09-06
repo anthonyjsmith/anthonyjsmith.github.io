@@ -172,9 +172,11 @@ Year C
 
 Creation theme.
 
-The addition of this creation-themed week means that 'Proper 3' in the RCL is not included. As a consequence, the Common Worship lectionary does not include the following, which contain several famous sayings of Jesus:
+The addition of this creation-themed week means that 'Proper 3' in the RCL is not included. The Gospel readings from that week contain several famous sayings of Jesus:
 
-* Matthew 6.24-34 ('No one can serve two masters ... do not worry'). Its parallel in Luke 12.22-31 is also omitted, but could be included by extending the reading from Luke 12.32-40.
+* Matthew 6.24-34...
+  * Matthew 6.24 ('No one can serve two masters'): see Luke 16.1-13.
+  * Matthew 6.25-34 ('do not worry'): set for this week. See also Harvest Thanksgiving.
 * Mark 2.13-22 ('I have come to call not the righteous but sinners ... new wine into old wineskins'). The parallel passage in Luke 5.27-38 is also omitted, but the other parallel in Matthew 9.9-17 is partially included in Matthew 9.9-13, 18-26, and the gap could easily be filled.
 * Luke 6.39-49...
   * 6.39 ('Can a blind person guide a blind person?'): see Matthew 15.14, which is included in Matthew 15.[10-20] 21-28.
@@ -486,7 +488,7 @@ Year C
   * Luke 8.4-15: partially covered by Matthew 13.1-9, 18-23
   * Luke 8.16-18: omitted.
   * Luke 8.19-21: see Mark 3.20-35.
-  * Luke 8.22-25: set for the Second Sunday before Lent, and also covered in Mark 4.35-41.
+  * Luke 8.22-25: set for 2 before Lent, and also covered in Mark 4.35-41.
 
 ## Sunday between 19 and 25 June (Proper 7)*
 
@@ -547,6 +549,16 @@ Year C
 * **Hosea 1.2-10** continues the series on the prophets, and is the first of two weeks in Hosea (moving on chronologically from Amos). Hosea's faithfulness to 'a wife of whoredom' is an image of God's faithfulness to Israel. **Psalm 85** is about God's faithfulness to his people, forgiving their sins.
 * **Colossians 2.6-15 [16-19]** continues the series in Colossians, and is about fullness in Christ.
 * **Luke 11.1-13** continues the series in Luke (without a gap), and is about prayer. The 'Related' reading, **Genesis 18.20-32**, is from the same chapter as last week's reading, and is about Abraham interceding for Sodom. The 'Related' psalm, **Psalm 138**, gives thanks for answered prayer, and speaks of God differentiating between the lowly and the proud.
+  * Luke 11.14, 16: omitted.
+  * Luke 11.15, 17-22: see Mark 3.20-35.
+  * Luke 11.23-32: omitted.
+  * Luke 11.33: see Matthew 5.13-20.
+  * Luke 11.34-35: omitted, along with its parallel in Matthew 6.22-23.
+  * Luke 11.36: omitted.
+  * Luke 11.37-54: omitted, along with Matthew 23, which contains many parallels.
+  * Luke 12.1-9: see Matthew 10.24-39.
+  * Luke 12.10: omitted, along with its parallel in Matthew 12.31-32.
+  * Luke 12.11-12: omitted (but see Matthew 10.17-22, set for Stephen). Compare Luke 21.5-19 (and Mark 13.5-13, set for Mark).
 
 ## Sunday between 31 July and 6 August (Proper 13)
 
@@ -554,7 +566,9 @@ Year C
 
 * **Hosea 11.1-11** continues the series on the prophets, and is the second of two weeks in Hosea. God loves Israel, despite their waywardness. **Psalm 107.1-9, 43** is about God restoring those who have gone astray, because of his steadfast love.
 * **Colossians 3.1-11** concludes the series in Colossians, and is about dying to the old life and rising to the new life in Christ.
-* **Luke 12.13-21** continues the series in Luke, and is about possessions and the importance of being 'rich towards God'. (12.22-31 is omitted, along with its parallel in Matthew 6.25-33 [NB: RCL 'Proper 3'].) The 'Related' reading, **Ecclesiastes 1.2, 12-14; 2.18-23** is about the futility of toiling in the face of death. The 'Related' psalm, **Psalm 49.1-12**, is a reminder that all will die and 'leave their riches to others'.
+* **Luke 12.13-21** continues the series in Luke, and is about possessions and the importance of being 'rich towards God'. The 'Related' reading, **Ecclesiastes 1.2, 12-14; 2.18-23** is about the futility of toiling in the face of death. The 'Related' psalm, **Psalm 49.1-12**, is a reminder that all will die and 'leave their riches to others'.
+  * Luke 12.22-30: set for Harvest Thanksgiving Year A. See also Matthew 6.25-34.
+  * Luke 12.31: see Matthew 6.25-34.
 
 ## Sunday between 7 and 13 August (Proper 14)
 
@@ -562,7 +576,10 @@ Year C
 
 * **Isaiah 1.1, 10-20** continues the series on the prophets, and is the first of two weeks in Isaiah (moving on chronologically from Hosea). Both readings are quite hard-hitting, which provides a smooth transition into Jeremiah. (Isaiah's call featured in Proper 1.) God has no pleasure in his people's offerings when their hands are 'full of blood'. **Psalm 50.1-8, 23, 24** (EV: 1-8, 22, 23) speaks of God testifying against his people, despite their sacrifices.
 * **Hebrews 11.1-3, 8-16** begins a series in Hebrews 11-13, and is about the faith of Abraham.
-* **Luke 12.32-40** continues the series in Luke, and is about treasure in heaven and the coming of the Son of Man. The choice of verses seems odd, but it captures the seamless transition between 'don't worry' (22-34) and 'be ready' (35-48). The reading could be extended to begin at 12.22 'when opportunity allows', to compensate for the omission of RCL 'Proper 3'. The 'Related' reading, **Genesis 15.1-6**, is about Abram looking to his reward and trusting God's promise. The 'Related' psalm, **Psalm 33.12-22** is about waiting for God, who is our 'shield' (Genesis 15.1).
+* **Luke 12.32-40** continues the series in Luke, and is about treasure in heaven and the coming of the Son of Man. The choice of verses seems odd, but it captures the seamless transition between 'don't worry' (22-34) and 'be ready' (35-48). (The reading could be extended to verse 48, 'when opportunity allows'.) The 'Related' reading, **Genesis 15.1-6**, is about Abram looking to his reward and trusting God's promise. The 'Related' psalm, **Psalm 33.12-22** is about waiting for God, who is our 'shield' (Genesis 15.1).
+  * Luke 12.41: omitted.
+  * Luke 12.42-46: omitted, along with its parallel in Matthew 24.45-51.
+  * Luke 12.47-48: omitted.
 
 ## Sunday between 14 and 20 August (Proper 15)
 
@@ -571,6 +588,8 @@ Year C
 * **Isaiah 5.1-7** continues the series on the prophets, and is the second of two weeks in Isaiah. God's vineyard, Israel, has 'yielded wild grapes'. **Psalm 80.1-2, 9-20** (EV: 1-2a, 8-19) is about God's 'vine'.
 * **Hebrews 11.29 – 12.2** continues the series in Hebrews 11-13, and is about faith and perseverance.
 * **Luke 12.49-56** continues the series in Luke, and is about Jesus coming to bring 'fire to the earth', not bringing peace but division. The 'Related' reading, **Jeremiah 23.23-29**, speaks of God's word being like fire, and is about the God who fills heaven and earth coming in judgment. The 'Related' psalm, **Psalm 82**, calls on God to 'judge the earth'.
+  * Luke 12.57-59: see Matthew 5.21-37.
+  * Luke 13.1-9: set for Lent 3.
 
 ## Sunday between 21 and 27 August (Proper 16)
 
@@ -579,6 +598,13 @@ Year C
 * **Jeremiah 1.4-10** continues the series on the prophets, and begins an 8-week vaguely-sequential series in Jeremiah (moving on chronologically from Isaiah), along with one week in Lamentations. The series moves from warning to judgment to hope. This week, Jeremiah the prophet is commissioned, having been set apart before he was born. **Psalm 71.1-6** is about trusting in God from birth onwards.
 * **Hebrews 12.18-29** continues the series in Hebrews 11-13, contrasting Sinai with Mount Zion.
 * **Luke 13.10-17** continues the series in Luke, and is about the crippled woman being healed on the sabbath, so that she 'stood up straight and began praising God'. The 'Related' reading, **Isaiah 58.9b-14**, is about honouring the sabbath and delighting in God, who will 'satisfy your needs'. The 'Related' psalm, **Psalm 103.1-8**, speaks of God as the one who 'satisfies you with good things'.
+  * Luke 13.18-19: see Mark 4.26-34.
+  * Luke 13.18-21: see Matthew 13.31-33, 44-52.
+  * Luke 13.22-24: omitted, along with its close parallel in Matthew 7.13-14.
+  * Luke 13.25-27: see Matthew 7.21-29.
+  * Luke 13.28-29: omitted, along with its parallel in Matthew 8.11-12.
+  * Luke 13.30: see Matthew 20.1-16 and Mark 10.17-31.
+  * Luke 13.31-35: set for Lent 2.
 
 ## Sunday between 28 August and 3 September (Proper 17)
 
@@ -587,6 +613,7 @@ Year C
 * **Jeremiah 2.4-13** continues the series on the prophets and in Jeremiah, and is about God's people forsaking him in favour of 'cracked cisterns'. **Psalm 81.1, 10-16** is about God's desire to 'fill' and 'satisfy' his people, but their refusal to listen.
 * **Hebrews 13.1-8, 15, 16** concludes the series in Hebrews 11-13, and is about the 'sacrifices' that are 'pleasing to God'.
 * **Luke 14.1, 7-14** continues the series in Luke, and is about taking the place of honour at a feast. (These verses are selected from verses 1-24, which form a single unit. The reading could be extended 'when opportunity allows'.) The 'Related' reading from the Apocrypha, **Ecclesiasticus 10.12-18**, is about pride and humility. The alternative 'Related' reading, **Proverbs 25.6-7**, says it is better to take the humble place and be exalted than vice versa. The 'Related' psalm, **Psalm 112**, says that those who give freely to the poor will be exalted.
+  * Luke 14.15-24: omitted, but see similar passage in Matthew 22.1-14.
 
 ## Sunday between 4 and 10 September (Proper 18)
 
@@ -594,7 +621,8 @@ Year C
 
 * **Jeremiah 18.1-11** continues the series on the prophets and in Jeremiah (out of sequence, perhaps to maintain a thematic sequence from warning to judgment, and perhaps chosen to fit with the Gospel reading and its themes of choice and consequences). God is the potter, and is calling his people to change their ways. **Psalm 139.1-5, 12-18** (EV: 1-6, 13-18) is about the God who formed us (as a potter).
 * **Philemon 1-21** is Paul's appeal for runaway slave Onesimus. Perhaps it appears here because it mentions Timothy (see next week).
-* **Luke 14.25-33** continues the series in Luke, and is about the cost of being a disciple. (14.34-35 is covered by a similar saying in Matthew 5.13-20 and Mark 9.38-50, but could be included for completeness 'when opportunity allows'.) The 'Related' reading, **Deuteronomy 30.15-20** calls its hearers to consider the benefits that follow when they 'choose life', and the curses that follow when they do not. The 'Related' psalm, **Psalm 1**, is about the blessings that await the righteous, and the judgment that awaits the wicked.
+* **Luke 14.25-33** continues the series in Luke, and is about the cost of being a disciple. (14.34-35 could be included for completeness 'when opportunity allows'.) The 'Related' reading, **Deuteronomy 30.15-20** calls its hearers to consider the benefits that follow when they 'choose life', and the curses that follow when they do not. The 'Related' psalm, **Psalm 1**, is about the blessings that await the righteous, and the judgment that awaits the wicked.
+  * Luke 14.34-35: see the similar saying in Matthew 5.13-20 and Mark 9.38-50.
 
 ## Sunday between 11 and 17 September (Proper 19)
 
@@ -603,6 +631,7 @@ Year C
 * **Jeremiah 4.11-12, 22-28** continues the series on the prophets and in Jeremiah, and is about the land becoming a desolation as a consequence of the people's foolishness. **Psalm 14** is about the foolishness of turning from God.
 * **1 Timothy 1.12-17** begins a three-week series in 1 Timothy. Paul, the foremost of sinners, received mercy.
 * **Luke 15.1-10** continues the series in Luke, and is about God welcoming sinners, and the parables of the lost sheep and the lost coin. (These parables go together with that of the lost son, which follows directly, and which is set for Lent 4, but which might have been 'displaced' by Mothering Sunday.) The 'Related' reading, **Exodus 32.7-14**, is about God forgiving sinners, after the incident with the golden calf. The 'Related' psalm, **Psalm 51.1-11** (EV: 1-10), is about the forgiveness of sins.
+  * Luke 15.11-32: set for Lent 4 (NB: Mothering Sunday).
 
 ## Sunday between 18 and 24 September (Proper 20)
 
@@ -611,6 +640,9 @@ Year C
 * **Jeremiah 8.18 – 9.1** continues the series on the prophets and in Jeremiah, and expresses sorrow for the pain of 'my poor people'. **Psalm 79.1-9** cries out to God over the desolation of Jerusalem.
 * **1 Timothy 2.1-7** continues the series in 1 Timothy, with a call to pray for everyone.
 * **Luke 16.1-13** continues the series in Luke, with the parable of the shrewd and dishonest manager. The 'Related' reading, **Amos 8.4-7**, speaks against those who 'trample on the needy' and 'practise deceit'. The 'Related' psalm, **Psalm 113**, speaks of God who 'lifts the needy from the ashes'.
+  * Luke 16.14-16: omitted.
+  * Luke 16:17: see Matthew 5.13-20.
+  * Luke 16:18: see Matthew 5.21-37 and Mark 10.2-16.
 
 ## Sunday between 25 September and 1 October (Proper 21)
 
@@ -619,6 +651,8 @@ Year C
 * **Jeremiah 32.1-3a, 6-15** continues the series on the prophets and in Jeremiah, and begins to glimpse hope for the distant future, with the purchase of a field. **Psalm 91.1-6, 14-16** promises deliverance for those who take refuge in God.
 * **1 Timothy 6.6-19** concludes the series in 1 Timothy, with a call to 'Fight the good fight of the faith'.
 * **Luke 16.19-31** continues the series in Luke, with the rich man and Lazarus. The 'Related' reading, **Amos 6.1a, 4-7**, is a warning for the rich. The 'Related' psalm, **Psalm 146**, warns that princes will perish, but promises 'bread to those who hunger'.
+  * Luke 17.1-2: omitted, along with its parallel in Matthew 18.6-7.
+  * Luke 17.3-4: see Matthew 18.15-20 and 18.21-35.
 
 ## Sunday between 2 and 8 October (Proper 22)
 
@@ -657,3 +691,16 @@ Year C
 ## The Second Sunday before Advent
 
 ## Christ the King: The Sunday next before Advent
+
+# Special Occasions
+
+## Harvest Thanksgiving
+
+Year A
+
+* **Luke 12.16-30**. Verse 31 could also be included.
+* Or **Luke 17.11-19**.
+
+Year B
+
+* **Matthew 6.25-33**. Verse 34 could also be included.
