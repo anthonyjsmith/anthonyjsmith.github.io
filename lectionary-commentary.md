@@ -16,7 +16,7 @@ Most of the comments below are 'reverse engineered' using the lectionary and a f
 
 * Year A: hardly begun
 * Year B: hardly begun
-* Year C: complete from Easter Day to Trinity, and Proper 1-22.
+* Year C: complete from Easter Day to Trinity, and Proper 1-23.
 * Festivals: what festivals?!
 
 ## The Bible and the lectionary
@@ -666,7 +666,9 @@ Year C
 
 Year C
 
-* **Jeremiah 29.1, 4-7** continues the series on the prophets and in Jeremiah, and is a word of comfort and assurance for God's people in exile (out of sequence, presumably for thematic reasons). (Extending the reading by a few verses would provide additional comfort.)
+* **Jeremiah 29.1, 4-7** continues the series on the prophets and in Jeremiah, and is a word of comfort and assurance for God's people in exile (out of sequence, presumably for thematic reasons). (Extending the reading by a few verses would provide additional comfort.) **Psalm 66.1-11** (EV: 1-12) is about being brought 'through fire and water ... into a place of liberty'.
+* **2 Timothy 2.8-15** continues the series in 2 Timothy, with a call to endurance.
+* **Luke 17.11-19** continues the series in Luke (without a gap), with the cleansing of the ten lepers, only one of whom (a Samaritan) gave praise to God. (See also Harvest Thanksgiving.) The 'Related' reading, **2 Kings 5.1-3, 7-15c**, is about Naaman being cured of leprosy. The 'Related psalm, **Psalm 111**, is a psalm of thanksgiving for God's powerful works.
 
 ## Sunday between 16 and 22 October (Proper 24)
 
