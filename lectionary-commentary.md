@@ -227,7 +227,7 @@ May be 'displaced' by Mothering Sunday.
 
 A reading from Acts is included at every service between Easter Day and Pentecost.
 
-Gospel readings between Easter Day and Pentecost are exclusively from John's Gospel (continuing to Trinity Sunday in Years B and C), except on the Easter 3 in Years A and B, on Ascension Day, and except for the alternative readings for Easter Day (which duplicate those for the Easter Vigil). Furthermore, on Easter 5, 6 and 7 (and on Pentecost in Years B and C, and Trinity in Year C), the readings are from the 'farewell discourse' (John 13-17).
+Gospel readings between Easter Day and Pentecost are exclusively from John's Gospel (continuing to Trinity Sunday in Years B and C), except on Easter 3 in Years A and B, on Ascension Day, and except for the alternative readings for Easter Day (which duplicate those for the Easter Vigil). Furthermore, on Easter 5, 6 and 7 (and on Pentecost in Years B and C, and Trinity in Year C), the readings are from the 'farewell discourse' (John 13-17).
 
 ## Easter Vigil
 
