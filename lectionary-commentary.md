@@ -16,12 +16,12 @@ Most of the comments below are 'reverse engineered' using the lectionary and a f
 
 * Year A: hardly begun
 * Year B: hardly begun
-* Year C: complete from Easter Day to Trinity, and Proper 1-23.
+* Year C: complete from Easter Day to Trinity, and all the 'Proper' Sundays.
 * Festivals: what festivals?!
 
 ## The Bible and the lectionary
 
-For the Gospels, Year A focuses on Matthew, Year B on Mark, and Year C on Luke. John is read in Years A, B and C, mostly during the seasons (especially Easter), but with some appearances in Ordinary Time in Year B (such as a summer series on John 6). During the Sundays in Ordinary Time (excluding the two before Lent), the readings in Matthew, Mark and Luke are sequential (semicontinuous), with just one exception (Year B, 3 before Advent, Mark 1.14-20). This covers the bulk of each gospel (Matthew 5-25, Mark 1-13 and Luke 5-21, plus a bit of 23). Material from Matthew 1-4, Mark 1 and Luke 1-4 is included in Advent, Christmas, Epiphany and Lent (along with extracts from other chapters), and the resurrection accounts are included during Easter. Note that the passion narratives (Matthew 26-27, Mark 14-15 and Luke 22-23), with one or two small exceptions, are included _only_ on Palm Sunday, within the Liturgy of the Passion.
+For the Gospels, Year A focuses on Matthew, Year B on Mark, and Year C on Luke. John is read in Years A, B and C, mostly during the seasons (especially Easter), but with some appearances in Ordinary Time in Year B (such as a summer series on John 6). During the Sundays in Ordinary Time (excluding the two before Lent), the readings in Matthew, Mark and Luke are sequential (semicontinuous), with just one exception (Year B, 3 before Advent, Mark 1.14-20). This covers the bulk of each gospel (Matthew 5-25, Mark 1-13 and Luke 5-21, plus a bit of 23). Material from Matthew 1-4, Mark 1 and Luke 1-4 is included in Advent, Christmas, Epiphany and Lent (along with extracts from other chapters), and the resurrection accounts are included during Easter. Note that the Passion narratives (Matthew 26-27, Mark 14-15 and Luke 22-23), with one or two small exceptions, are included _only_ on Palm Sunday, within the Liturgy of the Passion.
 
 Acts is read only at the Baptism of Christ, between Easter Day and Pentecost, and on some festivals.
 
@@ -521,7 +521,7 @@ Year C
 
 * **2 Kings 5.1-14** continues the series on the prophets, and concludes the series in 1 and 2 Kings, with Naaman being healed of leprosy. **Psalm 30** gives thanks to God for answered prayer.
 * **Galatians 6.[1-6] 7-16** concludes the series in Galatians, with an exhortation to do good to all.
-* **Luke 10.1-11, 16-20** continues the series in Luke (without a gap), with Jesus sending out the seventy-two who then return rejoicing. (10.12-15 could be included 'when opportunity allows': compare Matthew 11.16-19, 25-30, which also omits this bit.) The 'Related' reading, **Isaiah 66.10-14**, calls on people to rejoice. The 'Related' psalm, **Psalm 66.1-8** (EV: 1-9), begins with a call to be joyful.
+* **Luke 10.1-11, 16-20** continues the series in Luke (without a gap), with Jesus sending out the seventy-two who then return rejoicing. (10.12-15, 'woe to you...', could be included 'when opportunity allows': compare Matthew 11.16-19, 25-30, which also omits this bit.) The 'Related' reading, **Isaiah 66.10-14**, calls on people to rejoice. The 'Related' psalm, **Psalm 66.1-8** (EV: 1-9), begins with a call to be joyful.
   * Luke 10.21-22: see Matthew 11.16-19, 25-30.
   * Luke 10.23-24: omitted, but could be included if the gap is filled in Matthew 13.1-9, 18-23.
 
@@ -549,13 +549,17 @@ Year C
 * **Hosea 1.2-10** continues the series on the prophets, and is the first of two weeks in Hosea (moving on chronologically from Amos). Hosea's faithfulness to 'a wife of whoredom' is an image of God's faithfulness to Israel. **Psalm 85** is about God's faithfulness to his people, forgiving their sins.
 * **Colossians 2.6-15 [16-19]** continues the series in Colossians, and is about fullness in Christ.
 * **Luke 11.1-13** continues the series in Luke (without a gap), and is about prayer. The 'Related' reading, **Genesis 18.20-32**, is from the same chapter as last week's reading, and is about Abraham interceding for Sodom. The 'Related' psalm, **Psalm 138**, gives thanks for answered prayer, and speaks of God differentiating between the lowly and the proud.
-  * Luke 11.14, 16: omitted.
+  * Luke 11.14: omitted, along with its parallel in Matthew 12.22-23.
   * Luke 11.15, 17-22: see Mark 3.20-35.
-  * Luke 11.23-32: omitted.
+  * Luke 11.16: omitted, along with its parallel in Matthew 12.38.
+  * Luke 11.23: omitted, along with its parallel in Matthew 12.30
+  * Luke 11.24-26: omitted, along with its parallel in Matthew 12.43-45.
+  * Luke 11.27-28: omitted.
+  * Luke 11.29-32: omitted, along with its parallel in Matthew 12.39-42.
   * Luke 11.33: see Matthew 5.13-20.
   * Luke 11.34-35: omitted, along with its parallel in Matthew 6.22-23.
   * Luke 11.36: omitted.
-  * Luke 11.37-54: omitted, along with Matthew 23, which contains many parallels.
+  * Luke 11.37-54 ('woe to you...'): omitted, along with Matthew 23, which contains many parallels.
   * Luke 12.1-9: see Matthew 10.24-39.
   * Luke 12.10: omitted, along with its parallel in Matthew 12.31-32.
   * Luke 12.11-12: omitted (but see Matthew 10.17-22, set for Stephen). Compare Luke 21.5-19 (and Mark 13.5-13, set for Mark).
@@ -668,19 +672,38 @@ Year C
 
 * **Jeremiah 29.1, 4-7** continues the series on the prophets and in Jeremiah, and is a word of comfort and assurance for God's people in exile (out of sequence, presumably for thematic reasons). (Extending the reading by a few verses would provide additional comfort.) **Psalm 66.1-11** (EV: 1-12) is about being brought 'through fire and water ... into a place of liberty'.
 * **2 Timothy 2.8-15** continues the series in 2 Timothy, with a call to endurance.
-* **Luke 17.11-19** continues the series in Luke (without a gap), with the cleansing of the ten lepers, only one of whom (a Samaritan) gave praise to God. (See also Harvest Thanksgiving.) The 'Related' reading, **2 Kings 5.1-3, 7-15c**, is about Naaman being cured of leprosy. The 'Related psalm, **Psalm 111**, is a psalm of thanksgiving for God's powerful works.
+* **Luke 17.11-19** continues the series in Luke (without a gap), with the cleansing of the ten lepers, only one of whom (a Samaritan) gave praise to God. (See also Harvest Thanksgiving.) The 'Related' reading, **2 Kings 5.1-3, 7-15c**, is about Naaman being cured of leprosy. The 'Related' psalm, **Psalm 111**, is a psalm of thanksgiving for God's powerful works.
+  * Luke 17.20-22: omitted
+  * Luke 17.23: omitted, along with its parallel in Matthew 24.23. Compare Luke 21.5-19.
+  * Luke 17.24: omitted, along with its parallel in Matthew 24.27.
+  * Luke 17.25: various parallels.
+  * Luke 17.26-27: see Matthew 24.36-44.
+  * Luke 17.28-30: omitted.
+  * Luke 17.31: omitted, along with its parallel in Matthew 24.17-18.
+  * Luke 17.32: omitted.
+  * Luke 17.33: various parallels.
+  * Luke 17.34-35[36]: see Matthew 24.36-44.
+  * Luke 17.37: omitted, along with its parallel in Matthew 24.28
 
 ## Sunday between 16 and 22 October (Proper 24)
 
 Year C
 
-* **Jeremiah 31.27-34** continues the series on the prophets and concludes the series in Jeremiah, with the promise of a new covenant.
+* **Jeremiah 31.27-34** continues the series on the prophets and concludes the series in Jeremiah, with the promise of a new covenant: 'I will put my law within them, and I will write it on their hearts'. **Psalm 119.97-104** begins, 'Lord, how I love your law!'
+* **2 Timothy 3.14 – 4.5** continues the series in 2 Timothy, with a call to faithful proclamation.
+* **Luke 18.1-8** continues the series in Luke, with the parable of the persistent widow. The 'Related' reading, **Genesis 32.22-31**, is about Jacob's persistence with God. The 'Related' psalm, **Psalm 121**, is about looking to the Lord for help.
 
 ## Sunday between 23 and 29 October (Proper 25)
 
 Year C
 
-* **Joel 2.23-32** concludes the series on the prophets, with a single extract from Joel. Joel is difficult to date, so it is unlikely that this passage is here for chronological reasons. It follows well from last week, with the promise of the outpouring of the Spirit.
+* **Joel 2.23-32** concludes the series on the prophets, with a single extract from Joel. Joel is difficult to date, so it is unlikely that this passage is here for chronological reasons. It follows well from last week, with the promise that God will pour abundant rain on the earth, and his spirit on all flesh. **Psalm 65** is about God watering the earth abundantly.
+* **2 Timothy 4.6-8, 16-18** concludes the series in 2 Timothy, with Paul looking towards his departure.
+* **Luke 18.9-14** continues the series in Luke (without a gap), with the parable of the Pharisee and the tax-collector. The 'Related' reading, **Ecclesiasticus 35.12-17**, is about God listening to the prayer of the poor (the tax-collector being taken as someone who is poor, at least in spirit, presumably). The alternative 'Related' reading, **Jeremiah 14.7-10, 19-22**, is a confession of sin and a plea for God's help. The 'Related' psalm, **Psalm 84.1-7** (EV: 1-8), expresses a desire 'to enter the courts of the Lord', and asks God to 'hear my prayer'.
+  * Luke 18.15-17: see Mark 10.2-16.
+  * Luke 18.18-30: see Mark 10.17-31.
+  * Luke 18.31-34: see Mark 9.30-32 for a close parallel.
+  * Luke 18.35-43: see Mark 10.46-52.
 
 ## The Last Sunday after Trinity if observed as Bible Sunday
 
