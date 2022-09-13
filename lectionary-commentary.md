@@ -16,7 +16,7 @@ Most of the comments below are 'reverse engineered' using the lectionary and a f
 
 * Year A: hardly begun
 * Year B: hardly begun
-* Year C: complete from Easter Day to Trinity, and all the 'Proper' Sundays.
+* Year C: complete from Easter Day to 3 before Advent.
 * Festivals: what festivals?!
 
 ## The Bible and the lectionary
@@ -559,7 +559,7 @@ Year C
   * Luke 11.33: see Matthew 5.13-20.
   * Luke 11.34-35: omitted, along with its parallel in Matthew 6.22-23.
   * Luke 11.36: omitted.
-  * Luke 11.37-54 ('woe to you...'): omitted, along with Matthew 23, which contains many parallels.
+  * Luke 11.37-54 ('woe to you...'): omitted, along with Matthew 23, which contains many parallels (cf. RCL 'Proper 26').
   * Luke 12.1-9: see Matthew 10.24-39.
   * Luke 12.10: omitted, along with its parallel in Matthew 12.31-32.
   * Luke 12.11-12: omitted (but see Matthew 10.17-22, set for Stephen). Compare Luke 21.5-19 (and Mark 13.5-13, set for Mark).
@@ -707,15 +707,73 @@ Year C
 
 ## The Last Sunday after Trinity if observed as Bible Sunday
 
+Year C
+
+* **Isaiah 45.22-25** has God saying, 'from my mouth has gone forth in righteousness a word that shall not return'.
+* **Psalm 119.129-136** includes the verse, 'The opening of your word gives light; it gives understanding to the simple.'
+* **Romans 15.1-6** speaks of the scriptures, that 'whatever was written in former days was written for our instruction'.
+* **Luke 4.16-24** tells of Jesus reading from Isaiah and saying, 'Today this scripture has been fulfilled in your hearing.'
+
 ## All Saints' Day
 
-## The Fourth Sunday before Advent
+1 November, or the Sunday between 30 October and 5 November as All Saints' Sunday.
 
-## The Third Sunday before Advent
+Year C
 
-## The Second Sunday before Advent
+* **Daniel 7.1-3, 15-18** speaks of 'the holy ones of the Most High'.
+* **Psalm 149** mentions 'the congregation of the faithful'.
+* **Ephesians 1.11-23** speaks of the 'glorious inheritance among the saints'.
+* **Luke 6.20-31** says 'your reward is great in heaven'.
 
-## Christ the King: The Sunday next before Advent
+## The Fourth Sunday before Advent (between 30 October and 5 November)
+
+(RCL 'Proper 26'.)
+
+Year A
+
+* **Matthew 24.1-14** (Matthew 23.1-12 in RCL).
+
+Year C
+
+* **2 Thessalonians 1.1-12** begins a three-week series in 2 Thessalonians. Paul looks ahead to the coming of Jesus.
+* **Luke 19.1-10** continues the series in Luke, with Zacchaeus the repentant and forgiven tax-collector. **Isaiah 1.10-18** is a call to repentance and to seek justice, with a promise of forgiveness. **Psalm 32.1-8** (EV: 1-7) is about repentance and forgiveness.
+  * Luke 19.11-27: see Matthew 25.14-30.
+  * Luke 19.28-40: set for Palm Sunday.
+  * Luke 19.41-44: omitted.
+  * Luke 19.45-46: see Matthew 21.12-16 and John 2.13-22 (both set for Dedication Festival).
+  * Luke 19.47-48: omitted.
+  * Luke 20.1-8: see Matthew 21.23-32.
+  * Luke 20.9-19: see Matthew 21.33-46.
+  * Luke 20.20-26: see Matthew 22.15-22.
+
+## The Third Sunday before Advent (between 6 and 12 November)
+
+(RCL 'Proper 27'.)
+
+Usually Remembrance Sunday (the Sunday between 8 and 14 November).
+
+Year B
+
+* **Mark 1.14-20** (Mark 12.38-44 in RCL).
+
+Year C
+
+* **2 Thessalonians 2.1-5, 13-17** continues the series in 2 Thessalonians, with more on the coming of Jesus.
+* **Luke 20.27-38** continues the series in Luke, and picks up the end-times emphasis of the Sundays before Advent, with Jesus and the Sadducees discussing the resurrection and marriage. **Job 19.23-27a** contains a glimpse of resurrection hope. **Psalm 17.1-9** follows Job in pleading integrity before God.
+  * Luke 20.39: omitted.
+  * Luke 20.40-44: see Matthew 22.34-46.
+  * Luke 20.45-47: omitted, along with its parallels in Matthew 23.1-7 (included last week in RCL Year A) and Mark 12.38-40 (included this week in RCL Year B).
+  * Luke 21.1-4 (widow's offering): omitted, along with its parallel in Mark 12.41-44 (included this week in RCL Year B).
+
+## The Second Sunday before Advent (between 13 and 19 November)
+
+(RCL 'Proper 28'.)
+
+Sometimes Remembrance Sunday (the Sunday between 8 and 14 November).
+
+## Christ the King: The Sunday next before Advent (between 20 and 26 November)
+
+(RCL 'Proper 29'.)
 
 # Special Occasions
 
