@@ -16,7 +16,7 @@ Most of the comments below are 'reverse engineered' using the lectionary and a f
 
 * Year A: hardly begun
 * Year B: hardly begun
-* Year C: complete from Easter Day to 3 before Advent.
+* Year C: complete from Easter Day onwards.
 * Festivals: what festivals?!
 
 ## The Bible and the lectionary
@@ -771,9 +771,32 @@ Year C
 
 Sometimes Remembrance Sunday (the Sunday between 8 and 14 November).
 
+Year C
+
+* **2 Thessalonians 3.6-13** concludes the series in 2 Thessalonians, with a warning against idleness.
+* **Luke 21.5-19** continues the series in Luke, with Jesus speaking about the destruction of the temple and the signs of the end times. **Malachi 4.1-2a** looks ahead to a day of destruction. **Psalm 98** says that the Lord 'comes to judge the earth'.
+  * Luke 21.20-24: omitted, along with near parallels in Matthew 24.15-21 and Mark 13.14-19.
+  * Luke 21.25-36: set for Advent 1.
+  * Luke 21.37-38: omitted.
+  * Luke 22.1-6: see Mark 14.1-2, 10-11, included in Mark 14.1 – 15.47 (Palm Sunday).
+  * Luke 22.7-13: see Mark 14.12-16, included in Mark 14.1 – 15.47 (Palm Sunday).
+  * Luke 22.14-23.56: set for Palm Sunday.
+
 ## Christ the King: The Sunday next before Advent (between 20 and 26 November)
 
 (RCL 'Proper 29'.)
+
+Year C
+
+* **Jeremiah 23.1-6** says that God will raise up 'a righteous Branch, and he shall reign as king'.
+* **Psalm 46** has God reigning over the nations, causing wars to cease.
+* **Colossians 1.11-20** is about 'the kingdom of [God's] beloved Son', in whom all things in heaven and on earth hold together.
+* **Luke 23.33-43** concludes the series in Luke, with an extract from the Passion narrative (set for Palm Sunday). One of the crucified criminals acknowledges Christ as King.
+  * Luke 22.14-23.56: set for Palm Sunday.
+  * Luke 24.1-12: set for Easter Vigil (or Easter Day).
+  * Luke 24.13-35: set for Easter 3 (Year A).
+  * Luke 24.36-48: set for Easter 3 (Year B).
+  * Luke 24.44-53: set for Ascension Day.
 
 # Special Occasions
 
