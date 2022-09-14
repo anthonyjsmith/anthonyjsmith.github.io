@@ -17,13 +17,13 @@ Most of the comments below are 'reverse engineered' using the lectionary and a f
 * Year A: hardly begun
 * Year B: hardly begun
 * Year C: complete from Easter Day onwards.
-* Festivals: what festivals?!
+* Festivals: hardly begun
 
 ## The Bible and the lectionary
 
 For the Gospels, Year A focuses on Matthew, Year B on Mark, and Year C on Luke. John is read in Years A, B and C, mostly during the seasons (especially Easter), but with some appearances in Ordinary Time in Year B (such as a summer series on John 6). During the Sundays in Ordinary Time (excluding the two before Lent), the readings in Matthew, Mark and Luke are sequential (semicontinuous), with just one exception (Year B, 3 before Advent, Mark 1.14-20). This covers the bulk of each gospel (Matthew 5-25, Mark 1-13 and Luke 5-21, plus a bit of 23). Material from Matthew 1-4, Mark 1 and Luke 1-4 is included in Advent, Christmas, Epiphany and Lent (along with extracts from other chapters), and the resurrection accounts are included during Easter. Note that the Passion narratives (Matthew 26-27, Mark 14-15 and Luke 22-23), with one or two small exceptions, are included _only_ on Palm Sunday, within the Liturgy of the Passion.
 
-Acts is read only at the Baptism of Christ, between Easter Day and Pentecost, and on some festivals.
+Acts is read only at the Baptism of Christ, between Easter Day and Pentecost, and on some Festivals.
 
 Old Testament 'Continuous' readings after Trinity, cover the following books sequentially (but not completely):
 
@@ -37,12 +37,12 @@ New Testament readings after Trinity and before Advent cover the following books
 * Year B: 2 Corinthians, Ephesians, James and Hebrews 1-10
 * Year C: Galatians, Colossians, Hebrews 11-13, Philemon, 1 Timothy, 2 Timothy and 2 Thessalonians
 
-What about the rest of the Bible (apart from the Gospels and the Psalms)? As well as cameo appearances during seasons and festivals, and 'Related' Old Testament readings after Trinity, the Bible is read systematically as follows:
+What about the rest of the Bible (apart from the Gospels and the Psalms)? As well as cameo appearances during seasons and Festivals, and 'Related' Old Testament readings after Trinity, the Bible is read systematically as follows:
 
 * Old Testament
   * Leviticus, Numbers, Deuteronomy, Joshua, Nehemiah, Ezekiel, Daniel, Jonah, Micah, Zephaniah and Malachi: included, but not in a systematic way
   * Judges, Ruth, Ezra, Obadiah, Nahum and Haggai: not included
-  * 1 and 2 Chronicles: not included (outside festivals)
+  * 1 and 2 Chronicles: not included (outside Festivals)
   * Ecclesiastes, Habakkuk and Zechariah: once as a 'Related' reading
   * Isaiah: features prominently in Advent, Christmas and Epiphany, and at other times (not sequential)
 * New Testament
@@ -100,6 +100,8 @@ Web resources
 * Consultation on Common Texts (CCT), founded in the 1960s
   * [The Revised Common Lectionary](http://www.commontexts.org/rcl/) (RCL)
   * [Introduction to the Revised Common Lectionary](http://www.commontexts.org/wp-content/uploads/2015/11/RCL_Introduction_Web.pdf) (1992)
+* [Simon Sarmiento](http://justus.anglican.org/~ss/)
+  * [Common Worship Changes to Revised Common Lectionary](http://justus.anglican.org/~ss/rcldifferences.html)
 
 # Advent
 
@@ -798,7 +800,87 @@ Year C
   * Luke 24.36-48: set for Easter 3 (Year B).
   * Luke 24.44-53: set for Ascension Day.
 
-# Special Occasions
+# Festivals
+
+According to the [Rules](https://www.churchofengland.org/prayer-and-worship/worship-texts-and-resources/common-worship/churchs-year/rules), Festivals are 'not usually displaced'. However,
+
+> Festivals falling on a Sunday are to be kept on that day or transferred to the Monday (or, at the discretion of the minister, to the next suitable weekday). But a Festival may not be celebrated on Sundays in Advent, Lent or Eastertide. Festivals coinciding with a Principal Feast or Principal Holy Day are transferred to the first available day.
+
+## The Naming and Circumcision of Jesus (1 January)
+
+## The Conversion of Paul (25 January)
+
+## Joseph of Nazareth (19 March)
+
+## The Annunciation of Our Lord to the Blessed Virgin Mary (25 March)
+
+This is a Principal Feast, but it comes across as somewhat unwanted, as it is never celebrated on a Sunday. According to the [Rules](https://www.churchofengland.org/prayer-and-worship/worship-texts-and-resources/common-worship/churchs-year/rules),
+
+> the Annunciation, falling on a Sunday, is transferred to the Monday following or, falling between Palm Sunday and the Second Sunday of Easter inclusive, is transferred to the Monday after the Second Sunday of Easter.
+
+## George, Martyr, Patron of England (23 April)
+
+## Mark the Evangelist (25 April)
+
+## Philip and James, Apostles (1 May)
+
+## Matthias the Apostle (14 May)
+
+## The Visit of the Blessed Virgin Mary to Elizabeth (31 May)
+
+## Barnabas the Apostle (11 June)
+
+## The Birth of John the Baptist (24 June)
+
+## Peter and Paul, Apostles (29 June)
+
+## Thomas the Apostle (3 July)
+
+## Mary Magdalene (22 July)
+
+## James the Apostle (25 July)
+
+## The Transfiguration of Our Lord (6 August)
+
+## The Blessed Virgin Mary (15 August)
+
+## Bartholomew the Apostle (24 August)
+
+## Holy Cross Day (14 September)
+
+This is also known as the Feast of the 'Exaltation of the Cross', and has its origins in more than one event associated with the cross and Jerusalem. The theme of exaltation is reflected in the readings.
+
+* **Psalm 22.23-28** expresses praise to the Lord, who 'has not despised nor abhorred the suffering of the poor', which fits with the theme of the crucified one being exalted.
+* **Philippians 2.6-11** is about Christ humbling himself to 'death on a cross' and subsequently being exalted.
+* **John 3.13-17** is about the Son of Man being 'lifted up', 'just as Moses lifted up the serpent in the wilderness'. **Numbers 21.4-9** is about the bronze serpent.
+
+## Matthew, Apostle and Evangelist (21 September)
+
+## Michael and All Angels (29 September)
+
+## Luke the Evangelist (18 October)
+
+## Simon and Jude, Apostles (28 October)
+
+## Andrew the Apostle (30 November)
+
+## Stephen, Deacon, First Martyr (26 December)
+
+## John, Apostle and Evangelist (27 December)
+
+## The Holy Innocents (28 December)
+
+## Dedication Festival
+
+According to the [Rules](https://www.churchofengland.org/prayer-and-worship/worship-texts-and-resources/common-worship/churchs-year/rules),
+
+> The Dedication Festival of a church is the anniversary of the date of its dedication or consecration. This is kept either as a Festival or as a Principal Feast.
+>
+> When the date of dedication is unknown, the Dedication Festival may be observed on the first Sunday in October, or on the Last Sunday after Trinity, or on a suitable date chosen locally.
+>
+> When kept as Principal Feasts, the Patronal and Dedication Festivals may be transferred to the nearest Sunday, unless that day is already a Principal Feast or one of the following days: the First Sunday of Advent, the Baptism of Christ, the First Sunday of Lent, the Fifth Sunday of Lent or Palm Sunday.
+
+# Special Occasion
 
 ## Harvest Thanksgiving
 
