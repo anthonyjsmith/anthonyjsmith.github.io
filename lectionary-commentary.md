@@ -856,6 +856,13 @@ This is also known as the Feast of the 'Exaltation of the Cross', and has its or
 
 ## Matthew, Apostle and Evangelist (21 September)
 
+Matthew was a tax-collector. This is reflected in the readings.
+
+* **Proverbs 3.13-18** says that wisdom is better than silver and gold.
+* **Psalm 119.65-72** says that God's law is 'dearer to me than a hoard of gold and silver'.
+* **2 Corinthians 4.1-6** has several possible connections with Matthew: renouncing 'shameful things', the 'open statement of the truth' (in writing his Gospel), light shining into Matthew's heart.
+* **Matthew 9.9-13** tells of Jesus calling Matthew the tax-collector to follow him, and of Jesus eating with 'tax-collectors and sinners'.
+
 ## Michael and All Angels (29 September)
 
 ## Luke the Evangelist (18 October)
