@@ -655,7 +655,7 @@ Year C
 Year C
 
 * **Jeremiah 32.1-3a, 6-15** continues the series on the prophets and in Jeremiah, and begins to glimpse hope for the distant future, with the purchase of a field. **Psalm 91.1-6, 14-16** promises deliverance for those who take refuge in God.
-* **1 Timothy 6.6-19** concludes the series in 1 Timothy, with a call to 'Fight the good fight of the faith'.
+* **1 Timothy 6.6-19** concludes the series in 1 Timothy, with a call to 'Fight the good fight of the faith', and with teaching about riches (which &ndash; coincidentally? &ndash; fits well with the Gospel reading).
 * **Luke 16.19-31** continues the series in Luke, with the rich man and Lazarus. The 'Related' reading, **Amos 6.1a, 4-7**, is a warning for the rich. The 'Related' psalm, **Psalm 146**, warns that princes will perish, but promises 'bread to those who hunger'.
   * Luke 17.1-2: omitted, along with its parallel in Matthew 18.6-7.
   * Luke 17.3-4: see Matthew 18.15-20 and 18.21-35.
