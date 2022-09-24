@@ -29,7 +29,7 @@ Old Testament 'Continuous' readings after Trinity, cover the following books seq
 
 * Year A (Pentateuch): Genesis, Exodus and Deuteronomy 34
 * Year B (History and Wisdom): 1 Samuel, 2 Samuel, 1 Kings (up to chapter 8), and selections from Song of Solomon, Proverbs, Esther and Job
-* Year C (Prophets): 1 Kings 17 – 2 Kings 5 (Elijah and Elisha), Amos, Hosea, Isaiah (briefly!), Jeremiah, Lamentations, Joel
+* Year C (Prophets): 1 Kings 17 &ndash; 2 Kings 5 (Elijah and Elisha), Amos, Hosea, Isaiah (briefly!), Jeremiah, Lamentations, Joel
 
 New Testament readings after Trinity and before Advent cover the following books sequentially (but not completely):
 
@@ -150,7 +150,7 @@ Year C
   * Luke 5.27-32: see Matthew 9.9-13.
   * Luke 5.33-39: omitted, along with its parallels in Matthew 9.14-17 and Mark 2.18-22 (NB: RCL 'Proper 3').
   * Luke 6.1-11: see Mark 2.23-3.6.
-  * Luke 6.12-16: see Matthew 9.35 – 10.8.
+  * Luke 6.12-16: see Matthew 9.35 &ndash; 10.8.
 
 ## Sunday between 11 and 17 February (Proper 2)*
 
@@ -235,12 +235,12 @@ Gospel readings between Easter Day and Pentecost are exclusively from John's Gos
 
 The readings are the same for Years A, B and C, except for the Gospel reading.
 
-* **Genesis 1.1 – 2.4a** ... **Psalm 136.1-9, 23-26** ...
+* **Genesis 1.1 &ndash; 2.4a** ... **Psalm 136.1-9, 23-26** ...
 * **Genesis 7.1-5, 11-18; 8.6-18; 9.8-13** (also the alternative first reading for Easter 4, spread over three weeks in Year A, Easter 4-6), picks up on the resurrection of Jesus being like passing through the waters of the flood. The dove points towards the gift of the Spirit at Pentecost. **Psalm 46** ...
 * **Genesis 22.1-18** (also the alternative _alternative_ first reading for Easter 5, Years B and C) ... **Psalm 16** ...
 * **Exodus 14.10-31; 15.20, 21** (also the alternative first reading for Easter 2) draws on the connection between Israel passing through the Red Sea and Jesus passing through death to new life. The canticle **Exodus 15.1b-13, 17, 18** continues the theme.
 * **Isaiah 55.1-11** (also the alternative first reading for Easter 6, Year B) ... **Isaiah 12.2-6** ...
-* **Baruch 3.9-15, 32 – 4.4** (also the alternative first reading for Easter 5, Years B and C) ... (**Proverbs 8.1-8, 19-21; 9.4b-6** ...) **Psalm 19** ...
+* **Baruch 3.9-15, 32 &ndash; 4.4** (also the alternative first reading for Easter 5, Years B and C) ... (**Proverbs 8.1-8, 19-21; 9.4b-6** ...) **Psalm 19** ...
 * **Ezekiel 36.24-28** (also the alternative first reading for Easter 7) ... **Psalm 42, 43** ...
 * **Ezekiel 37.1-14** (also the alternative first reading for Easter 6, Year C, and Pentecost, Year B) ... **Psalm 143** ...
 * **Zephaniah 3.14-20** (also the alternative first reading for Easter 3) rejoices in God's salvation, and in fortunes being restored. **Psalm 98** rejoices in God's salvation.
@@ -351,12 +351,12 @@ Year A
 
 Year B
 
-* (For the alternative first reading, **Baruch 3.9-15, 32 – 4.4**, or **Genesis 22.1-18**, see Easter Vigil.)
+* (For the alternative first reading, **Baruch 3.9-15, 32 &ndash; 4.4**, or **Genesis 22.1-18**, see Easter Vigil.)
 
 Year C
 
 * **Acts 11.1-18** continues the series in Acts, recounting the spread of the gospel to the Gentiles. **Psalm 148** invites 'all peoples' and all creation to 'Praise the Lord'.
-* (For the alternative first reading, **Baruch 3.9-15, 32 – 4.4**, or **Genesis 22.1-18**, see Easter Vigil.)
+* (For the alternative first reading, **Baruch 3.9-15, 32 &ndash; 4.4**, or **Genesis 22.1-18**, see Easter Vigil.)
 * **Revelation 21.1-6** continues the series in Revelation, featuring the end of death.
 * **John 13.31-35** continues the series in John, and begins a series on the 'farewell discourse', which continues on Sundays until Pentecost. Jesus begins to prepare his disciples for his departure.
 
@@ -366,7 +366,7 @@ As the Sunday before the Rogation Days (the weekdays before Ascension Day), this
 
 Year A
 
-* (The alternative first reading, **Genesis 8.20 – 9.17**, concludes the series on the flood in Genesis.)
+* (The alternative first reading, **Genesis 8.20 &ndash; 9.17**, concludes the series on the flood in Genesis.)
 
 Year B
 
@@ -377,7 +377,7 @@ Year C
 * **Acts 16.9-15** continues the series in Acts, recounting Lydia's conversion, as the risen Jesus opens her heart, and as the gospel advances into Europe.
 * (For the alternative first reading, **Ezekiel 37.1-14**, see Easter Vigil.)
 * **Psalm 67** picks up the Rogation theme, asking for a good harvest, but also calls for the nations to praise God, which links with the reading from Acts.
-* **Revelation 21.10, 22 – 22.5** continues the series on Revelation, focusing on the Holy City.
+* **Revelation 21.10, 22 &ndash; 22.5** continues the series on Revelation, focusing on the Holy City.
 * **John 14.23-29** continues the series in John's 'farewell discourse', looking ahead to the gift of the Spirit.
 * (The alternative, **John 5.1-9**, recounts the healing at the pool in Bethesda. Presumably there is a good reason for this.)
 
@@ -486,7 +486,7 @@ Year C
 
 * **1 Kings 21.1-10 [11-14] 15-21a** continues the series on the prophets and in 1 and 2 Kings, with Naboth's vineyard. **Psalm 5.1-8** is a plea to God in the face of 'the bloodthirsty and deceitful'.
 * **Galatians 2.15-21** continues the series in Galatians, on justification by faith.
-* **Luke 7.36 – 8.3** continues the series in Luke, with Jesus being anointed by the sinful woman, who had been forgiven. The 'Related' reading, **2 Samuel 11.26 – 12.10, 13-15** is about David being forgiven for his sin. The 'Related' psalm, **Psalm 32**, is about the blessing of forgiveness.
+* **Luke 7.36 &ndash; 8.3** continues the series in Luke, with Jesus being anointed by the sinful woman, who had been forgiven. The 'Related' reading, **2 Samuel 11.26 &ndash; 12.10, 13-15** is about David being forgiven for his sin. The 'Related' psalm, **Psalm 32**, is about the blessing of forgiveness.
   * Luke 8.4-15: partially covered by Matthew 13.1-9, 18-23
   * Luke 8.16-18: omitted.
   * Luke 8.19-21: see Mark 3.20-35.
@@ -532,7 +532,7 @@ Year C
 Year C
 
 * **Amos 7.7-17** continues the series on the prophets, and is the first of two weeks in Amos (the earliest of the prophetic books). The theme of God as judge is reflected in **Psalm 82**.
-* **Colossians 1.1-14** begins a series covering much of Colossians 1.1 – 3.11, and gives thanks for the fruitfulness that comes from 'the word of the truth, the gospel'.
+* **Colossians 1.1-14** begins a series covering much of Colossians 1.1 &ndash; 3.11, and gives thanks for the fruitfulness that comes from 'the word of the truth, the gospel'.
 * **Luke 10.25-37** continues the series in Luke, on the importance of love for God and neighbour, explained in the parable of the good Samaritan, The 'Related' reading, **Deuteronomy 30.9-14** is about turning to God 'with all your heart and with all your soul' and obeying God's commandments. (The promise of fruitfulness might relate to the reading from Colossians.) The 'Related' psalm, **Psalm 25.1-10** (EV: 1-11) asks for guidance in keeping God's ways.
 
 
@@ -592,7 +592,7 @@ Year C
 Year C
 
 * **Isaiah 5.1-7** continues the series on the prophets, and is the second of two weeks in Isaiah. God's vineyard, Israel, has 'yielded wild grapes'. **Psalm 80.1-2, 9-20** (EV: 1-2a, 8-19) is about God's 'vine'.
-* **Hebrews 11.29 – 12.2** continues the series in Hebrews 11-13, and is about faith and perseverance.
+* **Hebrews 11.29 &ndash; 12.2** continues the series in Hebrews 11-13, and is about faith and perseverance.
 * **Luke 12.49-56** continues the series in Luke, and is about Jesus coming to bring 'fire to the earth', not bringing peace but division. The 'Related' reading, **Jeremiah 23.23-29**, speaks of God's word being like fire, and is about the God who fills heaven and earth coming in judgment. The 'Related' psalm, **Psalm 82**, calls on God to 'judge the earth'.
   * Luke 12.57-59: see Matthew 5.21-37.
   * Luke 13.1-9: set for Lent 3.
@@ -643,7 +643,7 @@ Year C
 
 Year C
 
-* **Jeremiah 8.18 – 9.1** continues the series on the prophets and in Jeremiah, and expresses sorrow for the pain of 'my poor people'. **Psalm 79.1-9** cries out to God over the desolation of Jerusalem.
+* **Jeremiah 8.18 &ndash; 9.1** continues the series on the prophets and in Jeremiah, and expresses sorrow for the pain of 'my poor people'. **Psalm 79.1-9** cries out to God over the desolation of Jerusalem.
 * **1 Timothy 2.1-7** continues the series in 1 Timothy, with a call to pray for everyone.
 * **Luke 16.1-13** continues the series in Luke, with the parable of the shrewd and dishonest manager. The 'Related' reading, **Amos 8.4-7**, speaks against those who 'trample on the needy' and 'practise deceit'. The 'Related' psalm, **Psalm 113**, speaks of God who 'lifts the needy from the ashes'.
   * Luke 16.14-16: omitted.
@@ -692,7 +692,7 @@ Year C
 Year C
 
 * **Jeremiah 31.27-34** continues the series on the prophets and concludes the series in Jeremiah, with the promise of a new covenant: 'I will put my law within them, and I will write it on their hearts'. **Psalm 119.97-104** begins, 'Lord, how I love your law!'
-* **2 Timothy 3.14 – 4.5** continues the series in 2 Timothy, with a call to faithful proclamation.
+* **2 Timothy 3.14 &ndash; 4.5** continues the series in 2 Timothy, with a call to faithful proclamation.
 * **Luke 18.1-8** continues the series in Luke, with the parable of the persistent widow. The 'Related' reading, **Genesis 32.22-31**, is about Jacob's persistence with God. The 'Related' psalm, **Psalm 121**, is about looking to the Lord for help.
 
 ## Sunday between 23 and 29 October (Proper 25)
@@ -780,8 +780,8 @@ Year C
   * Luke 21.20-24: omitted, along with near parallels in Matthew 24.15-21 and Mark 13.14-19.
   * Luke 21.25-36: set for Advent 1.
   * Luke 21.37-38: omitted.
-  * Luke 22.1-6: see Mark 14.1-2, 10-11, included in Mark 14.1 – 15.47 (Palm Sunday).
-  * Luke 22.7-13: see Mark 14.12-16, included in Mark 14.1 – 15.47 (Palm Sunday).
+  * Luke 22.1-6: see Mark 14.1-2, 10-11, included in Mark 14.1 &ndash; 15.47 (Palm Sunday).
+  * Luke 22.7-13: see Mark 14.12-16, included in Mark 14.1 &ndash; 15.47 (Palm Sunday).
   * Luke 22.14-23.56: set for Palm Sunday.
 
 ## Christ the King: The Sunday next before Advent (between 20 and 26 November)
