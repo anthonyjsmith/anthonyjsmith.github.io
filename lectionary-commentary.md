@@ -889,6 +889,13 @@ Matthew was a tax-collector. This is reflected in the readings.
 
 ## Michael and All Angels (29 September)
 
+Michael the archangel is mentioned four times in Scripture: Daniel 10.13-21 and 12.1, Jude 9 and Revelation 12.7.
+
+* **Genesis 28.10-17** is Jacob's dream of a 'ladder' with 'the angels of God ... ascending and descending on it', which is echoed in the Gospel reading. See below for the alternative, **Revelation 12.7-12**.
+* **Psalm 103.19-22** says, 'Bless the Lord, you angels of his'.
+* **Revelation 12.7-12** is about 'Michael and his angels' fighting against 'the dragon ... and his angels'. Alternatively, the passage from Revelation can be the first reading, with **Hebrews 1.5-14** as the second reading, contrasting angels with the Son (see 1.1-4 and 2.1-4).
+* **John 1.47-51** has Jesus saying to Nathanael, 'you will see heaven opened and the angels of God ascending and descending upon the Son of Man', echoing the Old Testament reading.
+
 ## Luke the Evangelist (18 October)
 
 ## Simon and Jude, Apostles (28 October)
