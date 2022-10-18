@@ -903,7 +903,7 @@ Luke was a 'physician' (Colossians 4.14). This is reflected in the readings. (El
 * **Isaiah 35.3-6** is about the restoration of health. Alternatively, **Acts 16.6-12a** contains the first 'we' of the narrative, subtly indicating the point at which Luke joined Paul and his companions.
 * **Psalm 147.1-7** says that the Lord 'heals the brokenhearted and binds up all their wounds'.
 * **2 Timothy 4.5-17** says, 'Only Luke is with me.'
-* **Luke 10.1-9** is about the mission of the seventy, which perhaps speaks more directly to those (such as Luke) who are not numbered among the twelve apostles.
+* **Luke 10.1-9** is about the mission of the seventy, which perhaps speaks more directly to those (such as Luke) who are not numbered among the twelve apostles. They were sent out to 'cure the sick' and to speak of the 'kingdom of God', which is appropriate to Luke as a physician and the author of one of the Gospels.
 
 ## Simon and Jude, Apostles (28 October)
 
