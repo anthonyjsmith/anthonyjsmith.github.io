@@ -16,8 +16,8 @@ Most of the comments below are 'reverse engineered' using the lectionary and a f
 
 * Year A: hardly begun
 * Year B: hardly begun
-* Year C: complete from Easter Day onwards.
-* Festivals: hardly begun
+* Year C: complete from Easter Day onwards
+* Festivals: complete between 14 September and 18 October
 
 ## The Bible and the lectionary
 
@@ -897,6 +897,13 @@ Michael the archangel is mentioned four times in Scripture: Daniel 10.13-21 and 
 * **John 1.47-51** has Jesus saying to Nathanael, 'you will see heaven opened and the angels of God ascending and descending upon the Son of Man', echoing the Old Testament reading.
 
 ## Luke the Evangelist (18 October)
+
+Luke was a 'physician' (Colossians 4.14). This is reflected in the readings. (Elsewhere, Luke is mentioned by name only in 2 Timothy 4.11 and Philemon 24.)
+
+* **Isaiah 35.3-6** is about the restoration of health. Alternatively, **Acts 16.6-12a** contains the first 'we' of the narrative, subtly indicating the point at which Luke joined Paul and his companions.
+* **Psalm 147.1-7** says that the Lord 'heals the brokenhearted and binds up all their wounds'.
+* **2 Timothy 4.5-17** says, 'Only Luke is with me.'
+* **Luke 10.1-9** is about the mission of the seventy, which perhaps speaks more directly to those (such as Luke) who are not numbered among the twelve apostles.
 
 ## Simon and Jude, Apostles (28 October)
 
