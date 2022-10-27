@@ -697,6 +697,8 @@ Year C
 
 ## Sunday between 23 and 29 October (Proper 25)
 
+Omitted if Bible Sunday is observed.
+
 Year C
 
 * **Joel 2.23-32** concludes the series on the prophets, with a single extract from Joel. Joel is difficult to date, so it is unlikely that this passage is here for chronological reasons. It follows well from last week, with the promise that God will pour abundant rain on the earth, and his spirit on all flesh. **Psalm 65** is about God watering the earth abundantly.
@@ -714,7 +716,7 @@ Year C
 * **Isaiah 45.22-25** has God saying, 'from my mouth has gone forth in righteousness a word that shall not return'.
 * **Psalm 119.129-136** includes the verse, 'The opening of your word gives light; it gives understanding to the simple.'
 * **Romans 15.1-6** speaks of the scriptures, that 'whatever was written in former days was written for our instruction'.
-* **Luke 4.16-24** tells of Jesus reading from Isaiah and saying, 'Today this scripture has been fulfilled in your hearing.'
+* **Luke 4.16-24** tells of Jesus reading from Isaiah and saying, 'Today this scripture has been fulfilled in your hearing.' (Luke 4.14-21 is also set for Epiphany 3.)
 
 ## All Saints' Day
 
@@ -723,13 +725,15 @@ Year C
 Year C
 
 * **Daniel 7.1-3, 15-18** speaks of 'the holy ones of the Most High'.
-* **Psalm 149** mentions 'the congregation of the faithful'.
+* **Psalm 149** mentions 'the congregation of the faithful' and the Lord's 'faithful servants'.
 * **Ephesians 1.11-23** speaks of the 'glorious inheritance among the saints'.
 * **Luke 6.20-31** says 'your reward is great in heaven'.
 
-## The Fourth Sunday before Advent (between 30 October and 5 November)
+## The Fourth Sunday before Advent (between 30 October and 5 November)*
 
 (RCL 'Proper 26'.)
+
+Omitted if All Saints' Day falls on a Sunday, or if it is observed as All Saints' Sunday.
 
 Year A
 
