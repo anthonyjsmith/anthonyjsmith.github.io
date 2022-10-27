@@ -780,7 +780,7 @@ Sometimes Remembrance Sunday (the Sunday between 8 and 14 November).
 Year C
 
 * **2 Thessalonians 3.6-13** concludes the series in 2 Thessalonians, with a warning against idleness.
-* **Luke 21.5-19** continues the series in Luke, with Jesus speaking about the destruction of the temple and the signs of the end times. **Malachi 4.1-2a** looks ahead to a day of destruction. **Psalm 98** says that the Lord 'comes to judge the earth'.
+* **Luke 21.5-19** continues the series in Luke, and continues the end-times emphasis of the Sundays before Advent, with Jesus speaking about the destruction of the temple and the signs of the end times. **Malachi 4.1-2a** looks ahead to a day of destruction. **Psalm 98** says that the Lord 'comes to judge the earth'.
   * Luke 21.20-24: omitted, along with near parallels in Matthew 24.15-21 and Mark 13.14-19.
   * Luke 21.25-36: set for Advent 1.
   * Luke 21.37-38: omitted.
