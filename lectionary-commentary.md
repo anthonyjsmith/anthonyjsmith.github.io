@@ -17,7 +17,7 @@ Most of the comments below are 'reverse engineered' using the lectionary and a f
 * Year A: hardly begun
 * Year B: hardly begun
 * Year C: complete from Easter Day onwards
-* Festivals: complete between 14 September and 18 October
+* Festivals: complete between 14 September and 28 October
 
 ## The Bible and the lectionary
 
@@ -907,9 +907,18 @@ Luke was a 'physician' (Colossians 4.14). This is reflected in the readings. (El
 * **Isaiah 35.3-6** is about the restoration of health. Alternatively, **Acts 16.6-12a** contains the first 'we' of the narrative, subtly indicating the point at which Luke joined Paul and his companions.
 * **Psalm 147.1-7** says that the Lord 'heals the brokenhearted and binds up all their wounds'.
 * **2 Timothy 4.5-17** says, 'Only Luke is with me.'
-* **Luke 10.1-9** is about the mission of the seventy, which perhaps speaks more directly to those (such as Luke) who are not numbered among the twelve apostles. They were sent out to 'cure the sick' and to speak of the 'kingdom of God', which is appropriate to Luke as a physician and the author of one of the Gospels.
+* **Luke 10.1-9** is about the mission of the seventy, which perhaps speaks more directly to those (such as Luke) who are not numbered among the Twelve. They were sent out to 'cure the sick' and to speak of the 'kingdom of God', which is appropriate to Luke as a physician and the author of one of the Gospels.
 
 ## Simon and Jude, Apostles (28 October)
+
+Simon, one of the Twelve (not Peter), appears as 'the Cananaean' in Matthew 10.4 and Mark 3.18, and as 'the Zealot' in Luke 6.15 and Acts 1.13.
+
+Jude, one of the Twelve, is mentioned as 'Judas son of James' in Luke 6.16 and Acts 1.13, as 'Judas (not Iscariot)' when he asks a question in John 14.22, and (presumably) as 'Thaddaeus' (or 'Lebbaeus') in Matthew 10.3 and as 'Thaddaeus' in Mark 3.18. The Greek behind 'son of James' is simply 'of James', which has historically led many (especially in the West) to identify this Jude with the author of the Epistle of Jude (who describes himself as 'Jude ... brother of James'), who is identified with 'Judas', a brother of Jesus, mentioned in Matthew 13.55 and Mark 6.3.
+
+According to tradition, Simon and Jude worked together as evangelists and were martyred together.
+
+* **Ephesians 2.19-22** speaks of the church as being 'built upon the foundation of the apostles and prophets, with Christ Jesus himself as the cornerstone'. **Isaiah 28.14-16** has God speaking of 'a foundation stone, a tested stone, a precious cornerstone, a sure foundation'. **Psalm 119.89-96** reflects the theme of foundations: the Lord's word 'stands firm', the Lord has 'established the earth', and the Lord's 'judgements stand firm'.
+* **John 15.17-27** reflects Simon and Jude's calling, by speaking of persecution and of Jesus' command to his disciples to 'testify'.
 
 ## Andrew the Apostle (30 November)
 
