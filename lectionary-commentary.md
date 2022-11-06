@@ -14,7 +14,7 @@ Most of the comments below are 'reverse engineered' using the lectionary and a f
 
 **_Work in progress!_**
 
-* Year A: hardly begun
+* Year A: complete for Advent
 * Year B: hardly begun
 * Year C: complete from Easter Day onwards
 * Festivals: complete between 14 September and 28 October
@@ -107,11 +107,36 @@ Web resources
 
 ## The First Sunday of Advent
 
+The Gospel readings all speak of the 'coming' of 'the Son of Man'.
+
+Year A
+
+* **Isaiah 2.1-5** is the first of four readings (a series?) in the first part of Isaiah, and looks ahead to 'days to come' when the nations stream to God's house in Zion in order to walk in God's paths (at peace), and urges God's people to 'walk in the light of the Lord'. **Psalm 122** has people going to 'the house of the Lord' and speaks of 'peace'.
+* **Matthew 24.36-44** urges us to 'be ready' for 'the coming of the Son of Man'. **Romans 13.11-14** is an exhortation to 'lay aside the works of darkness and put on the armour of light' because 'the day is near'.
+
 ## The Second Sunday of Advent
+
+The Gospel readings all introduce John the Baptist.
+
+Year A
+
+* **Matthew 3.1-12** introduces John the Baptist baptizing with water for repentance and pointing towards one who will baptize with the Holy Spirit. **Isaiah 11.1-10** continues in Isaiah, and speaks one who will come with the 'spirit of the Lord' and bring peace. **Psalm 72.1-7, 18-19** speaks of the 'king' bringing 'justice' and 'peace'. **Romans 15.4-13** quotes Isaiah 11.10 and speaks of hope.
 
 ## The Third Sunday of Advent
 
+The Gospel readings are all about John the Baptist.
+
+Year A
+
+* **Matthew 11.2-11** has Jesus sending a message to John the Baptist about blind eyes being opened, and speaking about John the Baptist preparing the way. **Isaiah 35.1-10** continues in Isaiah, and is about God coming, reversing fortunes, strengthening the weak, opening the eyes of the blind, and a 'highway' being there. **Psalm 146.4-10** (EV: 5-10) says, 'the Lord opens the eyes of the blind'. Alternatively, the canticle is the **Magnificat (Luke 1.46-55)**, which is about fortunes being reversed. **James 5.7-10** says, 'Strengthen your hearts, for the coming of the Lord is near.'
+
 ## The Fourth Sunday of Advent
+
+The Gospel readings all look towards Jesus' birth to Mary.
+
+Year A
+
+* **Matthew 1.18-25** leads up to the birth of Jesus to Mary, fulfilling Isaiah's prophecy about 'Emmanuel'. **Isaiah 7.10-16** continues in Isaiah, and looks ahead to a young woman bearing a son and calling him Immanuel. **Psalm 80.1-8, 18-20 (EV: 1-7, 17-19)** calls on God to 'come to our salvation' and 'show the light of your countenance', and speaks of 'the man at your right hand, the son of man you made so strong for yourself'. **Romans 1.1-7** says that Jesus 'was descended from David according to the flesh'.
 
 # Christmas
 
