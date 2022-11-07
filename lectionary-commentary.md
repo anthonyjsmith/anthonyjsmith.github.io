@@ -111,8 +111,7 @@ The Gospel readings all speak of the 'coming' of 'the Son of Man'.
 
 Year A
 
-* **Isaiah 2.1-5** is the first of four readings (a series?) in the first part of Isaiah, and looks ahead to 'days to come' when the nations stream to God's house in Zion in order to walk in God's paths (at peace), and urges God's people to 'walk in the light of the Lord'. **Psalm 122** has people going to 'the house of the Lord' and speaks of 'peace'.
-* **Matthew 24.36-44** urges us to 'be ready' for 'the coming of the Son of Man'. **Romans 13.11-14** is an exhortation to 'lay aside the works of darkness and put on the armour of light' because 'the day is near'.
+* **Matthew 24.36-44** urges us to 'be ready' for 'the coming of the Son of Man'. **Romans 13.11-14** is an exhortation to 'lay aside the works of darkness and put on the armour of light' because 'the day is near'. **Isaiah 2.1-5** is the first of four readings (a series?) in the first part of Isaiah, and urges God's people to 'walk in the light of the Lord', looking ahead to 'days to come' when the nations stream to God's house in Zion in order to walk in God's paths and find peace with each other. **Psalm 122** has people going up to 'the house of the Lord' and speaks of 'peace'.
 
 ## The Second Sunday of Advent
 
@@ -124,7 +123,7 @@ Year A
 
 ## The Third Sunday of Advent
 
-The Gospel readings are all about John the Baptist.
+The Gospel readings all continue with John the Baptist.
 
 Year A
 
