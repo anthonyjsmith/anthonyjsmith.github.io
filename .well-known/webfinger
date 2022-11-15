@@ -1,0 +1,23 @@
+{
+  "subject": "acct:anthonysmith@mastodonapp.uk",
+  "aliases": [
+    "https://mastodonapp.uk/@anthonysmith",
+    "https://mastodonapp.uk/users/anthonysmith"
+  ],
+  "links": [
+    {
+      "rel": "http://webfinger.net/rel/profile-page",
+      "type": "text/html",
+      "href": "https://mastodonapp.uk/@anthonysmith"
+    },
+    {
+      "rel": "self",
+      "type": "application/activity+json",
+      "href": "https://mastodonapp.uk/users/anthonysmith"
+    },
+    {
+      "rel": "http://ostatus.org/schema/1.0/subscribe",
+      "template": "https://mastodonapp.uk/authorize_interaction?uri={uri}"
+    }
+  ]
+}
