@@ -26,6 +26,8 @@ defaults:
     values:
       layout: "page"
 
+include: ['.well-known']
+
 # GitHub settings https://help.github.com/articles/configuring-jekyll/
 
 # Configurable
