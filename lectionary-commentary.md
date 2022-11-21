@@ -14,7 +14,7 @@ Most of the comments below are 'reverse engineered' using the lectionary and a f
 
 **_Work in progress!_**
 
-* Year A: complete for Advent
+* Year A: complete for Advent and Christmas Day
 * Year B: hardly begun
 * Year C: complete from Easter Day onwards
 * Festivals: complete between 14 September and 28 October
@@ -140,6 +140,27 @@ Year A
 # Christmas
 
 ## Christmas Day
+
+Set I (emphasis on the salvation Jesus brings)
+
+* **Isaiah 9.2-7** speaks of those in darkness seeing 'a great light', and announces that 'a child has been born', who will be named 'Wonderful Counsellor...', and who will reign 'with justice and with righteousness'.
+* **Psalm 96** calls for rejoicing before the Lord, because 'he comes, he comes to judge the earth', 'with righteousness'.
+* **Titus 2.11-14** says that 'the grace of God has appeared, bringing salvation to all' through Jesus, who 'gave himself for us'.
+* **Luke 2.1-14 [15-20]** is about Jesus' birth in Bethlehem, the angels appearing to the shepherds and announcing the birth of a Saviour, [and the shepherds going to Bethlehem to 'see'].
+
+Set II (emphasis on God's glory appearing and being seen)
+
+* **Isaiah 62.6-12** begins by speaking of king and nations who will 'see ... your glory', and says to Zion, 'See, your salvation comes'.
+* **Psalm 97** says of the Lord that 'all the peoples have seen his glory'.
+* **Titus 3.4-7** speaks of 'when the goodness and loving-kindness of God our Saviour appeared'.
+* **Luke 2.[1-7] 8-20** is about [Jesus' birth in Bethlehem], the angels appearing to the shepherds and announcing the birth of a Saviour, and the shepherds going to Bethlehem to 'see'.
+
+Set III (emphasis on Jesus' divinity)
+
+* **Isaiah 52.7-10** speaks of 'the return of the Lord to Zion', and says that he 'has bared his holy arm before the eyes of all the nations'.
+* **Psalm 98** speaks of the Lord bring victory by his 'own right hand and his holy arm', and calls for rejoicing before the Lord, because 'he comes to judge the earth'.
+* **Hebrews 1.1-4 [5-12]** speaks of the 'Son' through whom God 'created the worlds', who is 'the exact imprint of God's very being', and who is 'superior to angels'. [When God 'brings the firstborn into the world', the angels worship him.]
+* **John 1.1-14** speaks of the 'Word' who 'was God', through whom 'all things came into being', and who 'became flesh'.
 
 ## The First Sunday of Christmas
 
