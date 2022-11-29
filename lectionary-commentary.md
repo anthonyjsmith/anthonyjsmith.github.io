@@ -851,11 +851,11 @@ Year C
 
 # Festivals
 
-According to the [Rules](https://www.churchofengland.org/prayer-and-worship/worship-texts-and-resources/common-worship/churchs-year/rules), Festivals are 'not usually displaced'. However,
+According to the [Rules], Festivals are 'not usually displaced'. However,
 
 > Festivals falling on a Sunday are to be kept on that day or transferred to the Monday (or, at the discretion of the minister, to the next suitable weekday). But a Festival may not be celebrated on Sundays in Advent, Lent or Eastertide. Festivals coinciding with a Principal Feast or Principal Holy Day are transferred to the first available day.
 
-One of these Festivals might be Patronal Festival, which can be observed either as a Festival or as a Principal Feast. According to the [Rules](https://www.churchofengland.org/prayer-and-worship/worship-texts-and-resources/common-worship/churchs-year/rules),
+One of these Festivals might be Patronal Festival, which can be observed either as a Festival or as a Principal Feast. According to the [Rules],
 
 > When kept as Principal Feasts, the Patronal and Dedication Festivals may be transferred to the nearest Sunday, unless that day is already a Principal Feast or one of the following days: the First Sunday of Advent, the Baptism of Christ, the First Sunday of Lent, the Fifth Sunday of Lent or Palm Sunday.
 
@@ -867,19 +867,19 @@ If it falls on one of those days, it must be transferred.
 
 ## Joseph of Nazareth (19 March)
 
-19 March always falls during Lent. According to the [Rules](https://www.churchofengland.org/prayer-and-worship/worship-texts-and-resources/common-worship/churchs-year/rules),
+19 March always falls during Lent. According to the [Rules],
 
 > When St Joseph’s Day falls between Palm Sunday and the Second Sunday of Easter inclusive, it is transferred to the Monday after the Second Sunday of Easter or, if the Annunciation has already been moved to that date, to the first available day thereafter.
 
 ## The Annunciation of Our Lord to the Blessed Virgin Mary (25 March)
 
-This is a Principal Feast, but it comes across as somewhat unwanted, as it is never celebrated on a Sunday. 25 March always fall during Lent, or very occasionally on or just after Easter Day. According to the [Rules](https://www.churchofengland.org/prayer-and-worship/worship-texts-and-resources/common-worship/churchs-year/rules),
+This is a Principal Feast, but it comes across as somewhat unwanted, as it is never celebrated on a Sunday. 25 March always fall during Lent, or very occasionally on or just after Easter Day. According to the [Rules],
 
 > the Annunciation, falling on a Sunday, is transferred to the Monday following or, falling between Palm Sunday and the Second Sunday of Easter inclusive, is transferred to the Monday after the Second Sunday of Easter.
 
 ## George, Martyr, Patron of England (23 April)
 
-23 April always falls during or just before Easter season (Easter always falls between 22 March and 25 April), so this Festival is never celebrated on a Sunday (unless it is the Patronal Festival celebrated as a Principal Feast). According to the [Rules](https://www.churchofengland.org/prayer-and-worship/worship-texts-and-resources/common-worship/churchs-year/rules),
+23 April always falls during or just before Easter season (Easter always falls between 22 March and 25 April), so this Festival is never celebrated on a Sunday (unless it is the Patronal Festival celebrated as a Principal Feast). According to the [Rules],
 
 > When St George’s Day or St Mark’s Day falls between Palm Sunday and the Second Sunday of Easter inclusive, it is transferred to the Monday after the Second Sunday of Easter. If both fall in this period, St George’s Day is transferred to the Monday and St Mark’s Day to the Tuesday.
 
@@ -975,7 +975,7 @@ According to tradition, Simon and Jude worked together as evangelists and were m
 
 ## Dedication Festival
 
-According to the [Rules](https://www.churchofengland.org/prayer-and-worship/worship-texts-and-resources/common-worship/churchs-year/rules),
+According to the [Rules],
 
 > The Dedication Festival of a church is the anniversary of the date of its dedication or consecration. This is kept either as a Festival or as a Principal Feast.
 >
@@ -995,3 +995,5 @@ Year A
 Year B
 
 * **Matthew 6.25-33**. Verse 34 could also be included.
+
+[Rules]: https://www.churchofengland.org/prayer-and-worship/worship-texts-and-resources/common-worship/churchs-year/rules
