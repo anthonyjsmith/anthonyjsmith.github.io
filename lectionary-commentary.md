@@ -17,7 +17,7 @@ Most of the comments below are 'reverse engineered' using the lectionary and a f
 * Year A: complete for Advent and Christmas Day
 * Year B: hardly begun
 * Year C: complete from Easter Day onwards
-* Festivals: complete between 14 September and 28 October
+* Festivals: complete from September to November
 
 ## The Bible and the lectionary
 
@@ -966,6 +966,11 @@ According to tradition, Simon and Jude worked together as evangelists and were m
 * **John 15.17-27** reflects Simon and Jude's calling, by speaking of persecution and of Jesus' command to his disciples to 'testify'.
 
 ## Andrew the Apostle (30 November)
+
+30 November, if it is a Sunday, falls during Advent, so this Festival is never celebrated on a Sunday (unless it is the Patronal Festival celebrated as a Principal Feast).
+
+* **Romans 10.12-18** is about the good news being proclaimed 'to all the earth', echoing Jesus' call to Andrew. The other two readings are quoted: **Isaiah 52.7-10** ('How beautiful ... are the feet') and **Psalm 19.1-6** ('... their words to the ends of the world').
+* **Matthew 4.18-22** has Jesus calling two pairs of brothers as his first followers: Simon Peter and Andrew, followed by James and John. To the first pair, Jesus says, 'Follow me, and I will make you fish for people.'
 
 ## Stephen, Deacon, First Martyr (26 December)
 
