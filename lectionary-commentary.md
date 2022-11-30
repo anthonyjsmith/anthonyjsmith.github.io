@@ -6,6 +6,8 @@ excerpt: 'Work in progress! This is a commentary on the lectionary, not a commen
 
 This is a commentary on the _lectionary_, not a commentary on the _passages_. The aim is to answer the question: _Why was this passage chosen?_
 
+Simply search below for the relevant day, e.g., 'Advent 1', 'Proper 21', 'Bartholomew'.
+
 Note that there is often no 'theme' tying the readings together. (Many people persist in looking for one, even decades after the ASB.) Where readings are closely related, they are grouped together below. In many cases, however, a particular reading will not be related to other readings on the same day, but it will turn out to be part of a series on a particular book of the Bible running over several weeks. This principle of continuous (or semicontinuous) reading of Scripture is one of the key principles behind the lectionary.
 
 **Common Worship** was introduced in the Church of England in 2000. It includes a [Lectionary for Sundays, Principal Feasts and Holy Days, and Festivals](https://www.churchofengland.org/prayer-and-worship/worship-texts-and-resources/common-worship/churchs-year/lectionary), which provides a lectionary for three services on each of those days: Principal Service, Second Service, and Third Service (along with 'Evening Prayer on the Eve' for some occasions). This page covers the **Principal Service Lectionary**, which is drawn (with modifications) from the ecumenical **Revised Common Lectionary (RCL)**.
@@ -105,7 +107,7 @@ Web resources
 
 # Advent
 
-## The First Sunday of Advent
+## Advent 1
 
 The Gospel readings all speak of the 'coming' of 'the Son of Man'.
 
@@ -113,7 +115,7 @@ Year A
 
 * **Matthew 24.36-44** urges us to 'be ready' for 'the coming of the Son of Man'. **Romans 13.11-14** is an exhortation to 'lay aside the works of darkness and put on the armour of light' because 'the day is near'. **Isaiah 2.1-5** is the first of four readings (a series?) in the first part of Isaiah, and urges God's people to 'walk in the light of the Lord', looking ahead to 'days to come' when the nations stream to God's house in Zion in order to walk in God's paths and find peace with each other. **Psalm 122** has people going up to 'the house of the Lord' and speaks of 'peace'.
 
-## The Second Sunday of Advent
+## Advent 2
 
 The Gospel readings all introduce John the Baptist.
 
@@ -121,7 +123,7 @@ Year A
 
 * **Matthew 3.1-12** introduces John the Baptist baptizing with water for repentance and pointing towards one who will baptize with the Holy Spirit. **Isaiah 11.1-10** continues in Isaiah, and speaks one who will come with the 'spirit of the Lord' and bring peace. **Psalm 72.1-7, 18-19** speaks of the 'king' bringing 'justice' and 'peace'. **Romans 15.4-13** quotes Isaiah 11.10 and speaks of hope.
 
-## The Third Sunday of Advent
+## Advent 3
 
 The Gospel readings all continue with John the Baptist.
 
@@ -129,7 +131,7 @@ Year A
 
 * **Matthew 11.2-11** has Jesus sending a message to John the Baptist about blind eyes being opened, and speaking about John the Baptist preparing the way. **Isaiah 35.1-10** continues in Isaiah, and is about God coming, reversing fortunes, strengthening the weak, opening the eyes of the blind, and a 'highway' being there. **Psalm 146.4-10** (EV: 5-10) says, 'the Lord opens the eyes of the blind'. Alternatively, the canticle is the **Magnificat (Luke 1.46-55)**, which is about fortunes being reversed. **James 5.7-10** says, 'Strengthen your hearts, for the coming of the Lord is near.'
 
-## The Fourth Sunday of Advent
+## Advent 4
 
 The Gospel readings all look towards Jesus' birth to Mary.
 
@@ -162,21 +164,21 @@ Set III (emphasis on Jesus' divinity)
 * **Hebrews 1.1-4 [5-12]** speaks of the 'Son' through whom God 'created the worlds', who is 'the exact imprint of God's very being', and who is 'superior to angels'. [When God 'brings the firstborn into the world', the angels worship him.]
 * **John 1.1-14** speaks of the 'Word' who 'was God', through whom 'all things came into being', and who 'became flesh'.
 
-## The First Sunday of Christmas
+## Christmas 1
 
-## The Second Sunday of Christmas*
+## Christmas 2*
 
 # Epiphany
 
-## The Epiphany
+## Epiphany
 
-## The Baptism of Christ: The First Sunday of Epiphany
+## The Baptism of Christ: Epiphany 1
 
-## The Second Sunday of Epiphany
+## Epiphany 2
 
-## The Third Sunday of Epiphany
+## Epiphany 3
 
-## The Fourth Sunday of Epiphany*
+## Epiphany 4*
 
 ## The Presentation of Christ in the Temple (Candlemas)
 
@@ -215,7 +217,7 @@ Year C
 * **1 Corinthians 15.35-38, 42-50** concludes the series in 1 Corinthians 15, with extracts from the section on the resurrection body. (15.51-58 is the reading for the following week in the RCL.)
 * **Luke 6.27-38** continues the series in Luke (without a gap), and focuses on loving one's enemies. (6.39-49 is the reading for the following week in the RCL, which is omitted in Common Worship: see discussion below. To fill in the gap, this week's reading could be extended to 6.42 'when opportunity allows'.) **Genesis 45.3-11, 15** is about Joseph's love for his brothers, who had behaved like his enemies. **Psalm 37.1-11, 40, 41** (EV: 1-11, 39, 40) calls us not to fret about evildoers.
 
-## The Second Sunday before Lent
+## 2 before Lent
 
 Creation theme.
 
@@ -234,7 +236,7 @@ The addition of this creation-themed week means that 'Proper 3' in the RCL is no
   * 6.46 ('Lord ... do what I say'): see Matthew 7.21, which is included in 7.21-29.
   * 6.47-49 ('house ... without a foundation'): see Matthew 7.24-27, which is included in 7.21-29.
 
-## The Sunday next before Lent
+## 1 before Lent
 
 (RCL 'Last Sunday after the Epiphany', or 'Transfiguration Sunday'.)
 
@@ -242,19 +244,19 @@ The addition of this creation-themed week means that 'Proper 3' in the RCL is no
 
 ## Ash Wednesday
 
-## The First Sunday of Lent
+## Lent 1
 
-## The Second Sunday of Lent
+## Lent 2
 
-## The Third Sunday of Lent
+## Lent 3
 
-## The Fourth Sunday of Lent
+## Lent 4
 
 May be 'displaced' by Mothering Sunday.
 
 ## Mothering Sunday
 
-## The Fifth Sunday of Lent
+## Lent 5
 
 ## Palm Sunday
 
@@ -328,7 +330,7 @@ Year C
 * **John 20.1-18**: see Year A.
 * (For the alternative, **Luke 24.1-12**, see Easter Vigil.)
 
-## The Second Sunday of Easter
+## Easter 2
 
 Year A
 
@@ -348,7 +350,7 @@ Year C
 * **Revelation 1.4-8** begins a (sparse but sequential) series in Revelation, covering every 'Sunday of Easter'.
 * **John 20.19-31**: see Year A.
 
-## The Third Sunday of Easter
+## Easter 3
 
 Years A and B interrupt the Easter series in John with an excursion into Luke 24.
 
@@ -368,7 +370,7 @@ Year C
 * **Revelation 5.11-14** continues the series in Revelation, and gives glory to the slain-but-living Lamb.
 * **John 21.1-19** concludes the post-resurrection sub-series in John (extending the readings beyond John 20, unlike Years A and B).
 
-## The Fourth Sunday of Easter
+## Easter 4
 
 The theme of Jesus as the shepherd dominates, with Gospel readings from John 10, and with Psalm 23 included every year. (This Sunday is sometimes known as 'Good Shepherd Sunday'.)
 
@@ -388,7 +390,7 @@ Year C
 * (For the alternative first reading, **Genesis 7.1-5, 11-18; 8.6-18; 9.8-13**, see Easter Vigil.)
 * **John 10.22-30** continues the series in John, and says that Jesus gives life to his sheep. **Psalm 23** continues the shepherd theme: see Year A. **Revelation 7.9-17** continues the series in Revelation, and features the Lamb, whose blood has been shed, but who is alive, and is described as a shepherd.
 
-## The Fifth Sunday of Easter
+## Easter 5
 
 Year A
 
@@ -405,7 +407,7 @@ Year C
 * **Revelation 21.1-6** continues the series in Revelation, featuring the end of death.
 * **John 13.31-35** continues the series in John, and begins a series on the 'farewell discourse', which continues on Sundays until Pentecost. Jesus begins to prepare his disciples for his departure.
 
-## The Sixth Sunday of Easter
+## Easter 6
 
 As the Sunday before the Rogation Days (the weekdays before Ascension Day), this is often observed as 'Rogation Sunday', with a focus on asking for God's blessing on the crops. ('Rogation' comes from Latin _rogare_, to ask.)
 
@@ -435,7 +437,7 @@ Year C
 * **Ephesians 1.15-23** celebrates Christ's ascension to the heavenly realms.
 * **Luke 24.44-53** recounts Jesus' ascension.
 
-## The Seventh Sunday of Easter
+## Easter 7
 
 Year A
 
@@ -454,7 +456,7 @@ Year C
 * **Revelation 22.12-14, 16, 17, 20, 21** concludes the series on Revelation (in a somewhat redacted fashion). There is a mention of the Spirit, and a longing for Jesus' return, echoing Ascension themes.
 * **John 17.20-26** continues the series in John's 'farewell discourse' with the concluding section of Jesus' prayer (see Years A and B).
 
-## Day of Pentecost
+## Pentecost
 
 Year A
 
@@ -774,7 +776,7 @@ Year C
 * **Ephesians 1.11-23** speaks of the 'glorious inheritance among the saints'.
 * **Luke 6.20-31** says 'your reward is great in heaven'.
 
-## The Fourth Sunday before Advent (between 30 October and 5 November)*
+## 4 before Advent (between 30 October and 5 November)*
 
 (RCL 'Proper 26'.)
 
@@ -797,7 +799,7 @@ Year C
   * Luke 20.9-19: see Matthew 21.33-46.
   * Luke 20.20-26: see Matthew 22.15-22.
 
-## The Third Sunday before Advent (between 6 and 12 November)
+## 3 before Advent (between 6 and 12 November)
 
 (RCL 'Proper 27'.)
 
@@ -816,7 +818,7 @@ Year C
   * Luke 20.45-47: omitted, along with its parallels in Matthew 23.1-7 (included last week in RCL Year A) and Mark 12.38-40 (included this week in RCL Year B).
   * Luke 21.1-4 (widow's offering): omitted, along with its parallel in Mark 12.41-44 (included this week in RCL Year B).
 
-## The Second Sunday before Advent (between 13 and 19 November)
+## 2 before Advent (between 13 and 19 November)
 
 (RCL 'Proper 28'.)
 
@@ -833,7 +835,7 @@ Year C
   * Luke 22.7-13: see Mark 14.12-16, included in Mark 14.1 &ndash; 15.47 (Palm Sunday).
   * Luke 22.14-23.56: set for Palm Sunday.
 
-## Christ the King: The Sunday next before Advent (between 20 and 26 November)
+## Christ the King: 1 before Advent (between 20 and 26 November)
 
 (RCL 'Proper 29'.)
 
