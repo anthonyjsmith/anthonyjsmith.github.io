@@ -969,6 +969,8 @@ According to tradition, Simon and Jude worked together as evangelists and were m
 
 30 November, if it is a Sunday, falls during Advent, so this Festival is never celebrated on a Sunday (unless it is the Patronal Festival celebrated as a Principal Feast).
 
+'In the Anglican Communion, St Andrewstide is widely observed by intercessions for foreign missions.'[^Andrew] This is the emphasis in the readings.
+
 * **Romans 10.12-18** is about the good news being proclaimed 'to all the earth', echoing Jesus' call to Andrew. The other two readings are quoted: **Isaiah 52.7-10** ('How beautiful ... are the feet') and **Psalm 19.1-6** ('... their words to the ends of the world').
 * **Matthew 4.18-22** has Jesus calling two pairs of brothers as his first followers: Simon Peter and Andrew, followed by James and John. To the first pair, Jesus says, 'Follow me, and I will make you fish for people.'
 
@@ -1002,3 +1004,7 @@ Year B
 * **Matthew 6.25-33**. Verse 34 could also be included.
 
 [Rules]: https://www.churchofengland.org/prayer-and-worship/worship-texts-and-resources/common-worship/churchs-year/rules
+
+# Notes
+
+[^Andrew]: 'Andrew, St', in _The Oxford Dictionary of the Christian Church_, ed. by F. L. Cross and E. A. Livingstone, 3rd ed. (Oxford: Oxford University Press, 1997), p. 60.
