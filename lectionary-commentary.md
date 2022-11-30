@@ -969,7 +969,7 @@ According to tradition, Simon and Jude worked together as evangelists and were m
 
 ## Andrew the Apostle (30 November)
 
-30 November, if it is a Sunday, falls during Advent, so this Festival is never celebrated on a Sunday (unless it is the Patronal Festival celebrated as a Principal Feast).
+30 November, if it is a Sunday, falls on the First Sunday of Advent, so this Festival is never celebrated on a Sunday (not even if it is the Patronal Festival celebrated as a Principal Feast).
 
 'In the Anglican Communion, St Andrewstide is widely observed by intercessions for foreign missions.'[^Andrew] This is the emphasis in the readings.
 
