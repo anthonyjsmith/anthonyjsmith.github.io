@@ -166,6 +166,10 @@ Set III (emphasis on Jesus' divinity)
 
 ## Christmas 1
 
+Year A
+
+* **Matthew 2.13-23** is part of the infancy narrative in Matthew, and describes Jesus being taken to Egypt to flee from Herod and then returning from Egypt. It therefore glimpses the suffering and exaltation of Jesus, which is reflected in the other readings. **Isaiah 63.7-9** says that the Lord 'became their saviour' and has 'lifted them up'.  **Psalm 148** calls on the whole earth to praise the Lord, because he has 'raised up the horn of his people'. **Hebrews 2.10-18** is about God 'bringing many children to glory' through the incarnation and suffering of Jesus.
+
 ## Christmas 2*
 
 # Epiphany
