@@ -12,7 +12,7 @@ The second purpose is as a defence of the teachings of the Reformation. The book
 
 I'm planning to write brief summaries and reflections along the way, mainly to help me to digest what I've been reading. The projected outline of those posts is below, and links will appear in due course. (Don't hold your breath.)
 
-I'll also be listening to a [series of lectures on the _Institutes_ by David Calhoun of Covenant Theological Seminary](https://www.covenantseminary.edu/resources/calvins-institutes/) ([also available on iTunes](https://itunes.apple.com/us/itunes-u/calvins-institutes-audio-lectures/id418582445) and via [The Gospel Coalition](https://www.thegospelcoalition.org/course/calvins-institutes/) with accompanying PDFs). (There are [plenty of lecture courses](http://www.covenantseminary.edu/resources/) available there, by the way, and it's an excellent resource.)
+I'll also be listening to a [series of lectures on the _Institutes_ by David Calhoun of Covenant Theological Seminary](https://resources.covenantseminary.edu/programs/calvins-institutes) ([also available via [The Gospel Coalition](https://www.thegospelcoalition.org/course/calvins-institutes/) with accompanying PDFs). (There are [plenty of lecture courses](https://resources.covenantseminary.edu) available there, by the way, and it's an excellent resource.)
 
 Comments welcome, and don't forget to subscribe to future posts, either using the "Subscribe" link at the top right, or using your favourite aggregator (I'm using [Feedly](http://www.feedly.com/) at the moment).
 
