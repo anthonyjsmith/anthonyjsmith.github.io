@@ -172,6 +172,13 @@ Year A
 
 ## Christmas 2*
 
+Years A, B and C
+
+Jeremiah 31.7-14
+Psalm 147.13-21 (EV: 12-20)
+Ephesians 1.3-14
+John 1.[1-9]10-18
+
 # Epiphany
 
 ## Epiphany
@@ -433,6 +440,8 @@ Year C
 * (The alternative, **John 5.1-9**, recounts the healing at the pool in Bethesda. Presumably there is a good reason for this.)
 
 ## Ascension Day
+
+Years A, B and C
 
 * **Acts 1.1-11** recounts Jesus' ascension.
 * (The alternative first reading, **Daniel 7.9-14**, has the Son of Man approaching the Ancient of Days and being given authority.)
