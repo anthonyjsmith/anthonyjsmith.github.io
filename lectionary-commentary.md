@@ -19,7 +19,7 @@ Most of the comments below are 'reverse engineered' using the lectionary and a f
 * Year A: complete from Advent 1 to Christmas 2
 * Year B: hardly begun
 * Year C: complete from Easter Day onwards
-* Festivals: complete from September to November
+* Festivals: 1 January, then complete from September to November
 
 ## The Bible and the lectionary
 
@@ -884,6 +884,10 @@ One of these Festivals might be Patronal Festival, which can be observed either 
 If it falls on one of those days, it must be transferred.
 
 ## The Naming and Circumcision of Jesus (1 January)
+
+If Jesus was born on 25 December, he was circumcised on 1 January.
+
+* **Luke 2.15-21** says, 'After eight days had passed, it was time to circumcise the child; and he was called Jesus, the name given by the angel before he was conceived in the womb.' **Numbers 6.22-27** connects the Aaronic blessing with the Lord's name: 'So they shall put my name on the Israelites'. **Psalm 8** says to the Lord, 'how glorious is your name'. **Galatians 4.4-7** says that Jesus was 'born under the law', which explains why he was circumcised.
 
 ## The Conversion of Paul (25 January)
 
