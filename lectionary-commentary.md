@@ -16,7 +16,7 @@ Most of the comments below are 'reverse engineered' using the lectionary and a f
 
 **_Work in progress!_**
 
-* Year A: complete for Advent and Christmas Day
+* Year A: complete from Advent 1 to Christmas 2
 * Year B: hardly begun
 * Year C: complete from Easter Day onwards
 * Festivals: complete from September to November
@@ -172,16 +172,19 @@ Year A
 
 ## Christmas 2*
 
+These readings apply only when there is a Sunday between 2 and 5 January, and when Epiphany is not being celebrated on that day.
+
 Years A, B and C
 
-Jeremiah 31.7-14
-Psalm 147.13-21 (EV: 12-20)
-Ephesians 1.3-14
-John 1.[1-9]10-18
+* **John 1.[1-9]10-18** says that 'the Word became flesh', and that 'From his fullness we have all received, grace upon grace.' **Jeremiah 31.7-14** has God showing grace to his people: 'I will comfort them'. **Psalm 147.13-21** (EV: 12-20) praises God because he 'sends forth his command to the earth' and 'sends forth his word'. **Ephesians 1.3-14** praises God for 'his glorious grace' and speaks of God's plan 'to gather up all things in [Christ], things in heaven and things on earth'.
 
 # Epiphany
 
+Although the Sundays are the Sundays _of_ Epiphany, if Epiphany falls on a Sunday, the readings are moved to the following week. In other words, the readings for Epiphany N are used on the Nth Sunday _after_ Epiphany.
+
 ## Epiphany
+
+May be celebrated on the Sunday between 2 and 8 January.
 
 ## The Baptism of Christ: Epiphany 1
 
@@ -191,7 +194,11 @@ John 1.[1-9]10-18
 
 ## Epiphany 4*
 
+Not used if Epiphany falls on a Sunday (in which case, the readings set for Epiphany 3 are used on Epiphany 4). Will also be displaced if Candlemas is celebrated on a Sunday.
+
 ## The Presentation of Christ in the Temple (Candlemas)
+
+May be celebrated on the Sunday between 28 January and 3 February.
 
 # Ordinary Time
 
