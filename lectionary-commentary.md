@@ -877,7 +877,7 @@ According to the [Rules], Festivals are 'not usually displaced'. However,
 
 > Festivals falling on a Sunday are to be kept on that day or transferred to the Monday (or, at the discretion of the minister, to the next suitable weekday). But a Festival may not be celebrated on Sundays in Advent, Lent or Eastertide. Festivals coinciding with a Principal Feast or Principal Holy Day are transferred to the first available day.
 
-One of these Festivals might be Patronal Festival, which can be observed either as a Festival or as a Principal Feast. According to the [Rules],
+One of these Festivals might be the Patronal or Dedication Festival, which can be observed either as a Festival or as a Principal Feast. According to the [Rules],
 
 > When kept as Principal Feasts, the Patronal and Dedication Festivals may be transferred to the nearest Sunday, unless that day is already a Principal Feast or one of the following days: the First Sunday of Advent, the Baptism of Christ, the First Sunday of Lent, the Fifth Sunday of Lent or Palm Sunday.
 
@@ -1036,10 +1036,29 @@ The infants of Bethlehem are often celebrated as martyrs, and this may be reflec
 According to the [Rules],
 
 > The Dedication Festival of a church is the anniversary of the date of its dedication or consecration. This is kept either as a Festival or as a Principal Feast.
->
-> When the date of dedication is unknown, the Dedication Festival may be observed on the first Sunday in October, or on the Last Sunday after Trinity, or on a suitable date chosen locally.
->
-> When kept as Principal Feasts, the Patronal and Dedication Festivals may be transferred to the nearest Sunday, unless that day is already a Principal Feast or one of the following days: the First Sunday of Advent, the Baptism of Christ, the First Sunday of Lent, the Fifth Sunday of Lent or Palm Sunday.
+
+Year A
+
+* **1 Kings 8.22-30** is Solomon's prayer of dedication for the temple.
+* Alternatively, **Revelation 21.9-14** speaks of the walls and gates of the 'holy city Jerusalem coming down out of heaven from God'.
+* **Psalm 122** says, 'I was glad when they said to me, "Let us go to the house of the Lord."'
+* **Hebrews 12.18-24** says that believers 'have come to Mount Zion and to the city of the living God, the heavenly Jerusalem'.
+* **Matthew 21.12-16** says that Jesus 'drove out all who were selling and buying in the temple'.
+
+Year B
+
+* **Genesis 28.11-18** is about Jacob's vision: 'This is none other than the house of God, and this is the gate of heaven.'
+* Alternatively, **Revelation 21.9-14**: see Year A.
+* **Psalm 122**: see Year A.
+* **1 Peter 2.1-10** likens believers to 'living stones', being built into a spiritual house'.
+* **John 10.22-29** is set in Jerusalem at the time of 'the festival of the Dedication'.
+
+Year C
+
+* **1 Chronicles 29.6-19** has David praising God when the people make offerings for the construction of the temple.
+* **Psalm 122**: see Year A.
+* **Ephesians 2.19-22** speaks of believers growing into 'a holy temple in the Lord'.
+* **John 2.13-22** speaks of Jesus driving people out of the temple and saying, 'Destroy this temple, and in three days I will raise it up.'
 
 # Special Occasion
 
@@ -1047,12 +1066,28 @@ According to the [Rules],
 
 Year A
 
-* **Luke 12.16-30**. Verse 31 could also be included.
-* Or **Luke 17.11-19**.
+* **Deuteronomy 8.7-18** speaks of God bringing his people into a fruitful land, and warns against forgetting God in times of plenty.
+* Alternatively, **Deuteronomy 28.1-14** speaks of the blessings that follow from obedience.
+* **Psalm 65** says, 'You visit the earth and water it; you make it very plenteous.'
+* **2 Corinthians 9.6-15** speaks of sowing and reaping for 'the harvest of your righteousness'.
+* **Luke 12.16-30** is about the rich man and his barns, and about not worrying (compare Year B). (Verse 31 could also be included.)
+* Alternatively, **Luke 17.11-19** is about the ten lepers, only one of whom returned to praise God.
 
 Year B
 
-* **Matthew 6.25-33**. Verse 34 could also be included.
+* **Joel 2.21-27** is about God bringing fruitfulness, after the invasion of locusts.
+* **Psalm 126** says, 'Those who go out weeping, bearing the seed, will come back with shouts of joy, bearing their sheaves with them.'
+* **1 Timothy 2.1-7** calls for 'supplications, prayers, intercessions, and thanksgivings'.
+* Alternatively, **1 Timothy 6.6-10** is about contentment: 'if we have food and clothing, we will be content with these'.
+* **Matthew 6.25-33** is about not worrying (compare Year A). (Verse 34 could also be included.)
+
+Year C
+
+* **Deuteronomy 26.1-11** is about offering some of the first fruits of the harvest.
+* **Psalm 100** calls for joy and thanksgiving.
+* **Philippians 4.4-9** calls for 'prayer and supplication with thanksgiving'.
+* Alternatively, **Revelation 14.14-18** is about 'one like the Son of Man' reaping the harvest of the earth.
+* **John 6.25-35** says (after the feeding of the 5000), 'Do not work for the food that perishes, but for the food that endures for eternal life'.
 
 [Rules]: https://www.churchofengland.org/prayer-and-worship/worship-texts-and-resources/common-worship/churchs-year/rules
 
