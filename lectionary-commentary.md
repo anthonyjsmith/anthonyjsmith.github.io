@@ -19,7 +19,7 @@ Most of the comments below are 'reverse engineered' using the lectionary and a f
 * Year A: complete from Advent 1 to Christmas 2
 * Year B: hardly begun
 * Year C: complete from Easter Day onwards
-* Festivals: 1 January, then complete from September to 26 December
+* Festivals: 1 January, then complete from September to 27 December
 
 ## The Bible and the lectionary
 
@@ -1016,6 +1016,12 @@ According to tradition, Simon and Jude worked together as evangelists and were m
 * **Matthew 10.17-22** warns of being 'put to death' because of Jesus.
 
 ## John, Apostle and Evangelist (27 December)
+
+John the Apostle (son of Zebedee) is traditionally identified with the evangelist who wrote 'John's Gospel', with the author of the 'Letters of John', and with the author of the Book of Revelation.
+
+* **Psalm 117** may have been chosen because John's testimony was for all nations.
+* **1 John 1** is about John's eyewitness testimony.
+* **John 21.19b-25** says that 'the disciple whom Jesus loved', 'the one who had reclined next to Jesus at the supper', was the one who wrote this Gospel. **Exodus 33.7-11a** speaks of a similarly close relationship: 'the Lord used to speak to Moses face to face, as one speaks to a friend'.
 
 ## The Holy Innocents (28 December)
 
