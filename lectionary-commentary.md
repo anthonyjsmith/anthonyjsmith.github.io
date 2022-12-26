@@ -19,7 +19,7 @@ Most of the comments below are 'reverse engineered' using the lectionary and a f
 * Year A: complete from Advent 1 to Christmas 2
 * Year B: hardly begun
 * Year C: complete from Easter Day onwards
-* Festivals: 1 January, then complete from September to 27 December
+* Festivals: 1 January, then complete from September to December
 
 ## The Bible and the lectionary
 
@@ -1024,6 +1024,12 @@ John the Apostle (son of Zebedee) is traditionally identified with the evangelis
 * **John 21.19b-25** says that 'the disciple whom Jesus loved', 'the one who had reclined next to Jesus at the supper', was the one who wrote this Gospel. **Exodus 33.7-11a** speaks of a similarly close relationship: 'the Lord used to speak to Moses face to face, as one speaks to a friend'.
 
 ## The Holy Innocents (28 December)
+
+The infants of Bethlehem are often celebrated as martyrs, and this may be reflected in the readings.
+
+* **Psalm 124** speaks of having 'escaped', as the infant Jesus (and the other infants?) escaped from Herod.
+* **1 Corinthians 1.26-29** speaks of God choosing 'what is weak in the world to shame the strong', inviting a contrast between the infant Jesus (and the other infants?) and Herod.
+* **Matthew 2.13-18** says that Herod 'killed all the children in and around Bethlehem who were two years old or under'. **Jeremiah 31.15-17** is quoted: 'Rachel weeping for her children'.
 
 ## Dedication Festival
 
