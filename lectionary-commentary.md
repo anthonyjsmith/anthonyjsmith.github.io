@@ -194,7 +194,7 @@ May be celebrated on the Sunday between 2 and 8 January.
 
 ## Epiphany 4*
 
-Not used if Epiphany falls on a Sunday (in which case, the readings set for Epiphany 3 are used on Epiphany 4). Will also be displaced if Candlemas is celebrated on a Sunday.
+Displaced if Candlemas falls (or is celebrated) on a Sunday.
 
 ## The Presentation of Christ in the Temple (Candlemas)
 
