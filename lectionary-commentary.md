@@ -887,7 +887,10 @@ If it falls on one of those days, it must be transferred.
 
 If Jesus was born on 25 December, he was circumcised on 1 January.
 
-* **Luke 2.15-21** says, 'After eight days had passed, it was time to circumcise the child; and he was called Jesus, the name given by the angel before he was conceived in the womb.' **Numbers 6.22-27** connects the Aaronic blessing with the Lord's name: 'So they shall put my name on the Israelites'. **Psalm 8** says to the Lord, 'how glorious is your name'. **Galatians 4.4-7** says that Jesus was 'born under the law', which explains why he was circumcised.
+* **Numbers 6.22-27** connects the Aaronic blessing with the Lord's name: 'So they shall put my name on the Israelites'.
+* **Psalm 8** says to the Lord, 'how glorious is your name'.
+* **Galatians 4.4-7** says that Jesus was 'born under the law', which explains why he was circumcised.
+* **Luke 2.15-21** says, 'After eight days had passed, it was time to circumcise the child; and he was called Jesus, the name given by the angel before he was conceived in the womb.'
 
 ## The Conversion of Paul (25 January)
 
@@ -966,16 +969,19 @@ Matthew was a tax-collector. This is reflected in the readings.
 
 Michael the archangel is mentioned four times in Scripture: Daniel 10.13-21 and 12.1, Jude 9 and Revelation 12.7.
 
-* **Genesis 28.10-17** is Jacob's dream of a 'ladder' with 'the angels of God ... ascending and descending on it', which is echoed in the Gospel reading. See below for the alternative, **Revelation 12.7-12**.
+* **Genesis 28.10-17** is Jacob's dream of a 'ladder' with 'the angels of God ... ascending and descending on it', which is echoed in the Gospel reading.
+* (See below for the alternative, **Revelation 12.7-12**.)
 * **Psalm 103.19-22** says, 'Bless the Lord, you angels of his'.
-* **Revelation 12.7-12** is about 'Michael and his angels' fighting against 'the dragon ... and his angels'. Alternatively, the passage from Revelation can be the first reading, with **Hebrews 1.5-14** as the second reading, contrasting angels with the Son (see 1.1-4 and 2.1-4).
+* **Revelation 12.7-12** is about 'Michael and his angels' fighting against 'the dragon ... and his angels'.
+* Alternatively, the passage from Revelation can be the first reading, with **Hebrews 1.5-14** as the second reading, contrasting angels with the Son: see 1.1-4 and 2.1-4.)
 * **John 1.47-51** has Jesus saying to Nathanael, 'you will see heaven opened and the angels of God ascending and descending upon the Son of Man', echoing the Old Testament reading.
 
 ## Luke the Evangelist (18 October)
 
 Luke was a 'physician' (Colossians 4.14). This is reflected in the readings. (Elsewhere, Luke is mentioned by name only in 2 Timothy 4.11 and Philemon 24.)
 
-* **Isaiah 35.3-6** is about the restoration of health. Alternatively, **Acts 16.6-12a** contains the first 'we' of the narrative, subtly indicating the point at which Luke joined Paul and his companions.
+* **Isaiah 35.3-6** is about the restoration of health.
+* Alternatively, **Acts 16.6-12a** contains the first 'we' of the narrative, subtly indicating the point at which Luke joined Paul and his companions.
 * **Psalm 147.1-7** says that the Lord 'heals the brokenhearted and binds up all their wounds'.
 * **2 Timothy 4.5-17** says, 'Only Luke is with me.'
 * **Luke 10.1-9** is about the mission of the seventy, which perhaps speaks more directly to those (such as Luke) who are not numbered among the Twelve. They were sent out to 'cure the sick' and to speak of the 'kingdom of God', which is appropriate to Luke as a physician and the author of one of the Gospels.
@@ -1002,7 +1008,8 @@ According to tradition, Simon and Jude worked together as evangelists and were m
 
 ## Stephen, Deacon, First Martyr (26 December)
 
-* **2 Chronicles 24.20-22** is about the stoning of Zechariah (who said as he was dying, 'May the Lord see and avenge!'). See below for the alternative, **Acts 7.51-60**.
+* **2 Chronicles 24.20-22** is about the stoning of Zechariah (who said as he was dying, 'May the Lord see and avenge!').
+* (See below for the alternative, **Acts 7.51-60**.)
 * **Psalm 119.161-168** speaks of being 'persecuted ... without a cause'.
 * **Acts 7.51-60** is about the stoning of Stephen (who said as he was dying, 'Lord, do not hold this sin against them').
 * Alternatively, the passage from Acts can be the first reading, with **Galatians 2.16b-20** as the second reading, which speaks of having been 'crucified with Christ'.
