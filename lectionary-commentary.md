@@ -19,7 +19,7 @@ Most of the comments below are 'reverse engineered' using the lectionary and a f
 * Year A: complete from Advent 1 to Christmas 2
 * Year B: hardly begun
 * Year C: complete from Easter Day onwards
-* Festivals: 1 January, then complete from September to November
+* Festivals: 1 January, then complete from September to 26 December
 
 ## The Bible and the lectionary
 
@@ -1001,6 +1001,12 @@ According to tradition, Simon and Jude worked together as evangelists and were m
 * **Matthew 4.18-22** has Jesus calling two pairs of brothers as his first followers: Simon Peter and Andrew, followed by James and John. To the first pair, Jesus says, 'Follow me, and I will make you fish for people.'
 
 ## Stephen, Deacon, First Martyr (26 December)
+
+* **2 Chronicles 24.20-22** is about the stoning of Zechariah (who said as he was dying, 'May the Lord see and avenge!'). See below for the alternative, **Acts 7.51-60**.
+* **Psalm 119.161-168** speaks of being 'persecuted ... without a cause'.
+* **Acts 7.51-60** is about the stoning of Stephen (who said as he was dying, 'Lord, do not hold this sin against them').
+* Alternatively, the passage from Acts can be the first reading, with **Galatians 2.16b-20** as the second reading, which speaks of having been 'crucified with Christ'.
+* **Matthew 10.17-22** warns of being 'put to death' because of Jesus.
 
 ## John, Apostle and Evangelist (27 December)
 
