@@ -185,7 +185,7 @@ Years A, B and C
 
 # Epiphany
 
-Although the Sundays are the Sundays _of_ Epiphany, if Epiphany falls on a Sunday, the readings are moved to the following week. In other words, the readings for Epiphany N are used on the Nth Sunday _after_ Epiphany.
+Although the Sundays are the Sundays _of_ Epiphany, if Epiphany falls on a Sunday, the readings are moved to the following week. In other words, the readings for Epiphany N are used on the Nth Sunday _after_ Epiphany (as in the RCL).
 
 ## Epiphany
 
