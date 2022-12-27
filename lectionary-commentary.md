@@ -176,7 +176,12 @@ These readings apply only when there is a Sunday between 2 and 5 January, and wh
 
 Years A, B and C
 
-* **John 1.[1-9]10-18** says that 'the Word became flesh', and that 'From his fullness we have all received, grace upon grace.' **Jeremiah 31.7-14** has God showing grace to his people: 'I will comfort them'. **Psalm 147.13-21** (EV: 12-20) praises God because he 'sends forth his command to the earth' and 'sends forth his word'. **Ephesians 1.3-14** praises God for 'his glorious grace' and speaks of God's plan 'to gather up all things in [Christ], things in heaven and things on earth'.
+* **Jeremiah 31.7-14** has God showing grace to his people: 'I will comfort them'.
+* Alternatively, **Ecclesiasticus 24.1-12** (from the Apocrypha) speaks of 'Wisdom', who 'came from the mouth of the Most High' (like the Word), and who was told by the Creator: 'Make your dwelling in Jacob' (like the Word becoming flesh).
+* **Psalm 147.13-21** (EV: 12-20) praises God because he 'sends forth his command to the earth' and 'sends forth his word' (like the Word becoming flesh).
+* Alternatively (as a canticle to follow the reading from Ecclesiasticus), **Wisdom of Solomon 10.15-21** (from the Apocrypha) is about wisdom.
+* **Ephesians 1.3-14** praises God for 'his glorious grace' and speaks of God's plan 'to gather up all things in [Christ], things in heaven and things on earth' (as heaven and earth are brought together in the incarnation).
+* **John 1.[1-9]10-18** says that 'the Word became flesh', and that 'From his fullness we have all received, grace upon grace.'
 
 # Epiphany
 
