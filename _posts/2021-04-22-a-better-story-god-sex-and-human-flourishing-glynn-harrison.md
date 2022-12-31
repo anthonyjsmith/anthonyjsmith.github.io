@@ -51,3 +51,11 @@ One key feature about this story is that it is directed towards the future. Our 
 > The road to flourishing is the way of the cross. Submitting to God &ndash; learning to be his creature &ndash; is hard, especially in today's culture of entitlement. But at the cross we see that God is good; we can trust him even when goodness is hard to see. And, enduring to the end, we shall see the face of God (134).
 
 The invitation to live within God's story is therefore an invitation to an adventure of discovery: discovering who we are, not by looking within, but by looking to the God who made us, who redeemed us, and who is committed to refashioning us in his image. It is an invitation to a life of sacrifice and self-denial. And it is an invitation to keep ourselves pure, seeking satisfaction in God's love, and awaiting the day when our deepest longings will be satisfied in the limitless love and joy of God's life, within the new creation. This, to me at least, seems like a better story.
+
+(Update: see below for some videos presenting similar material.)
+
+{% include youtube.html youtube_id="c6Pei_qa_EU" %}
+
+{% include youtube.html youtube_id="bRy5Rc3F1TE" %}
+
+{% include youtube.html youtube_id="CQ3rXqFHqJE" %}
