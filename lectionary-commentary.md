@@ -230,6 +230,10 @@ Year A
 
 May be celebrated on the Sunday between 28 January and 3 February.
 
+Years A, B and C
+
+* **Luke 2.22-40** is the account of the child Jesus being presented in the temple, and concludes by saying that 'The child grew and became strong'. **Malachi 3.1-5** says that 'the Lord whom you seek will suddenly come to his temple', to 'purify'. **Psalm 24.[1-6] 7-10** calls for the 'gates' and 'doors' to be 'lifted up' so that the 'Lord', the 'King of glory', 'may come in' [and also speaks of the need for 'clean hands and pure hearts']. **Hebrews 2.14-18** speaks of Jesus sharing 'flesh and blood', and then doing the work of the (heavenly) temple, as 'a merciful and faithful high priest in the service of God, to make a sacrifice of atonement for the sins of the people'.
+
 # Ordinary Time
 
 ## Sunday between 4 and 10 February (Proper 1)*
