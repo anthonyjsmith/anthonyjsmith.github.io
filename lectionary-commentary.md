@@ -205,6 +205,11 @@ Year A
 
 ## Epiphany 2
 
+Year A
+
+* **1 Corinthians 1.1-9** begins a series covering almost all of 1 Corinthians 1-3. Paul gives thanks for the grace of God that has been given to the church in Corinth.
+* **John 1.29-42** has John (the Baptist) saying of Jesus, 'Here is the Lamb of God who takes away the sin of the world', reflecting the Epiphany season, adding that 'he was before me'. **Isaiah 49.1-7** has the 'servant' saying, 'The Lord called me before I was born', and the Lord saying to his servant, 'I will give you as a light to the nations, that my salvation may reach to the end of the earth'. **Psalm 40.1-12** (EV: 1-11) has the speaker saying, 'Lo, I come. In the scroll of the book it is written of me that I should do your will, O my God'.
+
 ## Epiphany 3
 
 ## Epiphany 4*
