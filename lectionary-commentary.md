@@ -113,7 +113,7 @@ The Gospel readings all speak of the 'coming' of 'the Son of Man'.
 
 Year A
 
-* **Matthew 24.36-44** urges us to 'be ready' for 'the coming of the Son of Man'. **Romans 13.11-14** is an exhortation to 'lay aside the works of darkness and put on the armour of light' because 'the day is near'. **Isaiah 2.1-5** is the first of four readings (a series?) in the first part of Isaiah, and urges God's people to 'walk in the light of the Lord', looking ahead to 'days to come' when the nations stream to God's house in Zion in order to walk in God's paths and find peace with each other. **Psalm 122** has people going up to 'the house of the Lord' and speaks of 'peace'.
+* **Matthew 24.36-44** urges us to 'be ready' for 'the coming of the Son of Man'. **Romans 13.11-14** is an exhortation to 'lay aside the works of darkness and put on the armour of light' because 'the day is near'. **Isaiah 2.1-5** begins a series (?) in Isaiah, which covers all Sundays until Proper 1, except for Christmas 2. God's people are urged to 'walk in the light of the Lord', looking ahead to 'days to come' when the nations stream to God's house in Zion in order to walk in God's paths and find peace with each other. **Psalm 122** has people going up to 'the house of the Lord' and speaks of 'peace'.
 
 ## Advent 2
 
@@ -168,7 +168,7 @@ Set III (emphasis on Jesus' divinity)
 
 Year A
 
-* **Matthew 2.13-23** is part of the infancy narrative in Matthew, and describes Jesus being taken to Egypt to flee from Herod and then returning from Egypt. It therefore glimpses the suffering and exaltation of Jesus, which is reflected in the other readings. **Isaiah 63.7-9** says that the Lord 'became their saviour' and has 'lifted them up'.  **Psalm 148** calls on the whole earth to praise the Lord, because he has 'raised up the horn of his people'. **Hebrews 2.10-18** is about God 'bringing many children to glory' through the incarnation and suffering of Jesus.
+* **Matthew 2.13-23** is part of the infancy narrative in Matthew, and describes Jesus being taken to Egypt to flee from Herod and then returning from Egypt. It therefore glimpses the suffering and exaltation of Jesus, which is reflected in the other readings. **Isaiah 63.7-9** continues in Isaiah, and says that the Lord 'became their saviour' and has 'lifted them up'.  **Psalm 148** calls on the whole earth to praise the Lord, because he has 'raised up the horn of his people'. **Hebrews 2.10-18** is about God 'bringing many children to glory' through the incarnation and suffering of Jesus.
 
 ## Christmas 2*
 
@@ -201,16 +201,21 @@ Celebrated on Monday 8 or 9 January if Epiphany is celebrated on Sunday 7 or 8 J
 
 Year A
 
-* **Matthew 3.13-17** is Matthew's account of the baptism of Jesus, with 'the Spirit of God' descending on him, and 'a voice from heaven' saying, 'This is my Son, the Beloved, with whom I am well pleased.' **Isaiah 42.1-9** says, 'Here is my servant, whom I uphold, my chosen, in whom my soul delights'. **Psalm 29** is about the 'voice of the Lord'. **Acts 10.34-43** speaks of 'how God anointed Jesus of Nazareth with the Holy Spirit' (as Peter shares the gospel with a Gentile, reflecting the Epiphany season).
+* **Matthew 3.13-17** is Matthew's account of the baptism of Jesus, with 'the Spirit of God' descending on him, and 'a voice from heaven' saying, 'This is my Son, the Beloved, with whom I am well pleased.' **Isaiah 42.1-9** continues in Isaiah, and says, 'Here is my servant, whom I uphold, my chosen, in whom my soul delights'. **Psalm 29** is about the 'voice of the Lord'. **Acts 10.34-43** speaks of 'how God anointed Jesus of Nazareth with the Holy Spirit' (as Peter shares the gospel with a Gentile, reflecting the Epiphany season).
 
 ## Epiphany 2
 
 Year A
 
 * **1 Corinthians 1.1-9** begins a series covering almost all of 1 Corinthians 1-3. Paul gives thanks for the grace of God that has been given to the church in Corinth.
-* **John 1.29-42** has John (the Baptist) saying of Jesus, 'Here is the Lamb of God who takes away the sin of the world', reflecting the Epiphany season, adding that 'he was before me'. **Isaiah 49.1-7** has the 'servant' saying, 'The Lord called me before I was born', and the Lord saying to his servant, 'I will give you as a light to the nations, that my salvation may reach to the end of the earth'. **Psalm 40.1-12** (EV: 1-11) has the speaker saying, 'Lo, I come. In the scroll of the book it is written of me that I should do your will, O my God'.
+* **John 1.29-42** has John (the Baptist) saying of Jesus, 'Here is the Lamb of God who takes away the sin of the world', reflecting the Epiphany season, adding that 'he was before me'. **Isaiah 49.1-7** continues in Isaiah, and has the 'servant' saying, 'The Lord called me before I was born', and the Lord saying to his servant, 'I will give you as a light to the nations, that my salvation may reach to the end of the earth'. **Psalm 40.1-12** (EV: 1-11) has the speaker saying, 'Lo, I come. In the scroll of the book it is written of me that I should do your will, O my God'.
 
 ## Epiphany 3
+
+Year A
+
+* **1 Corinthians 1.10-18** continues the series in 1 Corinthians 1-3 (without a gap), and is about divisions in the church.
+* **Matthew 4.12-23** is the beginning of Jesus' ministry, in 'Galilee of the Gentiles'. **Isaiah 9.1-4** continues in Isaiah, and is quoted in the Gospel reading, including: 'The people ... in darkness have seen a great light'. **Psalm 27.1, 4-12** (EV: 1, 4-9) says, 'The Lord is my light and my salvation'.
 
 ## Epiphany 4*
 
