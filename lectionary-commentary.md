@@ -113,7 +113,7 @@ The Gospel readings all speak of the 'coming' of 'the Son of Man'.
 
 Year A
 
-* **Matthew 24.36-44** urges us to 'be ready' for 'the coming of the Son of Man'. **Romans 13.11-14** is an exhortation to 'lay aside the works of darkness and put on the armour of light' because 'the day is near'. **Isaiah 2.1-5** begins a series (?) in Isaiah, which covers all Sundays until Proper 1, except for Christmas 2. God's people are urged to 'walk in the light of the Lord', looking ahead to 'days to come' when the nations stream to God's house in Zion in order to walk in God's paths and find peace with each other. **Psalm 122** has people going up to 'the house of the Lord' and speaks of 'peace'.
+* **Matthew 24.36-44** urges us to 'be ready' for 'the coming of the Son of Man'. **Romans 13.11-14** is an exhortation to 'lay aside the works of darkness and put on the armour of light' because 'the day is near'. **Isaiah 2.1-5** begins a series (?) in Isaiah, which covers all Sundays until Proper 1, except for Christmas 2 and Epiphany 4. God's people are urged to 'walk in the light of the Lord', looking ahead to 'days to come' when the nations stream to God's house in Zion in order to walk in God's paths and find peace with each other. **Psalm 122** has people going up to 'the house of the Lord' and speaks of 'peace'.
 
 ## Advent 2
 
@@ -220,6 +220,11 @@ Year A
 ## Epiphany 4*
 
 Displaced if Candlemas falls (or is celebrated) on a Sunday.
+
+Year A
+
+* **1 Corinthians 1.18-31** continues the series in 1 Corinthians 1-3 (overlapping by one verse), and is about 'the message of the cross' and 'Christ the power of God and the wisdom of God'.
+* **John 2.1-11** is the account of Jesus turning water into wine, by which he 'revealed his glory' (an Epiphany theme). (This account features in Years A, B and C, each time on a different Sunday of Epiphany.) **1 Kings 17.8-16** is about Elijah's provision of meal and oil to a widow who was running out. **Psalm 36.5-10** is about God's provision: 'They shall be satisfied with the abundance of your house; they shall drink from the river of your delights. For with you is the well of life'.
 
 ## The Presentation of Christ in the Temple (Candlemas)
 
