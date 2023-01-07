@@ -197,6 +197,12 @@ Years A, B and C
 
 ## The Baptism of Christ: Epiphany 1
 
+Celebrated on Monday 8 or 9 January if Epiphany is celebrated on Sunday 7 or 8 January.
+
+Year A
+
+* **Matthew 3.13-17** is Matthew's account of the baptism of Jesus, with 'the Spirit of God' descending on him, and 'a voice from heaven' saying, 'This is my Son, the Beloved, with whom I am well pleased.' **Isaiah 42.1-9** says, 'Here is my servant, whom I uphold, my chosen, in whom my soul delights'. **Psalm 29** is about the 'voice of the Lord'. **Acts 10.34-43** speaks of 'how God anointed Jesus of Nazareth with the Holy Spirit' (as Peter shares the gospel with a Gentile, reflecting the Epiphany season).
+
 ## Epiphany 2
 
 ## Epiphany 3
