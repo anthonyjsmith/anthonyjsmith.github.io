@@ -181,7 +181,7 @@ Years A, B and C
 * **Psalm 147.13-21** (EV: 12-20) praises God because he 'sends forth his command to the earth' and 'sends forth his word' (like the Word becoming flesh).
 * Alternatively (as a canticle to follow the reading from Ecclesiasticus), **Wisdom of Solomon 10.15-21** (from the Apocrypha) is about wisdom.
 * **Ephesians 1.3-14** praises God for 'his glorious grace' and speaks of God's plan 'to gather up all things in [Christ], things in heaven and things on earth' (as heaven and earth are brought together in the incarnation).
-* **John 1.[1-9]10-18** says that 'the Word became flesh', and that 'From his fullness we have all received, grace upon grace.'
+* **John 1.[1-9] 10-18** says that 'the Word became flesh', and that 'From his fullness we have all received, grace upon grace.'
 
 # Epiphany
 
@@ -190,6 +190,10 @@ Although the Sundays are the Sundays _of_ Epiphany, if Epiphany falls on a Sunda
 ## Epiphany
 
 May be celebrated on the Sunday between 2 and 8 January.
+
+Years A, B and C
+
+* **Matthew 2.1-12** recounts the visit of 'wise men from the East' to the child Jesus in Bethlehem. **Isaiah 60.1-6** says that 'Nations shall come to your light, and kings to the brightness of your dawn', adding that 'They shall bring gold and frankincense'. **Psalm 72.[1-9] 10-15** speaks of kings bringing gifts (including gold) to 'the king'. **Ephesians 3.1-12** is about the Gentiles becoming 'fellow-heirs, members of the same body, and sharers in the promise in Christ Jesus through the gospel'.
 
 ## The Baptism of Christ: Epiphany 1
 
