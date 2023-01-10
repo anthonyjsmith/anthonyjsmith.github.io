@@ -16,14 +16,14 @@ Most of the comments below are 'reverse engineered' using the lectionary and a f
 
 **_Work in progress!_**
 
-* Year A: complete from Advent 1 to Christmas 2
+* Year A: complete from Advent 1 to Candlemas
 * Year B: hardly begun
 * Year C: complete from Easter Day onwards
 * Festivals: 1 January, then complete from September to December
 
 ## The Bible and the lectionary
 
-For the Gospels, Year A focuses on Matthew, Year B on Mark, and Year C on Luke. John is read in Years A, B and C, mostly during the seasons (especially Easter), but with some appearances in Ordinary Time in Year B (such as a summer series on John 6). During the Sundays in Ordinary Time (excluding the two before Lent), the readings in Matthew, Mark and Luke are sequential (semicontinuous), with just one exception (Year B, 3 before Advent, Mark 1.14-20). This covers the bulk of each gospel (Matthew 5-25, Mark 1-13 and Luke 5-21, plus a bit of 23). Material from Matthew 1-4, Mark 1 and Luke 1-4 is included in Advent, Christmas, Epiphany and Lent (along with extracts from other chapters), and the resurrection accounts are included during Easter. Note that the Passion narratives (Matthew 26-27, Mark 14-15 and Luke 22-23), with one or two small exceptions, are included _only_ on Palm Sunday, within the Liturgy of the Passion.
+For the Gospels, Year A focuses on Matthew, Year B on Mark, and Year C on Luke. John is read in Years A, B and C, mostly during the seasons (especially Easter), but with some appearances in Ordinary Time in Year B (such as a summer series on John 6). During the Sundays in Ordinary Time (excluding the two before Lent), the readings in Matthew, Mark and Luke are sequential (semicontinuous), with just one exception (Year B, 3 before Advent, Mark 1.14-20). This covers the bulk of each gospel (Matthew 5-25, Mark 1-13 and Luke 5-21, plus a bit of 23). Material from Matthew 1-4, Mark 1 and Luke 1-4 is included in Advent, Christmas, Epiphany and Lent (along with extracts from other chapters), and the resurrection accounts are included during Easter. Note that the Passion narratives (Matthew 26-27, Mark 14-15 and Luke 22-23), with one or two small exceptions, are included _only_ on Palm Sunday, within the Liturgy of the Passion. See the 'Ordinary Time' section below for details.
 
 Acts is read only at the Baptism of Christ, between Easter Day and Pentecost, and on some Festivals.
 
@@ -187,6 +187,8 @@ Years A, B and C
 
 Although the Sundays are the Sundays _of_ Epiphany, if Epiphany falls on a Sunday, the readings are moved to the following week. In other words, the readings for Epiphany N are used on the Nth Sunday _after_ Epiphany (as in the RCL).
 
+Note that the RCL considers the 'Season of Epiphany' to be part of 'Ordinary Time', and to cover the whole period between Epiphany and Lent.
+
 ## Epiphany
 
 May be celebrated on the Sunday between 2 and 8 January.
@@ -205,6 +207,8 @@ Year A
 
 ## Epiphany 2
 
+The Gospel readings for this Sunday are from John 1 and 2. In the RCL, it makes sense to see these readings as John's announcement of the beginning of Jesus' public ministry (with echoes of Jesus' baptism), to go alongside next week's readings from Matthew, Mark and Luke. This makes slightly less sense under Common Worship: see note on Epiphany 3.
+
 Year A
 
 * **1 Corinthians 1.1-9** begins a series covering almost all of 1 Corinthians 1-3. Paul gives thanks for the grace of God that has been given to the church in Corinth.
@@ -212,10 +216,16 @@ Year A
 
 ## Epiphany 3
 
+In the RCL, it makes sense to see this Sunday as marking the beginning of the semicontinuous series in the respective Gospel, with the Gospel reading marking the beginning of Jesus' public ministry. Common Worship has a different approach, which emphasises the Epiphany season, partly by including John 2.1-11 in Year A (Epiphany 4) and Year B (Epiphany 3), in addition to Year C (Epiphany 2), and partly by setting the Candlemas Gospel reading for Epiphany 4 in Year C.
+
 Year A
 
 * **1 Corinthians 1.10-18** continues the series in 1 Corinthians 1-3 (without a gap), and is about divisions in the church.
 * **Matthew 4.12-23** is the beginning of Jesus' ministry, in 'Galilee of the Gentiles'. **Isaiah 9.1-4** continues in Isaiah, and is quoted in the Gospel reading, including: 'The people ... in darkness have seen a great light'. **Psalm 27.1, 4-12** (EV: 1, 4-9) says, 'The Lord is my light and my salvation'.
+
+Year B
+
+RCL has Mark 1.14-20 as the Gospel reading, which is replaced by John 2.1-11.
 
 ## Epiphany 4*
 
@@ -223,8 +233,14 @@ Displaced if Candlemas falls (or is celebrated) on a Sunday.
 
 Year A
 
+RCL has Matthew 5.1-12 as the Gospel reading, with related readings from Micah 6.1-8 and Psalm 15. Note that Matthew 5.1-12 is the Gospel reading for All Saints' Day. Micah 6.1-8, however, is not included elsewhere.
+
 * **1 Corinthians 1.18-31** continues the series in 1 Corinthians 1-3 (overlapping by one verse), and is about 'the message of the cross' and 'Christ the power of God and the wisdom of God'.
 * **John 2.1-11** is the account of Jesus turning water into wine, by which he 'revealed his glory' (an Epiphany theme). (This account features in Years A, B and C, each time on a different Sunday of Epiphany.) **1 Kings 17.8-16** is about Elijah's provision of meal and oil to a widow who was running out. **Psalm 36.5-10** is about God's provision: 'They shall be satisfied with the abundance of your house; they shall drink from the river of your delights. For with you is the well of life'.
+
+Year C
+
+RCL has Luke 4.21-30 as the Gospel reading, which is replaced by Luke 2.22-40 (the Gospel reading for Candlemas).
 
 ## The Presentation of Christ in the Temple (Candlemas)
 
@@ -235,6 +251,41 @@ Years A, B and C
 * **Luke 2.22-40** is the account of the child Jesus being presented in the temple, and concludes by saying that 'The child grew and became strong'. **Malachi 3.1-5** says that 'the Lord whom you seek will suddenly come to his temple', to 'purify'. **Psalm 24.[1-6] 7-10** calls for the 'gates' and 'doors' to be 'lifted up' so that the 'Lord', the 'King of glory', 'may come in' [and also speaks of the need for 'clean hands and pure hearts']. **Hebrews 2.14-18** speaks of Jesus sharing 'flesh and blood', and then doing the work of the (heavenly) temple, as 'a merciful and faithful high priest in the service of God, to make a sacrifice of atonement for the sins of the people'.
 
 # Ordinary Time
+
+The Gospel readings during Ordinary Time work semicontinuously through the central portions of Matthew, Mark and Luke. (The series really begins in Epiphany 3 in the RCL: see above.) Details of omitted passages will included below, but it is worth noting which passages are included from the opening chapters.
+
+Year A
+
+* Matthew 1.1-17: omitted.
+* Matthew 1.18-25: set for Advent 4 (and Joseph of Nazareth).
+* Matthew 2.1-12: set for Epiphany.
+* Matthew 2.13-23: set for Christmas 1 (and 2.13-18 for Holy Innocents).
+* Matthew 3.1-12: set for Advent 2.
+* Matthew 3.13-17: set for Epiphany 1.
+* Matthew 4.1-11: set for Lent 1.
+* Matthew 4.12-23: set for Epiphany 3 (and 4.18-22 for Andrew).
+* Matthew 5.1-12: set for All Saints' Day (NB: RCL Epiphany 4).
+
+Year B
+
+Year C
+
+* Luke 1.1-25: omitted.
+* Luke 1.26-38: set for Advent 4, Year B (and for the Annunciation).
+* Luke 1.39-56: set for Advent 4 (omitting verse 56), and 1.46-55 (the Magnificat) as the canticle for Advent 3 or 4. (1.39-56 is also set for the Visit of the Blessed Virgin Mary to Elizabeth, and 1.46-56 for the Blessed Virgin Mary.)
+* Luke 1.57-80: omitted from the main lectionary, but 1.68-79 (the Benedictus) is included as the canticle for Advent 2 (and 1.57-66, 80 is set for the Birth of John the Baptist).
+* Luke 2.1-20: set for Christmas (I and II).
+* Luke 2.15-21: set for Christmas 1, Year B (and for the Naming and Circumcision of Jesus).
+* Luke 2.22-40: set for Epiphany 4, and for Candlemas (and 2.33-35 for Mothering Sunday).
+* Luke 2.41-52: set for Christmas 1.
+* Luke 3.1-6: set for Advent 2.
+* Luke 3.7-22: 3.7-18 set for Advent 3, and 3.15-17, 21, 22 for Epiphany 1 (3.19, 20: see Mark 6.14-29).
+* Luke 3.23-38: omitted.
+* Luke 4.1-13: set for Lent 1.
+* Luke 4.14-24: 4.14-21 set for Epiphany 3, and 4.16-24 for Bible Sunday (NB: RCL Epiphany 4).
+* Luke 4.25-30: omitted (NB: RCL Epiphany 4).
+* Luke 4.31-37: see Mark 1.21-28.
+* Luke 4.38-44: see Mark 1.29-39.
 
 ## Sunday between 4 and 10 February (Proper 1)*
 
@@ -786,7 +837,7 @@ Year C
   * Luke 17.32: omitted.
   * Luke 17.33: various parallels.
   * Luke 17.34-35[36]: see Matthew 24.36-44.
-  * Luke 17.37: omitted, along with its parallel in Matthew 24.28
+  * Luke 17.37: omitted, along with its parallel in Matthew 24.28.
 
 ## Sunday between 16 and 22 October (Proper 24)
 
