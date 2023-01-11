@@ -23,15 +23,19 @@ Most of the comments below are 'reverse engineered' using the lectionary and a f
 
 ## The Bible and the lectionary
 
-For the Gospels, Year A focuses on Matthew, Year B on Mark, and Year C on Luke. John is read in Years A, B and C, mostly during the seasons (especially Easter), but with some appearances in Ordinary Time in Year B (such as a summer series on John 6). During the Sundays in Ordinary Time (excluding the two before Lent), the readings in Matthew, Mark and Luke are sequential (semicontinuous), with just one exception (Year B, 3 before Advent, Mark 1.14-20). This covers the bulk of each gospel (Matthew 5-25, Mark 1-13 and Luke 5-21, plus a bit of 23). Material from Matthew 1-4, Mark 1 and Luke 1-4 is included in Advent, Christmas, Epiphany and Lent (along with extracts from other chapters), and the resurrection accounts are included during Easter. Note that the Passion narratives (Matthew 26-27, Mark 14-15 and Luke 22-23), with one or two small exceptions, are included _only_ on Palm Sunday, within the Liturgy of the Passion. See the 'Ordinary Time' section below for details.
+For the Gospels, see the 'Ordinary Time' section below for details. Year A focuses on Matthew, Year B on Mark, and Year C on Luke, while John is read in Years A, B and C, mostly during the seasons (especially Easter), but with some appearances in Ordinary Time in Year B (such as a summer series on John 6).
 
-Acts is read only at the Baptism of Christ, between Easter Day and Pentecost, and on some Festivals.
+Acts is read at the Baptism of Christ, between Easter Day and Pentecost (vaguely sequentially), and on some Festivals.
 
-Old Testament 'Continuous' readings after Trinity, cover the following books sequentially (but not completely):
+Numerous Psalms are included. To get some idea, see the [Reverse Lectionary](https://www.lectionarypage.net/ReverseLectionary.html#Psalms) for the Episcopal Church's adaptation of the RCL.
+
+Many other books are read semicontinuously, while also featuring in a non-sequential way during seasons and Festivals and as 'Related' Old Testament readings after Trinity.
+
+Old Testament 'Continuous' readings after Trinity cover the following books sequentially (but not completely):
 
 * Year A (Pentateuch): Genesis, Exodus and Deuteronomy 34
 * Year B (History and Wisdom): 1 Samuel, 2 Samuel, 1 Kings (up to chapter 8), and selections from Song of Solomon, Proverbs, Esther and Job
-* Year C (Prophets): 1 Kings 17 &ndash; 2 Kings 5 (Elijah and Elisha), Amos, Hosea, Isaiah (briefly!), Jeremiah, Lamentations, Joel
+* Year C (Prophets): 1 Kings 17 &ndash; 2 Kings 5 (Elijah and Elisha), Amos, Hosea, Isaiah (briefly!), Jeremiah, Lamentations and Joel
 
 New Testament readings after Trinity and before Advent cover the following books sequentially (but not completely):
 
@@ -39,7 +43,17 @@ New Testament readings after Trinity and before Advent cover the following books
 * Year B: 2 Corinthians, Ephesians, James and Hebrews 1-10
 * Year C: Galatians, Colossians, Hebrews 11-13, Philemon, 1 Timothy, 2 Timothy and 2 Thessalonians
 
-What about the rest of the Bible (apart from the Gospels and the Psalms)? As well as cameo appearances during seasons and Festivals, and 'Related' Old Testament readings after Trinity, the Bible is read systematically as follows:
+Other semicontinuous treatments of New Testament books are as follows:
+
+* 1 Corinthians:
+  * Year A: chapters 1-3 after Epiphany and in February
+  * Year B: chapter 9 for two Sundays in February
+  * Year C: chapters 12-13 for two Sundays in Epiphany, followed by chapter 15 for three Sundays in February
+* 1 Peter: Easter season, Year A
+* 1 John: Easter season, Year B
+* Revelation: Easter season, Year C (also three Sundays in Epiphany, Year B, not sequential)
+
+What about those parts of the Bible that are not read sequentially?
 
 * Old Testament
   * Leviticus, Numbers, Deuteronomy, Joshua, Nehemiah, Ezekiel, Daniel, Jonah, Micah, Zephaniah and Malachi: included, but not in a systematic way
@@ -48,17 +62,9 @@ What about the rest of the Bible (apart from the Gospels and the Psalms)? As wel
   * Ecclesiastes, Habakkuk and Zechariah: once as a 'Related' reading
   * Isaiah: features prominently in Advent, Christmas and Epiphany, and at other times (not sequential)
 * New Testament
-  * Acts: Easter season, Years A, B and C (vaguely sequential)
-  * 1 Corinthians:
-    * Year A: chapters 1-3 after Epiphany and in February
-    * Year B: chapter 9 for two Sundays in February
-    * Year C: chapters 12-13 for two Sundays in Epiphany, followed by chapter 15 for three Sundays in February
-  * Titus: no systematic readings
-  * 1 Peter: Easter season, Year A
-  * 2 Peter: no systematic readings
-  * 1 John: Easter season, Year B
+  * Titus: included, but not in a systematic way
+  * 2 Peter: included, but not in a systematic way
   * 2 John, 3 John, Jude: not included
-  * Revelation: Easter season, Year C (also three Sundays in Epiphany, Year B, not sequential)
 
 ## Choosing between the readings
 
@@ -252,40 +258,122 @@ Years A, B and C
 
 # Ordinary Time
 
-The Gospel readings during Ordinary Time work semicontinuously through the central portions of Matthew, Mark and Luke. (The series really begins in Epiphany 3 in the RCL: see above.) Details of omitted passages will included below, but it is worth noting which passages are included from the opening chapters.
+The Gospel readings on Sundays during Ordinary Time (excluding the two before Lent) work semicontinuously through the central portions of Matthew, Mark and Luke, with just one exception (Year B, 3 before Advent, Mark 1.14-20). (The series really begins in Epiphany 3 in the RCL: see above.) Material from Matthew 1-4, Mark 1 and Luke 1-4 is included in Advent, Christmas, Epiphany and Lent (along with extracts from other chapters), and the resurrection accounts are included during Easter. Note that the Passion narratives (Matthew 26-27, Mark 14-15 and Luke 22-23), with one or two small exceptions, are included _only_ on Palm Sunday, within the Liturgy of the Passion.
 
-Year A
+Details of omitted passages will included further below, but it is worth noting here which passages are included from the opening chapters of Matthew, Mark and Luke. This is also a convenient point to examine in detail how John's Gospel is read. (In brief, most of John is covered, with the biggest omissions in chapters 7, 8 and 16.)
+
+Matthew (Year A)
 
 * Matthew 1.1-17: omitted.
-* Matthew 1.18-25: set for Advent 4 (and Joseph of Nazareth).
-* Matthew 2.1-12: set for Epiphany.
-* Matthew 2.13-23: set for Christmas 1 (and 2.13-18 for Holy Innocents).
-* Matthew 3.1-12: set for Advent 2.
-* Matthew 3.13-17: set for Epiphany 1.
-* Matthew 4.1-11: set for Lent 1.
-* Matthew 4.12-23: set for Epiphany 3 (and 4.18-22 for Andrew).
-* Matthew 5.1-12: set for All Saints' Day (NB: RCL Epiphany 4).
+* Matthew 1.18-25: Advent 4; Joseph of Nazareth.
+* Matthew 2.1-12: Epiphany.
+* Matthew 2.13-23: Christmas 1 (2.13-18: Holy Innocents).
+* Matthew 3.1-12: Advent 2.
+* Matthew 3.13-17: Epiphany 1.
+* Matthew 4.1-11: Lent 1.
+* Matthew 4.12-23: Epiphany 3 (4.18-22: Andrew).
+* Matthew 5.1-12: All Saints' Day (NB: RCL Epiphany 4).
 
-Year B
+Mark (Year B)
 
-Year C
+* ...
+
+Luke (Year C)
 
 * Luke 1.1-25: omitted.
-* Luke 1.26-38: set for Advent 4, Year B (and for the Annunciation).
-* Luke 1.39-56: set for Advent 4 (omitting verse 56), and 1.46-55 (the Magnificat) as the canticle for Advent 3 or 4. (1.39-56 is also set for the Visit of the Blessed Virgin Mary to Elizabeth, and 1.46-56 for the Blessed Virgin Mary.)
-* Luke 1.57-80: omitted from the main lectionary, but 1.68-79 (the Benedictus) is included as the canticle for Advent 2 (and 1.57-66, 80 is set for the Birth of John the Baptist).
-* Luke 2.1-20: set for Christmas (I and II).
-* Luke 2.15-21: set for Christmas 1, Year B (and for the Naming and Circumcision of Jesus).
-* Luke 2.22-40: set for Epiphany 4, and for Candlemas (and 2.33-35 for Mothering Sunday).
-* Luke 2.41-52: set for Christmas 1.
-* Luke 3.1-6: set for Advent 2.
-* Luke 3.7-22: 3.7-18 set for Advent 3, and 3.15-17, 21, 22 for Epiphany 1 (3.19, 20: see Mark 6.14-29).
+* Luke 1.26-38: Advent 4, Year B; Annunciation.
+* Luke 1.39-56: Advent 4 (omitting verse 56); 1.46-55 (the Magnificat) as the canticle for Advent 3 or 4 (1.39-56: Visit of the Blessed Virgin Mary to Elizabeth; 1.46-56: Blessed Virgin Mary).
+* Luke 1.57-80: omitted from the main lectionary, but 1.68-79 (the Benedictus) is included as the canticle for Advent 2 (1.57-66, 80: Birth of John the Baptist).
+* Luke 2.1-20: Christmas (I and II).
+* Luke 2.15-21: Christmas 1, Year B; Naming and Circumcision of Jesus.
+* Luke 2.22-40: Epiphany 4, Candlemas (2.33-35: Mothering Sunday, one alternative).
+* Luke 2.41-52: Christmas 1.
+* Luke 3.1-6: Advent 2.
+* Luke 3.7-22: 3.7-18: Advent 3; 3.15-17, 21, 22: Epiphany 1 (3.19, 20: see Mark 6.14-29).
 * Luke 3.23-38: omitted.
-* Luke 4.1-13: set for Lent 1.
-* Luke 4.14-24: 4.14-21 set for Epiphany 3, and 4.16-24 for Bible Sunday (NB: RCL Epiphany 4).
+* Luke 4.1-13: Lent 1.
+* Luke 4.14-24: 4.14-21: Epiphany 3; 4.16-24: Bible Sunday (NB: RCL Epiphany 4).
 * Luke 4.25-30: omitted (NB: RCL Epiphany 4).
 * Luke 4.31-37: see Mark 1.21-28.
 * Luke 4.38-44: see Mark 1.29-39.
+
+John
+
+* John 1.1-14: Christmas Day (III); 2 before Lent, Year B.
+* John 1.[1-9] 10-18: Christmas 2, Years A, B and C.
+* John 1.6-8, 19-28: Advent 3, Year B.
+* John 1.29-42: Epiphany 2, Year A.
+* John 1.43-51: Epiphany 2, Year B (1.47-51: Michael and All Angels).
+* John 2.1-11: Epiphany 2, Year C; Epiphany 3, Year B; Epiphany 4, Year A.
+* John 2.13-22: Lent 3, Year B; Dedication Festival, Year C.
+* John 2.23-25: omitted.
+* John 3.1-17: Lent 2, Year A; Trinity, Year B (3.13-17: Holy Cross).
+* John 3.14-21: Lent 4, Year B.
+* John 3.22-36: omitted.
+* John 4.1-4: omitted.
+* John 4.5-42: Lent 3, Year A.
+* John 4.43-54: omitted.
+* John 5.1-9: Easter 6, Year C (one alternative).
+* John 5.10-36a: omitted.
+* John 5.36b-47: Bible Sunday, Year B.
+* John 6.1-21: Proper 12, Year B.
+* John 6.22-23: omitted.
+* John 6.24-35: Proper 13, Year B (6.25-35: Harvest Thanksgiving, Year C).
+* John 6.35, 41-51: Proper 14, Year B.
+* John 6.36-40: omitted.
+* John 6.51-58: Proper 15, Year B; Corpus Christi, Years A, B and C.
+* John 6.56-69: Proper 16, Year B.
+* John 6.70-71: omitted.
+* John 7.1-36: omitted.
+* John 7.37-39: Pentecost, Year A (one alternative).
+* John 7.40-53: omitted.
+* John 8.1-11: Ash Wednesday, Years A, B and C (one alternative).
+* John 8.12-59: omitted.
+* John 9.1-41: Lent 4, Year A.
+* John 10.1-10: Easter 4, Year A.
+* John 10.11-18: Easter 4, Year B.
+* John 10.19-21: omitted.
+* John 10.22-30: Easter 4, Year C (10.22-29: Dedication Festival, Year B).
+* John 10.31-42: omitted.
+* John 11.1-45: Lent 5, Year A (11.32-44: All Saints' Day, Year B).
+* John 11.46-57: omitted.
+* John 12.1-8: Lent 5, Year C.
+* John 12.1-11: Monday of Holy Week, Years A, B and C.
+* John 12.12-16: Palm Sunday, Year B.
+* John 12.17-19: omitted
+* John 12.20-33: Lent 5, Year B.
+* John 12.20-36: Tuesday of Holy Week, Years A, B and C.
+* John 12.37-50: omitted.
+* John 13.1-17, 31b-35: Maundy Thursday, Years A, B and C.
+* John 13.18-20: omitted.
+* John 13.21-32: Wednesday of Holy Week, Years A, B and C.
+* John 13.31-35: Easter 5, Year C.
+* John 14.1-14: Easter 5, Year A; Philip and James.
+* John 14.8-17 [25-27]: Pentecost, Year C.
+* John 14.15-21: Easter 6, Year A.
+* John 14.22: omitted.
+* John 14.23-29: Easter 6, Year C (one alternative).
+* John 14.30-31: omitted.
+* John 15.1-8: Easter 5, Year B.
+* John 15.9-17: Easter 6, Year B; Matthias (15.12-17: Barnabas).
+* John 15.17-27: Simon and Jude.
+* John 15.18-21: George.
+* John 15.26-27; 16.4b-15: Pentecost, Year B.
+* John 16.1-4a: omitted.
+* John 16.12-15: Trinity, Year C.
+* John 16.16-33: omitted.
+* John 17.1-11: Easter 7, Year A.
+* John 17.6-19: Easter 7, Year B.
+* John 17.20-26: Easter 7, Year C.
+* John 18.1 &ndash; 19.42: Good Friday.
+* John 18.33-37: Christ the King, Year B.
+* John 19.25-27: Mothering Sunday, Years A, B and C (one alternative).
+* John 19.38-42: Easter Eve, Years A, B and C (one alternative).
+* John 20.1-18: Easter Day, Years A, B and C (one alternative) (20.1-2, 11-18: Mary Magdalene).
+* John 20.19-23: Pentecost, Year A (one alternative).
+* John 20.19-31: Easter 2, Years A, B and C (20.24-29: Thomas).
+* John 21.1-19: Easter 3, Year C.
+* John 21.19b-25: John.
 
 ## Sunday between 4 and 10 February (Proper 1)*
 
@@ -1174,8 +1262,8 @@ Year C
 * Alternatively, **Revelation 14.14-18** is about 'one like the Son of Man' reaping the harvest of the earth.
 * **John 6.25-35** says (after the feeding of the 5000), 'Do not work for the food that perishes, but for the food that endures for eternal life'.
 
-[Rules]: https://www.churchofengland.org/prayer-and-worship/worship-texts-and-resources/common-worship/churchs-year/rules
-
 # Notes
 
 [^Andrew]: 'Andrew, St', in _The Oxford Dictionary of the Christian Church_, ed. by F. L. Cross and E. A. Livingstone, 3rd ed. (Oxford: Oxford University Press, 1997), p. 60.
+
+[Rules]: https://www.churchofengland.org/prayer-and-worship/worship-texts-and-resources/common-worship/churchs-year/rules
