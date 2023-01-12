@@ -973,7 +973,7 @@ Year C
 
 (RCL 'Proper 26'.)
 
-Omitted if All Saints' Day falls on a Sunday, or if it is observed as All Saints' Sunday.
+Displaced if All Saints' Day falls (or is celebrated) on a Sunday.
 
 Year A
 
