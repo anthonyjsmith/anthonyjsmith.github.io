@@ -5,6 +5,7 @@ description: The book covers both sides of the divide between professional (chor
 tags:
 - Christianity
 - Culture
+- Reviews
 image: "/assets/gant-o-sing.jpg"
 date: 2023-01-03 20:01:21.715615000 +00:00
 ---
