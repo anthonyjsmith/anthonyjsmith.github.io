@@ -195,7 +195,7 @@ Although the Sundays are the Sundays _of_ Epiphany, if Epiphany falls on a Sunda
 
 Note that the RCL considers the 'Season of Epiphany' to be part of 'Ordinary Time', and to cover the whole period between Epiphany and Lent.
 
-## Epiphany
+## The Epiphany
 
 May be celebrated on the Sunday between 2 and 8 January.
 
@@ -260,9 +260,9 @@ Years A, B and C
 
 The Gospel readings on Sundays during Ordinary Time (excluding the two before Lent) work semicontinuously through the central portions of Matthew, Mark and Luke, with just one exception (Year B, 3 before Advent, Mark 1.14-20). (The series really begins in Epiphany 3 in the RCL: see above.) Material from Matthew 1-4, Mark 1 and Luke 1-4 is included in Advent, Christmas, Epiphany and Lent (along with extracts from other chapters), and the resurrection accounts are included during Easter. Note that the Passion narratives (Matthew 26-27, Mark 14-15 and Luke 22-23), with one or two small exceptions, are included _only_ on Palm Sunday, within the Liturgy of the Passion.
 
-Details of omitted passages will included further below, but it is worth noting here which passages are included from the opening chapters of Matthew, Mark and Luke. This is also a convenient point to examine in detail how John's Gospel is read. (In brief, most of John is covered, with the biggest omissions in chapters 7, 8 and 16.)
+Details of omitted passages will included further below, but it is worth noting here which passages are included from the opening chapters of Matthew, Mark and Luke. This is also a convenient point to examine in detail how John's Gospel is read.
 
-Matthew (Year A)
+**Matthew** (Year A)
 
 * Matthew 1.1-17: omitted.
 * Matthew 1.18-25: Advent 4; Joseph of Nazareth.
@@ -274,11 +274,11 @@ Matthew (Year A)
 * Matthew 4.12-23: Epiphany 3 (4.18-22: Andrew).
 * Matthew 5.1-12: All Saints' Day (NB: RCL Epiphany 4).
 
-Mark (Year B)
+**Mark** (Year B)
 
 * ...
 
-Luke (Year C)
+**Luke** (Year C)
 
 * Luke 1.1-25: omitted.
 * Luke 1.26-38: Advent 4, Year B; Annunciation.
@@ -297,7 +297,23 @@ Luke (Year C)
 * Luke 4.31-37: see Mark 1.21-28.
 * Luke 4.38-44: see Mark 1.29-39.
 
-John
+**John**
+
+Every year is a 'John year', at least from Christmas to Pentecost (or Trinity), during which the Gospel reading is very often taken from John. Most of John is covered, with the biggest omissions in chapters 7, 8 and 16. The only readings from John in Ordinary Time are from chapter 6 in Year B (Proper 12 to 16). Each year includes readings taken from the following chapters (more or less):
+
+* Christmas and Epiphany: chapters 1 and 2
+* Ash Wednesday: chapter 8 (one alternative)
+* Lent (2), 3, 4 (Years A and B): chapters 2, 3, 4 and 9
+* Lent 5: chapters 11 and 12
+* Holy Week: chapters 12 and 13
+* Good Friday: chapters 18 and 19
+* Easter Day and Easter 2: chapter 20 (and Easter 3, Year C, chapter 21)
+* Easter 4: chapter 10
+* Easter 5 and 6: chapters 13 to 15
+* Easter 7: chapter 17
+* Pentecost and Trinity: various
+
+In detail:
 
 * John 1.1-14: Christmas Day (III); 2 before Lent, Year B.
 * John 1.[1-9] 10-18: Christmas 2, Years A, B and C.
@@ -313,7 +329,7 @@ John
 * John 4.1-4: omitted.
 * John 4.5-42: Lent 3, Year A.
 * John 4.43-54: omitted.
-* John 5.1-9: Easter 6, Year C (one alternative).
+* John 5.1-9: Easter 6, Year C (second alternative).
 * John 5.10-36a: omitted.
 * John 5.36b-47: Bible Sunday, Year B.
 * John 6.1-21: Proper 12, Year B.
@@ -325,9 +341,9 @@ John
 * John 6.56-69: Proper 16, Year B.
 * John 6.70-71: omitted.
 * John 7.1-36: omitted.
-* John 7.37-39: Pentecost, Year A (one alternative).
+* John 7.37-39: Pentecost, Year A (second alternative).
 * John 7.40-53: omitted.
-* John 8.1-11: Ash Wednesday, Years A, B and C (one alternative).
+* John 8.1-11: Ash Wednesday, Years A, B and C (second alternative).
 * John 8.12-59: omitted.
 * John 9.1-41: Lent 4, Year A.
 * John 10.1-10: Easter 4, Year A.
@@ -352,7 +368,7 @@ John
 * John 14.8-17 [25-27]: Pentecost, Year C.
 * John 14.15-21: Easter 6, Year A.
 * John 14.22: omitted.
-* John 14.23-29: Easter 6, Year C (one alternative).
+* John 14.23-29: Easter 6, Year C (first alternative).
 * John 14.30-31: omitted.
 * John 15.1-8: Easter 5, Year B.
 * John 15.9-17: Easter 6, Year B; Matthias (15.12-17: Barnabas).
@@ -367,10 +383,10 @@ John
 * John 17.20-26: Easter 7, Year C.
 * John 18.1 &ndash; 19.42: Good Friday.
 * John 18.33-37: Christ the King, Year B.
-* John 19.25-27: Mothering Sunday, Years A, B and C (one alternative).
-* John 19.38-42: Easter Eve, Years A, B and C (one alternative).
-* John 20.1-18: Easter Day, Years A, B and C (one alternative) (20.1-2, 11-18: Mary Magdalene).
-* John 20.19-23: Pentecost, Year A (one alternative).
+* John 19.25-27: Mothering Sunday, Years A, B and C (second alternative).
+* John 19.38-42: Easter Eve, Years A, B and C (second alternative).
+* John 20.1-18: Easter Day, Years A, B and C (first alternative) (20.1-2, 11-18: Mary Magdalene).
+* John 20.19-23: Pentecost, Year A (first alternative).
 * John 20.19-31: Easter 2, Years A, B and C (20.24-29: Thomas).
 * John 21.1-19: Easter 3, Year C.
 * John 21.19b-25: John.
