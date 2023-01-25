@@ -19,7 +19,7 @@ Most of the comments below are 'reverse engineered' using the lectionary and a f
 * Year A: complete from Advent 1 to Candlemas
 * Year B: hardly begun
 * Year C: complete from Easter Day onwards
-* Festivals: 1 January, then complete from September to December
+* Festivals: complete for January, and from September to December
 
 ## The Bible and the lectionary
 
@@ -1083,6 +1083,16 @@ If Jesus was born on 25 December, he was circumcised on 1 January.
 
 ## The Conversion of Paul (25 January)
 
+According to rule 6 at the top of the [lectionary](https://www.churchofengland.org/prayer-and-worship/worship-texts-and-resources/common-worship/churchs-year/lectionary#p539a),
+
+> If there are only two readings at the principal service on ... the Conversion of Paul ..., the reading from the Acts of the Apostles must always be used.
+
+* **Jeremiah 1.4-10** is about Jeremiah's call as 'a prophet to the nations'. (See below for the alternative, **Acts 9.1-22**.)
+* **Psalm 67** says, 'let all the peoples praise you'.
+* **Acts 9.1-22** is the account of Saul/Paul's experience on the road to Damascus, in which the Lord says of him, 'he is an instrument whom I have chosen to bring my name before Gentiles'.
+* Alternatively, the passage from Acts can be the first reading, with **Galatians 1.11-16a** as the second reading, in which Paul says that God 'was pleased to reveal his Son to me, so that I might proclaim him among the Gentiles'.
+* **Matthew 19.27-30** is Jesus' promise to those who have 'left everything and followed [him]', which is the essence of conversion.
+
 ## Joseph of Nazareth (19 March)
 
 19 March always falls during Lent. According to the [Rules],
@@ -1113,6 +1123,10 @@ This is a Principal Feast, but it comes across as somewhat unwanted, as it is ne
 
 14 May always falls between Easter and Trinity, so this Festival is never celebrated on a Sunday (unless it is the Patronal Festival celebrated as a Principal Feast).
 
+According to rule 6 at the top of the [lectionary](https://www.churchofengland.org/prayer-and-worship/worship-texts-and-resources/common-worship/churchs-year/lectionary#p539a),
+
+> If there are only two readings at the principal service on ... the Festivals of Matthias ..., the reading from the Acts of the Apostles must always be used.
+
 ## The Visit of the Blessed Virgin Mary to Elizabeth (31 May)
 
 31 May usually falls between Easter and Trinity, so this Festival can rarely be celebrated on a Sunday (unless it is the Patronal Festival celebrated as a Principal Feast).
@@ -1120,6 +1134,10 @@ This is a Principal Feast, but it comes across as somewhat unwanted, as it is ne
 ## Barnabas the Apostle (11 June)
 
 11 June occasionally falls before Trinity (20 June at the latest).
+
+According to rule 6 at the top of the [lectionary](https://www.churchofengland.org/prayer-and-worship/worship-texts-and-resources/common-worship/churchs-year/lectionary#p539a),
+
+> If there are only two readings at the principal service on ... the Festivals of ... Barnabas ..., the reading from the Acts of the Apostles must always be used.
 
 ## The Birth of John the Baptist (24 June)
 
@@ -1130,6 +1148,10 @@ This is a Principal Feast, but it comes across as somewhat unwanted, as it is ne
 ## Mary Magdalene (22 July)
 
 ## James the Apostle (25 July)
+
+According to rule 6 at the top of the [lectionary](https://www.churchofengland.org/prayer-and-worship/worship-texts-and-resources/common-worship/churchs-year/lectionary#p539a),
+
+> If there are only two readings at the principal service on ... the Festivals of ... James ..., the reading from the Acts of the Apostles must always be used.
 
 ## The Transfiguration of Our Lord (6 August)
 
@@ -1196,6 +1218,10 @@ According to tradition, Simon and Jude worked together as evangelists and were m
 * **Matthew 4.18-22** has Jesus calling two pairs of brothers as his first followers: Simon Peter and Andrew, followed by James and John. To the first pair, Jesus says, 'Follow me, and I will make you fish for people.'
 
 ## Stephen, Deacon, First Martyr (26 December)
+
+According to rule 6 at the top of the [lectionary](https://www.churchofengland.org/prayer-and-worship/worship-texts-and-resources/common-worship/churchs-year/lectionary#p539a),
+
+> If there are only two readings at the principal service on ... the Festivals of ... Stephen, the reading from the Acts of the Apostles must always be used.
 
 * **2 Chronicles 24.20-22** is about the stoning of Zechariah (who said as he was dying, 'May the Lord see and avenge!').
 * (See below for the alternative, **Acts 7.51-60**.)
