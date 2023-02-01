@@ -16,7 +16,7 @@ Most of the comments below are 'reverse engineered' using the lectionary and a f
 
 **_Work in progress!_**
 
-* Year A: complete from Advent 1 to Candlemas
+* Year A: complete from Advent 1 to Candlemas and Proper 1
 * Year B: hardly begun
 * Year C: complete from Easter Day onwards
 * Festivals: complete for January, and from September to December
@@ -395,10 +395,15 @@ In detail:
 
 (RCL 'Fifth Sunday after the Epiphany'.)
 
+Year A
+
+* **1 Corinthians 2.1-12 [13-16]** continues the series in 1 Corinthians 1-3, and is about Christ crucified and the wisdom of God.
+* **Matthew 5.13-20** begins/resumes a semicontinuous series in Matthew 5-25, which covers these three Sundays in February, and all the Sundays between Trinity and Advent. Jesus speaks about being salt and light ('let your light shine before others'), about not coming to abolish the law or the prophets but to fulfil, and about righteousness. **Isaiah 58.1-9a [9b-12]** says 'your light shall break forth like the dawn' and 'rise in the darkness'. **Psalm 112.1-9 [10]** speaks of those whose righteousness is clearly seen.
+
 Year C
 
 * **1 Corinthians 15.1-11**, on the preaching of the resurrection, begins a three-part series on 1 Corinthians 15, covering most of the chapter. (NB: on Easter Day, verses 1-11 are read in Year B, and verses 19-26 in Year C.)
-* **Luke 5.1-11** begins a semicontinuous series in Luke 5-21 (plus a bit of 23), which covers these three Sundays in February, and all the Sundays between Trinity and Advent. Jesus calls his first disciples. **Isaiah 6.1-8 [9-13]** continues the theme of calling, with the calling of Isaiah. Isaiah saw the Lord, 'high and lofty', in his heavenly temple, and **Psalm 138** refers to God as 'high' and speaks of his 'holy temple'.
+* **Luke 5.1-11** begins/resumes a semicontinuous series in Luke 5-21 (plus a bit of 23), which covers these three Sundays in February, and all the Sundays between Trinity and Advent. Jesus calls his first disciples. **Isaiah 6.1-8 [9-13]** continues the theme of calling, with the calling of Isaiah. Isaiah saw the Lord, 'high and lofty', in his heavenly temple, and **Psalm 138** refers to God as 'high' and speaks of his 'holy temple'.
   * Luke 5.12-16: see Mark 1.40-45.
   * Luke 5.17-26: see Mark 2.1-12.
   * Luke 5.27-32: see Matthew 9.9-13.
