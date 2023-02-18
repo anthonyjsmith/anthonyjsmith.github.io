@@ -16,7 +16,7 @@ Most of the comments below are 'reverse engineered' using the lectionary and a f
 
 **_Work in progress!_**
 
-* Year A: complete from Advent 1 to Candlemas and Proper 1
+* Year A: complete from Advent 1 to Candlemas and Proper 2
 * Year B: hardly begun
 * Year C: complete from Easter Day onwards
 * Festivals: complete for January, and from September to December
@@ -397,7 +397,7 @@ In detail:
 
 Year A
 
-* **1 Corinthians 2.1-12 [13-16]** continues the series in 1 Corinthians 1-3, and is about Christ crucified and the wisdom of God.
+* **1 Corinthians 2.1-12 [13-16]** continues the series in 1 Corinthians 1-3 (without a gap), and is about Christ crucified and the wisdom of God.
 * **Matthew 5.13-20** begins/resumes a semicontinuous series in Matthew 5-25, which covers these three Sundays in February, and all the Sundays between Trinity and Advent. Jesus speaks about being salt and light ('let your light shine before others'), about not coming to abolish the law or the prophets but to fulfil, and about righteousness. **Isaiah 58.1-9a [9b-12]** says 'your light shall break forth like the dawn' and 'rise in the darkness'. **Psalm 112.1-9 [10]** speaks of those whose righteousness is clearly seen.
 
 Year C
@@ -414,6 +414,11 @@ Year C
 ## Sunday between 11 and 17 February (Proper 2)*
 
 (RCL 'Sixth Sunday after the Epiphany', 'Proper 1'.)
+
+Year A
+
+* **1 Corinthians 3.1-9** continues the series in 1 Corinthians 1-3 (without a gap), and warns against saying 'I belong to Paul' or 'I belong to Apollos'.
+* **Matthew 5.21-37** continues the series in Matthew (without a gap), and is about anger, adultery, divorce and oaths, with warnings of judgment in the case of disobedience. **Deuteronomy 30.15-20** is about obedience or disobedience, leading to life or death. Alternatively, **Ecclesiasticus 15.15-20** (from the Apocrypha) is on the same topic. **Psalm 119.1-8** is about keeping God's commandments.
 
 Year C
 
