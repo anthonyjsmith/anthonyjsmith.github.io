@@ -16,7 +16,7 @@ Most of the comments below are 'reverse engineered' using the lectionary and a f
 
 **_Work in progress!_**
 
-* Year A: complete from Advent 1 to Candlemas and Proper 2
+* Year A: complete from Advent 1 to Candlemas and Proper 1-3
 * Year B: hardly begun
 * Year C: complete from Easter Day onwards
 * Festivals: complete for January, and from September to December
@@ -418,7 +418,7 @@ Year C
 Year A
 
 * **1 Corinthians 3.1-9** continues the series in 1 Corinthians 1-3 (without a gap), and warns against saying 'I belong to Paul' or 'I belong to Apollos'.
-* **Matthew 5.21-37** continues the series in Matthew (without a gap), and is about anger, adultery, divorce and oaths, with warnings of judgment in the case of disobedience. **Deuteronomy 30.15-20** is about obedience or disobedience, leading to life or death. Alternatively, **Ecclesiasticus 15.15-20** (from the Apocrypha) is on the same topic. **Psalm 119.1-8** is about keeping God's commandments.
+* **Matthew 5.21-37** continues the series in Matthew (without a gap), and is about anger, adultery, divorce and oaths, with warnings of judgment in the case of disobedience. **Deuteronomy 30.15-20** is about obedience or disobedience, leading to life or death. Alternatively, **Ecclesiasticus 15.15-20** (from the Apocrypha) is on the same topic. **Psalm 119.1-8** is the first of two weeks in Psalm 119, and is about keeping God's commandments.
 
 Year C
 
@@ -428,6 +428,18 @@ Year C
 ## Sunday between 18 and 24 February (Proper 3)*
 
 (RCL 'Seventh Sunday after the Epiphany', 'Proper 2'.)
+
+Year A
+
+* **1 Corinthians 3.10-11, 16-23** concludes the series in 1 Corinthians 1-3 (continuing without a gap), and is about building the church on the foundation of Jesus Christ. (The omitted verses about 'the Day' could easily be included: 'the fire will test what sort of work each has done'.)
+* **Matthew 5.38-48** continues the series in Matthew (without a gap), and is about loving one's enemies. **Leviticus 19.1-2, 9-18** says, 'you shall love your neighbour as yourself'. **Psalm 119.33-40** is the second of two weeks in Psalm 119, and is about keeping God's commandments (reflecting the broader theme of the Gospel reading).
+  * Matthew 6.1-6: set for Ash Wednesday.
+  * Matthew 6.7-8: omitted.
+  * Matthew 6.9-13: see Luke 11.1-13.
+  * Matthew 6.14-15: omitted (but see Matthew 18.21-35).
+  * Matthew 6.16-21: set for Ash Wednesday.
+  * Matthew 6.22-23: omitted, along with its parallel in Luke 11.34-35.
+  * Matthew 6.24: see Luke 16.1-13.
 
 Year C
 
