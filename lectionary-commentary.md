@@ -16,7 +16,7 @@ Most of the comments below are 'reverse engineered' using the lectionary and a f
 
 **_Work in progress!_**
 
-* Year A: complete from Advent 1 to Candlemas and Proper 1-3
+* Year A: complete from Advent 1 to Lent 1
 * Year B: hardly begun
 * Year C: complete from Easter Day onwards
 * Festivals: complete for January, and from September to December
@@ -450,11 +450,14 @@ Year C
 
 Creation theme.
 
-The addition of this creation-themed week means that 'Proper 3' in the RCL is not included. The Gospel readings from that week contain several famous sayings of Jesus:
+Year A
 
-* Matthew 6.24-34...
-  * Matthew 6.24 ('No one can serve two masters'): see Luke 16.1-13.
-  * Matthew 6.25-34 ('do not worry'): set for this week. See also Harvest Thanksgiving.
+* **Genesis 1.1 &ndash; 2.3** is about the creation of the heavens and the earth. **Psalm 136** or **Psalm 136.1-9, 23-26** is about God who 'made the heavens' (5-9) and 'gives food to all creatures' (25).
+* **Romans 8.18-25** says that 'the creation waits with eager longing for the revealing of the children of God'.
+* **Matthew 6.25-34** says, 'do not worry', and invites us to consider God's care for the birds and the 'grass of the field'. (Also set for Harvest Thanksgiving, Year B.)
+
+The addition of this creation-themed week means that 'Proper 3' in the RCL is not included (although the Gospel reading for Year A is almost the same). The Gospel readings from that week contain several famous sayings of Jesus:
+
 * Mark 2.13-22 ('I have come to call not the righteous but sinners ... new wine into old wineskins'). The parallel passage in Luke 5.27-38 is also omitted, but the other parallel in Matthew 9.9-17 is partially included in Matthew 9.9-13, 18-26, and the gap could easily be filled.
 * Luke 6.39-49...
   * 6.39 ('Can a blind person guide a blind person?'): see Matthew 15.14, which is included in Matthew 15.[10-20] 21-28.
@@ -469,11 +472,29 @@ The addition of this creation-themed week means that 'Proper 3' in the RCL is no
 
 (RCL 'Last Sunday after the Epiphany', or 'Transfiguration Sunday'.)
 
+Year A
+
+* **Matthew 17.1-9** is Matthew's account of Jesus' Transfiguration, on a mountain, with Peter, James and John, with Moses and Elijah appearing, a cloud overshadowing them, and a voice saying, 'This is my Son'. **Exodus 24.12-18** is about Moses seeing the glory of the Lord on the mountain. **Psalm 2** has God saying, 'You are my Son'. Alternatively, **Psalm 99** (also set for Year C) says that God 'spoke to them out of the pillar of cloud', and calls people to 'worship him upon his holy hill'. **2 Peter 1.16-21** includes Peter's eyewitness account of the Transfiguration.
+
 # Lent
 
 ## Ash Wednesday
 
+Years A, B and C
+
+* **Joel 2.1-2, 12-17** says, 'return to me with all your heart, with fasting, with weeping, and with mourning'.
+* Alternatively, **Isaiah 58.1-12** says, 'Is not this the fast that I choose: to loose the bonds of injustice ...'.
+* **Psalm 51.1-18** (EV: 1-17) says, 'Create in me a clean heart, O God'.
+* **2 Corinthians 5.20b &ndash; 6.10** says, 'we entreat you on behalf of Christ, be reconciled to God'.
+* **Matthew 6.1-6, 16-21** is about 'your Father who sees in secret', in relation to almsgiving, prayer, fasting, and storing up treasures in heaven.
+* Alternatively, **John 8.1-11** is about the woman caught in adultery: 'Neither do I condemn you. Go your way, and from now on do not sin again.'
+
 ## Lent 1
+
+Year A
+
+* **Psalm 32** is about confession and forgiveness of sin.
+* **Matthew 4.1-11** is about Jesus being tempted by the devil in the wilderness. **Genesis 2.15-17; 3.1-7** is about Eve and Adam succumbing to the serpent's temptation in the garden. **Romans 5.12-19** compares Adam with Christ.
 
 ## Lent 2
 
