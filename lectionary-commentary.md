@@ -524,11 +524,26 @@ Year A
 
 ## Lent 2
 
+The Old Testament reading each year is about God's promise to Abram.
+
+Year A
+
+* **Genesis 12.1-4a** is about God's call and promise to Abram, and the beginning of Abram's journey. **Psalm 121** gives assurance of God's protection on the journey. **Romans 4.1-5, 13-17** is about Abraham's faith in God's promise.
+* **John 3.1-17** is about Nicodemus's encounter with Jesus.
+
 ## Lent 3
+
+Year A
+
+* **John 4.5-42** is about the Samaritan woman's encounter with Jesus, and is about living water, and worshipping the Father 'in spirit and in truth'. **Exodus 17.1-7** is about Moses bringing water from the rock, in response to the people testing God at Massah and Meribah. **Psalm 95** recalls the time when the people tested God at Massah and Meribah. **Romans 5.1-11** says that 'God's love has been poured into our hearts through the Holy Spirit'.
 
 ## Lent 4
 
 May be 'displaced' by Mothering Sunday.
+
+Year A
+
+* **John 9.1-41** is about the blind man receiving sight, and includes, 'I am the light of the world'. The Pharisees are 'blind' in that they cannot see who Jesus is. **1 Samuel 16.1-13** is about recognising the Lord's anointed (David). **Psalm 23** could perhaps be related to the blind man's experience of being led by Jesus. **Ephesians 5.8-14** is about light and darkness.
 
 ## Mothering Sunday
 
