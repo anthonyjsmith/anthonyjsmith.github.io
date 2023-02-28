@@ -498,6 +498,12 @@ Year A
 
 # Lent {#lent}
 
+In terms of the Gospel readings for Lent 1-5, there is some structure to the readings, with all years building towards a climax in John 11 or 12. After looking in the respective Gospel at Jesus' temptation in the wilderness in Lent 1,
+
+* Year A is about encounters with Jesus in John's Gospel,
+* Year B looks towards Jesus' death and resurrection (one week in Mark, followed by three weeks in John), and
+* Year C, mostly in Luke, is less clearly structured, and is about Jesus setting out for Jerusalem (Lent 2), then about repentance (Lent 3) and Jesus welcoming sinners (Lent 4), before finishing in John with Jesus being anointed at Bethany.
+
 ## Ash Wednesday
 
 Years A, B and C
