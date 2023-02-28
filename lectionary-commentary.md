@@ -550,6 +550,10 @@ Year A
 
 ## Lent 5
 
+Year A
+
+* **John 11.1-45** is the raising of Lazarus, which looks ahead to Jesus' death and resurrection. **Ezekiel 37.1-14** is about God's breath (spirit) bringing dry bones to life. **Psalm 130** is about waiting for redemption: 'Out of the depths have I cried to you, O Lord'. **Romans 8.6-11** is about God giving life to mortal bodies through his Spirit.
+
 ## Palm Sunday
 
 ## Monday of Holy Week
