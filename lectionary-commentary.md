@@ -2,17 +2,9 @@
 title: Commentary on the Common Worship Principal Service Lectionary
 excerpt: 'Work in progress! This is a commentary on the lectionary, not a commentary on the passages. The aim is to answer the question: Why was this passage chosen?'
 ---
-**_Work in progress!_**
-
 This is a commentary on the _lectionary_, not a commentary on the _passages_. The aim is to answer the question: _Why was this passage chosen?_
 
 Simply search below for the relevant day, e.g., 'Advent 1', 'Proper 21', 'Bartholomew'.
-
-Note that there is often no 'theme' tying the readings together. (Many people persist in looking for one, even decades after the ASB.) Where readings are closely related, they are grouped together below. In many cases, however, a particular reading will not be related to other readings on the same day, but it will turn out to be part of a series on a particular book of the Bible running over several weeks. This principle of continuous (or semicontinuous) reading of Scripture is one of the key principles behind the lectionary.
-
-**Common Worship** was introduced in the Church of England in 2000. It includes a [Lectionary for Sundays, Principal Feasts and Holy Days, and Festivals](https://www.churchofengland.org/prayer-and-worship/worship-texts-and-resources/common-worship/churchs-year/lectionary), which provides a lectionary for three services on each of those days: Principal Service, Second Service, and Third Service (along with 'Evening Prayer on the Eve' for some occasions). This page covers the **Principal Service Lectionary**, which is drawn (with modifications) from the ecumenical **Revised Common Lectionary (RCL)**.
-
-Most of the comments below are 'reverse engineered' using the lectionary and a fair bit of guesswork, so they should not be taken as authoritative.
 
 **_Work in progress!_**
 
@@ -21,9 +13,31 @@ Most of the comments below are 'reverse engineered' using the lectionary and a f
 * Year C: complete from Easter Day onwards
 * Festivals: complete for January, and from September to December
 
+# Contents
+
+* [Introduction](#introduction)
+* [Gospels](#gospels)
+* [Advent](#advent)
+* [Christmas](#christmas)
+* [Epiphany](#epiphany)
+* [Ordinary Time](#ordinary-time-1)
+* [Lent](#lent)
+* [Easter](#easter)
+* [Ordinary Time](#ordinary-time-2)
+* [Festivals](#festivals)
+* [Notes](#notes)
+
+# Introduction {#introduction}
+
+Note that there is often no 'theme' tying the readings together. (Many people persist in looking for one, even decades after the ASB.) Where readings are closely related, they are grouped together below. In many cases, however, a particular reading will not be related to other readings on the same day, but it will turn out to be part of a series on a particular book of the Bible running over several weeks. This principle of continuous (or semicontinuous) reading of Scripture is one of the key principles behind the lectionary.
+
+**Common Worship** was introduced in the Church of England in 2000. It includes a [Lectionary for Sundays, Principal Feasts and Holy Days, and Festivals](https://www.churchofengland.org/prayer-and-worship/worship-texts-and-resources/common-worship/churchs-year/lectionary), which provides a lectionary for three services on each of those days: Principal Service, Second Service, and Third Service (along with 'Evening Prayer on the Eve' for some occasions). This page covers the **Principal Service Lectionary**, which is drawn (with modifications) from the ecumenical **Revised Common Lectionary (RCL)**.
+
+Most of the comments below are 'reverse engineered' using the lectionary and a fair bit of guesswork, so they should not be taken as authoritative.
+
 ## The Bible and the lectionary
 
-For the Gospels, see the 'Ordinary Time' section below for details. Year A focuses on Matthew, Year B on Mark, and Year C on Luke, while John is read in Years A, B and C, mostly during the seasons (especially Easter), but with some appearances in Ordinary Time in Year B (such as a summer series on John 6).
+For the Gospels, see the [section below](#gospels) for details. Year A focuses on Matthew, Year B on Mark, and Year C on Luke, while John is read in Years A, B and C, mostly during the seasons (especially Easter), but with some appearances in Ordinary Time in Year B (such as a summer series on John 6).
 
 Acts is read at the Baptism of Christ, between Easter Day and Pentecost (vaguely sequentially), and on some Festivals.
 
@@ -111,154 +125,9 @@ Web resources
 * [Simon Sarmiento](http://justus.anglican.org/~ss/)
   * [Common Worship Changes to Revised Common Lectionary](http://justus.anglican.org/~ss/rcldifferences.html)
 
-# Advent
+# Gospels {#gospels}
 
-## Advent 1
-
-The Gospel readings all speak of the 'coming' of 'the Son of Man'.
-
-Year A
-
-* **Matthew 24.36-44** urges us to 'be ready' for 'the coming of the Son of Man'. **Romans 13.11-14** is an exhortation to 'lay aside the works of darkness and put on the armour of light' because 'the day is near'. **Isaiah 2.1-5** begins a series (?) in Isaiah, which covers all Sundays until Proper 1, except for Christmas 2 and Epiphany 4. God's people are urged to 'walk in the light of the Lord', looking ahead to 'days to come' when the nations stream to God's house in Zion in order to walk in God's paths and find peace with each other. **Psalm 122** has people going up to 'the house of the Lord' and speaks of 'peace'.
-
-## Advent 2
-
-The Gospel readings all introduce John the Baptist.
-
-Year A
-
-* **Matthew 3.1-12** introduces John the Baptist baptizing with water for repentance and pointing towards one who will baptize with the Holy Spirit. **Isaiah 11.1-10** continues in Isaiah, and speaks one who will come with the 'spirit of the Lord' and bring peace. **Psalm 72.1-7, 18-19** speaks of the 'king' bringing 'justice' and 'peace'. **Romans 15.4-13** quotes Isaiah 11.10 and speaks of hope.
-
-## Advent 3
-
-The Gospel readings all continue with John the Baptist.
-
-Year A
-
-* **Matthew 11.2-11** has Jesus sending a message to John the Baptist about blind eyes being opened, and speaking about John the Baptist preparing the way. **Isaiah 35.1-10** continues in Isaiah, and is about God coming, reversing fortunes, strengthening the weak, opening the eyes of the blind, and a 'highway' being there. **Psalm 146.4-10** (EV: 5-10) says, 'the Lord opens the eyes of the blind'. Alternatively, the canticle is the **Magnificat (Luke 1.46-55)**, which is about fortunes being reversed. **James 5.7-10** says, 'Strengthen your hearts, for the coming of the Lord is near.'
-
-## Advent 4
-
-The Gospel readings all look towards Jesus' birth to Mary.
-
-Year A
-
-* **Matthew 1.18-25** leads up to the birth of Jesus to Mary, fulfilling Isaiah's prophecy about 'Emmanuel'. **Isaiah 7.10-16** continues in Isaiah, and looks ahead to a young woman bearing a son and calling him Immanuel. **Psalm 80.1-8, 18-20 (EV: 1-7, 17-19)** calls on God to 'come to our salvation' and 'show the light of your countenance', and speaks of 'the man at your right hand, the son of man you made so strong for yourself'. **Romans 1.1-7** says that Jesus 'was descended from David according to the flesh'.
-
-# Christmas
-
-## Christmas Day
-
-Set I (emphasis on the salvation Jesus brings)
-
-* **Isaiah 9.2-7** speaks of those in darkness seeing 'a great light', and announces that 'a child has been born', who will be named 'Wonderful Counsellor...', and who will reign 'with justice and with righteousness'.
-* **Psalm 96** calls for rejoicing before the Lord, because 'he comes, he comes to judge the earth', 'with righteousness'.
-* **Titus 2.11-14** says that 'the grace of God has appeared, bringing salvation to all' through Jesus, who 'gave himself for us'.
-* **Luke 2.1-14 [15-20]** is about Jesus' birth in Bethlehem, the angels appearing to the shepherds and announcing the birth of a Saviour, [and the shepherds going to Bethlehem to 'see'].
-
-Set II (emphasis on God's glory appearing and being seen)
-
-* **Isaiah 62.6-12** begins by speaking of king and nations who will 'see ... your glory', and says to Zion, 'See, your salvation comes'.
-* **Psalm 97** says of the Lord that 'all the peoples have seen his glory'.
-* **Titus 3.4-7** speaks of 'when the goodness and loving-kindness of God our Saviour appeared'.
-* **Luke 2.[1-7] 8-20** is about [Jesus' birth in Bethlehem], the angels appearing to the shepherds and announcing the birth of a Saviour, and the shepherds going to Bethlehem to 'see'.
-
-Set III (emphasis on Jesus' divinity)
-
-* **Isaiah 52.7-10** speaks of 'the return of the Lord to Zion', and says that he 'has bared his holy arm before the eyes of all the nations'.
-* **Psalm 98** speaks of the Lord bring victory by his 'own right hand and his holy arm', and calls for rejoicing before the Lord, because 'he comes to judge the earth'.
-* **Hebrews 1.1-4 [5-12]** speaks of the 'Son' through whom God 'created the worlds', who is 'the exact imprint of God's very being', and who is 'superior to angels'. [When God 'brings the firstborn into the world', the angels worship him.]
-* **John 1.1-14** speaks of the 'Word' who 'was God', through whom 'all things came into being', and who 'became flesh'.
-
-## Christmas 1
-
-Year A
-
-* **Matthew 2.13-23** is part of the infancy narrative in Matthew, and describes Jesus being taken to Egypt to flee from Herod and then returning from Egypt. It therefore glimpses the suffering and exaltation of Jesus, which is reflected in the other readings. **Isaiah 63.7-9** continues in Isaiah, and says that the Lord 'became their saviour' and has 'lifted them up'.  **Psalm 148** calls on the whole earth to praise the Lord, because he has 'raised up the horn of his people'. **Hebrews 2.10-18** is about God 'bringing many children to glory' through the incarnation and suffering of Jesus.
-
-## Christmas 2*
-
-These readings apply only when there is a Sunday between 2 and 5 January, and when Epiphany is not being celebrated on that day.
-
-Years A, B and C
-
-* **Jeremiah 31.7-14** has God showing grace to his people: 'I will comfort them'.
-* Alternatively, **Ecclesiasticus 24.1-12** (from the Apocrypha) speaks of 'Wisdom', who 'came from the mouth of the Most High' (like the Word), and who was told by the Creator: 'Make your dwelling in Jacob' (like the Word becoming flesh).
-* **Psalm 147.13-21** (EV: 12-20) praises God because he 'sends forth his command to the earth' and 'sends forth his word' (like the Word becoming flesh).
-* Alternatively (as a canticle to follow the reading from Ecclesiasticus), **Wisdom of Solomon 10.15-21** (from the Apocrypha) is about wisdom.
-* **Ephesians 1.3-14** praises God for 'his glorious grace' and speaks of God's plan 'to gather up all things in [Christ], things in heaven and things on earth' (as heaven and earth are brought together in the incarnation).
-* **John 1.[1-9] 10-18** says that 'the Word became flesh', and that 'From his fullness we have all received, grace upon grace.'
-
-# Epiphany
-
-Although the Sundays are the Sundays _of_ Epiphany, if Epiphany falls on a Sunday, the readings are moved to the following week. In other words, the readings for Epiphany N are used on the Nth Sunday _after_ Epiphany (as in the RCL).
-
-Note that the RCL considers the 'Season of Epiphany' to be part of 'Ordinary Time', and to cover the whole period between Epiphany and Lent.
-
-## The Epiphany
-
-May be celebrated on the Sunday between 2 and 8 January.
-
-Years A, B and C
-
-* **Matthew 2.1-12** recounts the visit of 'wise men from the East' to the child Jesus in Bethlehem. **Isaiah 60.1-6** says that 'Nations shall come to your light, and kings to the brightness of your dawn', adding that 'They shall bring gold and frankincense'. **Psalm 72.[1-9] 10-15** speaks of kings bringing gifts (including gold) to 'the king'. **Ephesians 3.1-12** is about the Gentiles becoming 'fellow-heirs, members of the same body, and sharers in the promise in Christ Jesus through the gospel'.
-
-## The Baptism of Christ: Epiphany 1
-
-Celebrated on Monday 8 or 9 January if Epiphany is celebrated on Sunday 7 or 8 January.
-
-Year A
-
-* **Matthew 3.13-17** is Matthew's account of the baptism of Jesus, with 'the Spirit of God' descending on him, and 'a voice from heaven' saying, 'This is my Son, the Beloved, with whom I am well pleased.' **Isaiah 42.1-9** continues in Isaiah, is echoed in the Gospel reading: 'Here is my servant, whom I uphold, my chosen, in whom my soul delights'. **Psalm 29** is about the 'voice of the Lord', including: 'The voice of the Lord is upon the waters'. **Acts 10.34-43** speaks of 'how God anointed Jesus of Nazareth with the Holy Spirit' (as Peter shares the gospel with a Gentile, reflecting the Epiphany season).
-
-## Epiphany 2
-
-The Gospel readings for this Sunday are from John 1 and 2. In the RCL, it makes sense to see these readings as John's announcement of the beginning of Jesus' public ministry (with echoes of Jesus' baptism), to go alongside next week's readings from Matthew, Mark and Luke. This makes slightly less sense under Common Worship: see note on Epiphany 3.
-
-Year A
-
-* **1 Corinthians 1.1-9** begins a series covering almost all of 1 Corinthians 1-3. Paul gives thanks for the grace of God that has been given to the church in Corinth.
-* **John 1.29-42** has John (the Baptist) saying of Jesus, 'Here is the Lamb of God who takes away the sin of the world', reflecting the Epiphany season, adding that 'he was before me'. **Isaiah 49.1-7** continues in Isaiah, and has the 'servant' saying, 'The Lord called me before I was born', and the Lord saying to his servant, 'I will give you as a light to the nations, that my salvation may reach to the end of the earth'. **Psalm 40.1-12** (EV: 1-11) has the speaker saying, 'Lo, I come. In the scroll of the book it is written of me that I should do your will, O my God'.
-
-## Epiphany 3
-
-In the RCL, it makes sense to see this Sunday as marking the beginning of the semicontinuous series in the respective Gospel, with the Gospel reading marking the beginning of Jesus' public ministry. Common Worship has a different approach, which emphasises the Epiphany season, partly by including John 2.1-11 in Year A (Epiphany 4) and Year B (Epiphany 3), in addition to Year C (Epiphany 2), and partly by setting the Candlemas Gospel reading for Epiphany 4 in Year C.
-
-Year A
-
-* **1 Corinthians 1.10-18** continues the series in 1 Corinthians 1-3 (without a gap), and is about divisions in the church.
-* **Matthew 4.12-23** is the beginning of Jesus' ministry, in 'Galilee of the Gentiles'. **Isaiah 9.1-4** continues in Isaiah, and is quoted in the Gospel reading, including: 'The people ... in darkness have seen a great light'. **Psalm 27.1, 4-12** (EV: 1, 4-9) says, 'The Lord is my light and my salvation'.
-
-Year B
-
-RCL has Mark 1.14-20 as the Gospel reading, which is replaced by John 2.1-11.
-
-## Epiphany 4*
-
-Displaced if Candlemas falls (or is celebrated) on a Sunday.
-
-Year A
-
-RCL has Matthew 5.1-12 as the Gospel reading, with related readings from Micah 6.1-8 and Psalm 15. Note that Matthew 5.1-12 is the Gospel reading for All Saints' Day. Micah 6.1-8, however, is not included elsewhere.
-
-* **1 Corinthians 1.18-31** continues the series in 1 Corinthians 1-3 (overlapping by one verse), and is about 'the message of the cross' and 'Christ the power of God and the wisdom of God'.
-* **John 2.1-11** is the account of Jesus turning water into wine, by which he 'revealed his glory' (an Epiphany theme). (This account features in Years A, B and C, each time on a different Sunday of Epiphany.) **1 Kings 17.8-16** is about Elijah's provision of meal and oil to a widow who was running out. **Psalm 36.5-10** is about God's provision: 'They shall be satisfied with the abundance of your house; they shall drink from the river of your delights. For with you is the well of life'.
-
-Year C
-
-RCL has Luke 4.21-30 as the Gospel reading, which is replaced by Luke 2.22-40 (the Gospel reading for Candlemas).
-
-## The Presentation of Christ in the Temple (Candlemas)
-
-May be celebrated on the Sunday between 28 January and 3 February.
-
-Years A, B and C
-
-* **Luke 2.22-40** is the account of the child Jesus being presented in the temple, and concludes by saying that 'The child grew and became strong'. **Malachi 3.1-5** says that 'the Lord whom you seek will suddenly come to his temple', to 'purify'. **Psalm 24.[1-6] 7-10** calls for the 'gates' and 'doors' to be 'lifted up' so that the 'Lord', the 'King of glory', 'may come in' [and also speaks of the need for 'clean hands and pure hearts']. **Hebrews 2.14-18** speaks of Jesus sharing 'flesh and blood', and then doing the work of the (heavenly) temple, as 'a merciful and faithful high priest in the service of God, to make a sacrifice of atonement for the sins of the people'.
-
-# Ordinary Time
-
-The Gospel readings on Sundays during Ordinary Time (excluding the two before Lent) work semicontinuously through the central portions of Matthew, Mark and Luke, with just one exception (Year B, 3 before Advent, Mark 1.14-20). (The series really begins in Epiphany 3 in the RCL: see above.) Material from Matthew 1-4, Mark 1 and Luke 1-4 is included in Advent, Christmas, Epiphany and Lent (along with extracts from other chapters), and the resurrection accounts are included during Easter. Note that the Passion narratives (Matthew 26-27, Mark 14-15 and Luke 22-23), with one or two small exceptions, are included _only_ on Palm Sunday, within the Liturgy of the Passion.
+The Gospel readings on Sundays during Ordinary Time work semicontinuously through the central portions of Matthew, Mark and Luke. More precisely, this actually begins just before Ordinary Time, in Epiphany 3, with the start of Jesus' public ministry (or at least, it does in the RCL: see notes on Epiphany 3), continuing into February until 3 before Lent, and then the series resumes after Trinity, continuing until the Sunday before Advent. (The one exception is Year B, 3 before Advent, Mark 1.14-20.) Material from Matthew 1:1-4:11, Mark 1:1-13 and Luke 1:1-4:13 is included in Advent, Christmas, Epiphany 1 and Lent (along with extracts from other chapters), and the resurrection accounts are included during Easter. Note that the Passion narratives (Matthew 26-27, Mark 14-15 and Luke 22-23), with one or two small exceptions, are included _only_ on Palm Sunday, within the Liturgy of the Passion.
 
 Details of omitted passages will included further below, but it is worth noting here which passages are included from the opening chapters of Matthew, Mark and Luke. This is also a convenient point to examine in detail how John's Gospel is read.
 
@@ -271,12 +140,12 @@ Details of omitted passages will included further below, but it is worth noting 
 * Matthew 3.1-12: Advent 2.
 * Matthew 3.13-17: Epiphany 1.
 * Matthew 4.1-11: Lent 1.
-* Matthew 4.12-23: Epiphany 3 (4.18-22: Andrew).
-* Matthew 5.1-12: All Saints' Day (NB: RCL Epiphany 4).
 
 **Mark** (Year B)
 
-* ...
+* Mark 1.1-8: Advent 2.
+* Mark 1.4-11: Epiphany 1.
+* Mark 1.9-15: Lent 1.
 
 **Luke** (Year C)
 
@@ -292,10 +161,6 @@ Details of omitted passages will included further below, but it is worth noting 
 * Luke 3.7-22: 3.7-18: Advent 3; 3.15-17, 21, 22: Epiphany 1 (3.19, 20: see Mark 6.14-29).
 * Luke 3.23-38: omitted.
 * Luke 4.1-13: Lent 1.
-* Luke 4.14-24: 4.14-21: Epiphany 3; 4.16-24: Bible Sunday (NB: RCL Epiphany 4).
-* Luke 4.25-30: omitted (NB: RCL Epiphany 4).
-* Luke 4.31-37: see Mark 1.21-28.
-* Luke 4.38-44: see Mark 1.29-39.
 
 **John**
 
@@ -391,6 +256,161 @@ In detail:
 * John 21.1-19: Easter 3, Year C.
 * John 21.19b-25: John.
 
+# Advent {#advent}
+
+## Advent 1
+
+The Gospel readings all speak of the 'coming' of 'the Son of Man'.
+
+Year A
+
+* **Matthew 24.36-44** urges us to 'be ready' for 'the coming of the Son of Man'. **Romans 13.11-14** is an exhortation to 'lay aside the works of darkness and put on the armour of light' because 'the day is near'. **Isaiah 2.1-5** begins a series (?) in Isaiah, which covers all Sundays until Proper 1, except for Christmas 2 and Epiphany 4. God's people are urged to 'walk in the light of the Lord', looking ahead to 'days to come' when the nations stream to God's house in Zion in order to walk in God's paths and find peace with each other. **Psalm 122** has people going up to 'the house of the Lord' and speaks of 'peace'.
+
+## Advent 2
+
+The Gospel readings all introduce John the Baptist.
+
+Year A
+
+* **Matthew 3.1-12** introduces John the Baptist baptizing with water for repentance and pointing towards one who will baptize with the Holy Spirit. **Isaiah 11.1-10** continues in Isaiah, and speaks one who will come with the 'spirit of the Lord' and bring peace. **Psalm 72.1-7, 18-19** speaks of the 'king' bringing 'justice' and 'peace'. **Romans 15.4-13** quotes Isaiah 11.10 and speaks of hope.
+
+## Advent 3
+
+The Gospel readings all continue with John the Baptist.
+
+Year A
+
+* **Matthew 11.2-11** has Jesus sending a message to John the Baptist about blind eyes being opened, and speaking about John the Baptist preparing the way. **Isaiah 35.1-10** continues in Isaiah, and is about God coming, reversing fortunes, strengthening the weak, opening the eyes of the blind, and a 'highway' being there. **Psalm 146.4-10** (EV: 5-10) says, 'the Lord opens the eyes of the blind'. Alternatively, the canticle is the **Magnificat (Luke 1.46-55)**, which is about fortunes being reversed. **James 5.7-10** says, 'Strengthen your hearts, for the coming of the Lord is near.'
+
+## Advent 4
+
+The Gospel readings all look towards Jesus' birth to Mary.
+
+Year A
+
+* **Matthew 1.18-25** leads up to the birth of Jesus to Mary, fulfilling Isaiah's prophecy about 'Emmanuel'. **Isaiah 7.10-16** continues in Isaiah, and looks ahead to a young woman bearing a son and calling him Immanuel. **Psalm 80.1-8, 18-20 (EV: 1-7, 17-19)** calls on God to 'come to our salvation' and 'show the light of your countenance', and speaks of 'the man at your right hand, the son of man you made so strong for yourself'. **Romans 1.1-7** says that Jesus 'was descended from David according to the flesh'.
+
+# Christmas {#christmas}
+
+## Christmas Day
+
+Set I (emphasis on the salvation Jesus brings)
+
+* **Isaiah 9.2-7** speaks of those in darkness seeing 'a great light', and announces that 'a child has been born', who will be named 'Wonderful Counsellor...', and who will reign 'with justice and with righteousness'.
+* **Psalm 96** calls for rejoicing before the Lord, because 'he comes, he comes to judge the earth', 'with righteousness'.
+* **Titus 2.11-14** says that 'the grace of God has appeared, bringing salvation to all' through Jesus, who 'gave himself for us'.
+* **Luke 2.1-14 [15-20]** is about Jesus' birth in Bethlehem, the angels appearing to the shepherds and announcing the birth of a Saviour, [and the shepherds going to Bethlehem to 'see'].
+
+Set II (emphasis on God's glory appearing and being seen)
+
+* **Isaiah 62.6-12** begins by speaking of king and nations who will 'see ... your glory', and says to Zion, 'See, your salvation comes'.
+* **Psalm 97** says of the Lord that 'all the peoples have seen his glory'.
+* **Titus 3.4-7** speaks of 'when the goodness and loving-kindness of God our Saviour appeared'.
+* **Luke 2.[1-7] 8-20** is about [Jesus' birth in Bethlehem], the angels appearing to the shepherds and announcing the birth of a Saviour, and the shepherds going to Bethlehem to 'see'.
+
+Set III (emphasis on Jesus' divinity)
+
+* **Isaiah 52.7-10** speaks of 'the return of the Lord to Zion', and says that he 'has bared his holy arm before the eyes of all the nations'.
+* **Psalm 98** speaks of the Lord bring victory by his 'own right hand and his holy arm', and calls for rejoicing before the Lord, because 'he comes to judge the earth'.
+* **Hebrews 1.1-4 [5-12]** speaks of the 'Son' through whom God 'created the worlds', who is 'the exact imprint of God's very being', and who is 'superior to angels'. [When God 'brings the firstborn into the world', the angels worship him.]
+* **John 1.1-14** speaks of the 'Word' who 'was God', through whom 'all things came into being', and who 'became flesh'.
+
+## Christmas 1
+
+Year A
+
+* **Matthew 2.13-23** is part of the infancy narrative in Matthew, and describes Jesus being taken to Egypt to flee from Herod and then returning from Egypt. It therefore glimpses the suffering and exaltation of Jesus, which is reflected in the other readings. **Isaiah 63.7-9** continues in Isaiah, and says that the Lord 'became their saviour' and has 'lifted them up'.  **Psalm 148** calls on the whole earth to praise the Lord, because he has 'raised up the horn of his people'. **Hebrews 2.10-18** is about God 'bringing many children to glory' through the incarnation and suffering of Jesus.
+
+## Christmas 2*
+
+These readings apply only when there is a Sunday between 2 and 5 January, and when Epiphany is not being celebrated on that day.
+
+Years A, B and C
+
+* **Jeremiah 31.7-14** has God showing grace to his people: 'I will comfort them'.
+* Alternatively, **Ecclesiasticus 24.1-12** (from the Apocrypha) speaks of 'Wisdom', who 'came from the mouth of the Most High' (like the Word), and who was told by the Creator: 'Make your dwelling in Jacob' (like the Word becoming flesh).
+* **Psalm 147.13-21** (EV: 12-20) praises God because he 'sends forth his command to the earth' and 'sends forth his word' (like the Word becoming flesh).
+* Alternatively (as a canticle to follow the reading from Ecclesiasticus), **Wisdom of Solomon 10.15-21** (from the Apocrypha) is about wisdom.
+* **Ephesians 1.3-14** praises God for 'his glorious grace' and speaks of God's plan 'to gather up all things in [Christ], things in heaven and things on earth' (as heaven and earth are brought together in the incarnation).
+* **John 1.[1-9] 10-18** says that 'the Word became flesh', and that 'From his fullness we have all received, grace upon grace.'
+
+# Epiphany {#epiphany}
+
+Although the Sundays are the Sundays _of_ Epiphany, if Epiphany falls on a Sunday, the readings are moved to the following week. In other words, the readings for Epiphany N are used on the Nth Sunday _after_ Epiphany (as in the RCL).
+
+Note that the RCL considers the 'Season of Epiphany' to be part of 'Ordinary Time', and to cover the whole period between Epiphany and Lent.
+
+## The Epiphany
+
+May be celebrated on the Sunday between 2 and 8 January.
+
+Years A, B and C
+
+* **Matthew 2.1-12** recounts the visit of 'wise men from the East' to the child Jesus in Bethlehem. **Isaiah 60.1-6** says that 'Nations shall come to your light, and kings to the brightness of your dawn', adding that 'They shall bring gold and frankincense'. **Psalm 72.[1-9] 10-15** speaks of kings bringing gifts (including gold) to 'the king'. **Ephesians 3.1-12** is about the Gentiles becoming 'fellow-heirs, members of the same body, and sharers in the promise in Christ Jesus through the gospel'.
+
+## The Baptism of Christ: Epiphany 1
+
+Celebrated on Monday 8 or 9 January if Epiphany is celebrated on Sunday 7 or 8 January.
+
+Year A
+
+* **Matthew 3.13-17** is Matthew's account of the baptism of Jesus, with 'the Spirit of God' descending on him, and 'a voice from heaven' saying, 'This is my Son, the Beloved, with whom I am well pleased.' **Isaiah 42.1-9** continues in Isaiah, is echoed in the Gospel reading: 'Here is my servant, whom I uphold, my chosen, in whom my soul delights'. **Psalm 29** is about the 'voice of the Lord', including: 'The voice of the Lord is upon the waters'. **Acts 10.34-43** speaks of 'how God anointed Jesus of Nazareth with the Holy Spirit' (as Peter shares the gospel with a Gentile, reflecting the Epiphany season).
+
+## Epiphany 2
+
+The Gospel readings for this Sunday are from John 1 and 2. In the RCL, it makes sense to see these readings as John's announcement of the beginning of Jesus' public ministry (with echoes of Jesus' baptism), to go alongside next week's readings from Matthew, Mark and Luke. This makes slightly less sense under Common Worship: see note on Epiphany 3.
+
+Year A
+
+* **1 Corinthians 1.1-9** begins a series covering almost all of 1 Corinthians 1-3. Paul gives thanks for the grace of God that has been given to the church in Corinth.
+* **John 1.29-42** has John (the Baptist) saying of Jesus, 'Here is the Lamb of God who takes away the sin of the world', reflecting the Epiphany season, adding that 'he was before me'. **Isaiah 49.1-7** continues in Isaiah, and has the 'servant' saying, 'The Lord called me before I was born', and the Lord saying to his servant, 'I will give you as a light to the nations, that my salvation may reach to the end of the earth'. **Psalm 40.1-12** (EV: 1-11) has the speaker saying, 'Lo, I come. In the scroll of the book it is written of me that I should do your will, O my God'.
+
+## Epiphany 3
+
+In the RCL, it makes sense to see this Sunday as marking the beginning of the semicontinuous series in the respective Gospel, with the Gospel reading marking the beginning of Jesus' public ministry. Common Worship has a different approach, which emphasises the Epiphany season, partly by including John 2.1-11 in Year A (Epiphany 4) and Year B (Epiphany 3), in addition to Year C (Epiphany 2), and partly by setting the Candlemas Gospel reading for Epiphany 4 in Year C.
+
+Year A
+
+* **1 Corinthians 1.10-18** continues the series in 1 Corinthians 1-3 (without a gap), and is about divisions in the church.
+* **Matthew 4.12-23** is the beginning of Jesus' ministry, in 'Galilee of the Gentiles'. (Matthew 4.18-22 is also set for Andrew.) **Isaiah 9.1-4** continues in Isaiah, and is quoted in the Gospel reading, including: 'The people ... in darkness have seen a great light'. **Psalm 27.1, 4-12** (EV: 1, 4-9) says, 'The Lord is my light and my salvation'.
+  * Matthew 5.1-12: set for All Saints' Day (NB: RCL Epiphany 4).
+
+Year B
+
+RCL has Mark 1.14-20 as the Gospel reading, which is replaced by John 2.1-11.
+
+Year C
+
+* **Luke 4.14-21**
+  * Luke 4.22-30: omitted (except 4.16-24 set for Bible Sunday) (NB: RCL Epiphany 4).
+  * Luke 4.31-37: see Mark 1.21-28.
+  * Luke 4.38-44: see Mark 1.29-39.
+
+## Epiphany 4*
+
+Displaced if Candlemas falls (or is celebrated) on a Sunday.
+
+Year A
+
+RCL has Matthew 5.1-12 as the Gospel reading, with related readings from Micah 6.1-8 and Psalm 15. Note that Matthew 5.1-12 is the Gospel reading for All Saints' Day. Micah 6.1-8, however, is not included elsewhere.
+
+* **1 Corinthians 1.18-31** continues the series in 1 Corinthians 1-3 (overlapping by one verse), and is about 'the message of the cross' and 'Christ the power of God and the wisdom of God'.
+* **John 2.1-11** is the account of Jesus turning water into wine, by which he 'revealed his glory' (an Epiphany theme). (This account features in Years A, B and C, each time on a different Sunday of Epiphany.) **1 Kings 17.8-16** is about Elijah's provision of meal and oil to a widow who was running out. **Psalm 36.5-10** is about God's provision: 'They shall be satisfied with the abundance of your house; they shall drink from the river of your delights. For with you is the well of life'.
+
+Year C
+
+RCL has Luke 4.21-30 as the Gospel reading, which is replaced by Luke 2.22-40 (the Gospel reading for Candlemas).
+
+## The Presentation of Christ in the Temple (Candlemas)
+
+May be celebrated on the Sunday between 28 January and 3 February.
+
+Years A, B and C
+
+* **Luke 2.22-40** is the account of the child Jesus being presented in the temple, and concludes by saying that 'The child grew and became strong'. **Malachi 3.1-5** says that 'the Lord whom you seek will suddenly come to his temple', to 'purify'. **Psalm 24.[1-6] 7-10** calls for the 'gates' and 'doors' to be 'lifted up' so that the 'Lord', the 'King of glory', 'may come in' [and also speaks of the need for 'clean hands and pure hearts']. **Hebrews 2.14-18** speaks of Jesus sharing 'flesh and blood', and then doing the work of the (heavenly) temple, as 'a merciful and faithful high priest in the service of God, to make a sacrifice of atonement for the sins of the people'.
+
+# Ordinary Time {#ordinary-time-1}
+
 ## Sunday between 4 and 10 February (Proper 1)*
 
 (RCL 'Fifth Sunday after the Epiphany'.)
@@ -476,7 +496,7 @@ Year A
 
 * **Matthew 17.1-9** is Matthew's account of Jesus' Transfiguration, on a mountain, with Peter, James and John, with Moses and Elijah appearing, a cloud overshadowing them, and a voice saying, 'This is my Son'. **Exodus 24.12-18** is about Moses seeing the glory of the Lord on the mountain. **Psalm 2** has God saying, 'You are my Son'. Alternatively, **Psalm 99** (also set for Year C) says that God 'spoke to them out of the pillar of cloud', and calls people to 'worship him upon his holy hill'. **2 Peter 1.16-21** includes Peter's eyewitness account of the Transfiguration.
 
-# Lent
+# Lent {#lent}
 
 ## Ash Wednesday
 
@@ -522,7 +542,7 @@ May be 'displaced' by Mothering Sunday.
 
 ## Easter Eve
 
-# Easter
+# Easter {#easter}
 
 A reading from Acts is included at every service between Easter Day and Pentecost.
 
@@ -732,7 +752,7 @@ Year C
 * **Romans 8.14-17** is about the work of the Spirit.
 * **John 14.8-17 [25-27]** continues the series John's 'farewell discourse', with Jesus' promise of the Spirit.
 
-# Ordinary Time
+# Ordinary Time {#ordinary-time-2}
 
 ## Trinity Sunday
 
@@ -1103,7 +1123,7 @@ Year C
   * Luke 24.36-48: set for Easter 3 (Year B).
   * Luke 24.44-53: set for Ascension Day.
 
-# Festivals
+# Festivals {#festivals}
 
 According to the [Rules], Festivals are 'not usually displaced'. However,
 
@@ -1318,8 +1338,6 @@ Year C
 * **Ephesians 2.19-22** speaks of believers growing into 'a holy temple in the Lord'.
 * **John 2.13-22** speaks of Jesus driving people out of the temple and saying, 'Destroy this temple, and in three days I will raise it up.'
 
-# Special Occasion
-
 ## Harvest Thanksgiving
 
 Year A
@@ -1347,7 +1365,7 @@ Year C
 * Alternatively, **Revelation 14.14-18** is about 'one like the Son of Man' reaping the harvest of the earth.
 * **John 6.25-35** says (after the feeding of the 5000), 'Do not work for the food that perishes, but for the food that endures for eternal life'.
 
-# Notes
+# Notes {#notes}
 
 [^Andrew]: 'Andrew, St', in _The Oxford Dictionary of the Christian Church_, ed. by F. L. Cross and E. A. Livingstone, 3rd ed. (Oxford: Oxford University Press, 1997), p. 60.
 
