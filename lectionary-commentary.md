@@ -155,7 +155,7 @@ Details of omitted passages will included further below, but it is worth noting 
 * Luke 1.57-80: omitted from the main lectionary, but 1.68-79 (the Benedictus) is included as the canticle for Advent 2 (1.57-66, 80: Birth of John the Baptist).
 * Luke 2.1-20: Christmas (I and II).
 * Luke 2.15-21: Christmas 1, Year B; Naming and Circumcision of Jesus.
-* Luke 2.22-40: Epiphany 4, Candlemas (2.33-35: Mothering Sunday, one alternative).
+* Luke 2.22-40: Epiphany 4, Candlemas (2.33-35: Mothering Sunday, first alternative).
 * Luke 2.41-52: Christmas 1.
 * Luke 3.1-6: Advent 2.
 * Luke 3.7-22: 3.7-18: Advent 3; 3.15-17, 21, 22: Epiphany 1 (3.19, 20: see Mark 6.14-29).
