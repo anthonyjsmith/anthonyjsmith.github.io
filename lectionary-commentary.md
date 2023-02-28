@@ -548,6 +548,19 @@ Year A
 
 ## Mothering Sunday
 
+The readings are related to mothering, but with a tinge of pain and hints of the cross, appropriately for Lent.
+
+Year A, B and C
+
+* **Exodus 2.1-10** is about Moses' mother placing her baby into the water, only to receive him back again from Pharaoh's daughter.
+* Alternatively, **1 Samuel 1.20-28** is about Samuel's mother giving him to the Lord.
+* **Psalm 34.11-20** says, 'Come, my children, and listen to me; I will teach you the fear of the Lord.'
+* Alternatively, **Psalm 127.1-4** (EV: 1-3) says, 'Children are a heritage from the Lord and the fruit of the womb is his gift.'
+* **2 Corinthians 1.3-7** is about suffering and consolation (reflecting the experience of motherhood, perhaps).
+* Alternatively, **Colossians 3.12-17** is about virtues such as compassion, kindness, humility, meekness, patience and love (relevant for motherhood, perhaps).
+* **Luke 2.33-35** has Simeon saying to Mary, 'a sword will pierce your own soul too'.
+* Alternatively, **John 19.25-27** has Jesus speaking to his mother from the cross.
+
 ## Lent 5
 
 Year A
