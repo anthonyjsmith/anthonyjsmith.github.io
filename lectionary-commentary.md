@@ -543,7 +543,8 @@ May be 'displaced' by Mothering Sunday.
 
 Year A
 
-* **John 9.1-41** is about the blind man receiving sight, and includes, 'I am the light of the world'. The Pharisees are 'blind' in that they cannot see who Jesus is. **1 Samuel 16.1-13** is about recognising the Lord's anointed (David). **Psalm 23** could perhaps be related to the blind man's experience of being led by Jesus. **Ephesians 5.8-14** is about light and darkness.
+* **Psalm 23** has no obvious strong connection with the other readings. A possible link with the Old Testament reading is, 'you have anointed my head with oil'. Or the psalm could perhaps be related to the blind man's experience of being led by Jesus.
+* **John 9.1-41** is about the blind man receiving sight, and includes, 'I am the light of the world'. The Pharisees are 'blind' in that they cannot see who Jesus is. **1 Samuel 16.1-13** is about recognising the Lord's anointed (David). **Ephesians 5.8-14** is about light and darkness.
 
 ## Mothering Sunday
 
