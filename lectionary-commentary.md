@@ -6,6 +6,10 @@ This is a commentary on the _lectionary_, not a commentary on the _passages_. Th
 
 Simply search below for the relevant day, e.g., 'Advent 1', 'Proper 21', 'Bartholomew'.
 
+Most of the comments below are 'reverse engineered' using the lectionary and a fair bit of guesswork, so they should not be taken as authoritative.
+
+Any feedback? Please [contact](/contact/) me!
+
 **_Work in progress!_**
 
 * Year A: complete from Advent 1 to Lent 1
@@ -32,8 +36,6 @@ Simply search below for the relevant day, e.g., 'Advent 1', 'Proper 21', 'Bartho
 Note that there is often no 'theme' tying the readings together. (Many people persist in looking for one, even decades after the ASB.) Where readings are closely related, they are grouped together below. In many cases, however, a particular reading will not be related to other readings on the same day, but it will turn out to be part of a series on a particular book of the Bible running over several weeks. This principle of continuous (or semicontinuous) reading of Scripture is one of the key principles behind the lectionary.
 
 **Common Worship** was introduced in the Church of England in 2000. It includes a [Lectionary for Sundays, Principal Feasts and Holy Days, and Festivals](https://www.churchofengland.org/prayer-and-worship/worship-texts-and-resources/common-worship/churchs-year/lectionary), which provides a lectionary for three services on each of those days: Principal Service, Second Service, and Third Service (along with 'Evening Prayer on the Eve' for some occasions). This page covers the **Principal Service Lectionary**, which is drawn (with modifications) from the ecumenical **Revised Common Lectionary (RCL)**.
-
-Most of the comments below are 'reverse engineered' using the lectionary and a fair bit of guesswork, so they should not be taken as authoritative.
 
 ## The Bible and the lectionary
 
