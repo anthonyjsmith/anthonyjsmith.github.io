@@ -500,9 +500,9 @@ Year A
 
 # Lent {#lent}
 
-In terms of the Gospel readings for Lent 1-5, there is some structure to the readings, with all years building towards a climax in John 11 or 12. After looking in the respective Gospel at Jesus' temptation in the wilderness in Lent 1,
+In terms of the Gospel readings for Lent 1-5, there is some structure to the readings, with all years building towards a climax in John 11 or 12. In Lent 1, the respective Gospel reading narrates Jesus' temptation in the wilderness. The readings from Lent 2-5 have the following themes:
 
-* Year A is about encounters with Jesus in John's Gospel,
+* Year A is about encounters with Jesus in John's Gospel. This could be related to Lent's origins as a period of preparation for baptism. After John 3 in Lent 2, with its baptismal overtones, the remaining readings cover 'the three classic passages from John's Gospel used from the earliest times for the instruction of candidates for baptism: the Samaritan woman at the well (John 4), the healing of the man born blind (John 9), and the raising of Lazarus (John 11)'.[^Lent]
 * Year B looks towards Jesus' death and resurrection (one week in Mark, followed by three weeks in John), and
 * Year C, mostly in Luke, is less clearly structured, and is about Jesus setting out for Jerusalem (Lent 2), then about repentance (Lent 3) and Jesus welcoming sinners (Lent 4), before finishing in John with Jesus being anointed at Bethany.
 
@@ -1407,6 +1407,8 @@ Year C
 * **John 6.25-35** says (after the feeding of the 5000), 'Do not work for the food that perishes, but for the food that endures for eternal life'.
 
 # Notes {#notes}
+
+[^Lent]: Jeremy Haselock, 'Lent', in David Kennedy with Jeremy Haselock, _Using Common Worship: Times and Seasons, Part 2 (Lent to Embertide)_ (London: Church House Publishing, 2008), p. 17.
 
 [^Andrew]: 'Andrew, St', in _The Oxford Dictionary of the Christian Church_, ed. by F. L. Cross and E. A. Livingstone, 3rd ed. (Oxford: Oxford University Press, 1997), p. 60.
 
