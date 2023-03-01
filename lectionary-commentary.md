@@ -166,7 +166,7 @@ Details of omitted passages will included further below, but it is worth noting 
 
 **John**
 
-Every year is a 'John year', at least from Christmas to Pentecost (or Trinity), during which the Gospel reading is very often taken from John. Most of John is covered, with the biggest omissions in chapters 7, 8 and 16. The only readings from John in Ordinary Time are from chapter 6 in Year B (Proper 12 to 16). Each year includes readings taken from the following chapters (more or less):
+Every year is a 'John year', at least from Christmas to Pentecost (or Trinity), during which the Gospel reading is very often taken from John. Most (73%) of John is covered, with the biggest omissions in chapters 7, 8 and 16. The only readings from John in Ordinary Time are from chapter 6 in Year B (Proper 12 to 16). Each year includes readings taken from the following chapters (more or less):
 
 * Christmas and Epiphany: chapters 1 and 2
 * Ash Wednesday: chapter 8 (one alternative)
@@ -188,6 +188,7 @@ In detail:
 * John 1.29-42: Epiphany 2, Year A.
 * John 1.43-51: Epiphany 2, Year B (1.47-51: Michael and All Angels).
 * John 2.1-11: Epiphany 2, Year C; Epiphany 3, Year B; Epiphany 4, Year A.
+* John 2.12: omitted.
 * John 2.13-22: Lent 3, Year B; Dedication Festival, Year C.
 * John 2.23-25: omitted.
 * John 3.1-17: Lent 2, Year A; Trinity, Year B (3.13-17: Holy Cross).
@@ -231,6 +232,7 @@ In detail:
 * John 13.18-20: omitted.
 * John 13.21-32: Wednesday of Holy Week, Years A, B and C.
 * John 13.31-35: Easter 5, Year C.
+* Jonn 13.36-38: omitted.
 * John 14.1-14: Easter 5, Year A; Philip and James.
 * John 14.8-17 [25-27]: Pentecost, Year C.
 * John 14.15-21: Easter 6, Year A.
