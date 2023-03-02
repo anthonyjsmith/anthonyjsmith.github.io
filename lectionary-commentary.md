@@ -12,7 +12,7 @@ Any feedback? Please [contact](/contact/) me!
 
 **_Work in progress!_**
 
-* Year A: complete from Advent 1 to Lent 1
+* Year A: complete from Advent 1 to Lent 5
 * Year B: hardly begun
 * Year C: complete from Easter Day onwards
 * Festivals: complete for January, and from September to December
