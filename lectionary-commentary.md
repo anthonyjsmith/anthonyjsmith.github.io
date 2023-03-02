@@ -495,7 +495,7 @@ Year A
 
 In terms of the Gospel readings for Lent 1-5, there is some structure to the readings, with all years building towards a climax in John 11 or 12. In Lent 1, the respective Gospel reading narrates Jesus' temptation in the wilderness. The readings from Lent 2-5 have the following themes:
 
-* Year A is about encounters with Jesus in John's Gospel. This could be related to Lent's origins as a period of preparation for baptism. After John 3 in Lent 2, with its baptismal overtones, the remaining readings cover 'the three classic passages from John's Gospel used from the earliest times for the instruction of candidates for baptism: the Samaritan woman at the well (John 4), the healing of the man born blind (John 9), and the raising of Lazarus (John 11)'.[^Lent]
+* Year A is about encounters with Jesus in John's Gospel. This could be related to Lent's origins as a period of preparation for baptism. After John 3 in Lent 2, with its baptismal overtones, the remaining readings cover 'the three classic passages from John's Gospel used from the earliest times for the instruction of candidates for baptism: the Samaritan woman at the well (John 4), the healing of the man born blind (John 9), and the raising of Lazarus (John 11)'.[^Lent] John 4 is about 'living water', John 9 is about a blind man who washed in water and gained his sight, and John 11 is about dying and rising again, so the relevance for baptism is clear.
 * Year B looks towards Jesus' death and resurrection (one week in Mark, followed by three weeks in John), and
 * Year C, mostly in Luke, is less clearly structured, and is about Jesus setting out for Jerusalem (Lent 2), then about repentance (Lent 3) and Jesus welcoming sinners (Lent 4), before finishing in John with Jesus being anointed at Bethany.
 
@@ -524,13 +524,13 @@ The Old Testament reading each year is about God's promise to Abram.
 Year A
 
 * **Genesis 12.1-4a** is about God's call and promise to Abram, and the beginning of Abram's journey. **Psalm 121** gives assurance of God's protection on the journey. **Romans 4.1-5, 13-17** is about Abraham's faith in God's promise.
-* **John 3.1-17** is about Nicodemus's encounter with Jesus.
+* **John 3.1-17** is about Nicodemus's encounter with Jesus, with its discussion of being born 'of water and Spirit' (providing a link with baptism).
 
 ## Lent 3
 
 Year A
 
-* **John 4.5-42** is about the Samaritan woman's encounter with Jesus, and is about living water, and worshipping the Father 'in spirit and in truth'. **Exodus 17.1-7** is about Moses bringing water from the rock, in response to the people testing God at Massah and Meribah. **Psalm 95** recalls the time when the people tested God at Massah and Meribah. **Romans 5.1-11** says that 'God's love has been poured into our hearts through the Holy Spirit'.
+* **John 4.5-42** is about the Samaritan woman's encounter with Jesus, and is about living water (providing a link with baptism), and worshipping the Father 'in spirit and in truth'. **Exodus 17.1-7** is about Moses bringing water from the rock, in response to the people testing God at Massah and Meribah. **Psalm 95** recalls the time when the people tested God at Massah and Meribah. **Romans 5.1-11** says that 'God's love has been poured into our hearts through the Holy Spirit'.
 
 ## Lent 4
 
@@ -538,8 +538,8 @@ May be 'displaced' by Mothering Sunday.
 
 Year A
 
-* **Psalm 23** has no obvious strong connection with the other readings. A possible link with the Old Testament reading is, 'you have anointed my head with oil'. Or the psalm could perhaps be related to the blind man's experience of being led by Jesus. Or it could reflect the journey motif of Lent.
-* **John 9.1-41** is about the blind man receiving sight, and includes, 'I am the light of the world'. The Pharisees are 'blind' in that they cannot see who Jesus is. **1 Samuel 16.1-13** is about recognising the Lord's anointed (David). **Ephesians 5.8-14** is about light and darkness.
+* **Psalm 23** has no obvious strong connection with the other readings. A possible link with the Old Testament reading is, 'you have anointed my head with oil'. Or the psalm could perhaps be related to the blind man's experience of being led (to water) by Jesus. Or it could reflect the journey motif of Lent.
+* **John 9.1-41** is about the blind man receiving sight, by washing in water (providing a link with baptism), and includes, 'I am the light of the world'. The Pharisees are 'blind' in that they cannot see who Jesus is. **1 Samuel 16.1-13** is about recognising the Lord's anointed (David). **Ephesians 5.8-14** is about light and darkness.
 
 ## Mothering Sunday
 
@@ -560,7 +560,7 @@ Year A, B and C
 
 Year A
 
-* **John 11.1-45** is the raising of Lazarus, which looks ahead to Jesus' death and resurrection. **Ezekiel 37.1-14** is about God's breath (spirit) bringing dry bones to life. **Psalm 130** is about waiting for redemption: 'Out of the depths have I cried to you, O Lord'. **Romans 8.6-11** is about God giving life to mortal bodies through his Spirit.
+* **John 11.1-45** is the raising of Lazarus, which looks ahead to Jesus' death and resurrection (and is related to baptism). **Ezekiel 37.1-14** is about God's breath (spirit) bringing dry bones to life. **Psalm 130** is about waiting for redemption: 'Out of the depths have I cried to you, O Lord'. **Romans 8.6-11** is about God giving life to mortal bodies through his Spirit.
 
 ## Palm Sunday
 
