@@ -29,6 +29,7 @@ Any feedback? Please [contact](/contact/) me!
 * [Easter](#easter)
 * [Ordinary Time](#ordinary-time-2)
 * [Festivals](#festivals)
+* [Further reading](#further-reading)
 * [Notes](#notes)
 
 # Introduction {#introduction}
@@ -116,16 +117,6 @@ Those who prefer the readings to cohere can have their wishes partially satisfie
 Psalm references are to the Common Worship psalter. Where the versification is different in standard English versions of the Bible, this is indicated by 'EV'. Quotations are drawn from the Common Worship psalter or the NRSV.
 
 Depending on the day of the week for Christmas and Epiphany, and the date of Easter, lectionary provision for days marked with * might not be used in any given year. Other days might also be displaced for various reasons.
-
-## Further reading
-
-Web resources
-
-* Consultation on Common Texts (CCT), founded in the 1960s
-  * [The Revised Common Lectionary](http://www.commontexts.org/rcl/) (RCL)
-  * [Introduction to the Revised Common Lectionary](http://www.commontexts.org/wp-content/uploads/2015/11/RCL_Introduction_Web.pdf) (1992)
-* [Simon Sarmiento](http://justus.anglican.org/~ss/)
-  * [Common Worship Changes to Revised Common Lectionary](http://justus.anglican.org/~ss/rcldifferences.html)
 
 # Gospels {#gospels}
 
@@ -1407,6 +1398,21 @@ Year C
 * **Philippians 4.4-9** calls for 'prayer and supplication with thanksgiving'.
 * Alternatively, **Revelation 14.14-18** is about 'one like the Son of Man' reaping the harvest of the earth.
 * **John 6.25-35** says (after the feeding of the 5000), 'Do not work for the food that perishes, but for the food that endures for eternal life'.
+
+# Further reading {#further-reading}
+
+Print resources
+
+* Paul Bradshaw, ed., _A Companion to Common Worship_, Volume 1 (London: SPCK, 2001)
+  * Gordon Giles, 'The Sunday Lectionary'
+
+Web resources
+
+* Consultation on Common Texts (CCT), founded in the 1960s
+  * [The Revised Common Lectionary](http://www.commontexts.org/rcl/) (RCL)
+  * [Introduction to the Revised Common Lectionary](http://www.commontexts.org/wp-content/uploads/2015/11/RCL_Introduction_Web.pdf) (1992)
+* [Simon Sarmiento](http://justus.anglican.org/~ss/)
+  * [Common Worship Changes to Revised Common Lectionary](http://justus.anglican.org/~ss/rcldifferences.html)
 
 # Notes {#notes}
 
