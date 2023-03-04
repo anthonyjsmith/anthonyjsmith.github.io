@@ -15,7 +15,7 @@ Any feedback? Please [contact](/contact/) me!
 * Year A: complete from Advent 1 to Palm Sunday
 * Year B: hardly begun
 * Year C: complete from Easter Day onwards
-* Festivals: complete for January, and from September to December
+* Festivals: complete for January to March, and from September to December
 
 # Contents
 
@@ -1238,11 +1238,21 @@ According to rule 6 at the top of the [lectionary](https://www.churchofengland.o
 
 > When St Joseph’s Day falls between Palm Sunday and the Second Sunday of Easter inclusive, it is transferred to the Monday after the Second Sunday of Easter or, if the Annunciation has already been moved to that date, to the first available day thereafter.
 
+* **2 Samuel 7.4-16** is God's message to David, saying of David's son, 'I will be a father to him, and he shall be a son to me.'
+* **Psalm 89.26-36** has God saying of David, 'He shall call to me, "You are my Father,"' and 'His seed shall endure for ever'.
+* **Romans 4.13-18** moves (apparently) from the idea of Jesus being treated as Joseph's son, to the idea of believers being treated as descendants of Abraham.
+* **Matthew 1.18-25** is about Joseph, who 'took [Mary] as his wife', and 'named [her son] Jesus'.
+
 ## The Annunciation of Our Lord to the Blessed Virgin Mary (25 March)
 
 This is a Principal Feast, but it comes across as somewhat unwanted, as it is never celebrated on a Sunday. 25 March always fall during Lent, or very occasionally on or just after Easter Day. According to the [Rules],
 
 > the Annunciation, falling on a Sunday, is transferred to the Monday following or, falling between Palm Sunday and the Second Sunday of Easter inclusive, is transferred to the Monday after the Second Sunday of Easter.
+
+* **Isaiah 7.10-14** says, 'Look, the young woman [Gk _the virgin_] is with child and shall bear a son, and shall name him Immanuel.'
+* **Psalm 40.5-11** (EV: 5-10) reflects Mary's response: 'In the scroll of the book it is written of me that I should do your will, O my God; I delight to do it: your law is within my heart.'
+* **Hebrews 10.4-10** quotes Psalm 40 in relation to Jesus: 'Then I said, "See, God, I have come to do your will, O God" (in the scroll of the book it is written of me).'
+* **Luke 1.26-38** is about the visit of Gabriel to Mary: 'you will conceive in your womb and bear a son', concluding with Mary saying, 'Here am I, the servant of the Lord; let it be with me according to your word.'
 
 ## George, Martyr, Patron of England (23 April)
 
