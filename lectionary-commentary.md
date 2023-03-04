@@ -12,7 +12,7 @@ Any feedback? Please [contact](/contact/) me!
 
 **_Work in progress!_**
 
-* Year A: complete from Advent 1 to Lent 5
+* Year A: complete from Advent 1 to Palm Sunday
 * Year B: hardly begun
 * Year C: complete from Easter Day onwards
 * Festivals: complete for January, and from September to December
@@ -214,7 +214,7 @@ In detail:
 * John 11.46-57: omitted.
 * John 12.1-8: Lent 5, Year C.
 * John 12.1-11: Monday of Holy Week, Years A, B and C.
-* John 12.12-16: Palm Sunday, Year B.
+* John 12.12-16: Palm Sunday, Year B (Liturgy of the Palms, second alternative).
 * John 12.17-19: omitted
 * John 12.20-33: Lent 5, Year B.
 * John 12.20-36: Tuesday of Holy Week, Years A, B and C.
@@ -562,6 +562,49 @@ Year A
 * **John 11.1-45** concludes the baptism-related series in John, and is about the dying and rising of Lazarus, which is related to baptism, and also looks ahead to Jesus' death and resurrection. **Ezekiel 37.1-14** is about God's breath (spirit) bringing dry bones to life. **Psalm 130** is about waiting for redemption: 'Out of the depths have I cried to you, O Lord'. **Romans 8.6-11** is about God giving life to mortal bodies through his Spirit.
 
 ## Palm Sunday
+
+The lectionary assumes a 'Liturgy of the Palms' and a 'Liturgy of the Passion', each with its own reading from the Gospels and the Psalms (as in [_Times and Seasons_](https://www.churchofengland.org/prayer-and-worship/worship-texts-and-resources/common-worship/churchs-year/times-and-seasons-2#mmm151)). But this is not mandatory, and it is not clear what should be done if there is no 'Liturgy of the Palms'. Presumably that part could simply be omitted. But the [RCL](http://www.commontexts.org/rcl/download/) describes an alternative: 'Those who do not observe the procession with palms and do not wish to use the passion gospel may substitute the gospel and psalm given for the Liturgy of the Passion with the gospel and psalm indicated for the Liturgy of the Palms. Whenever possible, the whole passion narrative should be read.'
+
+**Liturgy of the Palms**
+
+Year A
+
+* **Matthew 21.1-11** is Matthew's account of Jesus' entry into Jerusalem (branches are mentioned, but no palms specifically).
+* **Psalm 118.1-2, 19-29** is about entering (the city) with joy, and says, 'Blessed is he who comes in the name of the Lord', which is echoed in all four Gospel accounts ('hosanna' comes from 'save' in the previous verse).
+
+Year B
+
+* **Mark 11.1-11** is Mark's account of Jesus' entry into Jerusalem (branches are mentioned, but no palms specifically).
+* Alternatively, **John 12.12-16**  is John's account of Jesus' entry into Jerusalem (and the only account to mention palm branches).
+* **Psalm 118.1-2, 19-24** omits the verse about 'Blessed is he...' (see Year A), presumably for brevity, and therefore focuses on entering (the city) with joy.
+
+Year C
+
+* **Luke 19.28-40** is Luke's account of Jesus' entry into Jerusalem (no palms or branches are mentioned).
+* **Psalm 118.1-2, 19-29**: see Year A.
+
+**Liturgy of the Passion**
+
+The readings are the same for Years A, B and C, except for the Gospel reading.
+
+* **Isaiah 50.4-9a** says, 'I gave my back to those who struck me ... I did not hide my face from insult and spitting'.
+* **Psalm 31.9-16** is a cry to God for help from one who has 'become a reproach to all my enemies'.
+* **Philippians 2.5-11** is about Christ, who 'humbled himself and became obedient to the point of death &ndash; even death on a cross'.
+
+Year A
+
+* **Matthew 26.14 &ndash; 27.66** recounts Jesus' last supper, betrayal, trial, death and burial (omitting the anointing in Bethany).
+* Alternatively, **Matthew 27.11-54** begins with Jesus' trial before Pilate and ends with the immediate aftermath of Jesus' death.
+
+Year B
+
+* **Mark 14.1 &ndash; 15.47** recounts Jesus' anointing, last supper, betrayal, trial, death and burial.
+* Alternatively, **Mark 15.1-39 [40-47]** begins with Jesus' trial before Pilate and ends with the immediate aftermath of Jesus' death [and his burial].
+
+Year C
+
+* **Luke 22.14 &ndash; 23.56** recounts Jesus' last supper, betrayal, trial, death and burial (omitting the preparations for the last supper).
+* Alternatively, **Luke 23.1-49** begins with Jesus' trial before Pilate and ends soon after Jesus' death.
 
 ## Monday of Holy Week
 
