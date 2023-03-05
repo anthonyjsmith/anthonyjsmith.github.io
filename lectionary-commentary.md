@@ -519,7 +519,7 @@ Year A
 
 ## Lent 2
 
-The Old Testament reading each year is about God's promise to Abram (why?).
+The Old Testament reading each year is about God's promise to Abram. In the light of the fall (see last week), this could be intended as a reminder of God's gracious response to human sin.
 
 Year A
 
