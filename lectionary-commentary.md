@@ -530,7 +530,7 @@ Year A
 
 Year A
 
-* **John 4.5-42** continues the baptism-related series in John, and is about the Samaritan woman's encounter with Jesus, including a discussion about 'living water', and about worshipping the Father 'in spirit and in truth'. **Exodus 17.1-7** is about Moses bringing water from the rock, in response to the people testing God at Massah and Meribah. **Psalm 95** recalls the time when the people tested God at Massah and Meribah. **Romans 5.1-11** says that 'God's love has been poured into our hearts through the Holy Spirit'.
+* **John 4.5-42** continues the baptism-related series in John, and is about the Samaritan woman's encounter with Jesus, including a discussion about 'living water' (i.e., the Spirit, 7.39), and about worshipping the Father 'in spirit and in truth'. **Exodus 17.1-7** is about Moses bringing water from the rock, in response to the people testing God at Massah and Meribah. **Psalm 95** recalls the time when the people tested God at Massah and Meribah. **Romans 5.1-11** says that 'God's love has been poured into our hearts through the Holy Spirit'.
 
 ## Lent 4
 
