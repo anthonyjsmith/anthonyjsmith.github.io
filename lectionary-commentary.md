@@ -12,7 +12,7 @@ Any feedback? Please [contact](/contact/) me!
 
 **_Work in progress!_**
 
-* Year A: complete from Advent 1 to Palm Sunday
+* Year A: complete from Advent 1 to Easter Eve
 * Year B: hardly begun
 * Year C: complete from Easter Day onwards
 * Festivals: complete for January to March, and from September to December
@@ -267,7 +267,7 @@ The Gospel readings all introduce John the Baptist.
 
 Year A
 
-* **Matthew 3.1-12** introduces John the Baptist baptizing with water for repentance and pointing towards one who will baptize with the Holy Spirit. **Isaiah 11.1-10** continues in Isaiah, and speaks one who will come with the 'spirit of the Lord' and bring peace. **Psalm 72.1-7, 18-19** speaks of the 'king' bringing 'justice' and 'peace'. **Romans 15.4-13** quotes Isaiah 11.10 and speaks of hope.
+* **Matthew 3.1-12** introduces John the Baptist baptizing with water for repentance and pointing towards one who will baptize with the Holy Spirit. **Isaiah 11.1-10** continues in Isaiah, and speaks one who will come with the 'spirit of the Lord' and bring peace. **Psalm 72.1-7, 18-19** [or 72.1-7] speaks of the 'king' bringing 'justice' and 'peace'. **Romans 15.4-13** quotes Isaiah 11.10 and speaks of hope.
 
 ## Advent 3
 
@@ -283,7 +283,7 @@ The Gospel readings all look towards Jesus' birth to Mary.
 
 Year A
 
-* **Matthew 1.18-25** leads up to the birth of Jesus to Mary, fulfilling Isaiah's prophecy about 'Emmanuel'. **Isaiah 7.10-16** continues in Isaiah, and looks ahead to a young woman bearing a son and calling him Immanuel. **Psalm 80.1-8, 18-20 (EV: 1-7, 17-19)** calls on God to 'come to our salvation' and 'show the light of your countenance', and speaks of 'the man at your right hand, the son of man you made so strong for yourself'. **Romans 1.1-7** says that Jesus 'was descended from David according to the flesh'.
+* **Matthew 1.18-25** leads up to the birth of Jesus to Mary, fulfilling Isaiah's prophecy about 'Emmanuel'. **Isaiah 7.10-16** continues in Isaiah, and looks ahead to a young woman bearing a son and calling him Immanuel. **Psalm 80.1-8, 18-20** (EV: 1-7, 17-19) [or 80.1-8 (EV: 1-7)] calls on God to 'come to our salvation' and 'show the light of your countenance', and speaks of 'the man at your right hand, the son of man you made so strong for yourself'. **Romans 1.1-7** says that Jesus 'was descended from David according to the flesh'.
 
 # Christmas {#christmas}
 
@@ -314,7 +314,7 @@ Set III (emphasis on Jesus' divinity)
 
 Year A
 
-* **Matthew 2.13-23** is part of the infancy narrative in Matthew, and describes Jesus being taken to Egypt to flee from Herod and then returning from Egypt. It therefore glimpses the suffering and exaltation of Jesus, which is reflected in the other readings. **Isaiah 63.7-9** continues in Isaiah, and says that the Lord 'became their saviour' and has 'lifted them up'.  **Psalm 148** calls on the whole earth to praise the Lord, because he has 'raised up the horn of his people'. **Hebrews 2.10-18** is about God 'bringing many children to glory' through the incarnation and suffering of Jesus.
+* **Matthew 2.13-23** is part of the infancy narrative in Matthew, and describes Jesus being taken to Egypt to flee from Herod and then returning from Egypt. It therefore glimpses the suffering and exaltation of Jesus, which is reflected in the other readings. **Isaiah 63.7-9** continues in Isaiah, and says that the Lord 'became their saviour' and has 'lifted them up'.  **Psalm 148** [or 148.7-14] calls on the whole earth to praise the Lord, because he has 'raised up the horn of his people'. **Hebrews 2.10-18** is about God 'bringing many children to glory' through the incarnation and suffering of Jesus.
 
 ## Christmas 2*
 
@@ -367,7 +367,7 @@ In the RCL, it makes sense to see this Sunday as marking the beginning of the se
 Year A
 
 * **1 Corinthians 1.10-18** continues the series in 1 Corinthians 1-3 (without a gap), and is about divisions in the church.
-* **Matthew 4.12-23** is the beginning of Jesus' ministry, in 'Galilee of the Gentiles'. (Matthew 4.18-22 is also set for Andrew.) **Isaiah 9.1-4** continues in Isaiah, and is quoted in the Gospel reading, including: 'The people ... in darkness have seen a great light'. **Psalm 27.1, 4-12** (EV: 1, 4-9) says, 'The Lord is my light and my salvation'.
+* **Matthew 4.12-23** is the beginning of Jesus' ministry, in 'Galilee of the Gentiles'. (Matthew 4.18-22 is also set for Andrew.) **Isaiah 9.1-4** continues in Isaiah, and is quoted in the Gospel reading, including: 'The people ... in darkness have seen a great light'. **Psalm 27.1, 4-12** (EV: 1, 4-9) [or 27.1-11 (EV: 1-9a)] says, 'The Lord is my light and my salvation'.
   * Matthew 5.1-12: set for All Saints' Day (NB: RCL Epiphany 4).
 
 Year B
@@ -389,7 +389,7 @@ Year A
 
 RCL has Matthew 5.1-12 as the Gospel reading, with related readings from Micah 6.1-8 and Psalm 15. Note that Matthew 5.1-12 is the Gospel reading for All Saints' Day. Micah 6.1-8, however, is not included elsewhere.
 
-* **1 Corinthians 1.18-31** continues the series in 1 Corinthians 1-3 (overlapping by one verse), and is about 'the message of the cross' and 'Christ the power of God and the wisdom of God'.
+* **1 Corinthians 1.18-31** continues the series in 1 Corinthians 1-3 (overlapping by one verse), and is about 'the message of the cross' and 'Christ the power of God and the wisdom of God'. (Also set for Tuesday of Holy Week.)
 * **John 2.1-11** is the account of Jesus turning water into wine, by which he 'revealed his glory' (an Epiphany theme). (This account features in Years A, B and C, each time on a different Sunday of Epiphany.) **1 Kings 17.8-16** is about Elijah's provision of meal and oil to a widow who was running out. **Psalm 36.5-10** is about God's provision: 'They shall be satisfied with the abundance of your house; they shall drink from the river of your delights. For with you is the well of life'.
 
 Year C
@@ -459,7 +459,7 @@ Year A
 Year C
 
 * **1 Corinthians 15.35-38, 42-50** concludes the series in 1 Corinthians 15, with extracts from the section on the resurrection body. (15.51-58 is the reading for the following week in the RCL.)
-* **Luke 6.27-38** continues the series in Luke (without a gap), and focuses on loving one's enemies. (6.39-49 is the reading for the following week in the RCL, which is omitted in Common Worship: see discussion below. To fill in the gap, this week's reading could be extended to 6.42 'when opportunity allows'.) **Genesis 45.3-11, 15** is about Joseph's love for his brothers, who had behaved like his enemies. **Psalm 37.1-11, 40, 41** (EV: 1-11, 39, 40) calls us not to fret about evildoers.
+* **Luke 6.27-38** continues the series in Luke (without a gap), and focuses on loving one's enemies. (6.39-49 is the reading for the following week in the RCL, which is omitted in Common Worship: see discussion below. To fill in the gap, this week's reading could be extended to 6.42 'when opportunity allows'.) **Genesis 45.3-11, 15** is about Joseph's love for his brothers, who had behaved like his enemies. **Psalm 37.1-11, 40, 41** (EV: 1-11, 39, 40) [or 37.1-7] calls us not to fret about evildoers.
 
 ## 2 before Lent
 
@@ -570,25 +570,25 @@ The lectionary assumes a 'Liturgy of the Palms' and a 'Liturgy of the Passion', 
 Year A
 
 * **Matthew 21.1-11** is Matthew's account of Jesus' entry into Jerusalem (branches are mentioned, but no palms specifically).
-* **Psalm 118.1-2, 19-29** is about entering (the city) with joy, and says, 'Blessed is he who comes in the name of the Lord', which is echoed in all four Gospel accounts ('hosanna' comes from 'save' in the previous verse).
+* **Psalm 118.1-2, 19-29** [or 118.19-24] is about entering (the city) with joy, and says, 'Blessed is he who comes in the name of the Lord', which is echoed in all four Gospel accounts ('hosanna' comes from 'save' in the previous verse).
 
 Year B
 
 * **Mark 11.1-11** is Mark's account of Jesus' entry into Jerusalem (branches are mentioned, but no palms specifically).
 * Alternatively, **John 12.12-16**  is John's account of Jesus' entry into Jerusalem (and the only account to mention palm branches).
-* **Psalm 118.1-2, 19-24** omits the verse about 'Blessed is he...' (see Year A), presumably for brevity, and therefore focuses on entering (the city) with joy.
+* **Psalm 118.1-2, 19-24** [or 118.19-24] omits the verse about 'Blessed is he...' (see Year A), presumably for brevity, and therefore focuses on entering (the city) with joy.
 
 Year C
 
 * **Luke 19.28-40** is Luke's account of Jesus' entry into Jerusalem (no palms or branches are mentioned).
-* **Psalm 118.1-2, 19-29**: see Year A.
+* **Psalm 118.1-2, 19-29** [or 118.19-24]: see Year A.
 
 **Liturgy of the Passion**
 
 The readings are the same for Years A, B and C, except for the Gospel reading.
 
 * **Isaiah 50.4-9a** says, 'I gave my back to those who struck me ... I did not hide my face from insult and spitting'.
-* **Psalm 31.9-16** is a cry to God for help from one who has 'become a reproach to all my enemies'.
+* **Psalm 31.9-16** [or 31.9-18] is a cry to God for help from one who has 'become a reproach to all my enemies'.
 * **Philippians 2.5-11** is about Christ, who 'humbled himself and became obedient to the point of death &ndash; even death on a cross'.
 
 Year A
@@ -608,19 +608,61 @@ Year C
 
 ## Monday of Holy Week
 
+Years A, B and C
+
+* **Isaiah 42.1-9** is the first of the four 'servant songs', and speaks of 'justice' and 'righteousness'. **Psalm 36.5-11** says, 'Your righteousness stands like the strong mountains, your justice like the great deep'.
+* **Hebrews 9.11-15** speaks of the purifying blood of Christ.
+* **John 12.1-11** is about Mary anointing Jesus for his burial, and the plot to kill Lazarus.
+
 ## Tuesday of Holy Week
+
+Years A, B and C
+
+* **Isaiah 49.1-7** is the second of the four 'servant songs', and says, 'The Lord called me before I was born'. **Psalm 71.1-14** [or 71.1-8] says, 'Upon you have I leaned from my birth, when you drew me from my mother’s womb'.
+* **1 Corinthians 1.18-31** is about 'the message of the cross'.
+* **John 12.20-36** is about Jesus being glorified in his death.
 
 ## Wednesday of Holy Week
 
+Years A, B and C
+
+* **Isaiah 50.4-9a**  is the third of the four 'servant songs', and says, 'The Lord God helps me'. **Psalm 70** says, 'O Lord, make haste to help me', and 'You are my help and my deliverer'.
+* **Hebrews 12.1-3** speaks of Jesus, 'who for the sake of the joy that was set before him endured the cross, disregarding its shame'.
+* **John 13.21-32** has Jesus saying, 'one of you will betray me', and Judas going out.
+
 ## Maundy Thursday
+
+Years A, B and C
+
+* **Exodus 12.1-4 [5-10], 11-14** is the institution of the Passover.
+* **Psalm 116.1, 10-17** (EV: 1-2, 12-19) [or 116.9-17 (EV: 116.10-19)] says, 'I will lift up the cup of salvation'.
+* **1 Corinthians 11.23-26** is the institution of the Lord's Supper.
+* **John 13.1-17, 31b-35** is the account of Jesus washing his disciples' feet 'during supper', and Jesus' command: 'Just as I have loved you, you also should love one another.'
 
 ## Good Friday
 
+Years A, B and C
+
+* **Isaiah 52.13 &ndash; 53.12** is the fourth of the four 'servant songs'.
+* **Psalm 22** [or 22.1-11, or 22.1-21] is quoted by Jesus on the cross: 'My God, my God, why have you forsaken me'.
+* **Hebrews 10.16-25** is an exhoration, 'since we have confidence to enter the sanctuary by the blood of Jesus'.
+* Alternatively, **Hebrews 4.14-16; 5.7-9** says that Jesus has 'suffered' and 'passed through the heavens', and that we should 'therefore approach the throne of grace with boldness'.
+* **John 18.1 &ndash; 19.42** recounts Jesus' betrayal, trial, death and burial.
+
 ## Easter Eve
+
+Years A, B and C
+
+* **Job 14.1-14** asks, 'If mortals die, will they live again?'
+* Alternatively, **Lamentations 3.1-9, 19-24** says of God that 'he has made me sit in darkness like the dead of long ago', but expresses hope because 'The steadfast love of the Lord never ceases'.
+* **Psalm 31.1-4, 15, 16** [or 31.1-5] calls to the Lord for deliverance.
+* **1 Peter 4.1-8** says, 'whoever has suffered in the flesh has finished with sin', and that 'the gospel was proclaimed even to the dead'.
+* **Matthew 27.57-66** narrates the burial of Jesus, and the guard being placed at the tomb.
+* Alternatively, **John 19.38-42** narrates the burial of Jesus.
 
 # Easter {#easter}
 
-A reading from Acts is included at every service between Easter Day and Pentecost.
+A reading from Acts is included at every service between Easter Day and Pentecost, and it 'must be used as either the first or second reading'.
 
 Gospel readings between Easter Day and Pentecost are exclusively from John's Gospel (continuing to Trinity Sunday in Years B and C), except on Easter 3 in Years A and B, on Ascension Day, and except for the alternative readings for Easter Day (which duplicate those for the Easter Vigil). Furthermore, on Easter 5, 6 and 7 (and on Pentecost in Years B and C, and Trinity in Year C), the readings are from the 'farewell discourse' (John 13-17).
 
@@ -653,28 +695,25 @@ Year C
 
 ## Easter Day
 
+The readings are the same for Years A, B and C, except for the alternative first reading, the epistle, and the alternative Gospel reading.
+
+* **Acts 10.34-43** begins a (vaguely sequential) series in Acts, and features Peter telling Cornelius about Jesus' life, death and resurrection.
+* **Psalm 118.1-2, 14-24** [or 118.14-24] reflects the theme of resurrection: 'I shall not die, but live ... The stone which the builders rejected has become the chief cornerstone'.
+* **John 20.1-18** begins a series in John, and is John's account of the discovery of the empty tomb, and the appearance of the risen Jesus to Mary Magdalene.
+
 Year A
 
-* **Acts 10.34-43** (Years A, B and C) begins a (vaguely sequential) series in Acts, and features Peter telling Cornelius about Jesus' life, death and resurrection.
-* **Psalm 118.1-2, 14-24** (Years A, B and C) reflects the theme of resurrection: 'I shall not die, but live ... The stone which the builders rejected has become the chief cornerstone'.
-* **John 20.1-18** (Years A, B and C) begins a series in John, and is John's account of the discovery of the empty tomb, and the appearance of the risen Jesus to Mary Magdalene.
-* (For the alternative, **Matthew 28.1-10**, see Easter Vigil.)
+* For the alternative Gospel reading, **Matthew 28.1-10**, see Easter Vigil.
 
 Year B
 
-* **Acts 10.34-43**: see Year A.
-* **Psalm 118.1-2, 14-24**: see Year A.
-* **John 20.1-18**: see Year A.
-* (For the alternative, **Mark 16.1-8**, see Easter Vigil.)
+* For the alternative Gospel reading, **Mark 16.1-8**, see Easter Vigil.
 
 Year C
 
-* **Acts 10.34-43**: see Year A.
-* (The alternative first reading, **Isaiah 65.17-25** reflects the connection between resurrection and new creation.)
-* **Psalm 118.1-2, 14-24**: see Year A.
+* As an alternative first reading, **Isaiah 65.17-25** reflects the connection between resurrection and new creation.
 * **1 Corinthians 15.19-26** is one of the portions of the chapter proclaiming the resurrection of Jesus (see also Year B, and the Year C Sundays in February).
-* **John 20.1-18**: see Year A.
-* (For the alternative, **Luke 24.1-12**, see Easter Vigil.)
+* For the alternative Gospel reading, **Luke 24.1-12**, see Easter Vigil.
 
 ## Easter 2
 
@@ -748,7 +787,7 @@ Year B
 
 Year C
 
-* **Acts 11.1-18** continues the series in Acts, recounting the spread of the gospel to the Gentiles. **Psalm 148** invites 'all peoples' and all creation to 'Praise the Lord'.
+* **Acts 11.1-18** continues the series in Acts, recounting the spread of the gospel to the Gentiles. **Psalm 148** [or 148.1-6] invites 'all peoples' and all creation to 'Praise the Lord'.
 * (For the alternative first reading, **Baruch 3.9-15, 32 &ndash; 4.4**, or **Genesis 22.1-18**, see Easter Vigil.)
 * **Revelation 21.1-6** continues the series in Revelation, featuring the end of death.
 * **John 13.31-35** continues the series in John, and begins a series on the 'farewell discourse', which continues on Sundays until Pentecost. Jesus begins to prepare his disciples for his departure.
@@ -809,7 +848,7 @@ Year C
 Year A
 
 * **Acts 2.1-21** (Years A, B and C) narrates the pouring out of the Spirit at Pentecost.
-* **Psalm 104.26-36, 37b** (Years A, B and C) includes 'When you send forth your spirit, they are created'.
+* **Psalm 104.26-36, 37b** [or 104.26-37] (Years A, B and C) includes 'When you send forth your spirit, they are created'.
 * **John 20.19-23** concludes the series in John ...
 * (The alternative, **John 7.37-39**, ...)
 
@@ -891,7 +930,7 @@ Year C
 
 Year C
 
-* **1 Kings 19.1-4 [5-7] 8-15a** continues the series on the prophets and in 1 and 2 Kings (out of sequence, for some reason), with Elijah fleeing to Horeb. **Psalms 42, 43** reflect Elijah's troubled state and his longing for God.
+* **1 Kings 19.1-4 [5-7] 8-15a** continues the series on the prophets and in 1 and 2 Kings (out of sequence, for some reason), with Elijah fleeing to Horeb. **Psalms 42, 43** [or 42 or 43] reflect Elijah's troubled state and his longing for God.
 * **Galatians 3.23-29** continues the series in Galatians, on being children of God together.
 * **Luke 8.26-39** continues the series in Luke, with Jesus restoring the demon-possessed man. The 'Related' reading, **Isaiah 65.1-9** is about God holding out his hands to those who 'sit inside tombs' and 'eat swine's flesh'. The 'Related' psalm, **Psalm 22.19-28** praises God for his deliverance, and calls the nations to worship.
   * Luke 8.40-56: see Matthew 9.9-13, 18-26 and Mark 5.21-43.
@@ -908,7 +947,7 @@ Year C
 
 Year C
 
-* **2 Kings 2.1-2, 6-14** continues the series on the prophets and in 1 and 2 Kings, and is about Elijah being taken into heaven and the water dividing before Elijah and Elisha. (Perhaps coincidentally, there is a link with Luke 9:51, which speaks of Jesus being 'taken up'.) **Psalm 77.1-2, 11-20** is about the waters seeing God and being afraid.
+* **2 Kings 2.1-2, 6-14** continues the series on the prophets and in 1 and 2 Kings, and is about Elijah being taken into heaven and the water dividing before Elijah and Elisha. (Perhaps coincidentally, there is a link with Luke 9:51, which speaks of Jesus being 'taken up'.) **Psalm 77.1-2, 11-20** [or 77.11-20] is about the waters seeing God and being afraid.
 * **Galatians 5.1, 13-25** continues the series in Galatians, on the acts of the flesh and the fruit of the Spirit.
 * **Luke 9.51-62** continues the series in Luke, with Jesus heading towards Jerusalem and teaching on what it means to follow him. The 'Related' reading, **1 Kings 19.15-16, 19-21** is about Elisha following Elijah. The 'Related' psalm, **Psalm 16** is about following the Lord wholeheartedly.
 
@@ -943,7 +982,7 @@ Year C
 
 Year C
 
-* **Hosea 1.2-10** continues the series on the prophets, and is the first of two weeks in Hosea (moving on chronologically from Amos). Hosea's faithfulness to 'a wife of whoredom' is an image of God's faithfulness to Israel. **Psalm 85** is about God's faithfulness to his people, forgiving their sins.
+* **Hosea 1.2-10** continues the series on the prophets, and is the first of two weeks in Hosea (moving on chronologically from Amos). Hosea's faithfulness to 'a wife of whoredom' is an image of God's faithfulness to Israel. **Psalm 85** [or 85.1-7] is about God's faithfulness to his people, forgiving their sins.
 * **Colossians 2.6-15 [16-19]** continues the series in Colossians, and is about fullness in Christ.
 * **Luke 11.1-13** continues the series in Luke (without a gap), and is about prayer. The 'Related' reading, **Genesis 18.20-32**, is from the same chapter as last week's reading, and is about Abraham interceding for Sodom. The 'Related' psalm, **Psalm 138**, gives thanks for answered prayer, and speaks of God differentiating between the lowly and the proud.
   * Luke 11.14: omitted, along with its parallel in Matthew 12.22-23.
@@ -965,9 +1004,9 @@ Year C
 
 Year C
 
-* **Hosea 11.1-11** continues the series on the prophets, and is the second of two weeks in Hosea. God loves Israel, despite their waywardness. **Psalm 107.1-9, 43** is about God restoring those who have gone astray, because of his steadfast love.
+* **Hosea 11.1-11** continues the series on the prophets, and is the second of two weeks in Hosea. God loves Israel, despite their waywardness. **Psalm 107.1-9, 43** [or 107.1-9] is about God restoring those who have gone astray, because of his steadfast love.
 * **Colossians 3.1-11** concludes the series in Colossians, and is about dying to the old life and rising to the new life in Christ.
-* **Luke 12.13-21** continues the series in Luke, and is about possessions and the importance of being 'rich towards God'. The 'Related' reading, **Ecclesiastes 1.2, 12-14; 2.18-23** is about the futility of toiling in the face of death. The 'Related' psalm, **Psalm 49.1-12**, is a reminder that all will die and 'leave their riches to others'.
+* **Luke 12.13-21** continues the series in Luke, and is about possessions and the importance of being 'rich towards God'. The 'Related' reading, **Ecclesiastes 1.2, 12-14; 2.18-23** is about the futility of toiling in the face of death. The 'Related' psalm, **Psalm 49.1-12** [or 49.1-9], is a reminder that all will die and 'leave their riches to others'.
   * Luke 12.22-30: set for Harvest Thanksgiving Year A. See also Matthew 6.25-34.
   * Luke 12.31: see Matthew 6.25-34.
 
@@ -975,9 +1014,9 @@ Year C
 
 Year C
 
-* **Isaiah 1.1, 10-20** continues the series on the prophets, and is the first of two weeks in Isaiah (moving on chronologically from Hosea). Both readings are quite hard-hitting, which provides a smooth transition into Jeremiah. (Isaiah's call featured in Proper 1.) God has no pleasure in his people's offerings when their hands are 'full of blood'. **Psalm 50.1-8, 23, 24** (EV: 1-8, 22, 23) speaks of God testifying against his people, despite their sacrifices.
+* **Isaiah 1.1, 10-20** continues the series on the prophets, and is the first of two weeks in Isaiah (moving on chronologically from Hosea). Both readings are quite hard-hitting, which provides a smooth transition into Jeremiah. (Isaiah's call featured in Proper 1.) God has no pleasure in his people's offerings when their hands are 'full of blood'. **Psalm 50.1-8, 23, 24** (EV: 1-8, 22, 23) [or 50.1-7]  speaks of God testifying against his people, despite their sacrifices.
 * **Hebrews 11.1-3, 8-16** begins a series in Hebrews 11-13, and is about the faith of Abraham.
-* **Luke 12.32-40** continues the series in Luke, and is about treasure in heaven and the coming of the Son of Man. The choice of verses seems odd, but it captures the seamless transition between 'don't worry' (22-34) and 'be ready' (35-48). (The reading could be extended to verse 48, 'when opportunity allows'.) The 'Related' reading, **Genesis 15.1-6**, is about Abram looking to his reward and trusting God's promise. The 'Related' psalm, **Psalm 33.12-22** is about waiting for God, who is our 'shield' (Genesis 15.1).
+* **Luke 12.32-40** continues the series in Luke, and is about treasure in heaven and the coming of the Son of Man. The choice of verses seems odd, but it captures the seamless transition between 'don't worry' (22-34) and 'be ready' (35-48). (The reading could be extended to verse 48, 'when opportunity allows'.) The 'Related' reading, **Genesis 15.1-6**, is about Abram looking to his reward and trusting God's promise. The 'Related' psalm, **Psalm 33.12-22** [or 33.12-21] is about waiting for God, who is our 'shield' (Genesis 15.1).
   * Luke 12.41: omitted.
   * Luke 12.42-46: omitted, along with its parallel in Matthew 24.45-51.
   * Luke 12.47-48: omitted.
@@ -986,7 +1025,7 @@ Year C
 
 Year C
 
-* **Isaiah 5.1-7** continues the series on the prophets, and is the second of two weeks in Isaiah. God's vineyard, Israel, has 'yielded wild grapes'. **Psalm 80.1-2, 9-20** (EV: 1-2a, 8-19) is about God's 'vine'.
+* **Isaiah 5.1-7** continues the series on the prophets, and is the second of two weeks in Isaiah. God's vineyard, Israel, has 'yielded wild grapes'. **Psalm 80.1-2, 9-20** (EV: 1-2a, 8-19) [or 80.9-20 (EV: 8-19)] is about God's 'vine'.
 * **Hebrews 11.29 &ndash; 12.2** continues the series in Hebrews 11-13, and is about faith and perseverance.
 * **Luke 12.49-56** continues the series in Luke, and is about Jesus coming to bring 'fire to the earth', not bringing peace but division. The 'Related' reading, **Jeremiah 23.23-29**, speaks of God's word being like fire, and is about the God who fills heaven and earth coming in judgment. The 'Related' psalm, **Psalm 82**, calls on God to 'judge the earth'.
   * Luke 12.57-59: see Matthew 5.21-37.
@@ -1011,7 +1050,7 @@ Year C
 
 Year C
 
-* **Jeremiah 2.4-13** continues the series on the prophets and in Jeremiah, and is about God's people forsaking him in favour of 'cracked cisterns'. **Psalm 81.1, 10-16** is about God's desire to 'fill' and 'satisfy' his people, but their refusal to listen.
+* **Jeremiah 2.4-13** continues the series on the prophets and in Jeremiah, and is about God's people forsaking him in favour of 'cracked cisterns'. **Psalm 81.1, 10-16** [or 81.1-11] is about God's desire to 'fill' and 'satisfy' his people, but their refusal to listen.
 * **Hebrews 13.1-8, 15, 16** concludes the series in Hebrews 11-13, and is about the 'sacrifices' that are 'pleasing to God'.
 * **Luke 14.1, 7-14** continues the series in Luke, and is about taking the place of honour at a feast. (These verses are selected from verses 1-24, which form a single unit. The reading could be extended 'when opportunity allows'.) The 'Related' reading from the Apocrypha, **Ecclesiasticus 10.12-18**, is about pride and humility. The alternative 'Related' reading, **Proverbs 25.6-7**, says it is better to take the humble place and be exalted than vice versa. The 'Related' psalm, **Psalm 112**, says that those who give freely to the poor will be exalted.
   * Luke 14.15-24: omitted, but see similar passage in Matthew 22.1-14.
@@ -1020,7 +1059,7 @@ Year C
 
 Year C
 
-* **Jeremiah 18.1-11** continues the series on the prophets and in Jeremiah (out of sequence, perhaps to maintain a thematic sequence from warning to judgment, and perhaps chosen to fit with the Gospel reading and its themes of choice and consequences). God is the potter, and is calling his people to change their ways. **Psalm 139.1-5, 12-18** (EV: 1-6, 13-18) is about the God who formed us (as a potter).
+* **Jeremiah 18.1-11** continues the series on the prophets and in Jeremiah (out of sequence, perhaps to maintain a thematic sequence from warning to judgment, and perhaps chosen to fit with the Gospel reading and its themes of choice and consequences). God is the potter, and is calling his people to change their ways. **Psalm 139.1-5, 12-18** (EV: 1-6, 13-18) [or 139.1-7 (EV: 1-8)] is about the God who formed us (as a potter).
 * **Philemon 1-21** is Paul's appeal for runaway slave Onesimus. Perhaps it appears here because it mentions Timothy (see next week).
 * **Luke 14.25-33** continues the series in Luke, and is about the cost of being a disciple. (14.34-35 could be included for completeness 'when opportunity allows'.) The 'Related' reading, **Deuteronomy 30.15-20** calls its hearers to consider the benefits that follow when they 'choose life', and the curses that follow when they do not. The 'Related' psalm, **Psalm 1**, is about the blessings that await the righteous, and the judgment that awaits the wicked.
   * Luke 14.34-35: see the similar saying in Matthew 5.13-20 and Mark 9.38-50.
@@ -1049,7 +1088,7 @@ Year C
 
 Year C
 
-* **Jeremiah 32.1-3a, 6-15** continues the series on the prophets and in Jeremiah, and begins to glimpse hope for the distant future, with the purchase of a field. **Psalm 91.1-6, 14-16** promises deliverance for those who take refuge in God.
+* **Jeremiah 32.1-3a, 6-15** continues the series on the prophets and in Jeremiah, and begins to glimpse hope for the distant future, with the purchase of a field. **Psalm 91.1-6, 14-16** [or 91.11-16] promises deliverance for those who take refuge in God.
 * **1 Timothy 6.6-19** concludes the series in 1 Timothy, with a call to 'Fight the good fight of the faith', and with teaching about riches (which &ndash; coincidentally? &ndash; fits well with the Gospel reading).
 * **Luke 16.19-31** continues the series in Luke, with the rich man and Lazarus. The 'Related' reading, **Amos 6.1a, 4-7**, is a warning for the rich. The 'Related' psalm, **Psalm 146**, warns that princes will perish, but promises 'bread to those who hunger'.
   * Luke 17.1-2: omitted, along with its parallel in Matthew 18.6-7.
@@ -1059,7 +1098,7 @@ Year C
 
 Year C
 
-* **Lamentations 1.1-6** continues the series on the prophets, and provides a brief excursion from Jeremiah. It laments the desolation of Jerusalem, but the canticle, **Lamentations 3.19-26** glimpses hope for the future. As an alternative to the canticle, **Psalm 137**, is about the desolation of Jerusalem.
+* **Lamentations 1.1-6** continues the series on the prophets, and provides a brief excursion from Jeremiah. It laments the desolation of Jerusalem, but the canticle, **Lamentations 3.19-26** glimpses hope for the future. As an alternative to the canticle, **Psalm 137** [or 137.1-6], is about the desolation of Jerusalem.
 * **2 Timothy 1.1-14** begins a four-week series in 2 Timothy, with a call to remain faithful to the gospel.
 * **Luke 17.5-10** continues the series in Luke, with teaching about faith and duty. The 'Related' reading, **Habakkuk 1.1-4; 2.1-4**, features the prophet's faith being increased (perhaps). The 'Related' psalm, **Psalm 37.1-9**, is a response to Habakkuk's cries about wrongdoers, and calls for faith in God.
 
@@ -1096,7 +1135,7 @@ Omitted if Bible Sunday is observed.
 
 Year C
 
-* **Joel 2.23-32** concludes the series on the prophets, with a single extract from Joel. Joel is difficult to date, so it is unlikely that this passage is here for chronological reasons. It follows well from last week, with the promise that God will pour abundant rain on the earth, and his spirit on all flesh. **Psalm 65** is about God watering the earth abundantly.
+* **Joel 2.23-32** concludes the series on the prophets, with a single extract from Joel. Joel is difficult to date, so it is unlikely that this passage is here for chronological reasons. It follows well from last week, with the promise that God will pour abundant rain on the earth, and his spirit on all flesh. **Psalm 65** [or 65.1-7 (EV: 1-8)] is about God watering the earth abundantly.
 * **2 Timothy 4.6-8, 16-18** concludes the series in 2 Timothy, with Paul looking towards his departure.
 * **Luke 18.9-14** continues the series in Luke (without a gap), with the parable of the Pharisee and the tax-collector. The 'Related' reading, **Ecclesiasticus 35.12-17**, is about God listening to the prayer of the poor (the tax-collector being taken as someone who is poor, at least in spirit, presumably). The alternative 'Related' reading, **Jeremiah 14.7-10, 19-22**, is a confession of sin and a plea for God's help. The 'Related' psalm, **Psalm 84.1-7** (EV: 1-8), expresses a desire 'to enter the courts of the Lord', and asks God to 'hear my prayer'.
   * Luke 18.15-17: see Mark 10.2-16.
@@ -1160,7 +1199,7 @@ Year B
 Year C
 
 * **2 Thessalonians 2.1-5, 13-17** continues the series in 2 Thessalonians, with more on the coming of Jesus.
-* **Luke 20.27-38** continues the series in Luke, and picks up the end-times emphasis of the Sundays before Advent, with Jesus and the Sadducees discussing the resurrection and marriage. **Job 19.23-27a** contains a glimpse of resurrection hope. **Psalm 17.1-9** follows Job in pleading integrity before God.
+* **Luke 20.27-38** continues the series in Luke, and picks up the end-times emphasis of the Sundays before Advent, with Jesus and the Sadducees discussing the resurrection and marriage. **Job 19.23-27a** contains a glimpse of resurrection hope. **Psalm 17.1-9** [or 17.1-8] follows Job in pleading integrity before God.
   * Luke 20.39: omitted.
   * Luke 20.40-44: see Matthew 22.34-46.
   * Luke 20.45-47: omitted, along with its parallels in Matthew 23.1-7 (included last week in RCL Year A) and Mark 12.38-40 (included this week in RCL Year B).
