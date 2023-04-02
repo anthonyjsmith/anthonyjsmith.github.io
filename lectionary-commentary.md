@@ -1180,7 +1180,7 @@ Year C
   * Luke 19.11-27: see Matthew 25.14-30.
   * Luke 19.28-40: set for Palm Sunday.
   * Luke 19.41-44: omitted.
-  * Luke 19.45-46: see Matthew 21.12-16 and John 2.13-22 (both set for Dedication Festival).
+  * Luke 19.45-46: see Matthew 21.12-16 (Dedication Festival, Year A) and John 2.13-22 (Lent 3, Year B, and Dedication Festival, Year C).
   * Luke 19.47-48: omitted.
   * Luke 20.1-8: see Matthew 21.23-32.
   * Luke 20.9-19: see Matthew 21.33-46.
