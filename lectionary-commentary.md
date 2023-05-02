@@ -12,7 +12,7 @@ Any feedback? Please [contact](/contact/) me!
 
 **_Work in progress!_**
 
-* Year A: complete from Advent 1 to Easter 4
+* Year A: complete from Advent 1 to Easter 5
 * Year B: hardly begun
 * Year C: complete from Palm Sunday onwards
 * Festivals: complete for January to March, and from September to December
@@ -784,9 +784,14 @@ Year C
 
 ## Easter 5
 
+The Gospel reading begins a series on the 'farewell discourse', which continues on Sundays until Easter 7 (Year A), Pentecost (Years B) or Trinity (Year C).
+
 Year A
 
+* **Acts 7.55-60** continues the series in Acts, and describes Stephen's vision of the risen Jesus, before his martyrdom. **Psalm 31.1-5, 15-16** [or 31.1-5] says, 'Into your hands I commend my spirit', which is echoed by Stephen: 'Lord Jesus, receive my spirit.'
 * (The alternative first reading, **Genesis 8.1-19**, continues the series on the flood in Genesis. The dove points towards the gift of the Spirit at Pentecost.)
+* **1 Peter 2.2-10** continues the series in 1 Peter, and describes Jesus as 'a living stone', and believers as 'living stones'.
+* **John 14.1-14** continues the series in John, and begins a series on the 'farewell discourse' with a two-part series on John 14. Jesus says that he is going to the Father.
 
 Year B
 
@@ -797,7 +802,7 @@ Year C
 * **Acts 11.1-18** continues the series in Acts, recounting the spread of the gospel to the Gentiles. **Psalm 148** [or 148.1-6] invites 'all peoples' and all creation to 'Praise the Lord'.
 * (For the alternative first reading, **Baruch 3.9-15, 32 &ndash; 4.4**, or **Genesis 22.1-18**, see Easter Vigil.)
 * **Revelation 21.1-6** continues the series in Revelation, featuring the end of death.
-* **John 13.31-35** continues the series in John, and begins a series on the 'farewell discourse', which continues on Sundays until Pentecost. Jesus begins to prepare his disciples for his departure.
+* **John 13.31-35** continues the series in John, and begins a series on the 'farewell discourse'. Jesus begins to prepare his disciples for his departure.
 
 ## Easter 6
 
