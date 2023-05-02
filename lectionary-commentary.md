@@ -12,7 +12,7 @@ Any feedback? Please [contact](/contact/) me!
 
 **_Work in progress!_**
 
-* Year A: complete from Advent 1 to Easter Day
+* Year A: complete from Advent 1 to Easter 2
 * Year B: hardly begun
 * Year C: complete from Palm Sunday onwards
 * Festivals: complete for January to March, and from September to December
@@ -698,7 +698,7 @@ Year C
 The readings are the same for Years A, B and C, except for the alternative first reading, the epistle, and the alternative Gospel reading.
 
 * **Acts 10.34-43** begins a (vaguely sequential) series in Acts, and features Peter telling Cornelius about Jesus' life, death and resurrection.
-* **Psalm 118.1-2, 14-24** [or 118.14-24] reflects the theme of resurrection: 'I shall not die, but live ... The stone which the builders rejected has become the chief cornerstone'.
+* **Psalm 118.1-2, 14-24** [or 118.14-24] draws on the same psalm as last week, and reflects the theme of resurrection: 'I shall not die, but live ... The stone which the builders rejected has become the chief cornerstone'.
 * **John 20.1-18** begins a series in John, and is John's account of the discovery of the empty tomb, and the appearance of the risen Jesus to Mary Magdalene.
 
 Year A
@@ -719,23 +719,22 @@ Year C
 
 ## Easter 2
 
-Year A
+The Gospel reading and alternative first reading are the same for Years A, B and C.
 
-* (For the alternative first reading, **Exodus 14.10-31; 15.20, 21**, see Easter Vigil.)
+* (For the alternative first reading for Years A, B and C, **Exodus 14.10-31; 15.20, 21**, see Easter Vigil.)
 * **John 20.19-31** (Years A, B and C) continues (directly) the series in John, with Jesus' appearances on Easter evening and a week later.
 
-Year B
+Year A
 
-* (For the alternative first reading, **Exodus 14.10-31; 15.20, 21**, see Easter Vigil.)
-* **John 20.19-31**: see Year A.
+* **Acts 2.14a, 22-32** continues the series in Acts, and has Peter on the Day of Pentecost saying, 'This Jesus God raised up, and of that all of us are witnesses.'
+* **Psalm 16** is quoted in the reading from Acts: 'you will not abandon my soul to Death/Hades'.
+* **1 Peter 1.3-9** has the same Peter speaking of the hope that comes through the resurrection of Jesus.
 
 Year C
 
 * **Acts 5.27-32** continues the series in Acts, and recounts the apostles before the Sanhedrin, testifying to Jesus' resurrection (with a mention of the Holy Spirit).
-* (For the alternative first reading, **Exodus 14.10-31; 15.20, 21**, see Easter Vigil.)
-* **Psalm 118.14-29** largely duplicates last week's psalm. Perhaps this is why an alternative is provided: **Psalm 150**, which is a joyful expression of praise for God's mighty acts.
+* **Psalm 118.14-29** largely duplicates the psalm from last week (and the week before). Perhaps this is why an alternative is provided: **Psalm 150**, which is a joyful expression of praise for God's mighty acts.
 * **Revelation 1.4-8** begins a (sparse but sequential) series in Revelation, covering every 'Sunday of Easter'.
-* **John 20.19-31**: see Year A.
 
 ## Easter 3
 
