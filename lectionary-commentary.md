@@ -12,7 +12,7 @@ Any feedback? Please [contact](/contact/) me!
 
 **_Work in progress!_**
 
-* Year A: complete from Advent 1 to Easter 3
+* Year A: complete from Advent 1 to Easter 4
 * Year B: hardly begun
 * Year C: complete from Palm Sunday onwards
 * Festivals: complete for January to March, and from September to December
@@ -762,21 +762,25 @@ Year C
 
 The theme of Jesus as the shepherd dominates, with Gospel readings from John 10, and with Psalm 23 included every year. (This Sunday is sometimes known as 'Good Shepherd Sunday'.)
 
+* **Psalm 23** continues the shepherd theme, and is grounded in the resurrection of Jesus, because of which we need not fear when we 'walk through the valley of the shadow of death'.
+
 Year A
 
+* **Acts 2.42-47** continues the series in Acts (and concludes the three-part series in Acts 2), and describes the shared life of the believers.
 * (The alternative first reading, **Genesis 7**, begins a series on the flood in Genesis, expanding the alternative reading for Years B and C. The resurrection of Jesus is like passing through the waters of the flood.)
-* **John 10.1-10** continues the series in John, and introduces the theme of the sheep and the shepherd (although Jesus here is the gate). Jesus has come to give life to the sheep. **Psalm 23** continues the shepherd theme, and is grounded in the resurrection of Jesus, because of which we need not fear when we 'walk through the valley of the shadow of death'.
+* **1 Peter 2.19-25** continues the series in 1 Peter (out of sequence, in order to include the description of Jesus as 'shepherd'), and is about suffering after Jesus' example.
+* **John 10.1-10** continues the series in John, and introduces the theme of the sheep and the shepherd (although Jesus here is the gate). Jesus has come to give life to the sheep.
 
 Year B
 
 * (For the alternative first reading, **Genesis 7.1-5, 11-18; 8.6-18; 9.8-13**, see Easter Vigil.)
-* **John 10.11-18** continues the series in John, and says that Jesus is the good shepherd who lays down his life and takes it back up again. **Psalm 23** continues the shepherd theme: see Year A.
+* **John 10.11-18** continues the series in John, and says that Jesus is the good shepherd who lays down his life and takes it back up again.
 
 Year C
 
 * **Acts 9.36-43** continues the series in Acts, and shows that Jesus' power to raise the dead is active through his apostle Peter. The resurrection leads to the growth of the church.
 * (For the alternative first reading, **Genesis 7.1-5, 11-18; 8.6-18; 9.8-13**, see Easter Vigil.)
-* **John 10.22-30** continues the series in John, and says that Jesus gives life to his sheep. **Psalm 23** continues the shepherd theme: see Year A. **Revelation 7.9-17** continues the series in Revelation, and features the Lamb, whose blood has been shed, but who is alive, and is described as a shepherd.
+* **John 10.22-30** continues the series in John, and says that Jesus gives life to his sheep. **Revelation 7.9-17** continues the series in Revelation, and features the Lamb, whose blood has been shed, but who is alive, and is described as a shepherd.
 
 ## Easter 5
 
@@ -829,20 +833,23 @@ Years A, B and C
 
 ## Easter 7
 
+The Gospel reading every year is taken from John 17.
+
+The alternative first reading is the same for Years A, B and C.
+
+* For the alternative first reading, **Ezekiel 36.24-28**, see Easter Vigil.
+
 Year A
 
-* (For the alternative first reading, **Ezekiel 36.24-28**, see Easter Vigil.)
 * **John 17.1-11** continues the series in John, and concludes the series in the 'farewell discourse', with the first section of Jesus' prayer (see Years B and C).
 
 Year B
 
-* (For the alternative first reading, **Ezekiel 36.24-28**, see Easter Vigil.)
 * **John 17.6-19** continues the series in John's 'farewell discourse', with the central section of Jesus' prayer (see Years A and C).
 
 Year C
 
 * **Acts 16.16-34** continues the series on Acts (immediately from last Sunday), recounting the resurrection-like deliverance of Paul and Silas from prison. **Psalm 97** echoes the reading from Acts with the earth shaking and people rejoicing.
-* (For the alternative first reading, **Ezekiel 36.24-28**, see Easter Vigil.)
 * **Revelation 22.12-14, 16, 17, 20, 21** concludes the series on Revelation (in a somewhat redacted fashion). There is a mention of the Spirit, and a longing for Jesus' return, echoing Ascension themes.
 * **John 17.20-26** continues the series in John's 'farewell discourse' with the concluding section of Jesus' prayer (see Years A and B).
 
