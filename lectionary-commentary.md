@@ -12,7 +12,7 @@ Any feedback? Please [contact](/contact/) me!
 
 **_Work in progress!_**
 
-* Year A: complete from Advent 1 to Easter 2
+* Year A: complete from Advent 1 to Easter 3
 * Year B: hardly begun
 * Year C: complete from Palm Sunday onwards
 * Festivals: complete for January to March, and from September to December
@@ -721,37 +721,39 @@ Year C
 
 The Gospel reading and alternative first reading are the same for Years A, B and C.
 
-* (For the alternative first reading for Years A, B and C, **Exodus 14.10-31; 15.20, 21**, see Easter Vigil.)
-* **John 20.19-31** (Years A, B and C) continues (directly) the series in John, with Jesus' appearances on Easter evening and a week later.
+* For the alternative first reading, **Exodus 14.10-31; 15.20, 21**, see Easter Vigil.
+* **John 20.19-31** continues (directly) the series in John, with Jesus' appearances on Easter evening and a week later.
 
 Year A
 
-* **Acts 2.14a, 22-32** continues the series in Acts, and has Peter on the Day of Pentecost saying, 'This Jesus God raised up, and of that all of us are witnesses.'
+* **Acts 2.14a, 22-32** continues the series in Acts (and begins a three-part series in Acts 2), and has Peter on the Day of Pentecost saying, 'This Jesus God raised up, and of that all of us are witnesses.'
 * **Psalm 16** is quoted in the reading from Acts: 'you will not abandon my soul to Death/Hades'.
-* **1 Peter 1.3-9** has the same Peter speaking of the hope that comes through the resurrection of Jesus.
+* **1 Peter 1.3-9** begins a (mostly) semi-continuous series in 1 Peter (which covers all of the 'Easter N' Sundays), and has the same Peter speaking of the hope that comes through the resurrection of Jesus.
 
 Year C
 
 * **Acts 5.27-32** continues the series in Acts, and recounts the apostles before the Sanhedrin, testifying to Jesus' resurrection (with a mention of the Holy Spirit).
-* **Psalm 118.14-29** largely duplicates the psalm from last week (and the week before). Perhaps this is why an alternative is provided: **Psalm 150**, which is a joyful expression of praise for God's mighty acts.
+* **Psalm 118.14-29** largely duplicates the psalm from last week (and the week before), and speaks of the 'stone which the builders rejected', linking with the rejection of Jesus by the authorities in Acts. An alternative psalm is provided, **Psalm 150**, which is a joyful expression of praise for God's mighty acts.
 * **Revelation 1.4-8** begins a (sparse but sequential) series in Revelation, covering every 'Sunday of Easter'.
 
 ## Easter 3
 
 Years A and B interrupt the Easter series in John with an excursion into Luke 24.
 
+The alternative first reading is the same for Years A, B and C.
+
+* For the alternative first reading, **Zephaniah 3.14-20**, see Easter Vigil.
+
 Year A
 
-* (For the alternative first reading, **Zephaniah 3.14-20**, see Easter Vigil.)
-
-Year B
-
-* (For the alternative first reading, **Zephaniah 3.14-20**, see Easter Vigil.)
+* **Acts 2.14a, 36-41** continues the series in Acts (and continues the three-part series in Acts 2), and recounts the response to Peter's address: repentance and baptism.
+* **Psalm 116.1-3, 10-17** (EV: 1-4, 12-19) [or 116.1-7 (EV: 1-8)] is about deliverance from the 'snares of death'.
+* **1 Peter 1.17-23** continues the series in 1 Peter, and speaks of living in 'reverent fear' and love, in the light of the resurrection and the new birth.
+* **Luke 24.13-35** is the account of the risen Jesus appearing on the way to Emmaus.
 
 Year C
 
 * **Acts 9.1-6 [7-20]** continues the series in Acts, and describes Jesus' activity after his resurrection and ascension in relation to Saul, bringing about a kind of death-to-life transformation.
-* (For the alternative first reading, **Zephaniah 3.14-20**, see Easter Vigil.)
 * **Psalm 30** is a life-from-death psalm (perhaps reflecting Saul's experience).
 * **Revelation 5.11-14** continues the series in Revelation, and gives glory to the slain-but-living Lamb.
 * **John 21.1-19** concludes the post-resurrection sub-series in John (extending the readings beyond John 20, unlike Years A and B).
