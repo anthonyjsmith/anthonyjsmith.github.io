@@ -12,7 +12,7 @@ Any feedback? Please [contact](/contact/) me!
 
 **_Work in progress!_**
 
-* Year A: complete from Advent 1 to Easter 5
+* Year A: complete from Advent 1 to Easter 6
 * Year B: hardly begun
 * Year C: complete from Palm Sunday onwards
 * Festivals: complete for January to March, and from September to December
@@ -810,7 +810,11 @@ As the Sunday before the Rogation Days (the weekdays before Ascension Day), this
 
 Year A
 
+* **Acts 17.22-31** continues the series in Acts, and features Paul's speech to the Areopagus. Paul speaks of God who 'gives to all mortals life and breath and all things', and concludes by speaking of the resurrection of Jesus.
 * (The alternative first reading, **Genesis 8.20 &ndash; 9.17**, concludes the series on the flood in Genesis.)
+* **Psalm 66.7-18** (EV: 8-20) praises God for his deliverance and for answered prayer.
+* **1 Peter 3.13-22** continues the series in 1 Peter, and is about suffering after the example of Jesus, who 'was put to death in the flesh, but made alive in the spirit'.
+* **John 14.15-21** continues the series in John's 'farewell discourse' (without a gap). Jesus will 'ask the Father' for the gift of 'another Advocate ... the Spirit of truth'.
 
 Year B
 
