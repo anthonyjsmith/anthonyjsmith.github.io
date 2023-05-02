@@ -12,7 +12,7 @@ Any feedback? Please [contact](/contact/) me!
 
 **_Work in progress!_**
 
-* Year A: complete from Advent 1 to Easter Vigil
+* Year A: complete from Advent 1 to Easter Day
 * Year B: hardly begun
 * Year C: complete from Palm Sunday onwards
 * Festivals: complete for January to March, and from September to December
@@ -703,6 +703,8 @@ The readings are the same for Years A, B and C, except for the alternative first
 
 Year A
 
+* As an alternative first reading, **Jeremiah 31.1-6** is about the return from exile (a glimpse of resurrection).
+* **Colossians 3.1-4** says, 'if you have been raised with Christ, seek the things that are above'.
 * For the alternative Gospel reading, **Matthew 28.1-10**, see Easter Vigil.
 
 Year B
