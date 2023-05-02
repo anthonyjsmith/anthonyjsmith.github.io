@@ -12,9 +12,9 @@ Any feedback? Please [contact](/contact/) me!
 
 **_Work in progress!_**
 
-* Year A: complete from Advent 1 to Easter Eve
+* Year A: complete from Advent 1 to Easter Vigil
 * Year B: hardly begun
-* Year C: complete from Easter Day onwards
+* Year C: complete from Palm Sunday onwards
 * Festivals: complete for January to March, and from September to December
 
 # Contents
@@ -668,16 +668,16 @@ Gospel readings between Easter Day and Pentecost are exclusively from John's Gos
 
 ## Easter Vigil
 
-The readings are the same for Years A, B and C, except for the Gospel reading.
+The readings are the same for Years A, B and C, except for the Gospel reading. 'A minimum of three Old Testament readings should be chosen. The reading from Exodus 14 should always be used.'
 
-* **Genesis 1.1 &ndash; 2.4a** ... **Psalm 136.1-9, 23-26** ...
-* **Genesis 7.1-5, 11-18; 8.6-18; 9.8-13** (also the alternative first reading for Easter 4, spread over three weeks in Year A, Easter 4-6), picks up on the resurrection of Jesus being like passing through the waters of the flood. The dove points towards the gift of the Spirit at Pentecost. **Psalm 46** ...
-* **Genesis 22.1-18** (also the alternative _alternative_ first reading for Easter 5, Years B and C) ... **Psalm 16** ...
+* **Genesis 1.1 &ndash; 2.4a** picks up on Easter and baptismal themes of (new) creation out of water, new life, and light out of darkness. **Psalm 136.1-9, 23-26** praises God as Creator.
+* **Genesis 7.1-5, 11-18; 8.6-18; 9.8-13** (also the alternative first reading for Easter 4, spread over three weeks in Year A, Easter 4-6), picks up on the resurrection of Jesus being like passing through the waters of the flood. The dove points towards the gift of the Spirit at Pentecost. **Psalm 46** is about God as a refuge, 'Though the waters rage and swell'.
+* **Genesis 22.1-18** (also the alternative _alternative_ first reading for Easter 5, Years B and C) is about Abraham's beloved son Isaac being taken to the point of death and rescued. **Psalm 16** says, 'Preserve me, O God,' and 'you will not abandon my soul to Death'.
 * **Exodus 14.10-31; 15.20, 21** (also the alternative first reading for Easter 2) draws on the connection between Israel passing through the Red Sea and Jesus passing through death to new life. The canticle **Exodus 15.1b-13, 17, 18** continues the theme.
-* **Isaiah 55.1-11** (also the alternative first reading for Easter 6, Year B) ... **Isaiah 12.2-6** ...
-* **Baruch 3.9-15, 32 &ndash; 4.4** (also the alternative first reading for Easter 5, Years B and C) ... (**Proverbs 8.1-8, 19-21; 9.4b-6** ...) **Psalm 19** ...
-* **Ezekiel 36.24-28** (also the alternative first reading for Easter 7) ... **Psalm 42, 43** ...
-* **Ezekiel 37.1-14** (also the alternative first reading for Easter 6, Year C, and Pentecost, Year B) ... **Psalm 143** ...
+* **Isaiah 55.1-11** (also the alternative first reading for Easter 6, Year B) picks up on baptismal themes: 'come to the waters', and 'as the rain and the snow come down from heaven, and do not return there until they have watered the earth ...'. The canticle **Isaiah 12.2-6** says, 'With joy you will draw water from the wells of salvation.'
+* **Baruch 3.9-15, 32 &ndash; 4.4** (from the Apocrypha, also the alternative first reading for Easter 5, Years B and C) is about wisdom, perhaps picking up on the Easter theme of newness of life. (Alternatively, **Proverbs 8.1-8, 19-21; 9.4b-6** is also about wisdom.) **Psalm 19** says, 'the testimony of the Lord ... gives wisdom to the simple'.
+* **Ezekiel 36.24-28** (also the alternative first reading for Easter 7) says to a people in exile, 'I will sprinkle clean water upon you,' and 'I will put my spirit within you'. **Psalms 42, 43** expresses longing for God.
+* **Ezekiel 37.1-14** (also the alternative first reading for Easter 6, Year C, and Pentecost, Year B, and the Old Testament reading for Lent 5, Year A) is about God's breath (spirit) bringing dry bones to life. **Psalm 143** speaks about being made to 'sit in darkness like those long dead', and says, 'Revive me, O Lord'.
 * **Zephaniah 3.14-20** (also the alternative first reading for Easter 3) rejoices in God's salvation, and in fortunes being restored. **Psalm 98** rejoices in God's salvation.
 * **Romans 6.3-11** connects baptism with the death and resurrection of Jesus. **Psalm 114** connects this with Israel coming out of Egypt and crossing the Jordan.
 
