@@ -12,7 +12,7 @@ Any feedback? Please [contact](/contact/) me!
 
 **_Work in progress!_**
 
-* Year A: complete from Advent 1 to Easter 6
+* Year A: complete from Advent 1 to Easter 7
 * Year B: hardly begun
 * Year C: complete from Palm Sunday onwards
 * Festivals: complete for January to March, and from September to December
@@ -850,7 +850,10 @@ The alternative first reading is the same for Years A, B and C.
 
 Year A
 
-* **John 17.1-11** continues the series in John, and concludes the series in the 'farewell discourse', with the first section of Jesus' prayer (see Years B and C).
+* **Acts 1.6-14** recounts Jesus' ascension, and speaks of Jesus' followers 'constantly devoting themselves to prayer'.
+* **Psalm 68.1-10, 32-35** [or 1-10] has connections with Jesus' ascension: 'Let God arise', and 'exalt him who rides on the clouds'.
+* **1 Peter 4.12-14; 5.6-11** concludes the series in 1 Peter, and is about present suffering and future glory, which might resonate with the expectant longing of the period between Ascension Day and Pentecost.
+* **John 17.1-11** continues the series in John, and concludes the series in the 'farewell discourse', with the first section of Jesus' prayer (see Years B and C). Jesus' prayer for his own glorification is answered in his ascension.
 
 Year B
 
