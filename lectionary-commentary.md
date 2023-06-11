@@ -465,12 +465,6 @@ Year C
 
 Creation theme.
 
-Year A
-
-* **Genesis 1.1 &ndash; 2.3** is about the creation of the heavens and the earth. **Psalm 136** or **Psalm 136.1-9, 23-26** is about God who 'made the heavens' (5-9) and 'gives food to all creatures' (25).
-* **Romans 8.18-25** says that 'the creation waits with eager longing for the revealing of the children of God'.
-* **Matthew 6.25-34** says, 'do not worry', and invites us to consider God's care for the birds and the 'grass of the field'. (Also set for Harvest Thanksgiving, Year B.)
-
 The addition of this creation-themed week means that 'Proper 3' in the RCL is not included (although the Gospel reading for Year A is almost the same). The Gospel readings from that week contain several famous sayings of Jesus:
 
 * Mark 2.13-22 ('I have come to call not the righteous but sinners ... new wine into old wineskins'). The parallel passage in Luke 5.27-38 is also omitted, but the other parallel in Matthew 9.9-17 is partially included in Matthew 9.9-13, 18-26, and the gap could easily be filled.
@@ -482,6 +476,20 @@ The addition of this creation-themed week means that 'Proper 3' in the RCL is no
   * 6.45 ('it is out of the abundance of the heart that the mouth speaks'): see Matthew 12.34-35 (which is omitted) and a near parallel in Mark 7.20-23, which is (mostly) included in Mark 7.1-8, 14, 15, 21-23.
   * 6.46 ('Lord ... do what I say'): see Matthew 7.21, which is included in 7.21-29.
   * 6.47-49 ('house ... without a foundation'): see Matthew 7.24-27, which is included in 7.21-29.
+
+Year A
+
+* **Genesis 1.1 &ndash; 2.3** is about the creation of the heavens and the earth. **Psalm 136** or **Psalm 136.1-9, 23-26** is about God who 'made the heavens' (5-9) and 'gives food to all creatures' (25).
+* **Romans 8.18-25** says that 'the creation waits with eager longing for the revealing of the children of God'.
+* **Matthew 6.25-34** says, 'do not worry', and invites us to consider God's care for the birds and the 'grass of the field'. (Also set for Harvest Thanksgiving, Year B.)
+  * Matthew 7.1-2: see Luke 6.27-38.
+  * Matthew 7.3-5: omitted, along with its parallel in Luke 6.41-42 (NB: RCL 'Proper 3').
+  * Matthew 7.6: omitted.
+  * Matthew 7.7-11: see Luke 11.1-13.
+  * Matthew 7.12a: see Luke 6.27-38.
+  * Matthew 7.12b: omitted.
+  * Matthew 7.13-14: omitted, along with its close parallel in Luke 13.22-24.
+  * Matthew 7.15-20: omitted.
 
 ## 1 before Lent
 
@@ -926,6 +934,20 @@ Year C
 See Sunday between 18 and 24 February.
 
 ## Sunday between 29 May and 4 June (Proper 4)*
+
+Year A
+
+Genesis 6.9-22; 7.24; 8.14-19
+Psalm 46
+Romans 1.16,17;
+3.22b-28[29-31]
+Matthew 7.21-29
+
+Deuteronomy 11.18-21,26-28
+Psalm 31.1-5,19-24*
+Romans 1.16,17;
+3.22b-28[29-31]
+Matthew 7.21-29
 
 Year C
 
