@@ -12,7 +12,7 @@ Any feedback? Please [contact](/contact/) me!
 
 **_Work in progress!_**
 
-* Year A: complete from Advent 1 to Trinity
+* Year A: complete from Advent 1 through Trinity to Proper 4
 * Year B: hardly begun
 * Year C: complete from Palm Sunday onwards
 * Festivals: complete for January to March, and from September to December
@@ -643,7 +643,7 @@ Years A, B and C
 Years A, B and C
 
 * **Exodus 12.1-4 [5-10], 11-14** is the institution of the Passover.
-* **Psalm 116.1, 10-17** (EV: 1-2, 12-19) [or 116.9-17 (EV: 116.10-19)] says, 'I will lift up the cup of salvation'.
+* **Psalm 116.1, 10-17** (EV: 1-2, 12-19) [or 116.9-17 (EV: 10-19)] says, 'I will lift up the cup of salvation'.
 * **1 Corinthians 11.23-26** is the institution of the Lord's Supper.
 * **John 13.1-17, 31b-35** is the account of Jesus washing his disciples' feet 'during supper', and Jesus' command: 'Just as I have loved you, you also should love one another.'
 
@@ -859,7 +859,7 @@ The alternative first reading is the same for Years A, B and C.
 Year A
 
 * **Acts 1.6-14** recounts Jesus' ascension, and speaks of Jesus' followers 'constantly devoting themselves to prayer'.
-* **Psalm 68.1-10, 32-35** [or 1-10] has connections with Jesus' ascension: 'Let God arise', and 'exalt him who rides on the clouds'.
+* **Psalm 68.1-10, 32-35** [or 68.1-10] has connections with Jesus' ascension: 'Let God arise', and 'exalt him who rides on the clouds'.
 * **1 Peter 4.12-14; 5.6-11** concludes the series in 1 Peter, and is about present suffering and future glory, which might resonate with the expectant longing of the period between Ascension Day and Pentecost.
 * **John 17.1-11** continues the series in John, and concludes the series in the 'farewell discourse', with the first section of Jesus' prayer (see Years B and C). Jesus' prayer for his own glorification is answered in his ascension.
 
@@ -904,7 +904,7 @@ Year C
 
 Year A
 
-(RCL has Genesis 1.1 &ndash; 2.4a as the first reading: see 2 before Lent.)
+(RCL has Genesis 1.1 &ndash; 2.4a as the first reading, which then serves as the beginning of a series in Genesis: see 2 before Lent.)
 
 * **Isaiah 40.12-17, 27-31** says, 'Who has directed the spirit of the Lord ...?' Is the answer, 'Jesus'? Otherwise, the connection with Trinity Sunday is not immediately obvious.
 * **Psalm 8** (Years A and C) is about God's glory being revealed in creation and redemption (this finds its climax when God is revealed as Trinity), and is about God's 'name' (cf. Matthew 28.19: 'in the name of the Father and of the Son and of the Holy Spirit').
@@ -937,21 +937,13 @@ See Sunday between 18 and 24 February.
 
 Year A
 
-Genesis 6.9-22; 7.24; 8.14-19
-Psalm 46
-Romans 1.16,17;
-3.22b-28[29-31]
-Matthew 7.21-29
-
-Deuteronomy 11.18-21,26-28
-Psalm 31.1-5,19-24*
-Romans 1.16,17;
-3.22b-28[29-31]
-Matthew 7.21-29
+* **Genesis 6.9-22; 7.24; 8.14-19** begins a long series on the Pentateuch (Genesis, Exodus and Deuteronomy 34), which covers all of the Sundays after Trinity. (In the RCL, the series begins at Genesis 1.1 on Trinity Sunday.) A brief account is provided of Noah and the flood. **Psalm 46** says, 'Therefore we will not fear, though ... the waters rage and swell'. (Perhaps intentionally, there is a link with the 'floods' in the Gospel reading.)
+* **Romans 1.16,17; 3.22b-28 [29-31]** begins a 16-part semi-continuous series in Romans.
+* **Matthew 7.21-29** continues the series in Matthew (from 2 before Lent), on the theme of hearing and doing, with the house on rock or sand, and the floods coming. The 'Related' reading from **Deuteronomy 11.18-21, 26-28** is about blessing following obedience, and curse following disobedience. The 'Related' psalm, **Psalm 31.1-5, 19-24** [or 31.19-24] mentions God being a 'strong rock', and speaks of the blessings that come from fearing God.
 
 Year C
 
-* **1 Kings 18.20, 21 [22-29] 30-39** begins a long (chronological) series on the prophets, which lasts until the end of Ordinary Time. The series has between zero and four weeks on Elijah (depending on the date of Easter, and out of sequence), followed by two weeks each for Elisha (the first of which is the transition from Elijah), Amos, Hosea and Isaiah, nine weeks in Jeremiah and Lamentations, and a final week in Joel. This reading begins the Elijah/Elisha series in 1 and 2 Kings, with Elijah on Mount Carmel. **Psalm 96** contrasts the Lord with idols.
+* **1 Kings 18.20, 21 [22-29] 30-39** begins a long (chronological) series on the prophets, which covers all of the Sundays after Trinity. The series has between zero and four weeks on Elijah (depending on the date of Easter, and out of sequence), followed by two weeks each for Elisha (the first of which is the transition from Elijah), Amos, Hosea and Isaiah, nine weeks in Jeremiah and Lamentations, and a final week in Joel. This reading begins the Elijah/Elisha series in 1 and 2 Kings, with Elijah on Mount Carmel. **Psalm 96** contrasts the Lord with idols.
 * **Galatians 1.1-12** begins a semicontinuous series in Galatians, with Paul's preaching of the gospel.
 * **Luke 7.1-10** continues the series in Luke (from Proper 3), with the centurion's faith. The 'Related' reading from **1 Kings 8.22-23, 41-43** asks God to answer the prayers of foreigners, while the 'Related' psalm, **Psalm 96.1-9** (part of the 'Continuous' psalm), invites the whole earth to draw near to the Lord.
 
