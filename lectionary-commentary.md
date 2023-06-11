@@ -939,7 +939,7 @@ Year A
 
 * **Genesis 6.9-22; 7.24; 8.14-19** begins a long series in the Pentateuch (Genesis, Exodus and Deuteronomy 34), which covers all of the Sundays after Trinity. (In the RCL, the series begins at Genesis 1.1 on Trinity Sunday.) A brief account is provided of Noah and the flood. **Psalm 46** says, 'Therefore we will not fear, though ... the waters rage and swell'. (Perhaps intentionally, there is a link with the 'floods' in the Gospel reading.)
 * **Romans 1.16, 17; 3.22b-28 [29-31]** begins a 16-part semi-continuous series in Romans, and is about the righteousness of God through faith.
-* **Matthew 7.21-29** continues the series in Matthew (from 2 before Lent), on the theme of hearing and doing, with the house on rock or sand, and the floods coming. The 'Related' reading from **Deuteronomy 11.18-21, 26-28** is about blessing following obedience, and curse following disobedience. The 'Related' psalm, **Psalm 31.1-5, 19-24** [or 31.19-24] mentions God being a 'strong rock', and speaks of the blessings that come from fearing God.
+* **Matthew 7.21-29** continues the series in Matthew (from 2 before Lent), on the theme of hearing and doing, with the house on rock or sand, and the floods coming. The 'Related' reading, **Deuteronomy 11.18-21, 26-28**, is about blessing following obedience, and curse following disobedience. The 'Related' psalm, **Psalm 31.1-5, 19-24** [or 31.19-24] mentions God being a 'strong rock', and speaks of the blessings that come from fearing God.
   * Matthew 8.1: omitted.
   * Matthew 8.2-4: see Mark 1.40-45.
   * Matthew 8.5-13: see Luke 7.1-10.
@@ -955,7 +955,7 @@ Year C
 
 * **1 Kings 18.20, 21 [22-29] 30-39** begins a long (chronological) series on the prophets, which covers all of the Sundays after Trinity. The series has between zero and four weeks on Elijah (depending on the date of Easter, and out of sequence), followed by two weeks each for Elisha (the first of which is the transition from Elijah), Amos, Hosea and Isaiah, nine weeks in Jeremiah and Lamentations, and a final week in Joel. This reading begins the Elijah/Elisha series in 1 and 2 Kings, with Elijah on Mount Carmel. **Psalm 96** contrasts the Lord with idols.
 * **Galatians 1.1-12** begins a semicontinuous series in Galatians, with Paul's preaching of the gospel.
-* **Luke 7.1-10** continues the series in Luke (from Proper 3), with the centurion's faith. The 'Related' reading from **1 Kings 8.22-23, 41-43** asks God to answer the prayers of foreigners, while the 'Related' psalm, **Psalm 96.1-9** (part of the 'Continuous' psalm), invites the whole earth to draw near to the Lord.
+* **Luke 7.1-10** continues the series in Luke (from Proper 3), with the centurion's faith. The 'Related' reading, **1 Kings 8.22-23, 41-43**, asks God to answer the prayers of foreigners, while the 'Related' psalm, **Psalm 96.1-9** (part of the 'Continuous' psalm), invites the whole earth to draw near to the Lord.
 
 ## Sunday between 5 and 11 June (Proper 5)*
 
@@ -963,7 +963,7 @@ Year A
 
 * **Genesis 12.1-9** continues the series in the Pentateuch and in Genesis, and is about the call of Abram. **Psalm 33.1-12** responds to God's call of Abram: 'Happy the nation whose God is the Lord and the people he has chosen for his own.'
 * **Romans 4.13-25** continues the series in Romans, and is about the fulfilment of God's promise to Abraham (the connection with the first reading might be deliberate).
-* **Matthew 9.9-13, 18-26** continues the series in Matthew, and is about Jesus calling Matthew and eating with 'tax-collectors and sinners', and then about Jesus restoring a girl to life and healing a woman. The 'Related' reading from **Hosea 5.15 &ndash; 6.6** says, 'I desire steadfast love [mercy] and not sacrifice', which is quoted in the Gospel reading. The 'Related' psalm, **Psalm 50.7-15**, has God testifying against Israel, despite their sacrifices.
+* **Matthew 9.9-13, 18-26** continues the series in Matthew, and is about Jesus calling Matthew and eating with 'tax-collectors and sinners', and then about Jesus restoring a girl to life and healing a woman. The 'Related' reading, **Hosea 5.15 &ndash; 6.6**, says, 'I desire steadfast love [mercy] and not sacrifice', which is quoted in the Gospel reading. The 'Related' psalm, **Psalm 50.7-15**, has God testifying against Israel, despite their sacrifices.
   * Matthew 9.14-17: omitted, along with its parallels in Mark 2.18-22 and Luke 5.33-39 (NB: RCL 'Proper 3'), but could be included if the gap is filled in Matthew 9.9-13, 18-26.
   * Matthew 9.27-31: omitted, along with its close parallel in Mark 8.22-26.
   * Matthew 9.32-33: omitted (cf. Matthew 12.22-23).
@@ -977,6 +977,12 @@ Year C
   * Luke 7.18-35: see Matthew 11.2-19, which is mostly covered on two separate occasions by Matthew 11.2-11 and 16-19.
 
 ## Sunday between 12 and 18 June (Proper 6)*
+
+Year A
+
+* **Genesis 18.1-15 [21.1-7]** continues the series in the Pentateuch and in Genesis, and is about the promise [and birth] of Isaac. **Psalm 116.1, 10-17** (EV: 1-2, 12-19) [or 116.9-17 (EV: 10-19)] expresses the kind of grateful response Abraham and Sarah would have made for the gift of a son.
+* **Romans 5.1-8** continues the series in Romans (without a gap), and is about sinners being justified by faith.
+* **Matthew 9.35 &ndash; 10.8 [9-23]** continues the series in Matthew, and is about the calling of the twelve apostles, and their mission 'to the lost sheep of the house of Israel'. The 'Related' reading, **Exodus 19.2-8a**, is about Israel's vocation (to which Jesus presumably calls them to return). The 'Related' psalm, **Psalm 100**, says, 'we are his people and the sheep of his pasture'.
 
 Year C
 
