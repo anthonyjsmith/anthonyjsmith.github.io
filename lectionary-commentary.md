@@ -12,7 +12,7 @@ Any feedback? Please [contact](/contact/) me!
 
 **_Work in progress!_**
 
-* Year A: complete from Advent 1 to Easter 7
+* Year A: complete from Advent 1 to Pentecost
 * Year B: hardly begun
 * Year C: complete from Palm Sunday onwards
 * Festivals: complete for January to March, and from September to December
@@ -867,25 +867,26 @@ Year C
 
 ## Pentecost
 
+The reading from Acts and the psalm are the same every year.
+
+* **Acts 2.1-21** narrates the pouring out of the Spirit at Pentecost, and the first part of Peter's sermon.
+* **Psalm 104.26-36, 37b** (EV: 24-34, 35b) [or 104.26-37 (EV: 24-35)] includes 'When you send forth your spirit, they are created'.
+
 Year A
 
-* **Acts 2.1-21** (Years A, B and C) narrates the pouring out of the Spirit at Pentecost.
-* **Psalm 104.26-36, 37b** [or 104.26-37] (Years A, B and C) includes 'When you send forth your spirit, they are created'.
-* **John 20.19-23** concludes the series in John ...
-* (The alternative, **John 7.37-39**, ...)
+* (The alternative first reading, **Numbers 11.24-30**, has Moses saying, 'Would that all the Lord’s people were prophets, and that the Lord would put his spirit on them!')
+* **1 Corinthians 12.3b-13** is about the gifts of the Spirit (including tongues), and says, 'in the one Spirit we were all baptized into one body'.
+* **John 20.19-23** concludes the series in John, and says that Jesus 'breathed on [his disciples] and said to them, "Receive the Holy Spirit."'
+* (The alternative Gospel reading, **John 7.37-39**, is about Jesus' promise of 'living water', which is explained as being 'about the Spirit'.)
 
 Year B
 
-* **Acts 2.1-21**: see Year A.
 * (For the alternative first reading, **Ezekiel 37.1-14**, see Easter Vigil.)
-* **Psalm 104.26-36, 37b**: see Year A.
 * **John 15.26-27; 16.4b-15** continues the series in John, and concludes the series in the 'farewell discourse', ... .
 
 Year C
 
-* **Acts 2.1-21**: see Year A.
 * (The alternative first reading, **Genesis 11.1-9**, recounts Babel, of which Pentecost is something of a reversal.)
-* **Psalm 104.26-36, 37b**: see Year A.
 * **Romans 8.14-17** is about the work of the Spirit.
 * **John 14.8-17 [25-27]** continues the series John's 'farewell discourse', with Jesus' promise of the Spirit.
 
