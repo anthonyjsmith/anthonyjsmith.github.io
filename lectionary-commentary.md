@@ -938,8 +938,18 @@ See Sunday between 18 and 24 February.
 Year A
 
 * **Genesis 6.9-22; 7.24; 8.14-19** begins a long series on the Pentateuch (Genesis, Exodus and Deuteronomy 34), which covers all of the Sundays after Trinity. (In the RCL, the series begins at Genesis 1.1 on Trinity Sunday.) A brief account is provided of Noah and the flood. **Psalm 46** says, 'Therefore we will not fear, though ... the waters rage and swell'. (Perhaps intentionally, there is a link with the 'floods' in the Gospel reading.)
-* **Romans 1.16,17; 3.22b-28 [29-31]** begins a 16-part semi-continuous series in Romans.
+* **Romans 1.16,17; 3.22b-28 [29-31]** begins a 16-part semi-continuous series in Romans, and is about the righteousness of God through faith.
 * **Matthew 7.21-29** continues the series in Matthew (from 2 before Lent), on the theme of hearing and doing, with the house on rock or sand, and the floods coming. The 'Related' reading from **Deuteronomy 11.18-21, 26-28** is about blessing following obedience, and curse following disobedience. The 'Related' psalm, **Psalm 31.1-5, 19-24** [or 31.19-24] mentions God being a 'strong rock', and speaks of the blessings that come from fearing God.
+  * Matthew 8.1: omitted.
+  * Matthew 8.2-4: see Mark 1.40-45.
+  * Matthew 8.5-13: see Luke 7.1-10.
+  * Matthew 8.14-16: see Mark 1.29-39.
+  * Matthew 8.17: omitted.
+  * Matthew 8.18-22: see Luke 9.51-62.
+  * Matthew 8.23-27: see Mark 4.35-41 and Luke 8.22-25.
+  * Matthew 8.28-34: see Luke 8.26-39.
+  * Matthew 9.1: omitted.
+  * Matthew 9.2-8: see Mark 2.1-12.
 
 Year C
 
