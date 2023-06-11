@@ -12,7 +12,7 @@ Any feedback? Please [contact](/contact/) me!
 
 **_Work in progress!_**
 
-* Year A: complete from Advent 1 through Trinity to Proper 5
+* Year A: complete from Advent 1 through Trinity to Proper 7
 * Year B: hardly begun
 * Year C: complete from Palm Sunday onwards
 * Festivals: complete for January to March, and from September to December
@@ -995,6 +995,12 @@ Year C
   * Luke 8.22-25: set for 2 before Lent, and also covered in Mark 4.35-41.
 
 ## Sunday between 19 and 25 June (Proper 7)*
+
+Year A
+
+* **Genesis 21.8-21** continues the series in the Pentateuch and in Genesis (without a gap, if the optional verses were included last week), and is about Hagar and Ishmael. **Psalm 86.1-10, 16-17** [or 86.1-10] echoes Hagar's cry of distress, particularly, 'save the child of your handmaid'.
+* **Romans 6.1b-11** continues the series in Romans, and is about dying and rising with Christ.
+* **Matthew 10.24-39** continues the series in Matthew (without a gap, if the optional verses were included last week), and is about not being afraid of persecution. The 'Related' reading, **Jeremiah 20.7-13**, is Jeremiah's response to persecution. The 'Related' psalm, **Psalm 69.8-11 [12-17] 18-20** (EV: 7-10 [11-15] 16-18) [or 69.14-20 (EV: 13-18)] is a prayer for deliverance from persecution.
 
 Year C
 
