@@ -12,7 +12,7 @@ Any feedback? Please [contact](/contact/) me!
 
 **_Work in progress!_**
 
-* Year A: complete from Advent 1 through Trinity to Proper 4
+* Year A: complete from Advent 1 through Trinity to Proper 5
 * Year B: hardly begun
 * Year C: complete from Palm Sunday onwards
 * Festivals: complete for January to March, and from September to December
@@ -937,8 +937,8 @@ See Sunday between 18 and 24 February.
 
 Year A
 
-* **Genesis 6.9-22; 7.24; 8.14-19** begins a long series on the Pentateuch (Genesis, Exodus and Deuteronomy 34), which covers all of the Sundays after Trinity. (In the RCL, the series begins at Genesis 1.1 on Trinity Sunday.) A brief account is provided of Noah and the flood. **Psalm 46** says, 'Therefore we will not fear, though ... the waters rage and swell'. (Perhaps intentionally, there is a link with the 'floods' in the Gospel reading.)
-* **Romans 1.16,17; 3.22b-28 [29-31]** begins a 16-part semi-continuous series in Romans, and is about the righteousness of God through faith.
+* **Genesis 6.9-22; 7.24; 8.14-19** begins a long series in the Pentateuch (Genesis, Exodus and Deuteronomy 34), which covers all of the Sundays after Trinity. (In the RCL, the series begins at Genesis 1.1 on Trinity Sunday.) A brief account is provided of Noah and the flood. **Psalm 46** says, 'Therefore we will not fear, though ... the waters rage and swell'. (Perhaps intentionally, there is a link with the 'floods' in the Gospel reading.)
+* **Romans 1.16, 17; 3.22b-28 [29-31]** begins a 16-part semi-continuous series in Romans, and is about the righteousness of God through faith.
 * **Matthew 7.21-29** continues the series in Matthew (from 2 before Lent), on the theme of hearing and doing, with the house on rock or sand, and the floods coming. The 'Related' reading from **Deuteronomy 11.18-21, 26-28** is about blessing following obedience, and curse following disobedience. The 'Related' psalm, **Psalm 31.1-5, 19-24** [or 31.19-24] mentions God being a 'strong rock', and speaks of the blessings that come from fearing God.
   * Matthew 8.1: omitted.
   * Matthew 8.2-4: see Mark 1.40-45.
@@ -958,6 +958,16 @@ Year C
 * **Luke 7.1-10** continues the series in Luke (from Proper 3), with the centurion's faith. The 'Related' reading from **1 Kings 8.22-23, 41-43** asks God to answer the prayers of foreigners, while the 'Related' psalm, **Psalm 96.1-9** (part of the 'Continuous' psalm), invites the whole earth to draw near to the Lord.
 
 ## Sunday between 5 and 11 June (Proper 5)*
+
+Year A
+
+* **Genesis 12.1-9** continues the series in the Pentateuch and in Genesis, and is about the call of Abram. **Psalm 33.1-12** responds to God's call of Abram: 'Happy the nation whose God is the Lord and the people he has chosen for his own.'
+* **Romans 4.13-25** continues the series in Romans, and is about the fulfilment of God's promise to Abraham (the connection with the first reading might be deliberate).
+* **Matthew 9.9-13, 18-26** continues the series in Matthew, and is about Jesus calling Matthew and eating with 'tax-collectors and sinners', and then about Jesus restoring a girl to life and healing a woman. The 'Related' reading from **Hosea 5.15 &ndash; 6.6** says, 'I desire steadfast love [mercy] and not sacrifice', which is quoted in the Gospel reading. The 'Related' psalm, **Psalm 50.7-15**, has God testifying against Israel, despite their sacrifices.
+  * Matthew 9.14-17: omitted, along with its parallels in Mark 2.18-22 and Luke 5.33-39 (NB: RCL 'Proper 3'), but could be included if the gap is filled in Matthew 9.9-13, 18-26.
+  * Matthew 9.27-31: omitted, along with its close parallel in Mark 8.22-26.
+  * Matthew 9.32-33: omitted (cf. Matthew 12.22-23).
+  * Matthew 9.34: see Mark 3.20-35 (cf. Matthew 12.24).
 
 Year C
 
