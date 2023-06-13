@@ -12,7 +12,7 @@ Any feedback? Please [contact](/contact/) me!
 
 **_Work in progress!_**
 
-* Year A: complete from Advent 1 through Trinity to Proper 7
+* Year A: complete from Advent 1 through Trinity to Proper 8
 * Year B: hardly begun
 * Year C: complete from Palm Sunday onwards
 * Festivals: complete for January to March, and from September to December
@@ -1019,6 +1019,17 @@ Year C
 
 ## Sunday between 26 June and 2 July (Proper 8)
 
+Year A
+
+* **Genesis 22.1-14** continues the series in the Pentateuch and in Genesis, and is about Abraham being commanded to offer his son Isaac as a burnt-offering. **Psalm 13** is about God's deliverance from death.
+* **Romans 6.12-23** continues the series in Romans (without a gap), and is about living as slaves of righteousness, not as slaves of sin.
+* **Matthew 10.40-42** continues the series in Matthew (without a gap), and says, 'Whoever welcomes you welcomes me, and whoever welcomes me welcomes the one who sent me. Whoever welcomes a prophet in the name of a prophet will receive a prophet's reward'. The 'Related' reading, **Jeremiah 28.5-9** is about true and false prophets, and looks ahead to the vindication (reward?) of the true prophets. The 'Related' psalm, **Psalm 89.1-4, 15-18** (or 89.8-18) says, 'in your favour you lift up our heads', which might be a prophet's reward.
+  * Matthew 11.1: omitted.
+  * Matthew 11.2-11: see Advent 3.
+  * Matthew 11.12-13: omitted, along with its parallel in Luke 16.16.
+  * Matthew 11.14: omitted, along with its parallel in Mark 9.13.
+  * Matthew 11.15: common saying, included elsewhere ('Let anyone with ears listen!').
+
 Year C
 
 * **2 Kings 2.1-2, 6-14** continues the series on the prophets and in 1 and 2 Kings, and is about Elijah being taken into heaven and the water dividing before Elijah and Elisha. (Perhaps coincidentally, there is a link with Luke 9:51, which speaks of Jesus being 'taken up'.) **Psalm 77.1-2, 11-20** [or 77.11-20] is about the waters seeing God and being afraid.
@@ -1154,7 +1165,8 @@ Year C
 * **Jeremiah 8.18 &ndash; 9.1** continues the series on the prophets and in Jeremiah, and expresses sorrow for the pain of 'my poor people'. **Psalm 79.1-9** cries out to God over the desolation of Jerusalem.
 * **1 Timothy 2.1-7** continues the series in 1 Timothy, with a call to pray for everyone.
 * **Luke 16.1-13** continues the series in Luke, with the parable of the shrewd and dishonest manager. The 'Related' reading, **Amos 8.4-7**, speaks against those who 'trample on the needy' and 'practise deceit'. The 'Related' psalm, **Psalm 113**, speaks of God who 'lifts the needy from the ashes'.
-  * Luke 16.14-16: omitted.
+  * Luke 16.14-15: omitted.
+  * Luke 16.16: omitted, along with its parallel in Matthew 11.12-13.
   * Luke 16:17: see Matthew 5.13-20.
   * Luke 16:18: see Matthew 5.21-37 and Mark 10.2-16.
 
