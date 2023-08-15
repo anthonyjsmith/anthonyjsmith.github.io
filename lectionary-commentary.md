@@ -592,7 +592,7 @@ Year A
 
 * **Acts 2.14a, 22-32** continues the series in Acts (and begins a three-part series in Acts 2), and has Peter on the Day of Pentecost saying, 'This Jesus God raised up, and of that all of us are witnesses.'
 * **Psalm 16** is quoted in the reading from Acts: 'you will not abandon my soul to Death/Hades'.
-* **1 Peter 1.3-9** begins a (mostly) semi-continuous series in 1 Peter (which covers all of the 'Easter N' Sundays), and has the same Peter speaking of the hope that comes through the resurrection of Jesus.
+* **1 Peter 1.3-9** begins a (mostly) semicontinuous series in 1 Peter (which covers all of the 'Easter N' Sundays), and has the same Peter speaking of the hope that comes through the resurrection of Jesus.
 
 Year C
 
@@ -794,7 +794,7 @@ See Sunday between 18 and 24 February.
 Year A
 
 * **Genesis 6.9-22; 7.24; 8.14-19** begins a long series in the Pentateuch (Genesis, Exodus and Deuteronomy 34), which covers all of the Sundays after Trinity. (In the RCL, the series begins at Genesis 1.1 on Trinity Sunday.) A brief account is provided of Noah and the flood. **Psalm 46** says, 'Therefore we will not fear, though ... the waters rage and swell'. (Perhaps intentionally, there is a link with the 'floods' in the Gospel reading.)
-* **Romans 1.16, 17; 3.22b-28 [29-31]** begins a 16-part semi-continuous series in Romans, and is about the righteousness of God through faith.
+* **Romans 1.16, 17; 3.22b-28 [29-31]** begins a 16-part semicontinuous series in Romans, and is about the righteousness of God through faith.
 * **Matthew 7.21-29** continues the series in Matthew (from 2 before Lent), on the theme of hearing and doing, with the house on rock or sand, and the floods coming. The 'Related' reading, **Deuteronomy 11.18-21, 26-28**, is about blessing following obedience, and curse following disobedience. The 'Related' psalm, **Psalm 31.1-5, 19-24** [or 31.19-24] mentions God being a 'strong rock', and speaks of the blessings that come from fearing God.
 
 Year C
@@ -1432,7 +1432,7 @@ Web resources
 
 What follows will eventually be a complete index to each of the four Gospels, showing which passages are included, which are omitted because a parallel is included elsewhere, and which are simply omitted. See the [Introduction](#introduction) for a broad overview of how the Gospels are treated in the lectionary.
 
-The semi-continuous series from Epiphany 3 to the end of Ordinary Time is shown in bold.
+The semicontinuous series from Epiphany 3 to the end of Ordinary Time is shown in bold.
 
 ## Matthew (Year A)
 
