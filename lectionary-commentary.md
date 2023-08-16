@@ -30,7 +30,7 @@ Any feedback? Please [contact](/contact/) me!
 * [Ordinary Time](#ordinary-time-2)
 * [Festivals](#festivals)
 * [Further reading](#further-reading)
-* [Appendix: Gospels](#gospels)
+* [Appendix: Gospels](#appendix-gospels)
 * [Notes](#notes)
 
 # Introduction {#introduction}
@@ -1318,7 +1318,7 @@ Web resources
 * [Simon Sarmiento](http://justus.anglican.org/~ss/)
   * [Common Worship Changes to Revised Common Lectionary](http://justus.anglican.org/~ss/rcldifferences.html)
 
-# Gospels {#appendix-gospels}
+# Appendix: Gospels {#appendix-gospels}
 
 What follows will eventually be a complete index to each of the four Gospels, showing which passages are included, which are omitted because a parallel is included from one of the other Gospels, and which are simply omitted. See the [Introduction](#introduction) for a broad overview of how the Gospels are treated in the lectionary.
 
