@@ -16,7 +16,7 @@ Any feedback? Please [contact](/contact/) me!
 * Year B: hardly begun
 * Year C: complete from Palm Sunday onwards
 * Festivals: complete for January to March, and from September to December
-* Appendix: Gospels: work in progress
+* Appendix: Gospels: complete for Luke and John
 
 # Contents
 
@@ -45,7 +45,7 @@ For the Gospels, Year A focuses on Matthew, Year B on Mark, and Year C on Luke.
 
 John is read in all three years, mostly during the seasons (especially Easter), but with some appearances in Ordinary Time in Year B (such as a summer series on John 6).
 
-The Gospel readings on Sundays during Ordinary Time work semicontinuously through the central portions of Matthew, Mark and Luke. More precisely, this actually begins just before Ordinary Time, in Epiphany 3, with the start of Jesus' public ministry (or at least, it does in the RCL: see notes on Epiphany 3), continuing into February until 3 before Lent, and then the series resumes after Trinity, continuing until the Sunday before Advent. (The one exception is Year B, 3 before Advent, Mark 1.14-20.) Material from Matthew 1:1 &ndash; 4:11, Mark 1:1-13 and Luke 1:1 &ndash; 4:13 is included in Advent, Christmas, Epiphany 1 and Lent (along with extracts from other chapters), and the resurrection accounts are included during Easter. Note that the Passion narratives (Matthew 26-27, Mark 14-15 and Luke 22-23), with one or two small exceptions, are included _only_ on Palm Sunday, within the Liturgy of the Passion. See the [Appendix](#appendix-gospels) for details.
+The Gospel readings on Sundays during Ordinary Time work semicontinuously through the central portions of Matthew, Mark and Luke. More precisely, this actually begins just before Ordinary Time, in Epiphany 3, with the start of Jesus' public ministry (or at least, it does in the RCL: see notes on Epiphany 3), continuing into February until 3 before Lent, and then the series resumes after Trinity, continuing until the Sunday before Advent. (The one exception is Year B, 3 before Advent, Mark 1.14-20.) Material from Matthew 1.1 &ndash; 4.11, Mark 1.1-13 and Luke 1.1 &ndash; 4.13 is included in Advent, Christmas, Epiphany 1 and Lent (along with extracts from other chapters), and the resurrection accounts are included during Easter. Note that the Passion narratives (Matthew 26-27, Mark 14-15 and Luke 22-23), with one or two small exceptions, are included _only_ on Palm Sunday, within the Liturgy of the Passion. See the [Appendix](#appendix-gospels) for details.
 
 Acts is read at the Baptism of Christ, between Easter Day and Pentecost (vaguely sequentially), and on some Festivals.
 
@@ -300,7 +300,7 @@ Year A
 Year C
 
 * **1 Corinthians 15.12-20**, on the resurrection of the dead, continues the series in 1 Corinthians 15.
-* **Luke 6.17-26** continues the series in Luke, with the blessings and woes. **Jeremiah 17.5-10** continues the theme ('Cursed are those ...', 'Blessed are those ...'), as does **Psalm 1** ('Blessed are they ...', 'As for the wicked ...').
+* **Luke 6.17-26** continues the series in Luke, with the blessings and woes. (NB: Luke 6.20-31 set for All Saints' Day.) **Jeremiah 17.5-10** continues the theme ('Cursed are those ...', 'Blessed are those ...'), as does **Psalm 1** ('Blessed are they ...', 'As for the wicked ...').
 
 ## Sunday between 18 and 24 February (Proper 3)*
 
@@ -314,7 +314,7 @@ Year A
 Year C
 
 * **1 Corinthians 15.35-38, 42-50** concludes the series in 1 Corinthians 15, with extracts from the section on the resurrection body. (15.51-58 is the reading for the following week in the RCL.)
-* **Luke 6.27-38** continues the series in Luke (without a gap), and focuses on loving one's enemies. (6.39-49 is the reading for the following week in the RCL, which is omitted in Common Worship: see discussion below. To fill in the gap, this week's reading could be extended to 6.42 'when opportunity allows'.) **Genesis 45.3-11, 15** is about Joseph's love for his brothers, who had behaved like his enemies. **Psalm 37.1-11, 40, 41** (EV: 1-11, 39, 40) [or 37.1-7] calls us not to fret about evildoers.
+* **Luke 6.27-38** continues the series in Luke (without a gap), and focuses on loving one's enemies. (6.39-49 is the reading for the following week in the RCL, which is omitted in Common Worship: see discussion below. To fill in the gap, this week's reading could be extended to 6.42 'when opportunity allows'.) (NB: Luke 6.20-31 set for All Saints' Day.) **Genesis 45.3-11, 15** is about Joseph's love for his brothers, who had behaved like his enemies. **Psalm 37.1-11, 40, 41** (EV: 1-11, 39, 40) [or 37.1-7] calls us not to fret about evildoers.
 
 ## 2 before Lent
 
@@ -797,7 +797,6 @@ Year C
 * **1 Kings 17.8-16 [17-24]** continues the series on the prophets and in 1 and 2 Kings (out of sequence, presumably to give some connections with the Gospel reading), and tells of Elijah providing for the widow in Zaraphath [and raising her son: see the Gospel reading]. **Psalm 146** rejoices in the Lord's provision for the orphan and widow.
 * **Galatians 1.11-24** continues the series in Galatians, overlapping slightly with the previous section. Paul recounts his calling. 
 * **Luke 7.11-17** continues the series in Luke (without a gap), and tells of Jesus raising the widow's son in Nain. The 'Related' reading, **1 Kings 17.17-24** (also the optional section of the 'Continuous' reading) tells of Elijah raising the widow's son in Zaraphath. The 'Related' psalm, **Psalm 30** thanks God for raising the psalmist 'from the dead'.
-  * Luke 7.18-35: see Matthew 11.2-19, which is mostly covered on two separate occasions by Matthew 11.2-11 and 16-19.
 
 ## Sunday between 12 and 18 June (Proper 6)*
 
@@ -812,10 +811,6 @@ Year C
 * **1 Kings 21.1-10 [11-14] 15-21a** continues the series on the prophets and in 1 and 2 Kings, with Naboth's vineyard. **Psalm 5.1-8** is a plea to God in the face of 'the bloodthirsty and deceitful'.
 * **Galatians 2.15-21** continues the series in Galatians, on justification by faith.
 * **Luke 7.36 &ndash; 8.3** continues the series in Luke, with Jesus being anointed by the sinful woman, who had been forgiven. The 'Related' reading, **2 Samuel 11.26 &ndash; 12.10, 13-15** is about David being forgiven for his sin. The 'Related' psalm, **Psalm 32**, is about the blessing of forgiveness.
-  * Luke 8.4-15: partially covered by Matthew 13.1-9, 18-23
-  * Luke 8.16-18: omitted.
-  * Luke 8.19-21: see Mark 3.20-35.
-  * Luke 8.22-25: set for 2 before Lent, and also covered in Mark 4.35-41.
 
 ## Sunday between 19 and 25 June (Proper 7)*
 
@@ -830,15 +825,6 @@ Year C
 * **1 Kings 19.1-4 [5-7] 8-15a** continues the series on the prophets and in 1 and 2 Kings (out of sequence, for some reason), with Elijah fleeing to Horeb. **Psalms 42, 43** [or 42 or 43] reflect Elijah's troubled state and his longing for God.
 * **Galatians 3.23-29** continues the series in Galatians, on being children of God together.
 * **Luke 8.26-39** continues the series in Luke, with Jesus restoring the demon-possessed man. The 'Related' reading, **Isaiah 65.1-9** is about God holding out his hands to those who 'sit inside tombs' and 'eat swine's flesh'. The 'Related' psalm, **Psalm 22.19-28** praises God for his deliverance, and calls the nations to worship.
-  * Luke 8.40-56: see Matthew 9.9-13, 18-26 and Mark 5.21-43.
-  * Luke 9.1-9: see Mark 6.1-13 and 6.14-29.
-  * Luke 9.10-17: see Matthew 14.13-21 and John 6.1-21.
-  * Luke 9.18-27: see Mark 8.27-31.
-  * Luke 9.18-20: see Matthew 16.13-20.
-  * Luke 9.21-27: see Matthew 16.21-28 and Mark 8.31-38.
-  * Luke 9.28-43a: set for the Sunday next before Lent.
-  * Luke 9.43b-48: see Mark 9.30-37.
-  * Luke 9.49-50: see Mark 9.38-50.
 
 ## Sunday between 26 June and 2 July (Proper 8)
 
@@ -850,7 +836,7 @@ Year A
 
 Year C
 
-* **2 Kings 2.1-2, 6-14** continues the series on the prophets and in 1 and 2 Kings, and is about Elijah being taken into heaven and the water dividing before Elijah and Elisha. (Perhaps coincidentally, there is a link with Luke 9:51, which speaks of Jesus being 'taken up'.) **Psalm 77.1-2, 11-20** [or 77.11-20] is about the waters seeing God and being afraid.
+* **2 Kings 2.1-2, 6-14** continues the series on the prophets and in 1 and 2 Kings, and is about Elijah being taken into heaven and the water dividing before Elijah and Elisha. (Perhaps coincidentally, there is a link with Luke 9.51, which speaks of Jesus being 'taken up'.) **Psalm 77.1-2, 11-20** [or 77.11-20] is about the waters seeing God and being afraid.
 * **Galatians 5.1, 13-25** continues the series in Galatians, on the acts of the flesh and the fruit of the Spirit.
 * **Luke 9.51-62** continues the series in Luke, with Jesus heading towards Jerusalem and teaching on what it means to follow him. The 'Related' reading, **1 Kings 19.15-16, 19-21** is about Elisha following Elijah. The 'Related' psalm, **Psalm 16** is about following the Lord wholeheartedly.
 
@@ -861,8 +847,6 @@ Year C
 * **2 Kings 5.1-14** continues the series on the prophets, and concludes the series in 1 and 2 Kings, with Naaman being healed of leprosy. **Psalm 30** gives thanks to God for answered prayer.
 * **Galatians 6.[1-6] 7-16** concludes the series in Galatians, with an exhortation to do good to all.
 * **Luke 10.1-11, 16-20** continues the series in Luke (without a gap), with Jesus sending out the seventy-two who then return rejoicing. (10.12-15, 'woe to you...', could be included 'when opportunity allows': compare Matthew 11.16-19, 25-30, which also omits this bit.) The 'Related' reading, **Isaiah 66.10-14**, calls on people to rejoice. The 'Related' psalm, **Psalm 66.1-8** (EV: 1-9), begins with a call to be joyful.
-  * Luke 10.21-22: see Matthew 11.16-19, 25-30.
-  * Luke 10.23-24: omitted, but could be included if the gap is filled in Matthew 13.1-9, 18-23.
 
 ## Sunday between 10 and 16 July (Proper 10)
 
@@ -888,20 +872,6 @@ Year C
 * **Hosea 1.2-10** continues the series on the prophets, and is the first of two weeks in Hosea (moving on chronologically from Amos). Hosea's faithfulness to 'a wife of whoredom' is an image of God's faithfulness to Israel. **Psalm 85** [or 85.1-7] is about God's faithfulness to his people, forgiving their sins.
 * **Colossians 2.6-15 [16-19]** continues the series in Colossians, and is about fullness in Christ.
 * **Luke 11.1-13** continues the series in Luke (without a gap), and is about prayer. The 'Related' reading, **Genesis 18.20-32**, is from the same chapter as last week's reading, and is about Abraham interceding for Sodom. The 'Related' psalm, **Psalm 138**, gives thanks for answered prayer, and speaks of God differentiating between the lowly and the proud.
-  * Luke 11.14: omitted, along with its parallel in Matthew 12.22-23.
-  * Luke 11.15, 17-22: see Mark 3.20-35.
-  * Luke 11.16: omitted, along with its parallel in Matthew 12.38.
-  * Luke 11.23: omitted, along with its parallel in Matthew 12.30
-  * Luke 11.24-26: omitted, along with its parallel in Matthew 12.43-45.
-  * Luke 11.27-28: omitted.
-  * Luke 11.29-32: omitted, along with its parallel in Matthew 12.39-42.
-  * Luke 11.33: see Matthew 5.13-20.
-  * Luke 11.34-35: omitted, along with its parallel in Matthew 6.22-23.
-  * Luke 11.36: omitted.
-  * Luke 11.37-54 ('woe to you...'): omitted, along with Matthew 23, which contains many parallels (cf. RCL 'Proper 26').
-  * Luke 12.1-9: see Matthew 10.24-39.
-  * Luke 12.10: omitted, along with its parallel in Matthew 12.31-32.
-  * Luke 12.11-12: omitted (but see Matthew 10.17-22, set for Stephen). Compare Luke 21.5-19 (and Mark 13.5-13, set for Mark).
 
 ## Sunday between 31 July and 6 August (Proper 13)
 
@@ -910,8 +880,6 @@ Year C
 * **Hosea 11.1-11** continues the series on the prophets, and is the second of two weeks in Hosea. God loves Israel, despite their waywardness. **Psalm 107.1-9, 43** [or 107.1-9] is about God restoring those who have gone astray, because of his steadfast love.
 * **Colossians 3.1-11** concludes the series in Colossians, and is about dying to the old life and rising to the new life in Christ.
 * **Luke 12.13-21** continues the series in Luke, and is about possessions and the importance of being 'rich towards God'. The 'Related' reading, **Ecclesiastes 1.2, 12-14; 2.18-23** is about the futility of toiling in the face of death. The 'Related' psalm, **Psalm 49.1-12** [or 49.1-9], is a reminder that all will die and 'leave their riches to others'.
-  * Luke 12.22-30: set for Harvest Thanksgiving Year A. See also Matthew 6.25-34.
-  * Luke 12.31: see Matthew 6.25-34.
 
 ## Sunday between 7 and 13 August (Proper 14)
 
@@ -920,9 +888,6 @@ Year C
 * **Isaiah 1.1, 10-20** continues the series on the prophets, and is the first of two weeks in Isaiah (moving on chronologically from Hosea). Both readings are quite hard-hitting, which provides a smooth transition into Jeremiah. (Isaiah's call featured in Proper 1.) God has no pleasure in his people's offerings when their hands are 'full of blood'. **Psalm 50.1-8, 23, 24** (EV: 1-8, 22, 23) [or 50.1-7]  speaks of God testifying against his people, despite their sacrifices.
 * **Hebrews 11.1-3, 8-16** begins a series in Hebrews 11-13, and is about the faith of Abraham.
 * **Luke 12.32-40** continues the series in Luke, and is about treasure in heaven and the coming of the Son of Man. The choice of verses seems odd, but it captures the seamless transition between 'don't worry' (22-34) and 'be ready' (35-48). (The reading could be extended to verse 48, 'when opportunity allows'.) The 'Related' reading, **Genesis 15.1-6**, is about Abram looking to his reward and trusting God's promise. The 'Related' psalm, **Psalm 33.12-22** [or 33.12-21] is about waiting for God, who is our 'shield' (Genesis 15.1).
-  * Luke 12.41: omitted.
-  * Luke 12.42-46: omitted, along with its parallel in Matthew 24.45-51.
-  * Luke 12.47-48: omitted.
 
 ## Sunday between 14 and 20 August (Proper 15)
 
@@ -931,8 +896,6 @@ Year C
 * **Isaiah 5.1-7** continues the series on the prophets, and is the second of two weeks in Isaiah. God's vineyard, Israel, has 'yielded wild grapes'. **Psalm 80.1-2, 9-20** (EV: 1-2a, 8-19) [or 80.9-20 (EV: 8-19)] is about God's 'vine'.
 * **Hebrews 11.29 &ndash; 12.2** continues the series in Hebrews 11-13, and is about faith and perseverance.
 * **Luke 12.49-56** continues the series in Luke, and is about Jesus coming to bring 'fire to the earth', not bringing peace but division. The 'Related' reading, **Jeremiah 23.23-29**, speaks of God's word being like fire, and is about the God who fills heaven and earth coming in judgment. The 'Related' psalm, **Psalm 82**, calls on God to 'judge the earth'.
-  * Luke 12.57-59: see Matthew 5.21-37.
-  * Luke 13.1-9: set for Lent 3.
 
 ## Sunday between 21 and 27 August (Proper 16)
 
@@ -941,13 +904,6 @@ Year C
 * **Jeremiah 1.4-10** continues the series on the prophets, and begins an 8-week vaguely-sequential series in Jeremiah (moving on chronologically from Isaiah), along with one week in Lamentations. The series moves from warning to judgment to hope. This week, Jeremiah the prophet is commissioned, having been set apart before he was born. **Psalm 71.1-6** is about trusting in God from birth onwards.
 * **Hebrews 12.18-29** continues the series in Hebrews 11-13, contrasting Sinai with Mount Zion.
 * **Luke 13.10-17** continues the series in Luke, and is about the crippled woman being healed on the sabbath, so that she 'stood up straight and began praising God'. The 'Related' reading, **Isaiah 58.9b-14**, is about honouring the sabbath and delighting in God, who will 'satisfy your needs'. The 'Related' psalm, **Psalm 103.1-8**, speaks of God as the one who 'satisfies you with good things'.
-  * Luke 13.18-19: see Mark 4.26-34.
-  * Luke 13.18-21: see Matthew 13.31-33, 44-52.
-  * Luke 13.22-24: omitted, along with its close parallel in Matthew 7.13-14.
-  * Luke 13.25-27: see Matthew 7.21-29.
-  * Luke 13.28-29: omitted, along with its parallel in Matthew 8.11-12.
-  * Luke 13.30: see Matthew 20.1-16 and Mark 10.17-31.
-  * Luke 13.31-35: set for Lent 2.
 
 ## Sunday between 28 August and 3 September (Proper 17)
 
@@ -956,7 +912,6 @@ Year C
 * **Jeremiah 2.4-13** continues the series on the prophets and in Jeremiah, and is about God's people forsaking him in favour of 'cracked cisterns'. **Psalm 81.1, 10-16** [or 81.1-11] is about God's desire to 'fill' and 'satisfy' his people, but their refusal to listen.
 * **Hebrews 13.1-8, 15, 16** concludes the series in Hebrews 11-13, and is about the 'sacrifices' that are 'pleasing to God'.
 * **Luke 14.1, 7-14** continues the series in Luke, and is about taking the place of honour at a feast. (These verses are selected from verses 1-24, which form a single unit. The reading could be extended 'when opportunity allows'.) The 'Related' reading from the Apocrypha, **Ecclesiasticus 10.12-18**, is about pride and humility. The alternative 'Related' reading, **Proverbs 25.6-7**, says it is better to take the humble place and be exalted than vice versa. The 'Related' psalm, **Psalm 112**, says that those who give freely to the poor will be exalted.
-  * Luke 14.15-24: omitted, but see similar passage in Matthew 22.1-14.
 
 ## Sunday between 4 and 10 September (Proper 18)
 
@@ -965,7 +920,6 @@ Year C
 * **Jeremiah 18.1-11** continues the series on the prophets and in Jeremiah (out of sequence, perhaps to maintain a thematic sequence from warning to judgment, and perhaps chosen to fit with the Gospel reading and its themes of choice and consequences). God is the potter, and is calling his people to change their ways. **Psalm 139.1-5, 12-18** (EV: 1-6, 13-18) [or 139.1-7 (EV: 1-8)] is about the God who formed us (as a potter).
 * **Philemon 1-21** is Paul's appeal for runaway slave Onesimus. Perhaps it appears here because it mentions Timothy (see next week).
 * **Luke 14.25-33** continues the series in Luke, and is about the cost of being a disciple. (14.34-35 could be included for completeness 'when opportunity allows'.) The 'Related' reading, **Deuteronomy 30.15-20** calls its hearers to consider the benefits that follow when they 'choose life', and the curses that follow when they do not. The 'Related' psalm, **Psalm 1**, is about the blessings that await the righteous, and the judgment that awaits the wicked.
-  * Luke 14.34-35: see the similar saying in Matthew 5.13-20 and Mark 9.38-50.
 
 ## Sunday between 11 and 17 September (Proper 19)
 
@@ -974,7 +928,6 @@ Year C
 * **Jeremiah 4.11-12, 22-28** continues the series on the prophets and in Jeremiah, and is about the land becoming a desolation as a consequence of the people's foolishness. **Psalm 14** is about the foolishness of turning from God.
 * **1 Timothy 1.12-17** begins a three-week series in 1 Timothy. Paul, the foremost of sinners, received mercy.
 * **Luke 15.1-10** continues the series in Luke, and is about God welcoming sinners, and the parables of the lost sheep and the lost coin. (These parables go together with that of the lost son, which follows directly, and which is set for Lent 4, but which might have been 'displaced' by Mothering Sunday.) The 'Related' reading, **Exodus 32.7-14**, is about God forgiving sinners, after the incident with the golden calf. The 'Related' psalm, **Psalm 51.1-11** (EV: 1-10), is about the forgiveness of sins.
-  * Luke 15.11-32: set for Lent 4 (NB: Mothering Sunday).
 
 ## Sunday between 18 and 24 September (Proper 20)
 
@@ -983,10 +936,6 @@ Year C
 * **Jeremiah 8.18 &ndash; 9.1** continues the series on the prophets and in Jeremiah, and expresses sorrow for the pain of 'my poor people'. **Psalm 79.1-9** cries out to God over the desolation of Jerusalem.
 * **1 Timothy 2.1-7** continues the series in 1 Timothy, with a call to pray for everyone.
 * **Luke 16.1-13** continues the series in Luke, with the parable of the shrewd and dishonest manager. The 'Related' reading, **Amos 8.4-7**, speaks against those who 'trample on the needy' and 'practise deceit'. The 'Related' psalm, **Psalm 113**, speaks of God who 'lifts the needy from the ashes'.
-  * Luke 16.14-15: omitted.
-  * Luke 16.16: omitted, along with its parallel in Matthew 11.12-13.
-  * Luke 16:17: see Matthew 5.13-20.
-  * Luke 16:18: see Matthew 5.21-37 and Mark 10.2-16.
 
 ## Sunday between 25 September and 1 October (Proper 21)
 
@@ -995,8 +944,6 @@ Year C
 * **Jeremiah 32.1-3a, 6-15** continues the series on the prophets and in Jeremiah, and begins to glimpse hope for the distant future, with the purchase of a field. **Psalm 91.1-6, 14-16** [or 91.11-16] promises deliverance for those who take refuge in God.
 * **1 Timothy 6.6-19** concludes the series in 1 Timothy, with a call to 'Fight the good fight of the faith', and with teaching about riches (which &ndash; coincidentally? &ndash; fits well with the Gospel reading).
 * **Luke 16.19-31** continues the series in Luke, with the rich man and Lazarus. The 'Related' reading, **Amos 6.1a, 4-7**, is a warning for the rich. The 'Related' psalm, **Psalm 146**, warns that princes will perish, but promises 'bread to those who hunger'.
-  * Luke 17.1-2: omitted, along with its parallel in Matthew 18.6-7.
-  * Luke 17.3-4: see Matthew 18.15-20 and 18.21-35.
 
 ## Sunday between 2 and 8 October (Proper 22)
 
@@ -1013,17 +960,6 @@ Year C
 * **Jeremiah 29.1, 4-7** continues the series on the prophets and in Jeremiah, and is a word of comfort and assurance for God's people in exile (out of sequence, presumably for thematic reasons). (Extending the reading by a few verses would provide additional comfort.) **Psalm 66.1-11** (EV: 1-12) is about being brought 'through fire and water ... into a place of liberty'.
 * **2 Timothy 2.8-15** continues the series in 2 Timothy, with a call to endurance.
 * **Luke 17.11-19** continues the series in Luke (without a gap), with the cleansing of the ten lepers, only one of whom (a Samaritan) gave praise to God. (See also Harvest Thanksgiving.) The 'Related' reading, **2 Kings 5.1-3, 7-15c**, is about Naaman being cured of leprosy. The 'Related' psalm, **Psalm 111**, is a psalm of thanksgiving for God's powerful works.
-  * Luke 17.20-22: omitted
-  * Luke 17.23: omitted, along with its parallel in Matthew 24.23. Compare Luke 21.5-19.
-  * Luke 17.24: omitted, along with its parallel in Matthew 24.27.
-  * Luke 17.25: various parallels.
-  * Luke 17.26-27: see Matthew 24.36-44.
-  * Luke 17.28-30: omitted.
-  * Luke 17.31: omitted, along with its parallel in Matthew 24.17-18.
-  * Luke 17.32: omitted.
-  * Luke 17.33: various parallels.
-  * Luke 17.34-35[36]: see Matthew 24.36-44.
-  * Luke 17.37: omitted, along with its parallel in Matthew 24.28.
 
 ## Sunday between 16 and 22 October (Proper 24)
 
@@ -1042,10 +978,6 @@ Year C
 * **Joel 2.23-32** concludes the series on the prophets, with a single extract from Joel. Joel is difficult to date, so it is unlikely that this passage is here for chronological reasons. It follows well from last week, with the promise that God will pour abundant rain on the earth, and his spirit on all flesh. **Psalm 65** [or 65.1-7 (EV: 1-8)] is about God watering the earth abundantly.
 * **2 Timothy 4.6-8, 16-18** concludes the series in 2 Timothy, with Paul looking towards his departure.
 * **Luke 18.9-14** continues the series in Luke (without a gap), with the parable of the Pharisee and the tax-collector. The 'Related' reading, **Ecclesiasticus 35.12-17**, is about God listening to the prayer of the poor (the tax-collector being taken as someone who is poor, at least in spirit, presumably). The alternative 'Related' reading, **Jeremiah 14.7-10, 19-22**, is a confession of sin and a plea for God's help. The 'Related' psalm, **Psalm 84.1-7** (EV: 1-8), expresses a desire 'to enter the courts of the Lord', and asks God to 'hear my prayer'.
-  * Luke 18.15-17: see Mark 10.2-16.
-  * Luke 18.18-30: see Mark 10.17-31.
-  * Luke 18.31-34: see Mark 9.30-32 for a close parallel.
-  * Luke 18.35-43: see Mark 10.46-52.
 
 ## The Last Sunday after Trinity if observed as Bible Sunday
 
@@ -1081,14 +1013,6 @@ Year C
 
 * **2 Thessalonians 1.1-12** begins a three-week series in 2 Thessalonians. Paul looks ahead to the coming of Jesus.
 * **Luke 19.1-10** continues the series in Luke, with Zacchaeus the repentant and forgiven tax-collector. **Isaiah 1.10-18** is a call to repentance and to seek justice, with a promise of forgiveness. **Psalm 32.1-8** (EV: 1-7) is about repentance and forgiveness.
-  * Luke 19.11-27: see Matthew 25.14-30.
-  * Luke 19.28-40: set for Palm Sunday.
-  * Luke 19.41-44: omitted.
-  * Luke 19.45-46: see Matthew 21.12-16 (Dedication Festival, Year A) and John 2.13-22 (Lent 3, Year B, and Dedication Festival, Year C).
-  * Luke 19.47-48: omitted.
-  * Luke 20.1-8: see Matthew 21.23-32.
-  * Luke 20.9-19: see Matthew 21.33-46.
-  * Luke 20.20-26: see Matthew 22.15-22.
 
 ## 3 before Advent (between 6 and 12 November)
 
@@ -1104,10 +1028,6 @@ Year C
 
 * **2 Thessalonians 2.1-5, 13-17** continues the series in 2 Thessalonians, with more on the coming of Jesus.
 * **Luke 20.27-38** continues the series in Luke, and picks up the end-times emphasis of the Sundays before Advent, with Jesus and the Sadducees discussing the resurrection and marriage. **Job 19.23-27a** contains a glimpse of resurrection hope. **Psalm 17.1-9** [or 17.1-8] follows Job in pleading integrity before God.
-  * Luke 20.39: omitted.
-  * Luke 20.40-44: see Matthew 22.34-46.
-  * Luke 20.45-47: omitted, along with its parallels in Matthew 23.1-7 (included last week in RCL Year A) and Mark 12.38-40 (included this week in RCL Year B).
-  * Luke 21.1-4 (widow's offering): omitted, along with its parallel in Mark 12.41-44 (included this week in RCL Year B).
 
 ## 2 before Advent (between 13 and 19 November)
 
@@ -1119,12 +1039,6 @@ Year C
 
 * **2 Thessalonians 3.6-13** concludes the series in 2 Thessalonians, with a warning against idleness.
 * **Luke 21.5-19** continues the series in Luke, and continues the end-times emphasis of the Sundays before Advent, with Jesus speaking about the destruction of the temple and the signs of the end times. **Malachi 4.1-2a** looks ahead to a day of destruction. **Psalm 98** says that the Lord 'comes to judge the earth'.
-  * Luke 21.20-24: omitted, along with near parallels in Matthew 24.15-21 and Mark 13.14-19.
-  * Luke 21.25-36: set for Advent 1.
-  * Luke 21.37-38: omitted.
-  * Luke 22.1-6: see Mark 14.1-2, 10-11, included in Mark 14.1 &ndash; 15.47 (Palm Sunday).
-  * Luke 22.7-13: see Mark 14.12-16, included in Mark 14.1 &ndash; 15.47 (Palm Sunday).
-  * Luke 22.14-23.56: set for Palm Sunday.
 
 ## Christ the King: 1 before Advent (between 20 and 26 November)
 
@@ -1136,11 +1050,6 @@ Year C
 * **Psalm 46** has God reigning over the nations, causing wars to cease.
 * **Colossians 1.11-20** is about 'the kingdom of [God's] beloved Son', in whom all things in heaven and on earth hold together.
 * **Luke 23.33-43** concludes the series in Luke, with an extract from the Passion narrative (set for Palm Sunday). One of the crucified criminals acknowledges Christ as King.
-  * Luke 22.14-23.56: set for Palm Sunday.
-  * Luke 24.1-12: set for Easter Vigil (or Easter Day).
-  * Luke 24.13-35: set for Easter 3 (Year A).
-  * Luke 24.36-48: set for Easter 3 (Year B).
-  * Luke 24.44-53: set for Ascension Day.
 
 # Festivals {#festivals}
 
@@ -1413,7 +1322,7 @@ Web resources
 
 What follows will eventually be a complete index to each of the four Gospels, showing which passages are included, which are omitted because a parallel is included from one of the other Gospels, and which are simply omitted. See the [Introduction](#introduction) for a broad overview of how the Gospels are treated in the lectionary.
 
-The semicontinuous series from Epiphany 3 to the end of Ordinary Time is shown in bold.
+For Matthew, Mark and Luke, the semicontinuous series from Epiphany 3 to the end of Ordinary Time is shown in bold.
 
 ## Matthew (Year A)
 
@@ -1436,7 +1345,7 @@ The semicontinuous series from Epiphany 3 to the end of Ordinary Time is shown i
 * Matthew 6.16-21: Ash Wednesday.
 * Matthew 6.22-23: omitted, along with its parallel in Luke 11.34-35.
 * Matthew 6.24: see Luke 16.1-13.
-* Matthew 6.25-34: 2 before Lent, Harvest Thanksgiving, Year B.
+* Matthew 6.25-34: 2 before Lent; Harvest Thanksgiving, Year B.
 * Matthew 7.1-2: see Luke 6.27-38.
 * Matthew 7.3-5: omitted, along with its parallel in Luke 6.41-42 (NB: RCL 'Proper 3').
 * Matthew 7.6: omitted.
@@ -1469,6 +1378,8 @@ The semicontinuous series from Epiphany 3 to the end of Ordinary Time is shown i
 * Matthew 11.12-13: omitted, along with its parallel in Luke 16.16.
 * Matthew 11.14: omitted, along with its parallel in Mark 9.13.
 * Matthew 11.15: common saying, included elsewhere ('Let anyone with ears listen!').
+* ...
+* Matthew 11.20-24: omitted, along with its parallel in Luke 10.12-15.
 * ...
 * Matthew 17.1-9: 1 before Lent.
 * ...
@@ -1507,7 +1418,8 @@ The semicontinuous series from Epiphany 3 to the end of Ordinary Time is shown i
 * Luke 3.23-38: omitted.
 * Luke 4.1-13: Lent 1.
 * Luke 4.14-21: **Epiphany 3**.
-* Luke 4.22-30: omitted (except 4.16-24 set for Bible Sunday) (NB: RCL Epiphany 4).
+* Luke 4.16-24: Bible Sunday.
+* Luke 4.25-30: omitted (NB: RCL Epiphany 4).
 * Luke 4.31-37: see Mark 1.21-28.
 * Luke 4.38-44: see Mark 1.29-39.
 * Luke 5.1-11: **Proper 1**.
@@ -1515,9 +1427,10 @@ The semicontinuous series from Epiphany 3 to the end of Ordinary Time is shown i
 * Luke 5.17-26: see Mark 2.1-12.
 * Luke 5.27-32: see Matthew 9.9-13.
 * Luke 5.33-39: omitted, along with its parallels in Matthew 9.14-17 and Mark 2.18-22 (NB: RCL 'Proper 3').
-* Luke 6.1-11: see Mark 2.23-3.6.
+* Luke 6.1-11: see Mark 2.23 &ndash; 3.6.
 * Luke 6.12-16: see Matthew 9.35 &ndash; 10.8.
 * Luke 6.17-26: **Proper 2**.
+* Luke 6.20-31: All Saints' Day.
 * Luke 6.27-38: **Proper 3**.
 * Luke 6.39-49 (NB: RCL 'Proper 3')...
   * Luke 6.39 ('Can a blind person guide a blind person?'): see Matthew 15.14, which is included in Matthew 15.[10-20] 21-28.
@@ -1528,12 +1441,122 @@ The semicontinuous series from Epiphany 3 to the end of Ordinary Time is shown i
   * Luke 6.46 ('Lord ... do what I say'): see Matthew 7.21, which is included in 7.21-29.
   * Luke 6.47-49 ('house ... without a foundation'): see Matthew 7.24-27, which is included in 7.21-29.
 * Luke 7.1-10: **Proper 4**.
-* ...
+* Luke 7.11-17: **Proper 5**.
+* Luke 7.18-35: see Matthew 11.2-19, which is mostly covered on two separate occasions by Matthew 11.2-11 and 16-19.
+* Luke 7.36 &ndash; 8.3: **Proper 6**.
+* Luke 8.4-15: partially covered by Matthew 13.1-9, 18-23
+* Luke 8.16-18: omitted.
+* Luke 8.19-21: see Mark 3.20-35.
+* Luke 8.22-25: 2 before Lent, also covered in Mark 4.35-41.
+* Luke 8.26-39: **Proper 7**.
+* Luke 8.40-56: see Matthew 9.9-13, 18-26 and Mark 5.21-43.
+* Luke 9.1-9: see Mark 6.1-13 and 6.14-29.
+* Luke 9.10-17: see Matthew 14.13-21 and John 6.1-21.
+* Luke 9.18-27: see Mark 8.27-31.
+* Luke 9.18-20: see Matthew 16.13-20.
+* Luke 9.21-27: see Matthew 16.21-28 and Mark 8.31-38.
+* Luke 9.28-43a: 1 before Lent.
+* Luke 9.43b-48: see Mark 9.30-37.
+* Luke 9.49-50: see Mark 9.38-50.
+* Luke 9.51-62: **Proper 8**.
+* Luke 10.1-11, 16-20: **Proper 9**.
+* Luke 10.12-15: omitted, along with its parallel in Matthew 11.20-24. (Could be included in Luke 10.1-11, 16-20.)
+* Luke 10.21-22: see Matthew 11.16-19, 25-30.
+* Luke 10.23-24: omitted, but could be included if the gap is filled in Matthew 13.1-9, 18-23.
+* Luke 10.25-37: **Proper 10**.
+* Luke 10.38-42: **Proper 11**.
+* Luke 11.1-13: **Proper 12**.
+* Luke 11.14: omitted, along with its parallel in Matthew 12.22-23.
+* Luke 11.15, 17-22: see Mark 3.20-35.
+* Luke 11.16: omitted, along with its parallel in Matthew 12.38.
+* Luke 11.23: omitted, along with its parallel in Matthew 12.30
+* Luke 11.24-26: omitted, along with its parallel in Matthew 12.43-45.
+* Luke 11.27-28: omitted.
+* Luke 11.29-32: omitted, along with its parallel in Matthew 12.39-42.
+* Luke 11.33: see Matthew 5.13-20.
+* Luke 11.34-35: omitted, along with its parallel in Matthew 6.22-23.
+* Luke 11.36: omitted.
+* Luke 11.37-54 ('woe to you...'): omitted, along with Matthew 23, which contains many parallels (cf. RCL 'Proper 26').
+* Luke 12.1-9: see Matthew 10.24-39.
+* Luke 12.10: omitted, along with its parallel in Matthew 12.31-32.
+* Luke 12.11-12: omitted (but see Matthew 10.17-22, set for Stephen). Compare Luke 21.5-19 (and Mark 13.5-13, set for Mark).
+* Luke 12.13-21: **Proper 13**.
+* Luke 12.22-30: Harvest Thanksgiving, Year A. See also Matthew 6.25-34.
+* Luke 12.31: see Matthew 6.25-34.
+* Luke 12.32-40: **Proper 14**.
+* Luke 12.41: omitted.
+* Luke 12.42-46: omitted, along with its parallel in Matthew 24.45-51.
+* Luke 12.47-48: omitted.
+* Luke 12.49-56: **Proper 15**.
+* Luke 12.57-59: see Matthew 5.21-37.
+* Luke 13.1-9: Lent 3.
+* Luke 13.10-17: **Proper 16**.
+* Luke 13.18-19: see Mark 4.26-34.
+* Luke 13.18-21: see Matthew 13.31-33, 44-52.
+* Luke 13.22-24: omitted, along with its close parallel in Matthew 7.13-14.
+* Luke 13.25-27: see Matthew 7.21-29.
+* Luke 13.28-29: omitted, along with its parallel in Matthew 8.11-12.
+* Luke 13.30: see Matthew 20.1-16 and Mark 10.17-31.
+* Luke 13.31-35: Lent 2.
+* Luke 14.1, 7-14: **Proper 17**.
+* Luke 14.2-6: omitted.
+* Luke 14.15-24: omitted, but see similar passage in Matthew 22.1-14.
+* Luke 14.25-33: **Proper 18**.
+* Luke 14.34-35: see the similar saying in Matthew 5.13-20 and Mark 9.38-50.
+* Luke 15.1-10: **Proper 19**.
+* Luke 15.11-32: Lent 4 (NB: Mothering Sunday).
+* Luke 16.1-13: **Proper 20**.
+* Luke 16.14-15: omitted.
+* Luke 16.16: omitted, along with its parallel in Matthew 11.12-13.
+* Luke 16.17: see Matthew 5.13-20.
+* Luke 16.18: see Matthew 5.21-37 and Mark 10.2-16.
+* Luke 16.19-31: **Proper 21**.
+* Luke 17.1-2: omitted, along with its parallel in Matthew 18.6-7.
+* Luke 17.3-4: see Matthew 18.15-20 and 18.21-35.
+* Luke 17.5-10: **Proper 22**.
+* Luke 17.11-19: **Proper 23**.
+* Luke 17.20-22: omitted
+* Luke 17.23: omitted, along with its parallel in Matthew 24.23. Compare Luke 21.5-19.
+* Luke 17.24: omitted, along with its parallel in Matthew 24.27.
+* Luke 17.25: various parallels.
+* Luke 17.26-27: see Matthew 24.36-44.
+* Luke 17.28-30: omitted.
+* Luke 17.31: omitted, along with its parallel in Matthew 24.17-18.
+* Luke 17.32: omitted.
+* Luke 17.33: various parallels.
+* Luke 17.34-35[36]: see Matthew 24.36-44.
+* Luke 17.37: omitted, along with its parallel in Matthew 24.28.
+* Luke 18.1-8: **Proper 24**.
+* Luke 18.9-14: **Proper 25**.
+* Luke 18.15-17: see Mark 10.2-16.
+* Luke 18.18-30: see Mark 10.17-31.
+* Luke 18.31-34: see Mark 9.30-32 for a close parallel.
+* Luke 18.35-43: see Mark 10.46-52.
+* Luke 19.1-10: **4 before Advent**.
+* Luke 19.11-27: see Matthew 25.14-30.
 * Luke 19.28-40: Palm Sunday.
-* ...
+* Luke 19.41-44: omitted.
+* Luke 19.45-46: see Matthew 21.12-16 (Dedication Festival, Year A) and John 2.13-22 (Lent 3, Year B, and Dedication Festival, Year C).
+* Luke 19.47-48: omitted.
+* Luke 20.1-8: see Matthew 21.23-32.
+* Luke 20.9-19: see Matthew 21.33-46.
+* Luke 20.20-26: see Matthew 22.15-22.
+* Luke 20.27-38: **3 before Advent**.
+* Luke 20.39: omitted.
+* Luke 20.40-44: see Matthew 22.34-46.
+* Luke 20.45-47: omitted, along with its parallels in Matthew 23.1-7 (included in RCL 'Proper 26', Year A) and Mark 12.38-40 (included in RCL 'Proper 27'. Year B).
+* Luke 21.1-4 (widow's offering): omitted, along with its parallel in Mark 12.41-44 (included in RCL 'Proper 27', Year B).
+* Luke 21.5-19: **2 before Advent**.
+* Luke 21.20-24: omitted, along with near parallels in Matthew 24.15-21 and Mark 13.14-19.
+* Luke 21.25-36: Advent 1.
+* Luke 21.37-38: omitted.
+* Luke 22.1-6: see Mark 14.1-2, 10-11, included in Mark 14.1 &ndash; 15.47 (Palm Sunday).
+* Luke 22.7-13: see Mark 14.12-16, included in Mark 14.1 &ndash; 15.47 (Palm Sunday).
 * Luke 22.14 &ndash; 23.56: Palm Sunday.
+* Luke 23.33-43: **1 before Advent**.
 * Luke 24.1-12: Easter Vigil; Easter Day (second alternative).
-* Luke 24.13-35: Easter 3.
+* Luke 24.13-35: Easter 3, Year A.
+* Luke 24.36-48: Easter 3, Year B.
 * Luke 24.44-53: Ascension Day, Years A, B and C.
 
 ## John (Years A, B and C)
