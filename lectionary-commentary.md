@@ -248,9 +248,6 @@ RCL has Mark 1.14-20 as the Gospel reading, which is replaced by John 2.1-11.
 Year C
 
 * **Luke 4.14-21**
-  * Luke 4.22-30: omitted (except 4.16-24 set for Bible Sunday) (NB: RCL Epiphany 4).
-  * Luke 4.31-37: see Mark 1.21-28.
-  * Luke 4.38-44: see Mark 1.29-39.
 
 ## Epiphany 4*
 
@@ -290,12 +287,6 @@ Year C
 
 * **1 Corinthians 15.1-11**, on the preaching of the resurrection, begins a three-part series on 1 Corinthians 15, covering most of the chapter. (NB: on Easter Day, verses 1-11 are read in Year B, and verses 19-26 in Year C.)
 * **Luke 5.1-11** begins/resumes a semicontinuous series in Luke 5-21 (plus a bit of 23), which covers these three Sundays in February, and all the Sundays between Trinity and Advent. Jesus calls his first disciples. **Isaiah 6.1-8 [9-13]** continues the theme of calling, with the calling of Isaiah. Isaiah saw the Lord, 'high and lofty', in his heavenly temple, and **Psalm 138** refers to God as 'high' and speaks of his 'holy temple'.
-  * Luke 5.12-16: see Mark 1.40-45.
-  * Luke 5.17-26: see Mark 2.1-12.
-  * Luke 5.27-32: see Matthew 9.9-13.
-  * Luke 5.33-39: omitted, along with its parallels in Matthew 9.14-17 and Mark 2.18-22 (NB: RCL 'Proper 3').
-  * Luke 6.1-11: see Mark 2.23-3.6.
-  * Luke 6.12-16: see Matthew 9.35 &ndash; 10.8.
 
 ## Sunday between 11 and 17 February (Proper 2)*
 
@@ -329,17 +320,7 @@ Year C
 
 Creation theme.
 
-The addition of this creation-themed week means that 'Proper 3' in the RCL is not included (although the Gospel reading for Year A is almost the same). The Gospel readings from that week contain several famous sayings of Jesus:
-
-* Mark 2.13-22 ('I have come to call not the righteous but sinners ... new wine into old wineskins'). The parallel passage in Luke 5.27-38 is also omitted, but the other parallel in Matthew 9.9-17 is partially included in Matthew 9.9-13, 18-26, and the gap could easily be filled.
-* Luke 6.39-49...
-  * 6.39 ('Can a blind person guide a blind person?'): see Matthew 15.14, which is included in Matthew 15.[10-20] 21-28.
-  * 6.40 ('A disciple is not above the teacher'): see John 13.16, which is included on Maundy Thursday.
-  * 6.41-42 ('speck ... log'): see Matthew 7.3-5, which is also omitted (last week's reading could be extended to this point).
-  * 6.43-44 ('tree is known by its fruit'): see Matthew 7.16, 18, 20, which could be included by extending the reading from 7.21-29 to begin at verse 16.
-  * 6.45 ('it is out of the abundance of the heart that the mouth speaks'): see Matthew 12.34-35 (which is omitted) and a near parallel in Mark 7.20-23, which is (mostly) included in Mark 7.1-8, 14, 15, 21-23.
-  * 6.46 ('Lord ... do what I say'): see Matthew 7.21, which is included in 7.21-29.
-  * 6.47-49 ('house ... without a foundation'): see Matthew 7.24-27, which is included in 7.21-29.
+The addition of this creation-themed week means that 'Proper 3' in the RCL is not included (although the Gospel reading for Year A is almost the same). The Gospel readings from that week contain several famous sayings of Jesus: see the the [Appendix](#appendix-gospels) for Mark 2.13-22 and Luke 6.39-49.
 
 Year A
 
@@ -795,7 +776,7 @@ Year A
 
 * **Genesis 6.9-22; 7.24; 8.14-19** begins a long series in the Pentateuch (Genesis, Exodus and Deuteronomy 34), which covers all of the Sundays after Trinity. (In the RCL, the series begins at Genesis 1.1 on Trinity Sunday.) A brief account is provided of Noah and the flood. **Psalm 46** says, 'Therefore we will not fear, though ... the waters rage and swell'. (Perhaps intentionally, there is a link with the 'floods' in the Gospel reading.)
 * **Romans 1.16, 17; 3.22b-28 [29-31]** begins a 16-part semicontinuous series in Romans, and is about the righteousness of God through faith.
-* **Matthew 7.21-29** continues the series in Matthew (from 2 before Lent), on the theme of hearing and doing, with the house on rock or sand, and the floods coming. The 'Related' reading, **Deuteronomy 11.18-21, 26-28**, is about blessing following obedience, and curse following disobedience. The 'Related' psalm, **Psalm 31.1-5, 19-24** [or 31.19-24] mentions God being a 'strong rock', and speaks of the blessings that come from fearing God.
+* **Matthew 7.21-29** continues the series in Matthew (from 2 before Lent), on the theme of hearing and doing, with the house on rock or sand, and the floods coming. (If the reading is extended to begin at verse 16, this would restore to the lectionary some important sayings that are omitted by Common Worship: see RCL 'Proper 3' and Luke 6.43-44.) The 'Related' reading, **Deuteronomy 11.18-21, 26-28**, is about blessing following obedience, and curse following disobedience. The 'Related' psalm, **Psalm 31.1-5, 19-24** [or 31.19-24] mentions God being a 'strong rock', and speaks of the blessings that come from fearing God.
 
 Year C
 
@@ -1430,7 +1411,7 @@ Web resources
 
 # Gospels {#appendix-gospels}
 
-What follows will eventually be a complete index to each of the four Gospels, showing which passages are included, which are omitted because a parallel is included elsewhere, and which are simply omitted. See the [Introduction](#introduction) for a broad overview of how the Gospels are treated in the lectionary.
+What follows will eventually be a complete index to each of the four Gospels, showing which passages are included, which are omitted because a parallel is included from one of the other Gospels, and which are simply omitted. See the [Introduction](#introduction) for a broad overview of how the Gospels are treated in the lectionary.
 
 The semicontinuous series from Epiphany 3 to the end of Ordinary Time is shown in bold.
 
@@ -1497,7 +1478,7 @@ The semicontinuous series from Epiphany 3 to the end of Ordinary Time is shown i
 * ...
 * Matthew 26.14 &ndash; 27.66: Palm Sunday.
 * Matthew 27.57-66: Easter Eve, Years A, B and C (first alternative).
-* Matthew 28.1-10: Easter Vigil, Easter Day (second alternative)
+* Matthew 28.1-10: Easter Vigil; Easter Day (second alternative)
 * ...
 * Matthew 28.16-20: Trinity.
 
@@ -1506,6 +1487,9 @@ The semicontinuous series from Epiphany 3 to the end of Ordinary Time is shown i
 * Mark 1.1-8: Advent 2.
 * Mark 1.4-11: Epiphany 1.
 * Mark 1.9-15: Lent 1.
+* ...
+* Mark 2.13-22 ('I have come to call not the righteous but sinners ... new wine into old wineskins'). The parallel passage in Luke 5.27-38 is also omitted, but the other parallel in Matthew 9.9-17 is partially included in Matthew 9.9-13, 18-26, and the gap could easily be filled.
+
 
 ## Luke (Year C)
 
@@ -1513,7 +1497,8 @@ The semicontinuous series from Epiphany 3 to the end of Ordinary Time is shown i
 * Luke 1.26-38: Advent 4, Year B; Annunciation.
 * Luke 1.39-56: Advent 4 (omitting verse 56); 1.46-55 (the Magnificat) as the canticle for Advent 3 or 4 (1.39-56: Visit of the Blessed Virgin Mary to Elizabeth; 1.46-56: Blessed Virgin Mary).
 * Luke 1.57-80: omitted from the main lectionary, but 1.68-79 (the Benedictus) is included as the canticle for Advent 2 (1.57-66, 80: Birth of John the Baptist).
-* Luke 2.1-20: Christmas (I and II).
+* Luke 2.1-14 [15-20]: Christmas I.
+* Luke 2.[1-7] 8-20: Christmas II.
 * Luke 2.15-21: Christmas 1, Year B; Naming and Circumcision of Jesus.
 * Luke 2.22-40: Epiphany 4, Candlemas (2.33-35: Mothering Sunday, first alternative).
 * Luke 2.41-52: Christmas 1.
@@ -1521,6 +1506,35 @@ The semicontinuous series from Epiphany 3 to the end of Ordinary Time is shown i
 * Luke 3.7-22: 3.7-18: Advent 3; 3.15-17, 21, 22: Epiphany 1 (3.19, 20: see Mark 6.14-29).
 * Luke 3.23-38: omitted.
 * Luke 4.1-13: Lent 1.
+* Luke 4.14-21: **Epiphany 3**.
+* Luke 4.22-30: omitted (except 4.16-24 set for Bible Sunday) (NB: RCL Epiphany 4).
+* Luke 4.31-37: see Mark 1.21-28.
+* Luke 4.38-44: see Mark 1.29-39.
+* Luke 5.1-11: **Proper 1**.
+* Luke 5.12-16: see Mark 1.40-45.
+* Luke 5.17-26: see Mark 2.1-12.
+* Luke 5.27-32: see Matthew 9.9-13.
+* Luke 5.33-39: omitted, along with its parallels in Matthew 9.14-17 and Mark 2.18-22 (NB: RCL 'Proper 3').
+* Luke 6.1-11: see Mark 2.23-3.6.
+* Luke 6.12-16: see Matthew 9.35 &ndash; 10.8.
+* Luke 6.17-26: **Proper 2**.
+* Luke 6.27-38: **Proper 3**.
+* Luke 6.39-49 (NB: RCL 'Proper 3')...
+  * Luke 6.39 ('Can a blind person guide a blind person?'): see Matthew 15.14, which is included in Matthew 15.[10-20] 21-28.
+  * Luke 6.40 ('A disciple is not above the teacher'): see John 13.16, which is included on Maundy Thursday.
+  * Luke 6.41-42 ('speck ... log'): omitted, along with its parallel in Matthew 7.3-5.
+  * Luke 6.43-44 ('tree is known by its fruit'): see Matthew 7.16, 18, 20, which could be included by extending the reading from 7.21-29 to begin at verse 16.
+  * Luke 6.45 ('it is out of the abundance of the heart that the mouth speaks'): see Matthew 12.34-35 (which is omitted) and a near parallel in Mark 7.20-23, which is (mostly) included in Mark 7.1-8, 14, 15, 21-23.
+  * Luke 6.46 ('Lord ... do what I say'): see Matthew 7.21, which is included in 7.21-29.
+  * Luke 6.47-49 ('house ... without a foundation'): see Matthew 7.24-27, which is included in 7.21-29.
+* Luke 7.1-10: **Proper 4**.
+* ...
+* Luke 19.28-40: Palm Sunday.
+* ...
+* Luke 22.14 &ndash; 23.56: Palm Sunday.
+* Luke 24.1-12: Easter Vigil; Easter Day (second alternative).
+* Luke 24.13-35: Easter 3.
+* Luke 24.44-53: Ascension Day, Years A, B and C.
 
 ## John (Years A, B and C)
 
