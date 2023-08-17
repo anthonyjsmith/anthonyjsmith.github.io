@@ -12,7 +12,7 @@ Any feedback? Please [contact](/contact/) me!
 
 **_Work in progress!_**
 
-* Year A: complete from Advent 1 through Trinity to Proper 9
+* Year A: complete from Advent 1 through Trinity to Proper 10
 * Year B: hardly begun
 * Year C: complete from Palm Sunday onwards
 * Festivals: complete for January to March, and from September to December
@@ -845,7 +845,7 @@ Year C
 Year A
 
 * **Genesis 24.34-38, 42-49, 58-67** continues the series in the Pentateuch and in Genesis, and is about Abraham's servant finding a wife (Rebekah) for Isaac. **Psalm 45.10-17** is about a royal bride being brought to the king. Alternatively, the canticle, **Song of Solomon 2.8-13** is about the meeting of the woman and her beloved.
-* **Romans 7.15-25a** continues the series in Romans, and is about delighting 'in the law of God' but being 'captive to the law of sin'.
+* **Romans 7.15-25a** continues the series in Romans, and is about delighting 'in the law of God' but being 'captive to the law of sin'. (The whole of verse 25 could be included.)
 * **Matthew 11.16-19, 25-30** continues the series in Matthew, and is about negative and positive responses to Jesus, who is 'gentle and humble in heart', and calls all who are weary to come to him. (11.20-24, 'woe to you...', could be included 'when opportunity allows': compare Luke 10.1-11, 16-20, which also omits this bit.) The 'Related' reading, **Zechariah 9.9-12** is about Zion's king coming in humility. The 'Related' psalm, **Psalm 145.8-15** (EV: 8-14), says, 'The Lord is gracious and merciful' and 'loving to everyone'.
 
 Year C
@@ -855,6 +855,12 @@ Year C
 * **Luke 10.1-11, 16-20** continues the series in Luke (without a gap), with Jesus sending out the seventy-two who then return rejoicing. (10.12-15, 'woe to you...', could be included 'when opportunity allows': compare Matthew 11.16-19, 25-30, which also omits this bit.) The 'Related' reading, **Isaiah 66.10-14**, calls on people to rejoice. The 'Related' psalm, **Psalm 66.1-8** (EV: 1-9), begins with a call to be joyful.
 
 ## Sunday between 10 and 16 July (Proper 10)
+
+Year A
+
+* **Genesis 25.19-34** continues the series in the Pentateuch and in Genesis, and is about the birth of Esau and Jacob, and Esau selling his birthright to Jacob. **Psalm 119.105-112** might be related by the theme of holding firmly to something: Jacob holding firmly to Esau's heel, and the psalmist holding firmly to God's word.
+* **Romans 8.1-11** continues the series in Romans, leaving a gap of only half a verse, and is about life in the Spirit.
+* **Matthew 13.1-9, 18-23** continues the series in Matthew, and is the Parable of the Sower. The 'Related' reading, **Isaiah 55.10-13**, likens God's word to rain, 'giving seed to the sower'. The 'Related' psalm, **Psalm 65.[1-7] 8-13** (EV: [1-8] 9-13), is about God watering the earth and bringing grain.
 
 Year C
 
@@ -1386,6 +1392,8 @@ For Matthew, Mark and Luke, the semicontinuous series from Epiphany 3 to the end
 * Matthew 11.15: common saying, included elsewhere ('Let anyone with ears listen!').
 * Matthew 11.16-19, 25-30: **Proper 9**.
 * Matthew 11.20-24: omitted, along with its parallel in Luke 10.12-15.
+* ...
+* Matthew 13.1-9, 18-23: **Proper 10**.
 * ...
 * Matthew 17.1-9: 1 before Lent.
 * ...
