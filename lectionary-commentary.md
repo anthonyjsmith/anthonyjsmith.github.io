@@ -12,7 +12,7 @@ Any feedback? Please [contact](/contact/) me!
 
 **_Work in progress!_**
 
-* Year A: complete from Advent 1 through Trinity to Proper 10
+* Year A: complete from Advent 1 through Trinity to Proper 11
 * Year B: hardly begun
 * Year C: complete from Palm Sunday onwards
 * Festivals: complete for January to March, and from September to December
@@ -859,7 +859,7 @@ Year C
 Year A
 
 * **Genesis 25.19-34** continues the series in the Pentateuch and in Genesis, and is about the birth of Esau and Jacob, and Esau selling his birthright to Jacob. **Psalm 119.105-112** might be related by the theme of holding firmly to something: Jacob holding firmly to Esau's heel, and the psalmist holding firmly to God's word.
-* **Romans 8.1-11** continues the series in Romans, leaving a gap of only half a verse, and is about life in the Spirit.
+* **Romans 8.1-11** continues the series in Romans (after a gap of only half a verse), and is about life in the Spirit.
 * **Matthew 13.1-9, 18-23** continues the series in Matthew, and is the Parable of the Sower. The 'Related' reading, **Isaiah 55.10-13**, likens God's word to rain, 'giving seed to the sower'. The 'Related' psalm, **Psalm 65.[1-7] 8-13** (EV: [1-8] 9-13), is about God watering the earth and bringing grain.
 
 Year C
@@ -870,6 +870,12 @@ Year C
 
 
 ## Sunday between 17 and 23 July (Proper 11)
+
+Year A
+
+* **Genesis 28.10-19a** continues the series in the Pentateuch and in Genesis, and is about Jacob's dream at Bethel. God promises to be with him as he leaves the land. **Psalm 139.1-11, 23-24** (EV: 1-12, 23-24) [or 139.1-11 (EV: 1-12)] asks, 'Where can I go then from your spirit? Or where can I flee from your presence?'
+* **Romans 8.12-25** continues the series in Romans (without a gap), and is about life in the Spirit, suffering, and future glory.
+* **Matthew 13.24-30, 36-43** continues the series in Matthew (without a gap), and is the Parable of the Weeds, speaking of the judgment 'at the end of the age', which is delayed for the sake of the 'righteous'. The 'Related' reading from the Apocrypha, **Wisdom of Solomon 12.13, 16-19**, is a careful selection of verses speaking of God's 'forbearance'. Alternatively, **Isaiah 44.6-8** speaks of God as the one who 'has announced from of old the things to come'. The 'Related' psalm, **Psalm 86.11-17**, is about God being 'slow to anger'.
 
 Year C
 
@@ -1394,6 +1400,8 @@ For Matthew, Mark and Luke, the semicontinuous series from Epiphany 3 to the end
 * Matthew 11.20-24: omitted, along with its parallel in Luke 10.12-15.
 * ...
 * Matthew 13.1-9, 18-23: **Proper 10**.
+* ...
+* Matthew 13.24-30, 36-43: **Proper 11**.
 * ...
 * Matthew 17.1-9: 1 before Lent.
 * ...
