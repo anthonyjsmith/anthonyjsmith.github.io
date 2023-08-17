@@ -12,7 +12,7 @@ Any feedback? Please [contact](/contact/) me!
 
 **_Work in progress!_**
 
-* Year A: complete from Advent 1 through Trinity to Proper 15
+* Year A: complete from Advent 1 through Trinity to Proper 16
 * Year B: hardly begun
 * Year C: complete from Palm Sunday onwards
 * Festivals: complete for January to March, and from September to December
@@ -929,7 +929,7 @@ Year C
 
 Year A
 
-* **Genesis 45.1-15** continues the series in the Pentateuch and in Genesis, and is about Joseph revealing his identity to his brothers in Egypt. **Psalm 133** says, 'Behold how good and pleasant it is to dwell together in unity!'
+* **Genesis 45.1-15** continues the series in the Pentateuch and concludes the series in Genesis, and is about Joseph revealing his identity to his brothers in Egypt. **Psalm 133** says, 'Behold how good and pleasant it is to dwell together in unity!'
 * **Romans 11.1-2a, 29-32** continues the series in Romans, and is about God showing mercy to Israel.
 * **Matthew 15.[10-20] 21-28** continues the series in Matthew, and is about [things that defile, and] the Canaanite woman's faith. The 'Related' reading, **Isaiah 56.1, 6-8**, speaks about God accepting foreigners. The 'Related' psalm, **Psalm 67**, calls for God's 'saving power' to be known 'among all nations'.
 
@@ -940,6 +940,12 @@ Year C
 * **Luke 12.49-56** continues the series in Luke, and is about Jesus coming to bring 'fire to the earth', not bringing peace but division. The 'Related' reading, **Jeremiah 23.23-29**, speaks of God's word being like fire, and is about the God who fills heaven and earth coming in judgment. The 'Related' psalm, **Psalm 82**, calls on God to 'judge the earth'.
 
 ## Sunday between 21 and 27 August (Proper 16)
+
+Year A
+
+* **Exodus 1.8 &ndash; 2.10** continues the series in the Pentateuch and begins and series in Exodus, and is about Israel being oppressed in Egypt, and the baby Moses being rescued through the water. **Psalm 124** is about God rescuing his people from 'the raging waters'.
+* **Romans 12.1-8** continues the series in Romans, and is about presenting 'your bodies as a living sacrifice', and living as members of 'one body in Christ'.
+* **Matthew 16.13-20** continues the series in Matthew, and includes Peter's confession: 'You are the Messiah', and speaks of the 'rock' on which Jesus will build his church, 'and the gates of Hades will not prevail against it'. The 'Related' reading, **Isaiah 51.1-6**, says, 'Look to the rock from which you were hewn'. The 'Related' psalm, **Psalm 138**, says that the 'fury of [God's] enemies' will not prevent his purposes from being fulfilled.
 
 Year C
 
@@ -1433,6 +1439,8 @@ For Matthew, Mark and Luke, the semicontinuous series from Epiphany 3 to the end
 * Matthew 14.22-33: **Proper 14**.
 * ...
 * Matthew 15.[10-20] 21-28: **Proper 15**.
+* ...
+* Matthew 16.13-20: **Proper 16**.
 * ...
 * Matthew 17.1-9: 1 before Lent.
 * ...
