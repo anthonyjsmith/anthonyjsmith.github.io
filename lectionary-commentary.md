@@ -12,7 +12,7 @@ Any feedback? Please [contact](/contact/) me!
 
 **_Work in progress!_**
 
-* Year A: complete from Advent 1 through Trinity to Proper 13
+* Year A: complete from Advent 1 through Trinity to Proper 14
 * Year B: hardly begun
 * Year C: complete from Palm Sunday onwards
 * Festivals: complete for January to March, and from September to December
@@ -913,6 +913,12 @@ Year C
 
 ## Sunday between 7 and 13 August (Proper 14)
 
+Year A
+
+* **Genesis 37.1-4,12-28** continues the series in the Pentateuch and in Genesis, and is about Joseph's dreams and his brothers selling him to be taken to Egypt. **Psalm 105.1-6, 16-22, 45b** [or 105.1-10] revisits the psalm from two weeks ago, and speaks of 'Joseph, who was sold as a slave'.
+* **Romans 10.5-15** continues the series in Romans, and is about salvation through Jesus for Jew and Greek.
+* **Matthew 14.22-33** continues the series in Matthew (without a gap), and is about Jesus (and Peter) walking on water, and Jesus speaking peace: 'Take heart, it is I; do not be afraid.' The 'Related' reading, **1 Kings 19.9-18**, is about Elijah meeting God on the mountain, and has various things in common with the Gospel reading: a mountain, wind, and God's presence being recognised when the wind ceases. The 'Related' psalm, **Psalm 85.8-13**, says that God 'shall speak peace to his people'.
+
 Year C
 
 * **Isaiah 1.1, 10-20** continues the series on the prophets, and is the first of two weeks in Isaiah (moving on chronologically from Hosea). Both readings are quite hard-hitting, which provides a smooth transition into Jeremiah. (Isaiah's call featured in Proper 1.) God has no pleasure in his people's offerings when their hands are 'full of blood'. **Psalm 50.1-8, 23, 24** (EV: 1-8, 22, 23) [or 50.1-7]  speaks of God testifying against his people, despite their sacrifices.
@@ -1418,6 +1424,7 @@ For Matthew, Mark and Luke, the semicontinuous series from Epiphany 3 to the end
 * Matthew 13.31-33, 44-52: **Proper 12**.
 * ...
 * Matthew 14.13-21: **Proper 13**.
+* Matthew 14.22-33: **Proper 14**.
 * ...
 * Matthew 17.1-9: 1 before Lent.
 * ...
