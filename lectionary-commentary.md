@@ -12,7 +12,7 @@ Any feedback? Please [contact](/contact/) me!
 
 **_Work in progress!_**
 
-* Year A: complete from Advent 1 through Trinity to Proper 8
+* Year A: complete from Advent 1 through Trinity to Proper 9
 * Year B: hardly begun
 * Year C: complete from Palm Sunday onwards
 * Festivals: complete for January to March, and from September to December
@@ -842,6 +842,12 @@ Year C
 
 ## Sunday between 3 and 9 July (Proper 9)
 
+Year A
+
+* **Genesis 24.34-38, 42-49, 58-67** continues the series in the Pentateuch and in Genesis, and is about Abraham's servant finding a wife (Rebekah) for Isaac. **Psalm 45.10-17** is about a royal bride being brought to the king. Alternatively, the canticle, **Song of Solomon 2.8-13** is about the meeting of the woman and her beloved.
+* **Romans 7.15-25a** continues the series in Romans, and is about delighting 'in the law of God' but being 'captive to the law of sin'.
+* **Matthew 11.16-19, 25-30** continues the series in Matthew, and is about negative and positive responses to Jesus, who is 'gentle and humble in heart', and calls all who are weary to come to him. (11.20-24, 'woe to you...', could be included 'when opportunity allows': compare Luke 10.1-11, 16-20, which also omits this bit.) The 'Related' reading, **Zechariah 9.9-12** is about Zion's king coming in humility. The 'Related' psalm, **Psalm 145.8-15** (EV: 8-14), says, 'The Lord is gracious and merciful' and 'loving to everyone'.
+
 Year C
 
 * **2 Kings 5.1-14** continues the series on the prophets, and concludes the series in 1 and 2 Kings, with Naaman being healed of leprosy. **Psalm 30** gives thanks to God for answered prayer.
@@ -1378,7 +1384,7 @@ For Matthew, Mark and Luke, the semicontinuous series from Epiphany 3 to the end
 * Matthew 11.12-13: omitted, along with its parallel in Luke 16.16.
 * Matthew 11.14: omitted, along with its parallel in Mark 9.13.
 * Matthew 11.15: common saying, included elsewhere ('Let anyone with ears listen!').
-* ...
+* Matthew 11.16-19, 25-30: **Proper 9**.
 * Matthew 11.20-24: omitted, along with its parallel in Luke 10.12-15.
 * ...
 * Matthew 17.1-9: 1 before Lent.
