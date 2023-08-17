@@ -12,7 +12,7 @@ Any feedback? Please [contact](/contact/) me!
 
 **_Work in progress!_**
 
-* Year A: complete from Advent 1 through Trinity to Proper 12
+* Year A: complete from Advent 1 through Trinity to Proper 13
 * Year B: hardly begun
 * Year C: complete from Palm Sunday onwards
 * Festivals: complete for January to March, and from September to December
@@ -899,6 +899,12 @@ Year C
 
 ## Sunday between 31 July and 6 August (Proper 13)
 
+Year A
+
+* **Genesis 32.22-31** continues the series in the Pentateuch and in Genesis, and is about Jacob wrestling with God: 'I have seen God face to face'. **Psalm 17.1-7, 16** (EV: 1-7, 15) [or 17.1-7] calls out to God in prayer, and says in the final verse, 'As for me, I shall see your face in righteousness'.
+* **Romans 9.1-5** continues the series in Romans (without a gap), and is about Paul's 'great sorrow' for his fellow Israelites.
+* **Matthew 14.13-21** continues the series in Matthew, and is the feeding of the 5000. The 'Related' reading, **Isaiah 55.1-5**, invites people to come and 'eat what is good'. The 'Related' psalm, **Psalm 145.8-9, 15-22** (EV: 8-9, 14-21) [or 145.15-22 (EV: 14-21)], says to God, 'You open wide your hand and fill all things living with plenty.'
+
 Year C
 
 * **Hosea 11.1-11** continues the series on the prophets, and is the second of two weeks in Hosea. God loves Israel, despite their waywardness. **Psalm 107.1-9, 43** [or 107.1-9] is about God restoring those who have gone astray, because of his steadfast love.
@@ -1410,6 +1416,8 @@ For Matthew, Mark and Luke, the semicontinuous series from Epiphany 3 to the end
 * Matthew 13.24-30, 36-43: **Proper 11**.
 * ...
 * Matthew 13.31-33, 44-52: **Proper 12**.
+* ...
+* Matthew 14.13-21: **Proper 13**.
 * ...
 * Matthew 17.1-9: 1 before Lent.
 * ...
