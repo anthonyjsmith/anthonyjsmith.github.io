@@ -12,7 +12,7 @@ Any feedback? Please [contact](/contact/) me!
 
 **_Work in progress!_**
 
-* Year A: complete from Advent 1 through Trinity to Proper 11
+* Year A: complete from Advent 1 through Trinity to Proper 12
 * Year B: hardly begun
 * Year C: complete from Palm Sunday onwards
 * Festivals: complete for January to March, and from September to December
@@ -885,6 +885,12 @@ Year C
 
 ## Sunday between 24 and 30 July (Proper 12)
 
+Year A
+
+* **Genesis 29.15-28** continues the series in the Pentateuch and in Genesis, and is about Jacob marrying Laban's daughters. **Psalm 105.1-11, 45b** [or 105.1-11] speaks of God's faithfulness to his covenant with Abraham, Isaac and Jacob. Alternatively, **Psalm 128** speaks of God's blessing in terms of wife and children.
+* **Romans 8.26-39** continues the series in Romans (without a gap), and is about 'the love of God in Christ Jesus our Lord'.
+* **Matthew 13.31-33, 44-52** continues the series in Matthew (without a gap), and consists of several parables, likening understanding to treasure. The 'Related' reading, **1 Kings 3.5-12**, speaks of Solomon's request for 'an understanding mind', which is more precious than riches. The 'Related' psalm, **Psalm 119.129-136** echoes Solomon's request: 'Order my steps by your word ... and teach me your statutes'.
+
 Year C
 
 * **Hosea 1.2-10** continues the series on the prophets, and is the first of two weeks in Hosea (moving on chronologically from Amos). Hosea's faithfulness to 'a wife of whoredom' is an image of God's faithfulness to Israel. **Psalm 85** [or 85.1-7] is about God's faithfulness to his people, forgiving their sins.
@@ -1402,6 +1408,8 @@ For Matthew, Mark and Luke, the semicontinuous series from Epiphany 3 to the end
 * Matthew 13.1-9, 18-23: **Proper 10**.
 * ...
 * Matthew 13.24-30, 36-43: **Proper 11**.
+* ...
+* Matthew 13.31-33, 44-52: **Proper 12**.
 * ...
 * Matthew 17.1-9: 1 before Lent.
 * ...
