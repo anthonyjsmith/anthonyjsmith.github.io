@@ -12,7 +12,7 @@ Any feedback? Please [contact](/contact/) me!
 
 **_Work in progress!_**
 
-* Year A: complete from Advent 1 through Trinity to Proper 14
+* Year A: complete from Advent 1 through Trinity to Proper 15
 * Year B: hardly begun
 * Year C: complete from Palm Sunday onwards
 * Festivals: complete for January to March, and from September to December
@@ -927,6 +927,12 @@ Year C
 
 ## Sunday between 14 and 20 August (Proper 15)
 
+Year A
+
+* **Genesis 45.1-15** continues the series in the Pentateuch and in Genesis, and is about Joseph revealing his identity to his brothers in Egypt. **Psalm 133** says, 'Behold how good and pleasant it is to dwell together in unity!'
+* **Romans 11.1-2a, 29-32** continues the series in Romans, and is about God showing mercy to Israel.
+* **Matthew 15.[10-20] 21-28** continues the series in Matthew, and is about [things that defile, and] the Canaanite woman's faith. The 'Related' reading, **Isaiah 56.1, 6-8**, speaks about God accepting foreigners. The 'Related' psalm, **Psalm 67**, calls for God's 'saving power' to be known 'among all nations'.
+
 Year C
 
 * **Isaiah 5.1-7** continues the series on the prophets, and is the second of two weeks in Isaiah. God's vineyard, Israel, has 'yielded wild grapes'. **Psalm 80.1-2, 9-20** (EV: 1-2a, 8-19) [or 80.9-20 (EV: 8-19)] is about God's 'vine'.
@@ -1425,6 +1431,8 @@ For Matthew, Mark and Luke, the semicontinuous series from Epiphany 3 to the end
 * ...
 * Matthew 14.13-21: **Proper 13**.
 * Matthew 14.22-33: **Proper 14**.
+* ...
+* Matthew 15.[10-20] 21-28: **Proper 15**.
 * ...
 * Matthew 17.1-9: 1 before Lent.
 * ...
