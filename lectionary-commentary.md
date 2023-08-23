@@ -12,7 +12,7 @@ Any feedback? Please [contact](/contact/) me!
 
 **_Work in progress!_**
 
-* Year A: complete from Advent 1 through Trinity to Proper 16
+* Year A: complete from Advent 1 through Trinity to Proper 17
 * Year B: hardly begun
 * Year C: complete from Palm Sunday onwards
 * Festivals: complete for January to March, and from September to December
@@ -324,7 +324,8 @@ The addition of this creation-themed week means that 'Proper 3' in the RCL is no
 
 Year A
 
-* **Genesis 1.1 &ndash; 2.3** is about the creation of the heavens and the earth. **Psalm 136** or **Psalm 136.1-9, 23-26** is about God who 'made the heavens' (5-9) and 'gives food to all creatures' (25).
+* **Genesis 1.1 &ndash; 2.3** is about the creation of the heavens and the earth (and could be seen as beginning a series on Genesis that continues in the summer).
+* **Psalm 136** [or 136.1-9, 23-26] is about God who 'made the heavens' (5-9) and 'gives food to all creatures' (25).
 * **Romans 8.18-25** says that 'the creation waits with eager longing for the revealing of the children of God'.
 * **Matthew 6.25-34** says, 'do not worry', and invites us to consider God's care for the birds and the 'grass of the field'. (Also set for Harvest Thanksgiving, Year B.)
 
@@ -612,7 +613,7 @@ The theme of Jesus as the shepherd dominates, with Gospel readings from John 10,
 Year A
 
 * **Acts 2.42-47** continues the series in Acts (and concludes the three-part series in Acts 2), and describes the shared life of the believers.
-* (The alternative first reading, **Genesis 7**, begins a series on the flood in Genesis, expanding the alternative reading for Years B and C. The resurrection of Jesus is like passing through the waters of the flood.)
+* (The alternative first reading, **Genesis 7**, begins a series on the flood in Genesis, expanding the alternative reading for Years B and C. The resurrection of Jesus is like passing through the waters of the flood. See also Proper 4.)
 * **1 Peter 2.19-25** continues the series in 1 Peter (out of sequence, in order to include the description of Jesus as 'shepherd'), and is about suffering after Jesus' example.
 * **John 10.1-10** continues the series in John, and introduces the theme of the sheep and the shepherd (although Jesus here is the gate). Jesus has come to give life to the sheep.
 
@@ -741,7 +742,7 @@ Year C
 
 Year A
 
-(RCL has Genesis 1.1 &ndash; 2.4a as the first reading, which then serves as the beginning of a series in Genesis: see 2 before Lent.)
+(RCL has Genesis 1.1 &ndash; 2.4a as the first reading, which then serves as the beginning of a series in Genesis. See 2 before Lent, which includes this passage as the Old Testament reading.)
 
 * **Isaiah 40.12-17, 27-31** says, 'Who has directed the spirit of the Lord ...?' Is the answer, 'Jesus'? Otherwise, the connection with Trinity Sunday is not immediately obvious.
 * **Psalm 8** (Years A and C) is about God's glory being revealed in creation and redemption (this finds its climax when God is revealed as Trinity), and is about God's 'name' (cf. Matthew 28.19: 'in the name of the Father and of the Son and of the Holy Spirit').
@@ -774,7 +775,7 @@ See Sunday between 18 and 24 February.
 
 Year A
 
-* **Genesis 6.9-22; 7.24; 8.14-19** begins a long series in the Pentateuch (Genesis, Exodus and Deuteronomy 34), which covers all of the Sundays after Trinity. (In the RCL, the series begins at Genesis 1.1 on Trinity Sunday.) A brief account is provided of Noah and the flood. **Psalm 46** says, 'Therefore we will not fear, though ... the waters rage and swell'. (Perhaps intentionally, there is a link with the 'floods' in the Gospel reading.)
+* **Genesis 6.9-22; 7.24; 8.14-19** begins a 22-week semicontinuous series in the Pentateuch (12 weeks in Genesis, 9 weeks in Exodus and Deuteronomy 34 for the final week), which covers all of the Sundays after Trinity. (In the RCL, the series begins at Genesis 1.1 on Trinity Sunday, whereas in Common Worship that passage is set for 2 before Lent.) A brief account is provided of Noah and the flood. (See also the alternative first readings for Easter 4-6.) **Psalm 46** says, 'Therefore we will not fear, though ... the waters rage and swell'. (Perhaps intentionally, there is a link with the 'floods' in the Gospel reading.)
 * **Romans 1.16, 17; 3.22b-28 [29-31]** begins a 16-part semicontinuous series in Romans, and is about the righteousness of God through faith.
 * **Matthew 7.21-29** continues the series in Matthew (from 2 before Lent), on the theme of hearing and doing, with the house on rock or sand, and the floods coming. (If the reading is extended to begin at verse 16, this would restore to the lectionary some important sayings that are omitted by Common Worship: see RCL 'Proper 3' and Luke 6.43-44.) The 'Related' reading, **Deuteronomy 11.18-21, 26-28**, is about blessing following obedience, and curse following disobedience. The 'Related' psalm, **Psalm 31.1-5, 19-24** [or 31.19-24] mentions God being a 'strong rock', and speaks of the blessings that come from fearing God.
 
@@ -887,7 +888,7 @@ Year C
 
 Year A
 
-* **Genesis 29.15-28** continues the series in the Pentateuch and in Genesis, and is about Jacob marrying Laban's daughters. **Psalm 105.1-11, 45b** [or 105.1-11] speaks of God's faithfulness to his covenant with Abraham, Isaac and Jacob. Alternatively, **Psalm 128** speaks of God's blessing in terms of wife and children.
+* **Genesis 29.15-28** continues the series in the Pentateuch and in Genesis, and is about Jacob marrying Laban's daughters. **Psalm 105.1-11, 45b** [or 105.1-11] (see also Proper 14, 17 and 20) speaks of God's faithfulness to his covenant with Abraham, Isaac and Jacob. Alternatively, **Psalm 128** speaks of God's blessing in terms of wife and children.
 * **Romans 8.26-39** continues the series in Romans (without a gap), and is about 'the love of God in Christ Jesus our Lord'.
 * **Matthew 13.31-33, 44-52** continues the series in Matthew (without a gap), and consists of several parables, likening understanding to treasure. The 'Related' reading, **1 Kings 3.5-12**, speaks of Solomon's request for 'an understanding mind', which is more precious than riches. The 'Related' psalm, **Psalm 119.129-136** echoes Solomon's request: 'Order my steps by your word ... and teach me your statutes'.
 
@@ -915,7 +916,7 @@ Year C
 
 Year A
 
-* **Genesis 37.1-4,12-28** continues the series in the Pentateuch and in Genesis, and is about Joseph's dreams and his brothers selling him to be taken to Egypt. **Psalm 105.1-6, 16-22, 45b** [or 105.1-10] revisits the psalm from two weeks ago, and speaks of 'Joseph, who was sold as a slave'.
+* **Genesis 37.1-4,12-28** continues the series in the Pentateuch and in Genesis, and is about Joseph's dreams and his brothers selling him to be taken to Egypt. **Psalm 105.1-6, 16-22, 45b** [or 105.1-10] (see also Proper 12, 17 and 20) speaks of 'Joseph, who was sold as a slave'.
 * **Romans 10.5-15** continues the series in Romans, and is about salvation through Jesus for Jew and Greek.
 * **Matthew 14.22-33** continues the series in Matthew (without a gap), and is about Jesus (and Peter) walking on water, and Jesus speaking peace: 'Take heart, it is I; do not be afraid.' The 'Related' reading, **1 Kings 19.9-18**, is about Elijah meeting God on the mountain, and has various things in common with the Gospel reading: a mountain, wind, and God's presence being recognised when the wind ceases. The 'Related' psalm, **Psalm 85.8-13**, says that God 'shall speak peace to his people'.
 
@@ -943,7 +944,7 @@ Year C
 
 Year A
 
-* **Exodus 1.8 &ndash; 2.10** continues the series in the Pentateuch and begins a series in Exodus, and is about Israel being oppressed in Egypt, and the baby Moses being rescued through the water. **Psalm 124** is about God rescuing his people from 'the raging waters'.
+* **Exodus 1.8 &ndash; 2.10** continues the series in the Pentateuch and begins a 9-week series in Exodus, and is about Israel being oppressed in Egypt, and the baby Moses being rescued through the water. **Psalm 124** is about God rescuing his people from 'the raging waters'.
 * **Romans 12.1-8** continues the series in Romans, and is about presenting 'your bodies as a living sacrifice', and living as members of 'one body in Christ'.
 * **Matthew 16.13-20** continues the series in Matthew, and includes Peter's confession: 'You are the Messiah', and speaks of the 'rock' on which Jesus will build his church, 'and the gates of Hades will not prevail against it'. The 'Related' reading, **Isaiah 51.1-6**, says, 'Look to the rock from which you were hewn'. The 'Related' psalm, **Psalm 138**, says that the 'fury of [God's] enemies' will not prevent his purposes from being fulfilled.
 
@@ -954,6 +955,12 @@ Year C
 * **Luke 13.10-17** continues the series in Luke, and is about the crippled woman being healed on the sabbath, so that she 'stood up straight and began praising God'. The 'Related' reading, **Isaiah 58.9b-14**, is about honouring the sabbath and delighting in God, who will 'satisfy your needs'. The 'Related' psalm, **Psalm 103.1-8**, speaks of God as the one who 'satisfies you with good things'.
 
 ## Sunday between 28 August and 3 September (Proper 17)
+
+Year A
+
+* **Exodus 3.1-15** continues the series in the Pentateuch and in Exodus, and is about Moses at the burning bush, and God's promise to deliver his people from Egypt, and bring them 'to a good and broad land'. **Psalm 105.1-6, 23-26, 45b** (see also Proper 12, 14 and 20) speaks of Israel in Egypt, and of God sending 'Moses his servant'. Alternatively, **Psalm 115** is about God's supremacy over the idols of the nations.
+* **Romans 12.9-21** continues the series in Romans (without a gap), and is about living as Christians.
+* **Matthew 16.21-28** continues the series in Matthew (without a gap), and has Jesus foretelling his death and resurrection, and calling his followers to 'take up their cross', with the promise that 'those who lose their life for my sake will find it'. The 'Related' reading, **Jeremiah 15.15-21**, has Jeremiah speaking of being persecuted, and God promising to save him and deliver him. The 'Related' psalm, **Psalm 26.1-8**, calls out for vindication when living among the wicked.
 
 Year C
 
@@ -1441,6 +1448,7 @@ For Matthew, Mark and Luke, the semicontinuous series from Epiphany 3 to the end
 * Matthew 15.[10-20] 21-28: **Proper 15**.
 * ...
 * Matthew 16.13-20: **Proper 16**.
+* Matthew 16.21-28: **Proper 17**.
 * ...
 * Matthew 17.1-9: 1 before Lent.
 * ...
