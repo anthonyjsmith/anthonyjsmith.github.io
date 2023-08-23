@@ -943,7 +943,7 @@ Year C
 
 Year A
 
-* **Exodus 1.8 &ndash; 2.10** continues the series in the Pentateuch and begins and series in Exodus, and is about Israel being oppressed in Egypt, and the baby Moses being rescued through the water. **Psalm 124** is about God rescuing his people from 'the raging waters'.
+* **Exodus 1.8 &ndash; 2.10** continues the series in the Pentateuch and begins a series in Exodus, and is about Israel being oppressed in Egypt, and the baby Moses being rescued through the water. **Psalm 124** is about God rescuing his people from 'the raging waters'.
 * **Romans 12.1-8** continues the series in Romans, and is about presenting 'your bodies as a living sacrifice', and living as members of 'one body in Christ'.
 * **Matthew 16.13-20** continues the series in Matthew, and includes Peter's confession: 'You are the Messiah', and speaks of the 'rock' on which Jesus will build his church, 'and the gates of Hades will not prevail against it'. The 'Related' reading, **Isaiah 51.1-6**, says, 'Look to the rock from which you were hewn'. The 'Related' psalm, **Psalm 138**, says that the 'fury of [God's] enemies' will not prevent his purposes from being fulfilled.
 
