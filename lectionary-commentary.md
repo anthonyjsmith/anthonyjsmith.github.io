@@ -327,7 +327,7 @@ Year A
 * **Genesis 1.1 &ndash; 2.3** is about the creation of the heavens and the earth (and could be seen as beginning a series on Genesis that continues in the summer).
 * **Psalm 136** [or 136.1-9, 23-26] is about God who 'made the heavens' (5-9) and 'gives food to all creatures' (25).
 * **Romans 8.18-25** says that 'the creation waits with eager longing for the revealing of the children of God'.
-* **Matthew 6.25-34** says, 'do not worry', and invites us to consider God's care for the birds and the 'grass of the field'. (Also set for Harvest Thanksgiving, Year B.)
+* **Matthew 6.25-34** says, 'do not worry', and invites us to consider God's care for the birds and the 'grass of the field'. (Matthew 6.25-33 also set for Harvest Thanksgiving, Year B.)
 
 ## 1 before Lent
 
@@ -1400,7 +1400,8 @@ For Matthew, Mark and Luke, the semicontinuous series from Epiphany 3 to the end
 * Matthew 6.16-21: Ash Wednesday.
 * Matthew 6.22-23: omitted, along with its parallel in Luke 11.34-35.
 * Matthew 6.24: see Luke 16.1-13.
-* Matthew 6.25-34: 2 before Lent; Harvest Thanksgiving, Year B.
+* Matthew 6.25-33: Harvest Thanksgiving, Year B.
+* Matthew 6.25-34: 2 before Lent.
 * Matthew 7.1-2: see Luke 6.27-38.
 * Matthew 7.3-5: omitted, along with its parallel in Luke 6.41-42 (NB: RCL 'Proper 3').
 * Matthew 7.6: omitted.
@@ -1550,7 +1551,7 @@ For Matthew, Mark and Luke, the semicontinuous series from Epiphany 3 to the end
 * Luke 12.10: omitted, along with its parallel in Matthew 12.31-32.
 * Luke 12.11-12: omitted (but see Matthew 10.17-22, set for Stephen). Compare Luke 21.5-19 (and Mark 13.5-13, set for Mark).
 * Luke 12.13-21: **Proper 13**.
-* Luke 12.22-30: Harvest Thanksgiving, Year A. See also Matthew 6.25-34.
+* Luke 12.16-30: Harvest Thanksgiving, Year A. For Luke 12.22-31, see also Matthew 6.25-34.
 * Luke 12.31: see Matthew 6.25-34.
 * Luke 12.32-40: **Proper 14**.
 * Luke 12.41: omitted.
