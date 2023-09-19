@@ -12,7 +12,7 @@ Any feedback? Please [contact](/contact/) me!
 
 **_Work in progress!_**
 
-* Year A: complete from Advent 1 through Trinity to Proper 19
+* Year A: complete from Advent 1 through Trinity to Proper 20
 * Year B: hardly begun
 * Year C: complete from Palm Sunday onwards
 * Festivals: complete for January to March, and from September to December
@@ -987,7 +987,7 @@ Year C
 Year A
 
 * **Exodus 14.19-31** continues the series in the Pentateuch and in Exodus, and is about the Israelites walking through the sea on dry ground. **Psalm 114** is about the see fleeing 'When Israel went out of Egypt'. Alternatively, the canticle, **Exodus 15.1b-11, 20, 21**, is the song of Moses and Miriam: 'horse and rider he has thrown into the sea'.
-* **Romans 14.1-12** continues the series in Romans (without a gap), and calls us not to judge or despise one another.
+* **Romans 14.1-12** concludes the series in Romans (continuing without a gap), and calls us not to judge or despise one another.
 * **Matthew 18.21-35** continues the series in Matthew (without a gap), and includes the parable of the unforgiving servant. The 'Related' reading, **Genesis 50.15-21**, is about Joseph forgiving his brothers. The 'Related' psalm, **Psalm 103.[1-7] 8-13**, says that God 'has not dealt with us according to our sins'.
 
 Year C
@@ -997,6 +997,12 @@ Year C
 * **Luke 15.1-10** continues the series in Luke, and is about God welcoming sinners, and the parables of the lost sheep and the lost coin. (These parables go together with that of the lost son, which follows directly, and which is set for Lent 4, but which might have been 'displaced' by Mothering Sunday.) The 'Related' reading, **Exodus 32.7-14**, is about God forgiving sinners, after the incident with the golden calf. The 'Related' psalm, **Psalm 51.1-11** (EV: 1-10), is about the forgiveness of sins.
 
 ## Sunday between 18 and 24 September (Proper 20)
+
+Year A
+
+* **Exodus 16.2-15** continues the series in the Pentateuch and in Exodus, and is about the manna. **Psalm 105.1-6, 37-45** [or 105.37-45] (see also Proper 12, 14 and 17) says, 'They asked and he brought them quails; he satisfied them with the bread of heaven.'
+* **Philippians 1.21-30** begins a 4-part semicontinuous series in Philippians, and is about living 'in a manner worthy of the gospel of Christ'.
+* **Matthew 20.1-16** continues the series in Matthew, and is the parable of the labourers in the vineyard: 'are you envious because I am generous?' The 'Related' reading, **Jonah 3.10 &ndash; 4.11**, is about Jonah's anger in response God showing mercy to Nineveh: 'a gracious God and merciful, slow to anger, and abounding in steadfast love'. The 'Related' psalm, **Psalm 145.1-8**, says that God is 'gracious and merciful, long-suffering and of great goodness'.
 
 Year C
 
@@ -1467,6 +1473,8 @@ For Matthew, Mark and Luke, the semicontinuous series from Epiphany 3 to the end
 * ...
 * Matthew 18.15-20: **Proper 18**.
 * Matthew 18.21-35: **Proper 19**.
+* ...
+* Matthew 20.1-16: **Proper 20**.
 * ...
 * Matthew 21.1-11: Palm Sunday.
 * ...
