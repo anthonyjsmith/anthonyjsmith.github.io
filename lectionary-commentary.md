@@ -12,7 +12,7 @@ Any feedback? Please [contact](/contact/) me!
 
 **_Work in progress!_**
 
-* Year A: complete from Advent 1 through Trinity to Proper 17
+* Year A: complete from Advent 1 through Trinity to Proper 18
 * Year B: hardly begun
 * Year C: complete from Palm Sunday onwards
 * Festivals: complete for January to March, and from September to December
@@ -970,6 +970,12 @@ Year C
 
 ## Sunday between 4 and 10 September (Proper 18)
 
+Year A
+
+* **Exodus 12.1-14** continues the series in the Pentateuch and in Exodus, and describes the institution of the Passover celebration, as a reminder of God's judgment on the gods of Egypt. **Psalm 149** is a psalm of celebration and speaks of God's judgment on the nations.
+* **Romans 13.8-14** continues the series in Romans, and is about loving one another and living 'as in the day'.
+* **Matthew 18.15-20** continues the series in Matthew, and is about dealing with sin in the church. The 'Related' reading, **Ezekiel 33.7-11**, is about the wicked turning from their ways. The 'Related' psalm, **Psalm 119.33-40**, is about learning God's ways.
+
 Year C
 
 * **Jeremiah 18.1-11** continues the series on the prophets and in Jeremiah (out of sequence, perhaps to maintain a thematic sequence from warning to judgment, and perhaps chosen to fit with the Gospel reading and its themes of choice and consequences). God is the potter, and is calling his people to change their ways. **Psalm 139.1-5, 12-18** (EV: 1-6, 13-18) [or 139.1-7 (EV: 1-8)] is about the God who formed us (as a potter).
@@ -1452,6 +1458,8 @@ For Matthew, Mark and Luke, the semicontinuous series from Epiphany 3 to the end
 * Matthew 16.21-28: **Proper 17**.
 * ...
 * Matthew 17.1-9: 1 before Lent.
+* ...
+* Matthew 18.15-20: **Proper 18**.
 * ...
 * Matthew 21.1-11: Palm Sunday.
 * ...
