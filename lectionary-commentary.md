@@ -12,7 +12,7 @@ Any feedback? Please [contact](/contact/) me!
 
 **_Work in progress!_**
 
-* Year A: complete from Advent 1 through Trinity to Proper 20
+* Year A: complete from Advent 1 through Trinity to Proper 21
 * Year B: hardly begun
 * Year C: complete from Palm Sunday onwards
 * Festivals: complete for January to March, and from September to December
@@ -1012,6 +1012,12 @@ Year C
 
 ## Sunday between 25 September and 1 October (Proper 21)
 
+Year A
+
+* **Exodus 17.1-7** continues the series in the Pentateuch and in Exodus, and is about water coming out of the rock. **Psalm 78.1-4, 12-16** [or 78.1-7] praises God for his 'wonderful works' (4): 'He brought streams out of the rock and made water gush out like rivers' (16).
+* **Philippians 2.1-13** continues the series in Philippians (without a gap), and is about imitating Christ's humility.
+* **Matthew 21.23-32** continues the series in Matthew, and includes the parable of the two sons. The 'Related' reading, **Ezekiel 18.1-4, 25-32** is about how God deals with those (like the two sons) who change their ways. The 'Related' psalm, **Psalm 25.1-8** (EV: 1-9), says that God will 'teach sinners in the way'.
+
 Year C
 
 * **Jeremiah 32.1-3a, 6-15** continues the series on the prophets and in Jeremiah, and begins to glimpse hope for the distant future, with the purchase of a field. **Psalm 91.1-6, 14-16** [or 91.11-16] promises deliverance for those who take refuge in God.
@@ -1477,6 +1483,8 @@ For Matthew, Mark and Luke, the semicontinuous series from Epiphany 3 to the end
 * Matthew 20.1-16: **Proper 20**.
 * ...
 * Matthew 21.1-11: Palm Sunday.
+* ...
+* Matthew 21.23-32: **Proper 21**.
 * ...
 * Matthew 24.36-44: Advent 1.
 * ...
