@@ -12,7 +12,7 @@ Any feedback? Please [contact](/contact/) me!
 
 **_Work in progress!_**
 
-* Year A: complete from Advent 1 through Trinity to Proper 18
+* Year A: complete from Advent 1 through Trinity to Proper 19
 * Year B: hardly begun
 * Year C: complete from Palm Sunday onwards
 * Festivals: complete for January to March, and from September to December
@@ -984,6 +984,12 @@ Year C
 
 ## Sunday between 11 and 17 September (Proper 19)
 
+Year A
+
+* **Exodus 14.19-31** continues the series in the Pentateuch and in Exodus, and is about the Israelites walking through the sea on dry ground. **Psalm 114** is about the see fleeing 'When Israel went out of Egypt'. Alternatively, the canticle, **Exodus 15.1b-11, 20, 21**, is the song of Moses and Miriam: 'horse and rider he has thrown into the sea'.
+* **Romans 14.1-12** continues the series in Romans (without a gap), and calls us not to judge or despise one another.
+* **Matthew 18.21-35** continues the series in Matthew (without a gap), and includes the parable of the unforgiving servant. The 'Related' reading, **Genesis 50.15-21**, is about Joseph forgiving his brothers. The 'Related' psalm, **Psalm 103.[1-7] 8-13**, says that God 'has not dealt with us according to our sins'.
+
 Year C
 
 * **Jeremiah 4.11-12, 22-28** continues the series on the prophets and in Jeremiah, and is about the land becoming a desolation as a consequence of the people's foolishness. **Psalm 14** is about the foolishness of turning from God.
@@ -1460,6 +1466,7 @@ For Matthew, Mark and Luke, the semicontinuous series from Epiphany 3 to the end
 * Matthew 17.1-9: 1 before Lent.
 * ...
 * Matthew 18.15-20: **Proper 18**.
+* Matthew 18.21-35: **Proper 19**.
 * ...
 * Matthew 21.1-11: Palm Sunday.
 * ...
