@@ -12,7 +12,7 @@ Any feedback? Please [contact](/contact/) me!
 
 **_Work in progress!_**
 
-* Year A: complete from Advent 1 through Trinity to Proper 21
+* Year A: complete from Advent 1 through Trinity to Proper 22
 * Year B: hardly begun
 * Year C: complete from Palm Sunday onwards
 * Festivals: complete for January to March, and from September to December
@@ -1026,6 +1026,12 @@ Year C
 
 ## Sunday between 2 and 8 October (Proper 22)
 
+Year A
+
+* **Exodus 20.1-4, 7-9, 12-20** continues the series in the Pentateuch and in Exodus, and is the Ten Commandments (with some of the details omitted). **Psalm 19** [or 19.7-14] is about the 'law', 'testimony', 'statutes' and 'commandment of the Lord'.
+* **Philippians 3.4b-14** begins a two-part series in Philippians, and has Paul saying, 'I regard everything as loss because of the surpassing value of knowing Christ Jesus my Lord'.
+* **Matthew 21.33-46** continues the series in Matthew (without a gap), and is the parable of the wicked tenants of the vineyard. The 'Related' reading, **Isaiah 5.1-7**, is a song about God's vineyard. The 'Related' psalm, **Psalm 80.9-17** (EV: 8-16), is about God's vine.
+
 Year C
 
 * **Lamentations 1.1-6** continues the series on the prophets, and provides a brief excursion from Jeremiah. It laments the desolation of Jerusalem, but the canticle, **Lamentations 3.19-26** glimpses hope for the future. As an alternative to the canticle, **Psalm 137** [or 137.1-6], is about the desolation of Jerusalem.
@@ -1485,6 +1491,7 @@ For Matthew, Mark and Luke, the semicontinuous series from Epiphany 3 to the end
 * Matthew 21.1-11: Palm Sunday.
 * ...
 * Matthew 21.23-32: **Proper 21**.
+* Matthew 21.33-46: **Proper 22**.
 * ...
 * Matthew 24.36-44: Advent 1.
 * ...
