@@ -12,7 +12,7 @@ Any feedback? Please [contact](/contact/) me!
 
 **_Work in progress!_**
 
-* Year A: complete from Advent 1 through Trinity to Proper 22
+* Year A: complete from Advent 1 through Trinity to Proper 23
 * Year B: hardly begun
 * Year C: complete from Palm Sunday onwards
 * Festivals: complete for January to March, and from September to December
@@ -1040,6 +1040,12 @@ Year C
 
 ## Sunday between 9 and 15 October (Proper 23)
 
+Year A
+
+* **Exodus 32.1-14** continues the series in the Pentateuch and in Exodus, and is about the golden calf. **Psalm 106.1-6, 19-23** [or 106.1-6] says, 'We have sinned like our forebears' (6), and, 'They made a calf at Horeb and worshipped the molten image' (19).
+* **Philippians 4.1-9** concludes the two-part series in Philippians, and contains an appeal for unity, and an encouragement to rejoice.
+* **Matthew 22.1-14** continues the series in Matthew (without a gap), and is the parable of the wedding banquet. The 'Related' reading, **Isaiah 25.1-9**, is about a 'feast' made by God 'for all peoples'. The 'Related' psalm, **Psalm 23**, says, 'You spread a table before me'.
+
 Year C
 
 * **Jeremiah 29.1, 4-7** continues the series on the prophets and in Jeremiah, and is a word of comfort and assurance for God's people in exile (out of sequence, presumably for thematic reasons). (Extending the reading by a few verses would provide additional comfort.) **Psalm 66.1-11** (EV: 1-12) is about being brought 'through fire and water ... into a place of liberty'.
@@ -1492,6 +1498,7 @@ For Matthew, Mark and Luke, the semicontinuous series from Epiphany 3 to the end
 * ...
 * Matthew 21.23-32: **Proper 21**.
 * Matthew 21.33-46: **Proper 22**.
+* Matthew 22.1-14: **Proper 23**.
 * ...
 * Matthew 24.36-44: Advent 1.
 * ...
