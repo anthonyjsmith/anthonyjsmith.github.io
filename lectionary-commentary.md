@@ -12,7 +12,7 @@ Any feedback? Please [contact](/contact/) me!
 
 **_Work in progress!_**
 
-* Year A: complete from Advent 1 through Trinity to Proper 25
+* Year A: complete from Advent 1 through Trinity to Proper 25 and Bible Sunday
 * Year B: hardly begun
 * Year C: complete from Palm Sunday onwards
 * Festivals: complete for January to March, and from September to December
@@ -1084,6 +1084,13 @@ Year C
 
 ## The Last Sunday after Trinity if observed as Bible Sunday
 
+Year A
+
+* **Nehemiah 8.1-4a [5-6] 8-12** is about 'the book of the law of Moses' being read and being understood by the people.
+* **Psalm 119.9-16** is about delighting in God's words and commandments.
+* **Colossians 3.12-17** says, 'Let the word of Christ dwell in you richly'.
+* **Matthew 24.30-35** has Jesus saying, 'Heaven and earth will pass away, but my words will not pass away.'
+
 Year C
 
 * **Isaiah 45.22-25** has God saying, 'from my mouth has gone forth in righteousness a word that shall not return'.
@@ -1515,6 +1522,7 @@ For Matthew, Mark and Luke, the semicontinuous series from Epiphany 3 to the end
 * ...
 * Matthew 22.34-46: **Proper 25**.
 * ...
+* Matthew 24.30-35: Bible Sunday.
 * Matthew 24.36-44: Advent 1.
 * ...
 * Matthew 26.14 &ndash; 27.66: Palm Sunday.
