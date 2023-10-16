@@ -12,7 +12,7 @@ Any feedback? Please [contact](/contact/) me!
 
 **_Work in progress!_**
 
-* Year A: complete from Advent 1 through Trinity to Proper 24
+* Year A: complete from Advent 1 through Trinity to Proper 25
 * Year B: hardly begun
 * Year C: complete from Palm Sunday onwards
 * Festivals: complete for January to March, and from September to December
@@ -1057,7 +1057,7 @@ Year C
 Year A
 
 * **Exodus 33.12-23** continues the series in the Pentateuch and concludes the series in Exodus, and is about Moses interceding for God's people. **Psalm 99** says of Moses (and others): 'they called upon the Lord and he answered them'.
-* **1 Thessalonians 1.1-10** begins a five-part series in 1 Thessalonians, and is about the faith and example of the Thessalonian believers.
+* **1 Thessalonians 1.1-10** begins a five-part series in 1 Thessalonians (1.1 &ndash; 2.13; 4.13 &ndash; 5.11), and is about the faith and example of the Thessalonian believers.
 * **Matthew 22.15-22** continues the series in Matthew (without a gap), and is about paying taxes to the emperor. The 'Related' reading, **Isaiah 45.1-7**, is about God's lordship over Cyrus (the emperor). The 'Related' psalm, **Psalm 96.1-9 [10-13]** is about God's superiority over the nations.
 
 Year C
@@ -1069,6 +1069,12 @@ Year C
 ## Sunday between 23 and 29 October (Proper 25)
 
 Omitted if Bible Sunday is observed.
+
+Year A
+
+* **Deuteronomy 34.1-12** concludes the series in the Pentateuch, and is about the death of Moses. **Psalm 90.1-6, 13-17** [or 90.1-6] is headed, 'A Prayer of Moses', and says, 'You turn us back to dust'.
+* **1 Thessalonians 2.1-8** continues the series in 1 Thessalonians (without a gap), and is about Paul's pattern of ministry.
+* **Matthew 22.34-46** continues the series in Matthew, and has Jesus being questioned about the greatest commandment in the law, and then asking a question about David's Lord. The 'Related' reading, **Leviticus 19.1-2, 15-18** includes 'you shall love your neighbour as yourself', which is quoted in the Gospel reading. The 'Related' psalm, **Psalm 1**, is about those whose 'delight is in the law of the Lord'.
 
 Year C
 
@@ -1506,6 +1512,8 @@ For Matthew, Mark and Luke, the semicontinuous series from Epiphany 3 to the end
 * Matthew 21.33-46: **Proper 22**.
 * Matthew 22.1-14: **Proper 23**.
 * Matthew 22.15-22: **Proper 24**.
+* ...
+* Matthew 22.34-46: **Proper 25**.
 * ...
 * Matthew 24.36-44: Advent 1.
 * ...
