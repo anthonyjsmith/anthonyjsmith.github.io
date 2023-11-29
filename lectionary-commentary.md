@@ -12,7 +12,7 @@ Any feedback? Please [contact](/contact/) me!
 
 **_Work in progress!_**
 
-* Year A: complete from Advent 1 through Trinity to 2 before Advent
+* Year A: complete
 * Year B: hardly begun
 * Year C: complete from Palm Sunday onwards
 * Festivals: complete for January to March, and from September to December
@@ -1185,6 +1185,11 @@ Year C
 
 (RCL 'Proper 29'.)
 
+Year A
+
+* **Ephesians 1.15-23** says that God has put all things under Christ's feet.
+* **Matthew 25.31-46** concludes the series in Matthew (continuing without a gap), and is about the 'Son of Man' on his throne separating the 'sheep' from the 'goats'. **Ezekiel 34.11-16, 20-24** is about God's care for his sheep: 'I will judge between sheep and sheep'. **Psalm 95.1-7** (EV: 1-7a) says, 'we are the people of his pasture and the sheep of his hand'.
+
 Year C
 
 * **Jeremiah 23.1-6** says that God will raise up 'a righteous Branch, and he shall reign as king'.
@@ -1561,6 +1566,7 @@ For Matthew, Mark and Luke, the semicontinuous series from Epiphany 3 to the end
 * ...
 * Matthew 25.1-13: **3 before Advent**.
 * Matthew 25.14-30: **2 before Advent**.
+* Matthew 25.31-46: **Christ the King**.
 * ...
 * Matthew 26.14 &ndash; 27.66: Palm Sunday.
 * Matthew 27.57-66: Easter Eve, Years A, B and C (first alternative).
