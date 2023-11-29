@@ -12,7 +12,7 @@ Any feedback? Please [contact](/contact/) me!
 
 **_Work in progress!_**
 
-* Year A: complete from Advent 1 through Trinity to 3 before Advent
+* Year A: complete from Advent 1 through Trinity to 2 before Advent
 * Year B: hardly begun
 * Year C: complete from Palm Sunday onwards
 * Festivals: complete for January to March, and from September to December
@@ -1171,6 +1171,11 @@ Year C
 
 Sometimes Remembrance Sunday (the Sunday between 8 and 14 November).
 
+Year A
+
+* **1 Thessalonians 5.1-11** concludes the series in 1 Thessalonians (continuing without a gap), and is about 'the day of the Lord'.
+* **Matthew 25.14-30** continues the series in Matthew (without a gap), and is the parable of the talents, concluding with a warning of judgment. **Zephaniah 1.7, 12-18** is about the day of the Lord: 'Neither their silver nor their gold will be able to save them'. **Psalm 90.1-8 [9-11] 12** [or 90.1-8] says, 'You have set our misdeeds before you and our secret sins in the light of your countenance.'
+
 Year C
 
 * **2 Thessalonians 3.6-13** concludes the series in 2 Thessalonians, with a warning against idleness.
@@ -1555,6 +1560,7 @@ For Matthew, Mark and Luke, the semicontinuous series from Epiphany 3 to the end
 * Matthew 24.36-44: Advent 1.
 * ...
 * Matthew 25.1-13: **3 before Advent**.
+* Matthew 25.14-30: **2 before Advent**.
 * ...
 * Matthew 26.14 &ndash; 27.66: Palm Sunday.
 * Matthew 27.57-66: Easter Eve, Years A, B and C (first alternative).
