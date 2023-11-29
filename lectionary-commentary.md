@@ -12,7 +12,7 @@ Any feedback? Please [contact](/contact/) me!
 
 **_Work in progress!_**
 
-* Year A: complete from Advent 1 through Trinity to 4 before Advent
+* Year A: complete from Advent 1 through Trinity to 3 before Advent
 * Year B: hardly begun
 * Year C: complete from Palm Sunday onwards
 * Festivals: complete for January to March, and from September to December
@@ -1137,8 +1137,8 @@ Displaced if All Saints' Day falls (or is celebrated) on a Sunday.
 Year A
 
 * The alternative psalm, **Psalm 107.1-8**, is derived from the RCL, which has a 'Continuous' Old Testament reading from Joshua 3.7-17, about the crossing of the Jordan, followed by Psalm 107.1-7, 33-37, which says, 'The Lord turns rivers into wilderness' (33).
-* **1 Thessalonians 2.9-13** continues the series in 1 Thessalonians (without a gap)
-* **Matthew 24.1-14** (RCL has Matthew 23.1-12, which fits less well with the themes of the Sundays before Advent, but the change leaves a gap in the lectionary provision.) **Micah 3.5-12** is the related reading for the RCL reading, Matthew 23.1-12, pronouncing judgment on the prophets and rulers, but it also fits with Matthew 24.1-14, declaring that 'Jerusalem shall become a heap of ruins'. **Psalm 43** calls out for deliverance 'from the deceitful and the wicked'.
+* **1 Thessalonians 2.9-13** continues the series in 1 Thessalonians (without a gap), and is about how both Paul and the word of God worked among the believers.
+* **Matthew 24.1-14** continues the series in Matthew, and is about 'the sign of [Jesus'] coming and of the end of the age'. (RCL has Matthew 23.1-12, which fits less well with the themes of the Sundays before Advent, but the change leaves a gap in the lectionary provision.) **Micah 3.5-12** is the related reading for the RCL reading, Matthew 23.1-12, pronouncing judgment on the prophets and rulers, but it also fits with Matthew 24.1-14, declaring that 'Jerusalem shall become a heap of ruins'. **Psalm 43** calls out for deliverance 'from the deceitful and the wicked'.
 
 Year C
 
@@ -1150,6 +1150,11 @@ Year C
 (RCL 'Proper 27'.)
 
 Usually Remembrance Sunday (the Sunday between 8 and 14 November).
+
+Year A
+
+* **1 Thessalonians 4.13-18** continues the series in 1 Thessalonians, and is about 'the coming of the Lord'.
+* **Matthew 25.1-13** continues the series in Matthew, and is the parable of the ten bridesmaids (five foolish and five wise). **Wisdom of Solomon 6.12-16** (from the Apocrypha) is about wisdom, and is continued in the canticle, **Wisdom of Solomon 6.17-20**. Alternatively, **Amos 5.18-24**, is a warning (to the foolish) that 'the day of the Lord' will be 'darkness, not light', whereas **Psalm 70** echoes the longing of the wise bridesmaids for the coming of the bridegroom: 'O Lord, do not delay'.
 
 Year B
 
@@ -1548,6 +1553,8 @@ For Matthew, Mark and Luke, the semicontinuous series from Epiphany 3 to the end
 * ...
 * Matthew 24.30-35: Bible Sunday.
 * Matthew 24.36-44: Advent 1.
+* ...
+* Matthew 25.1-13: **3 before Advent**.
 * ...
 * Matthew 26.14 &ndash; 27.66: Palm Sunday.
 * Matthew 27.57-66: Easter Eve, Years A, B and C (first alternative).
