@@ -12,7 +12,7 @@ Any feedback? Please [contact](/contact/) me!
 
 **_Work in progress!_**
 
-* Year A: complete from Advent 1 through Trinity to Proper 25 and Bible Sunday
+* Year A: complete from Advent 1 through Trinity to All Saints' Day
 * Year B: hardly begun
 * Year C: complete from Palm Sunday onwards
 * Festivals: complete for January to March, and from September to December
@@ -1104,12 +1104,29 @@ Year C
 
 1 November, or the Sunday between 30 October and 5 November as All Saints' Sunday.
 
+Year A
+
+* **Revelation 7.9-17** has a 'great multitude ... standing before the throne and before the Lamb, robed in white'.
+* **Psalm 34.1-10** says, 'Look upon him and be radiant', and, 'Fear the Lord, all you his holy ones'.
+* **1 John 3.1-3** says, 'when he is revealed, we will be like him, for we will see him as he is'.
+* **Matthew 5.1-12** contains the Beatitudes, including, 'Blessed are the pure in heart, for they will see God.'
+
 Year C
 
 * **Daniel 7.1-3, 15-18** speaks of 'the holy ones of the Most High'.
 * **Psalm 149** mentions 'the congregation of the faithful' and the Lord's 'faithful servants'.
 * **Ephesians 1.11-23** speaks of the 'glorious inheritance among the saints'.
 * **Luke 6.20-31** says 'your reward is great in heaven'.
+
+If All Saints' Day is celebrated on a Sunday, there may be a supplementary celebration on 1 November.
+
+Years A, B and C
+
+* **Isaiah 56.3-8** has God promising to give 'an everlasting name' and to bring people to his 'holy mountain'.
+* Alternatively, **2 Esdras 2.42-48** (from the Apocrypha) speaks of the 'Son of God' crowning a great multitude on Mount Zion.
+* **Psalm 33.1-5** calls on the 'righteous' to sing God's praise.
+* **Hebrews 12.18-24** says, 'you have come to Mount Zion and to the city of the living God'.
+* **Matthew 5.1-12** contains the Beatitudes, including, 'Blessed are the pure in heart, for they will see God.'
 
 ## 4 before Advent (between 30 October and 5 November)*
 
