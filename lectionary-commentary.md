@@ -12,7 +12,7 @@ Any feedback? Please [contact](/contact/) me!
 
 **_Work in progress!_**
 
-* Year A: complete from Advent 1 through Trinity to All Saints' Day
+* Year A: complete from Advent 1 through Trinity to 4 before Advent
 * Year B: hardly begun
 * Year C: complete from Palm Sunday onwards
 * Festivals: complete for January to March, and from September to December
@@ -117,7 +117,7 @@ On the Sundays after Trinity, the Gospel reading and the New Testament reading f
 
 > Those under the heading 'Continuous' allow the Old Testament reading and its complementary psalm to stand independently of the other readings. Those under the heading 'Related' relate the Old Testament reading and the psalm to the Gospel reading.
 
-Those who prefer the readings to cohere can have their wishes partially satisfied by opting for the 'Related' Old Testament reading (and psalm), which is related to the Gospel reading. But the cost of this is that it prevents the Old Testament from speaking so clearly with its own voice, and there is no 'Related' alternative reading from the New Testament.
+Those who prefer the readings to cohere can have their wishes partially satisfied by opting for the 'Related' Old Testament reading (and psalm), which is related to the Gospel reading. But the cost of this is that it prevents the Old Testament from speaking so clearly with its own voice. Also, there is no 'Related' alternative reading from the New Testament. (RCL provides these two tracks until the Sunday before Advent, whereas Common Worship provides only the 'Related' track for the four Sundays before Advent, with some modifications.)
 
 ## Notes
 
@@ -1136,7 +1136,9 @@ Displaced if All Saints' Day falls (or is celebrated) on a Sunday.
 
 Year A
 
-* **Matthew 24.1-14** (Matthew 23.1-12 in RCL).
+* The alternative psalm, **Psalm 107.1-8**, is derived from the RCL, which has a 'Continuous' Old Testament reading from Joshua 3.7-17, about the crossing of the Jordan, followed by Psalm 107.1-7, 33-37, which says, 'The Lord turns rivers into wilderness' (33).
+* **1 Thessalonians 2.9-13** continues the series in 1 Thessalonians (without a gap)
+* **Matthew 24.1-14** (RCL has Matthew 23.1-12, which fits less well with the themes of the Sundays before Advent, but the change leaves a gap in the lectionary provision.) **Micah 3.5-12** is the related reading for the RCL reading, Matthew 23.1-12, pronouncing judgment on the prophets and rulers, but it also fits with Matthew 24.1-14, declaring that 'Jerusalem shall become a heap of ruins'. **Psalm 43** calls out for deliverance 'from the deceitful and the wicked'.
 
 Year C
 
@@ -1540,6 +1542,9 @@ For Matthew, Mark and Luke, the semicontinuous series from Epiphany 3 to the end
 * Matthew 22.15-22: **Proper 24**.
 * ...
 * Matthew 22.34-46: **Proper 25**.
+* Matthew 23.1-12: omitted (cf. RCL 'Proper 26').
+* ...
+* Matthew 24.1-14: **4 before Advent**.
 * ...
 * Matthew 24.30-35: Bible Sunday.
 * Matthew 24.36-44: Advent 1.
