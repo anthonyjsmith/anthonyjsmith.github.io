@@ -39,6 +39,8 @@ Any feedback? Please [contact](/contact/) me!
 
 Note that there is often no 'theme' tying the readings together. (Many people persist in looking for one, even decades after the ASB.) Where readings are closely related, they are grouped together below. In many cases, however, a particular reading will not be related to other readings on the same day, but it will turn out to be part of a series on a particular book of the Bible running over several weeks. This principle of continuous (or semicontinuous) reading of Scripture is one of the key principles behind the lectionary.
 
+(I have put the Principal Service Lectionary into a [spreadsheet](/assets/lectionary.xlsx).)
+
 ## The Bible and the lectionary
 
 For the Gospels, Year A focuses on Matthew, Year B on Mark, and Year C on Luke.
