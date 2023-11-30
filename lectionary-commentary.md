@@ -13,7 +13,7 @@ Any feedback? Please [contact](/contact/) me!
 **_Work in progress!_**
 
 * Year A: complete
-* Year B: Advent 1-2
+* Year B: Advent 1-3
 * Year C: complete from Palm Sunday onwards
 * Festivals: complete for January to March, and from September to December
 * Appendix: Gospels: complete for Luke and John
@@ -153,7 +153,7 @@ Year A
 
 Year B
 
-* **Mark 1.1-8** is about John the Baptist 'proclaiming a baptism of repentance for the forgiveness of sins' in order to prepare the way for Jesus. **Isaiah 40.1-11** speaks words of comfort to God's people, and is quoted in the Gospel reading: 'prepare the way'. **Psalm 85.1-2, 8-13** [or 85.8-13] says of God: 'he shall speak peace to his people ... that they turn not again to folly'. **2 Peter 3.8-15a** says, 'the day of the Lord will come like a thief', and calls for repentance: 'lives of holiness and godliness'.
+* **Mark 1.1-8** is about John the Baptist 'proclaiming a baptism of repentance for the forgiveness of sins' in order to prepare the way for Jesus. **Isaiah 40.1-11** continues in Isaiah, speaks words of comfort to God's people, and is quoted in the Gospel reading: 'prepare the way'. **Psalm 85.1-2, 8-13** [or 85.8-13] says of God: 'he shall speak peace to his people ... that they turn not again to folly'. **2 Peter 3.8-15a** says, 'the day of the Lord will come like a thief', and calls for repentance: 'lives of holiness and godliness'.
 
 ## Advent 3
 
@@ -162,6 +162,10 @@ The Gospel readings all continue with John the Baptist.
 Year A
 
 * **Matthew 11.2-11** has Jesus sending a message to John the Baptist about blind eyes being opened, and speaking about John the Baptist preparing the way. **Isaiah 35.1-10** continues in Isaiah, and is about God coming, reversing fortunes, strengthening the weak, opening the eyes of the blind, and a 'highway' being there. **Psalm 146.4-10** (EV: 5-10) says, 'the Lord opens the eyes of the blind'. Alternatively, the canticle is the **Magnificat (Luke 1.46-55)**, which is about fortunes being reversed. **James 5.7-10** says, 'Strengthen your hearts, for the coming of the Lord is near.'
+
+Year B
+
+* **John 1.6-8, 19-28** is about the testimony of John concerning Jesus the Messiah (anointed one). **Isaiah 61.1-4, 8-11** continues in Isaiah, and says, 'The spirit of the Lord God is upon me, because the Lord has anointed me', calling for a response of joy: 'I will greatly rejoice in the Lord'. **Psalm 126** is a psalm of joy: 'The Lord has indeed done great things for us, and therefore we rejoiced.' Alternatively, the canticle is the **Magnificat (Luke 1.46-55)**, which is a song of joy: 'my spirit rejoices in God my Saviour'. **1 Thessalonians 5.16-24** could be seen as concluding the series in 1 Thessalonians from the end of Year A, and says 'Rejoice always', looking ahead to 'the coming of our Lord Jesus Christ'.
 
 ## Advent 4
 
@@ -1185,7 +1189,7 @@ Sometimes Remembrance Sunday (the Sunday between 8 and 14 November).
 
 Year A
 
-* **1 Thessalonians 5.1-11** concludes the series in 1 Thessalonians (continuing without a gap), and is about 'the day of the Lord'.
+* **1 Thessalonians 5.1-11** concludes the series in 1 Thessalonians (continuing without a gap), and is about 'the day of the Lord'. (The series could be concluded a few weeks later, in Advent 3, Year A, with 1 Thessalonians 5.16-24.)
 * **Matthew 25.14-30** continues the series in Matthew (without a gap), and is the parable of the talents, concluding with a warning of judgment. **Zephaniah 1.7, 12-18** is about the day of the Lord: 'Neither their silver nor their gold will be able to save them'. **Psalm 90.1-8 [9-11] 12** [or 90.1-8] says, 'You have set our misdeeds before you and our secret sins in the light of your countenance.'
 
 Year C
