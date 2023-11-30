@@ -13,7 +13,7 @@ Any feedback? Please [contact](/contact/) me!
 **_Work in progress!_**
 
 * Year A: complete
-* Year B: hardly begun
+* Year B: Advent 1
 * Year C: complete from Palm Sunday onwards
 * Festivals: complete for January to March, and from September to December
 * Appendix: Gospels: complete for Luke and John
@@ -133,7 +133,15 @@ The Gospel readings all speak of the 'coming' of 'the Son of Man'.
 
 Year A
 
-* **Matthew 24.36-44** urges us to 'be ready' for 'the coming of the Son of Man'. **Romans 13.11-14** is an exhortation to 'lay aside the works of darkness and put on the armour of light' because 'the day is near'. **Isaiah 2.1-5** begins a series (?) in Isaiah, which covers all Sundays until Proper 1, except for Christmas 2 and Epiphany 4. God's people are urged to 'walk in the light of the Lord', looking ahead to 'days to come' when the nations stream to God's house in Zion in order to walk in God's paths and find peace with each other. **Psalm 122** has people going up to 'the house of the Lord' and speaks of 'peace'.
+* **Romans 13.11-14** is an exhortation to 'lay aside the works of darkness and put on the armour of light' because 'the day is near'. **Isaiah 2.1-5** begins a 'series' in Isaiah, which covers all Sundays until Proper 1, except for Christmas 2 and Epiphany 4. God's people are urged to 'walk in the light of the Lord', looking ahead to 'days to come' when the nations stream to God's house in Zion in order to walk in God's paths and find peace with each other. **Psalm 122** has people going up to 'the house of the Lord' and speaks of 'peace'.
+* **Matthew 24.36-44** urges us to 'be ready' for 'the coming of the Son of Man'.
+
+Year B
+
+* **Isaiah 64.1-9** begins a four-part 'series' in Isaiah 40-64 (Advent 1-3 and Christmas 1), and begins, 'O that you would tear open the heavens and come down'.
+* **Psalm 80.1-8, 18-20** (EV: 1-7, 17-19) [or 80.1-8 (EV: 1-7)] calls on God to 'come to our salvation' and 'show the light of your countenance', and speaks of 'the man at your right hand, the son of man you made so strong for yourself'.
+* **1 Corinthians 1.3-9** speaks of waiting 'for the revealing of our Lord Jesus Christ' and 'the day of our Lord Jesus Christ'.
+* **Mark 13.24-37** speaks of 'the Son of Man coming in clouds' and about 'that day or hour' being unknown: 'Keep awake.'
 
 ## Advent 2
 
@@ -1601,6 +1609,10 @@ For Matthew, Mark and Luke, the semicontinuous series from Epiphany 3 to the end
 * ...
 * Mark 12.38-40: omitted, along with its parallels in Matthew 23.1-7 and Luke 20.45-47 (NB: RCL 'Proper 26' and 'Proper 27').
 * Mark 12.41-44 (widow's offering): omitted, along with its parallel in Luke 21.1-4 (NB: RCL 'Proper 27').
+* ...
+* Mark 13.14-19: omitted, along with near parallels in Matthew 24.15-21 and Luke 21.20-24.
+* ...
+* Mark 13.24-37: Advent 1.
 * ...
 
 ## Luke (Year C)
