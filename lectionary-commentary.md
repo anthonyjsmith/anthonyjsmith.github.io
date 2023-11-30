@@ -13,7 +13,7 @@ Any feedback? Please [contact](/contact/) me!
 **_Work in progress!_**
 
 * Year A: complete
-* Year B: Advent 1-3
+* Year B: complete for Advent
 * Year C: complete from Palm Sunday onwards
 * Festivals: complete for January to March, and from September to December
 * Appendix: Gospels: complete for Luke and John
@@ -174,6 +174,10 @@ The Gospel readings all look towards Jesus' birth to Mary.
 Year A
 
 * **Matthew 1.18-25** leads up to the birth of Jesus to Mary, fulfilling Isaiah's prophecy about 'Emmanuel'. **Isaiah 7.10-16** continues in Isaiah, and looks ahead to a young woman bearing a son and calling him Immanuel. **Psalm 80.1-8, 18-20** (EV: 1-7, 17-19) [or 80.1-8 (EV: 1-7)] calls on God to 'come to our salvation' and 'show the light of your countenance', and speaks of 'the man at your right hand, the son of man you made so strong for yourself'. **Romans 1.1-7** says that Jesus 'was descended from David according to the flesh'.
+
+Year B
+
+* **Luke 1.26-38** is the annunciation to Mary, 'engaged to a man whose name was Joseph, of the house of David', and says of Jesus, that 'the Lord God will give to him the throne of his ancestor David'. Mary's response is, 'let it be with me according to your word'. **2 Samuel 7.1-11, 16** is God's promise to David: 'Your house and your kingdom shall be made sure for ever before me; your throne shall be established for ever.' The canticle is the **Magnificat (Luke 1.46-55)**, the song of Mary: 'He has come to the aid of his servant Israel, to remember his promise of mercy'. Alternatively, **Psalm 89.1-4, 19-26** [or 89.1-8] speaks of God's promise to David: 'Your seed will I establish for ever and build up your throne for all generations.' **Romans 16.25-27** speaks about 'the revelation of the mystery that was kept secret for long ages ... to bring about the obedience of faith', reflecting Mary's response of obedient faith.
 
 # Christmas {#christmas}
 
