@@ -1512,8 +1512,8 @@ For Matthew, Mark and Luke, the semicontinuous series from Epiphany 3 to the end
 * Matthew 8.28-34: see Luke 8.26-39.
 * Matthew 9.1: omitted.
 * Matthew 9.2-8: see Mark 2.1-12.
-* Matthew 9.9-13, 18-26: **Proper 5**.
-* Matthew 9.14-17: omitted, along with its parallels in Mark 2.18-22 and Luke 5.33-39 (NB: RCL 'Proper 3'), but could be included if the gap is filled in Matthew 9.9-13, 18-26.
+* Matthew 9.9-13, 18-26: **Proper 5** (9.9-13: Matthew).
+* Matthew 9.14-17: omitted, along with its parallels in Mark 2.18-22 and Luke 5.33-39 (NB: RCL 'Proper 3').
 * Matthew 9.27-31: omitted, along with its close parallel in Mark 8.22-26.
 * Matthew 9.32-33: omitted (cf. Matthew 12.22-23).
 * Matthew 9.34: see Mark 3.20-35 (cf. Matthew 12.24).
@@ -1527,7 +1527,17 @@ For Matthew, Mark and Luke, the semicontinuous series from Epiphany 3 to the end
 * Matthew 11.15: common saying, included elsewhere ('Let anyone with ears listen!').
 * Matthew 11.16-19, 25-30: **Proper 9**.
 * Matthew 11.20-24: omitted, along with its parallel in Luke 10.12-15.
-* ...
+* Matthew 12.1-14: see Mark 2.23 &ndash; 3.6.
+* Matthew 12.15-21: omitted.
+* Matthew 12.22-23: omitted (cf. Matthew 9.32-33).
+* Matthew 12.24-29: see Mark 3.20-35 (cf. Matthew 9.34).
+* Matthew 12.30: omitted, along with its parallel in Luke 11.23.
+* Matthew 12.31-32: see Mark 3.20-35.
+* Matthew 12.33-35: omitted, along with its parallels in Matthew 7.16, 18, 20 and Luke 6.43-45.
+* Matthew 12.36-37: omitted.
+* Matthew 12.38-42: omitted, along with its parallel in Luke 11.29-32.
+* Matthew 12.43-45: omitted, along with its parallel in Luke 11.24-26.
+* Matthew 12.46-50: see Mark 3.20-35.
 * Matthew 13.1-9, 18-23: **Proper 10**.
 * ...
 * Matthew 13.24-30, 36-43: **Proper 11**.
@@ -1557,7 +1567,8 @@ For Matthew, Mark and Luke, the semicontinuous series from Epiphany 3 to the end
 * Matthew 22.15-22: **Proper 24**.
 * ...
 * Matthew 22.34-46: **Proper 25**.
-* Matthew 23.1-12: omitted (cf. RCL 'Proper 26').
+* Matthew 23.1-7: omitted, along with its parallels in Mark 12.38-39 and Luke 20.45-46 (NB: RCL 'Proper 26').
+* Matthew 23.8-12: omitted (NB: RCL 'Proper 26').
 * ...
 * Matthew 24.1-14: **4 before Advent**.
 * ...
@@ -1580,8 +1591,17 @@ For Matthew, Mark and Luke, the semicontinuous series from Epiphany 3 to the end
 * Mark 1.4-11: Epiphany 1.
 * Mark 1.9-15: Lent 1.
 * ...
-* Mark 2.13-22 ('I have come to call not the righteous but sinners ... new wine into old wineskins'). The parallel passage in Luke 5.27-38 is also omitted, but the other parallel in Matthew 9.9-17 is partially included in Matthew 9.9-13, 18-26, and the gap could easily be filled.
-
+* Mark 2.13: omitted.
+* Mark 2.14-17: see Matthew 9.9-13, 18-26.
+* Mark 2.18-22: omitted, along with its parallels in Matthew 9.14-17 and Luke 5.33-39 (NB: RCL 'Proper 3').
+* ...
+* Mark 8.22-26: omitted, along with its close parallel in Matthew 9.27-31.
+* ...
+* Mark 9.13: omitted, along with its parallel in Matthew 11.14.
+* ...
+* Mark 12.38-40: omitted, along with its parallels in Matthew 23.1-7 and Luke 20.45-47 (NB: RCL 'Proper 26' and 'Proper 27').
+* Mark 12.41-44 (widow's offering): omitted, along with its parallel in Luke 21.1-4 (NB: RCL 'Proper 27').
+* ...
 
 ## Luke (Year C)
 
@@ -1617,7 +1637,7 @@ For Matthew, Mark and Luke, the semicontinuous series from Epiphany 3 to the end
   * Luke 6.39 ('Can a blind person guide a blind person?'): see Matthew 15.14, which is included in Matthew 15.[10-20] 21-28.
   * Luke 6.40 ('A disciple is not above the teacher'): see John 13.16, which is included on Maundy Thursday.
   * Luke 6.41-42 ('speck ... log'): omitted, along with its parallel in Matthew 7.3-5.
-  * Luke 6.43-44 ('tree is known by its fruit'): see Matthew 7.16, 18, 20, which could be included by extending the reading from 7.21-29 to begin at verse 16.
+  * Luke 6.43-44 ('tree is known by its fruit'): omitted, along with its parallels in Matthew 7.16, 18, 20 and Matthew 11.33-35.
   * Luke 6.45 ('it is out of the abundance of the heart that the mouth speaks'): see Matthew 12.34-35 (which is omitted) and a near parallel in Mark 7.20-23, which is (mostly) included in Mark 7.1-8, 14, 15, 21-23.
   * Luke 6.46 ('Lord ... do what I say'): see Matthew 7.21, which is included in 7.21-29.
   * Luke 6.47-49 ('house ... without a foundation'): see Matthew 7.24-27, which is included in 7.21-29.
@@ -1650,16 +1670,16 @@ For Matthew, Mark and Luke, the semicontinuous series from Epiphany 3 to the end
 * Luke 11.14: omitted, along with its parallel in Matthew 12.22-23.
 * Luke 11.15, 17-22: see Mark 3.20-35.
 * Luke 11.16: omitted, along with its parallel in Matthew 12.38.
-* Luke 11.23: omitted, along with its parallel in Matthew 12.30
+* Luke 11.23: omitted, along with its parallel in Matthew 12.30.
 * Luke 11.24-26: omitted, along with its parallel in Matthew 12.43-45.
 * Luke 11.27-28: omitted.
 * Luke 11.29-32: omitted, along with its parallel in Matthew 12.39-42.
 * Luke 11.33: see Matthew 5.13-20.
 * Luke 11.34-35: omitted, along with its parallel in Matthew 6.22-23.
 * Luke 11.36: omitted.
-* Luke 11.37-54 ('woe to you...'): omitted, along with Matthew 23, which contains many parallels (cf. RCL 'Proper 26').
+* Luke 11.37-54 ('woe to you...'): omitted, along with Matthew 23, which contains many parallels (NB: RCL 'Proper 26').
 * Luke 12.1-9: see Matthew 10.24-39.
-* Luke 12.10: omitted, along with its parallel in Matthew 12.31-32.
+* Luke 12.10: see Mark 3.20-35.
 * Luke 12.11-12: omitted (but see Matthew 10.17-22, set for Stephen). Compare Luke 21.5-19 (and Mark 13.5-13, set for Mark).
 * Luke 12.13-21: **Proper 13**.
 * Luke 12.16-30: Harvest Thanksgiving, Year A. For Luke 12.22-31, see also Matthew 6.25-34.
@@ -1725,8 +1745,8 @@ For Matthew, Mark and Luke, the semicontinuous series from Epiphany 3 to the end
 * Luke 20.27-38: **3 before Advent**.
 * Luke 20.39: omitted.
 * Luke 20.40-44: see Matthew 22.34-46.
-* Luke 20.45-47: omitted, along with its parallels in Matthew 23.1-7 (included in RCL 'Proper 26', Year A) and Mark 12.38-40 (included in RCL 'Proper 27'. Year B).
-* Luke 21.1-4 (widow's offering): omitted, along with its parallel in Mark 12.41-44 (included in RCL 'Proper 27', Year B).
+* Luke 20.45-47: omitted, along with its parallels in Matthew 23.1-7 and Mark 12.38-40 (NB: RCL 'Proper 26' and 'Proper 27').
+* Luke 21.1-4 (widow's offering): omitted, along with its parallel in Mark 12.41-44 (NB: RCL 'Proper 27').
 * Luke 21.5-19: **2 before Advent**.
 * Luke 21.20-24: omitted, along with near parallels in Matthew 24.15-21 and Mark 13.14-19.
 * Luke 21.25-36: Advent 1.
