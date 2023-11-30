@@ -13,7 +13,7 @@ Any feedback? Please [contact](/contact/) me!
 **_Work in progress!_**
 
 * Year A: complete
-* Year B: Advent 1
+* Year B: Advent 1-2
 * Year C: complete from Palm Sunday onwards
 * Festivals: complete for January to March, and from September to December
 * Appendix: Gospels: complete for Luke and John
@@ -150,6 +150,10 @@ The Gospel readings all introduce John the Baptist.
 Year A
 
 * **Matthew 3.1-12** introduces John the Baptist baptizing with water for repentance and pointing towards one who will baptize with the Holy Spirit. **Isaiah 11.1-10** continues in Isaiah, and speaks one who will come with the 'spirit of the Lord' and bring peace. **Psalm 72.1-7, 18-19** [or 72.1-7] speaks of the 'king' bringing 'justice' and 'peace'. **Romans 15.4-13** quotes Isaiah 11.10 and speaks of hope.
+
+Year B
+
+* **Mark 1.1-8** is about John the Baptist 'proclaiming a baptism of repentance for the forgiveness of sins' in order to prepare the way for Jesus. **Isaiah 40.1-11** speaks words of comfort to God's people, and is quoted in the Gospel reading: 'prepare the way'. **Psalm 85.1-2, 8-13** [or 85.8-13] says of God: 'he shall speak peace to his people ... that they turn not again to folly'. **2 Peter 3.8-15a** says, 'the day of the Lord will come like a thief', and calls for repentance: 'lives of holiness and godliness'.
 
 ## Advent 3
 
