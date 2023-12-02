@@ -12,7 +12,7 @@ date: 2023-12-02 10:48:19.494437000 +00:00
 
 Having recently become a vicar in a multi-parish context, I was quite excited by the launch of [this book](https://www.chpublishing.co.uk/books/9781781404324/thrive) (published in partnership with [CPAS](https://www.cpas.org.uk/browse-everything/thrive-book)). But the key thing to know about the book is that it is part of a wider set of resources.
 
-The primary resource in [the _Thrive_ collection](https://www.cpas.org.uk/browse-everything/thrive-helping-your-multi-parish-benefice-grow), it seems, is the course. (There is also a prayer guide and set of PCC sessions.) Pam Macnaughton developed these resources by working for several years with groups of clergy and lay people from multi-parish benefices. The course appears to be designed to enable other groups to benefit in a similar way.
+The primary resource in [the _Thrive_ collection](https://www.cpas.org.uk/browse-everything/thrive-helping-your-multi-parish-benefice-grow), it seems, is the course. (There is also a prayer guide and a set of PCC sessions.) Pam Macnaughton developed these resources by working for several years with groups of clergy and lay people from multi-parish benefices. The course appears to be designed to enable other groups to benefit in a similar way.
 
 [Six areas](https://www.cpas.org.uk/browse-everything/thrive-collection-resources) are covered in the _Thrive_ book and course:
 
