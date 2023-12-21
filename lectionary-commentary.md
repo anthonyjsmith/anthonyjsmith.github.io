@@ -127,13 +127,17 @@ Depending on the day of the week for Christmas and Epiphany, and the date of Eas
 
 # Advent {#advent}
 
+There is a tradition in some parts of the church of reflecting on the themes of hope, peace, joy and love on the four Sundays of Advent. The theme of hope is present on the first three Sundays, while the theme of peace is discernable on the second Sunday, and joy on the third.
+
 ## Advent 1
 
 The Gospel readings all speak of the 'coming' of 'the Son of Man'.
 
 Year A
 
-* **Romans 13.11-14** is an exhortation to 'lay aside the works of darkness and put on the armour of light' because 'the day is near'. **Isaiah 2.1-5** begins a 'series' in Isaiah, which covers all Sundays until Proper 1, except for Christmas 2 and Epiphany 4. God's people are urged to 'walk in the light of the Lord', looking ahead to 'days to come' when the nations stream to God's house in Zion in order to walk in God's paths and find peace with each other. **Psalm 122** has people going up to 'the house of the Lord' and speaks of 'peace'.
+* **Isaiah 2.1-5** begins a 'series' in Isaiah, which covers all Sundays until Proper 1, except for Christmas 2 and Epiphany 4. God's people are urged to 'walk in the light of the Lord', looking ahead to 'days to come' when the nations stream to God's house in Zion in order to walk in God's paths and find peace with each other.
+* **Psalm 122** has people going up to 'the house of the Lord' and speaks of 'peace'.
+* **Romans 13.11-14** (see BCP) is an exhortation to 'lay aside the works of darkness and put on the armour of light' because 'the day is near'.
 * **Matthew 24.36-44** urges us to 'be ready' for 'the coming of the Son of Man'.
 
 Year B
@@ -147,25 +151,47 @@ Year B
 
 The Gospel readings all introduce John the Baptist.
 
+Peace is a recurring theme.
+
 Year A
 
-* **Matthew 3.1-12** introduces John the Baptist baptizing with water for repentance and pointing towards one who will baptize with the Holy Spirit. **Isaiah 11.1-10** continues in Isaiah, and speaks one who will come with the 'spirit of the Lord' and bring peace. **Psalm 72.1-7, 18-19** [or 72.1-7] speaks of the 'king' bringing 'justice' and 'peace'. **Romans 15.4-13** quotes Isaiah 11.10 and speaks of hope.
+* **Isaiah 11.1-10** continues in Isaiah, and speaks one who will come with the 'spirit of the Lord' and bring peace.
+* **Psalm 72.1-7, 18-19** [or 72.1-7] speaks of the 'king' bringing 'justice' and 'peace'.
+* **Romans 15.4-13** (see BCP) quotes Isaiah 11.10 ('The root of Jesse shall come, the one who rises to rule the Gentiles; in him the Gentiles shall hope': see Septuagint), speaks of living in harmony, and says, 'May the God of hope fill you with all joy and peace in believing, so that you may abound in hope'.
+* **Matthew 3.1-12** introduces John the Baptist baptizing with water for repentance and pointing towards one who will baptize with the Holy Spirit.
 
 Year B
 
-* **Mark 1.1-8** is about John the Baptist 'proclaiming a baptism of repentance for the forgiveness of sins' in order to prepare the way for Jesus. **Isaiah 40.1-11** continues in Isaiah, speaks words of comfort to God's people, and is quoted in the Gospel reading: 'prepare the way'. **Psalm 85.1-2, 8-13** [or 85.8-13] says of God: 'he shall speak peace to his people ... that they turn not again to folly'. **2 Peter 3.8-15a** says, 'the day of the Lord will come like a thief', and calls for repentance: 'lives of holiness and godliness'.
+* **Isaiah 40.1-11** continues in Isaiah, speaks words of comfort to God's people, is quoted in the Gospel reading: 'prepare the way', and looks to the coming of the Lord.
+* **Psalm 85.1-2, 8-13** [or 85.8-13] says of God: 'he shall speak peace to his people ... that they turn not again to folly'.
+* **2 Peter 3.8-15a** says, 'the day of the Lord will come like a thief', and calls for repentance and peace: 'lives of holiness and godliness ... strive to be found by him at peace, without spot or blemish'.
+* **Mark 1.1-8** quotes Isaiah 40.3 ('Prepare the way'), and is about John the Baptist 'proclaiming a baptism of repentance for the forgiveness of sins' in order to prepare the way for Jesus.
 
 ## Advent 3
 
 The Gospel readings all continue with John the Baptist.
 
+Joy is a recurring theme, echoing this Sunday being celebrated widely in Western Christianity as 'Gaudete Sunday', from _Gaudete_, 'Rejoice', in Philippians 4.4.
+
 Year A
 
-* **Matthew 11.2-11** has Jesus sending a message to John the Baptist about blind eyes being opened, and speaking about John the Baptist preparing the way. **Isaiah 35.1-10** continues in Isaiah, and is about God coming, reversing fortunes, strengthening the weak, opening the eyes of the blind, and a 'highway' being there. **Psalm 146.4-10** (EV: 5-10) says, 'the Lord opens the eyes of the blind'. Alternatively, the canticle is the **Magnificat (Luke 1.46-55)**, which is about fortunes being reversed. **James 5.7-10** says, 'Strengthen your hearts, for the coming of the Lord is near.'
+Four themes are present in the readings: the coming of the Lord, preparing the way, blind eyes being opened, and rejoicing.
+
+* **Isaiah 35.1-10** continues in Isaiah, and is a call to 'rejoice with joy' in the light of God coming, reversing fortunes, strengthening the weak, opening the eyes of the blind, and a 'highway' being there.
+* **Psalm 146.4-10** (EV: 5-10) says, 'the Lord opens the eyes of the blind'.
+* Alternatively, the canticle is the **Magnificat (Luke 1.46-55)**, which is a song of joy, and is about fortunes being reversed.
+* **James 5.7-10** says, 'Strengthen your hearts, for the coming of the Lord is near.'
+* **Matthew 11.2-11** (see BCP) has Jesus sending a message to John the Baptist about blind eyes being opened, and speaking about John the Baptist preparing the way.
 
 Year B
 
-* **John 1.6-8, 19-28** is about the testimony of John concerning Jesus the Messiah (anointed one). **Isaiah 61.1-4, 8-11** continues in Isaiah, and says, 'The spirit of the Lord God is upon me, because the Lord has anointed me', calling for a response of joy: 'I will greatly rejoice in the Lord'. **Psalm 126** is a psalm of joy: 'The Lord has indeed done great things for us, and therefore we rejoiced.' Alternatively, the canticle is the **Magnificat (Luke 1.46-55)**, which is a song of joy: 'my spirit rejoices in God my Saviour'. **1 Thessalonians 5.16-24** could be seen as concluding the series in 1 Thessalonians from the end of Year A, and says 'Rejoice always', looking ahead to 'the coming of our Lord Jesus Christ'.
+Three themes are present in the readings: the coming of the Lord, anointing, and joy.
+
+* **Isaiah 61.1-4, 8-11** continues in Isaiah, and says, 'The spirit of the Lord God is upon me, because the Lord has anointed me', to give 'the oil of gladness', and calling for a response of joy: 'I will greatly rejoice in the Lord'.
+* **Psalm 126** is a psalm of joy: 'The Lord has indeed done great things for us, and therefore we rejoiced.'
+* Alternatively, the canticle is the **Magnificat (Luke 1.46-55)**, which is a song of joy: 'my spirit rejoices in God my Saviour'.
+* **1 Thessalonians 5.16-24** could be seen as concluding the series in 1 Thessalonians from the end of Year A, and says 'Rejoice always', looking ahead to 'the coming of our Lord Jesus Christ'.
+* **John 1.6-8, 19-28** is about the testimony of John concerning Jesus the Messiah (anointed one).
 
 ## Advent 4
 
@@ -173,11 +199,19 @@ The Gospel readings all look towards Jesus' birth to Mary.
 
 Year A
 
-* **Matthew 1.18-25** leads up to the birth of Jesus to Mary, fulfilling Isaiah's prophecy about 'Emmanuel'. **Isaiah 7.10-16** continues in Isaiah, and looks ahead to a young woman bearing a son and calling him Immanuel. **Psalm 80.1-8, 18-20** (EV: 1-7, 17-19) [or 80.1-8 (EV: 1-7)] calls on God to 'come to our salvation' and 'show the light of your countenance', and speaks of 'the man at your right hand, the son of man you made so strong for yourself'. **Romans 1.1-7** says that Jesus 'was descended from David according to the flesh'.
+* **Isaiah 7.10-16** continues in Isaiah, and looks ahead to a young woman bearing a son and calling him Immanuel.
+* **Psalm 80.1-8, 18-20** (EV: 1-7, 17-19) [or 80.1-8 (EV: 1-7)] calls on God to 'come to our salvation' and 'show the light of your countenance', and speaks of 'the man at your right hand, the son of man you made so strong for yourself'. 
+* **Romans 1.1-7** says that Jesus 'was descended from David according to the flesh'.
+* **Matthew 1.18-25** leads up to the birth of Jesus to Mary, fulfilling Isaiah's prophecy about 'Emmanuel'.
 
 Year B
 
-* **Luke 1.26-38** is the annunciation to Mary, 'engaged to a man whose name was Joseph, of the house of David', and says of Jesus, that 'the Lord God will give to him the throne of his ancestor David'. Mary's response is, 'let it be with me according to your word'. **2 Samuel 7.1-11, 16** is God's promise to David: 'Your house and your kingdom shall be made sure for ever before me; your throne shall be established for ever.' The canticle is the **Magnificat (Luke 1.46-55)**, the song of Mary: 'He has come to the aid of his servant Israel, to remember his promise of mercy'. Alternatively, **Psalm 89.1-4, 19-26** [or 89.1-8] speaks of God's promise to David: 'Your seed will I establish for ever and build up your throne for all generations.' **Romans 16.25-27** speaks about 'the revelation of the mystery that was kept secret for long ages ... to bring about the obedience of faith', reflecting Mary's response of obedient faith.
+The readings reflect the theme of God's promises being fulfilled.
+
+* **2 Samuel 7.1-11, 16** is God's promise to David: 'Your house and your kingdom shall be made sure for ever before me; your throne shall be established for ever.'
+* The canticle is the **Magnificat (Luke 1.46-55)**, the song of Mary: 'He has come to the aid of his servant Israel, to remember his promise of mercy'.
+* Alternatively, **Psalm 89.1-4, 19-26** [or 89.1-8] speaks of God's promise to David: 'Your seed will I establish for ever and build up your throne for all generations.'
+* **Luke 1.26-38** is the annunciation to Mary, 'engaged to a man whose name was Joseph, of the house of David', and says of Jesus, that 'the Lord God will give to him the throne of his ancestor David'. Mary's response is, 'let it be with me according to your word'. **Romans 16.25-27** speaks about 'the revelation of the mystery that was kept secret for long ages ... to bring about the obedience of faith', reflecting Mary's response of obedient faith.
 
 # Christmas {#christmas}
 
@@ -201,8 +235,8 @@ Set III (emphasis on Jesus' divinity)
 
 * **Isaiah 52.7-10** speaks of 'the return of the Lord to Zion', and says that he 'has bared his holy arm before the eyes of all the nations'.
 * **Psalm 98** speaks of the Lord bring victory by his 'own right hand and his holy arm', and calls for rejoicing before the Lord, because 'he comes to judge the earth'.
-* **Hebrews 1.1-4 [5-12]** speaks of the 'Son' through whom God 'created the worlds', who is 'the exact imprint of God's very being', and who is 'superior to angels'. [When God 'brings the firstborn into the world', the angels worship him.]
-* **John 1.1-14** speaks of the 'Word' who 'was God', through whom 'all things came into being', and who 'became flesh'.
+* **Hebrews 1.1-4 [5-12]** (see BCP) speaks of the 'Son' through whom God 'created the worlds', who is 'the exact imprint of God's very being', and who is 'superior to angels'. [When God 'brings the firstborn into the world', the angels worship him.]
+* **John 1.1-14** (see BCP) speaks of the 'Word' who 'was God', through whom 'all things came into being', and who 'became flesh'.
 
 ## Christmas 1
 
