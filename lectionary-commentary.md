@@ -13,7 +13,7 @@ Any feedback? Please [contact](/contact/) me!
 **_Work in progress!_**
 
 * Year A: complete
-* Year B: complete from Advent 1 to Epiphany 3
+* Year B: complete from Advent 1 to Candlemas
 * Year C: complete from Palm Sunday onwards
 * Festivals: complete for January to March, and from September to December
 * Appendix: Gospels: complete for Luke and John
@@ -349,6 +349,11 @@ RCL has Matthew 5.1-12 as the Gospel reading, with related readings from Micah 6
 
 * **1 Corinthians 1.18-31** continues the series in 1 Corinthians 1-3 (overlapping by one verse), and is about 'the message of the cross' and 'Christ the power of God and the wisdom of God'. (Also set for Tuesday of Holy Week.)
 * **John 2.1-11** is the account of Jesus turning water into wine, by which he 'revealed his glory' (an Epiphany theme). (This account features in Years A, B and C, each time on a different Sunday of Epiphany.) **1 Kings 17.8-16** is about Elijah's provision of meal and oil to a widow who was running out. **Psalm 36.5-10** is about God's provision: 'They shall be satisfied with the abundance of your house; they shall drink from the river of your delights. For with you is the well of life'.
+
+Year B
+
+* **Revelation 12.1-5a** concludes the series about the revelation of Jesus' glory in Revelation (replacing the RCL reading), and is about the 'woman' and her 'son ... who is to rule all the nations with a rod of iron'.
+* **Mark 1.21-28** begins a semicontinuous series in Mark 1-13, which covers this Sunday, three Sundays in February, and all the Sundays after Trinity until 2 before Advent, apart from five weeks in John 6 in July and August. (The series begins more naturally in RCL with Mark 1.14-20 in Epiphany 3, but this is transferred to 3 before Advent in Common Worship.) Jesus heals a man with an unclean spirit, provoking amazement: 'A new teaching—with authority!' **Deuteronomy 18.15-20** is about the new 'prophet' like Moses who will speak God's words. **Psalm 111** praises God for his 'marvellous deeds'.
 
 Year C
 
@@ -1680,6 +1685,8 @@ For Matthew, Mark and Luke, the semicontinuous series from Epiphany 3 to the end
 * Mark 1.1-8: Advent 2.
 * Mark 1.4-11: Epiphany 1.
 * Mark 1.9-15: Lent 1.
+* Mark 1.14-20: **3 before Advent** (NB: RCL Epiphany 3).
+* Mark 1.21-28: **Epiphany 4**
 * ...
 * Mark 2.13: omitted.
 * Mark 2.14-17: see Matthew 9.9-13, 18-26.
