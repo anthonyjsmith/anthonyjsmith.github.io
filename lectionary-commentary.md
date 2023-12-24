@@ -127,7 +127,9 @@ Depending on the day of the week for Christmas and Epiphany, and the date of Eas
 
 # Advent {#advent}
 
-There is a tradition in some parts of the church of reflecting on the themes of hope, peace, joy and love on the four Sundays of Advent. The theme of hope is present on the first three Sundays, while the theme of peace is discernable on the second Sunday, and joy on the third.
+The readings are more strongly related to the themes of Advent than they are to each other within each Sunday.
+
+There is a tradition in some parts of the church of reflecting on the themes of hope, peace, joy and love on the four Sundays of Advent. The theme of hope is present on the first three Sundays, while the theme of peace is discernable on Advent 2, and joy on Advent 3.
 
 ## Advent 1
 
@@ -135,8 +137,7 @@ The Gospel readings all speak of the 'coming' of 'the Son of Man'.
 
 Year A
 
-* **Isaiah 2.1-5** begins a 'series' in Isaiah, which covers all Sundays until Proper 1, except for Christmas 2 and Epiphany 4. God's people are urged to 'walk in the light of the Lord', looking ahead to 'days to come' when the nations stream to God's house in Zion in order to walk in God's paths and find peace with each other.
-* **Psalm 122** has people going up to 'the house of the Lord' and speaks of 'peace'.
+* **Isaiah 2.1-5** begins a 'series' in Isaiah, which covers all Sundays until Proper 1, except for Christmas 2 and Epiphany 4. God's people are urged to 'walk in the light of the Lord', looking ahead to 'days to come' when the nations stream to God's house in Zion in order to walk in God's paths and find peace with each other. **Psalm 122** has people going up to 'the house of the Lord' and speaks of 'peace'.
 * **Romans 13.11-14** (see BCP) is an exhortation to 'lay aside the works of darkness and put on the armour of light' because 'the day is near'.
 * **Matthew 24.36-44** urges us to 'be ready' for 'the coming of the Son of Man'.
 
@@ -156,14 +157,13 @@ Peace is a recurring theme.
 Year A
 
 * **Isaiah 11.1-10** continues in Isaiah, and speaks one who will come with the 'spirit of the Lord' and bring peace.
-* **Psalm 72.1-7, 18-19** [or 72.1-7] speaks of the 'king' bringing 'justice' and 'peace'.
+* **Psalm 72.1-7, 18-19** [or 72.1-7] speaks of the 'king' bringing 'justice' and 'peace': 'May he come down...'.
 * **Romans 15.4-13** (see BCP) quotes Isaiah 11.10 ('The root of Jesse shall come, the one who rises to rule the Gentiles; in him the Gentiles shall hope': see Septuagint), speaks of living in harmony, and says, 'May the God of hope fill you with all joy and peace in believing, so that you may abound in hope'.
 * **Matthew 3.1-12** introduces John the Baptist baptizing with water for repentance and pointing towards one who will baptize with the Holy Spirit.
 
 Year B
 
-* **Isaiah 40.1-11** continues in Isaiah, speaks words of comfort to God's people, is quoted in the Gospel reading: 'prepare the way', and looks to the coming of the Lord.
-* **Psalm 85.1-2, 8-13** [or 85.8-13] says of God: 'he shall speak peace to his people ... that they turn not again to folly'.
+* **Isaiah 40.1-11** continues in Isaiah, speaks words of comfort to God's people, is quoted in the Gospel reading: 'prepare the way', and looks to the coming of the Lord. **Psalm 85.1-2, 8-13** [or 85.8-13] says of God: 'he shall speak peace to his people ... that they turn not again to folly'.
 * **2 Peter 3.8-15a** says, 'the day of the Lord will come like a thief', and calls for repentance and peace: 'lives of holiness and godliness ... strive to be found by him at peace, without spot or blemish'.
 * **Mark 1.1-8** quotes Isaiah 40.3 ('Prepare the way'), and is about John the Baptist 'proclaiming a baptism of repentance for the forgiveness of sins' in order to prepare the way for Jesus.
 
@@ -178,7 +178,7 @@ Year A
 Four themes are present in the readings: the coming of the Lord, preparing the way, blind eyes being opened, and rejoicing.
 
 * **Isaiah 35.1-10** continues in Isaiah, and is a call to 'rejoice with joy' in the light of God coming, reversing fortunes, strengthening the weak, opening the eyes of the blind, and a 'highway' being there.
-* **Psalm 146.4-10** (EV: 5-10) says, 'the Lord opens the eyes of the blind'.
+* **Psalm 146.4-10** (EV: 5-10) connects hope with joy ('Happy are those ... whose hope is in the Lord their God'), and says, 'the Lord opens the eyes of the blind'.
 * Alternatively, the canticle is the **Magnificat (Luke 1.46-55)**, which is a song of joy, and is about fortunes being reversed.
 * **James 5.7-10** says, 'Strengthen your hearts, for the coming of the Lord is near.'
 * **Matthew 11.2-11** (see BCP) has Jesus sending a message to John the Baptist about blind eyes being opened, and speaking about John the Baptist preparing the way.
@@ -188,7 +188,7 @@ Year B
 Three themes are present in the readings: the coming of the Lord, anointing, and joy.
 
 * **Isaiah 61.1-4, 8-11** continues in Isaiah, and says, 'The spirit of the Lord God is upon me, because the Lord has anointed me', to give 'the oil of gladness', and calling for a response of joy: 'I will greatly rejoice in the Lord'.
-* **Psalm 126** is a psalm of joy: 'The Lord has indeed done great things for us, and therefore we rejoiced.'
+* **Psalm 126** is a psalm of joy: 'The Lord has indeed done great things for us, and therefore we rejoiced', and looks ahead to a future restoration of fortunes.
 * Alternatively, the canticle is the **Magnificat (Luke 1.46-55)**, which is a song of joy: 'my spirit rejoices in God my Saviour'.
 * **1 Thessalonians 5.16-24** could be seen as concluding the series in 1 Thessalonians from the end of Year A, and says 'Rejoice always', looking ahead to 'the coming of our Lord Jesus Christ'.
 * **John 1.6-8, 19-28** is about the testimony of John concerning Jesus the Messiah (anointed one).
