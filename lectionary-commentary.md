@@ -13,7 +13,7 @@ Any feedback? Please [contact](/contact/) me!
 **_Work in progress!_**
 
 * Year A: complete
-* Year B: complete from Advent 1 to Christmas 1
+* Year B: complete from Advent 1 to Epiphany 1
 * Year C: complete from Palm Sunday onwards
 * Festivals: complete for January to March, and from September to December
 * Appendix: Gospels: complete for Luke and John
@@ -242,7 +242,7 @@ Set III (emphasis on Jesus' divinity)
 
 'When the Festival of the Naming and Circumcision of Jesus, falling on a Sunday, is transferred to Monday 2 January, the Sunday is kept as the Second Sunday of Christmas but this provision is used.'
 
-The psalm is the same for Years A, B and C
+The psalm is the same for Years A, B and C.
 
 * **Psalm 148** [or 148.7-14] calls on the whole earth to praise the Lord, because he has 'raised up the horn of his people'.
 
@@ -269,7 +269,7 @@ Years A, B and C
 * **Psalm 147.13-21** (EV: 12-20) praises God because he 'sends forth his command to the earth' and 'sends forth his word' (like the Word becoming flesh).
 * Alternatively (as a canticle to follow the reading from Ecclesiasticus), **Wisdom of Solomon 10.15-21** (from the Apocrypha) is about wisdom.
 * **Ephesians 1.3-14** praises God for 'his glorious grace' and speaks of God's plan 'to gather up all things in [Christ], things in heaven and things on earth' (as heaven and earth are brought together in the incarnation).
-* **John 1.[1-9] 10-18** says that 'the Word became flesh', and that 'From his fullness we have all received, grace upon grace.'
+* **John 1.[1-9] 10-18** (see BCP) says that 'the Word became flesh', and that 'From his fullness we have all received, grace upon grace.'
 
 # Epiphany {#epiphany}
 
@@ -283,15 +283,23 @@ May be celebrated on the Sunday between 2 and 8 January.
 
 Years A, B and C
 
-* **Matthew 2.1-12** recounts the visit of 'wise men from the East' to the child Jesus in Bethlehem. **Isaiah 60.1-6** says that 'Nations shall come to your light, and kings to the brightness of your dawn', adding that 'They shall bring gold and frankincense'. **Psalm 72.[1-9] 10-15** speaks of kings bringing gifts (including gold) to 'the king'. **Ephesians 3.1-12** is about the Gentiles becoming 'fellow-heirs, members of the same body, and sharers in the promise in Christ Jesus through the gospel'.
+* **Matthew 2.1-12** (see BCP) recounts the visit of 'wise men from the East' to the child Jesus in Bethlehem. **Isaiah 60.1-6** says that 'Nations shall come to your light, and kings to the brightness of your dawn', adding that 'They shall bring gold and frankincense'. **Psalm 72.[1-9] 10-15** speaks of kings bringing gifts (including gold) to 'the king'. **Ephesians 3.1-12** (see BCP) is about the Gentiles becoming 'fellow-heirs, members of the same body, and sharers in the promise in Christ Jesus through the gospel'.
 
 ## The Baptism of Christ: Epiphany 1
 
 Celebrated on Monday 8 or 9 January if Epiphany is celebrated on Sunday 7 or 8 January.
 
+The psalm is the same for Years A, B and C.
+
+* **Psalm 29** is about the 'voice of the Lord', including: 'The voice of the Lord is upon the waters'.
+
 Year A
 
-* **Matthew 3.13-17** is Matthew's account of the baptism of Jesus, with 'the Spirit of God' descending on him, and 'a voice from heaven' saying, 'This is my Son, the Beloved, with whom I am well pleased.' **Isaiah 42.1-9** continues in Isaiah, is echoed in the Gospel reading: 'Here is my servant, whom I uphold, my chosen, in whom my soul delights'. **Psalm 29** is about the 'voice of the Lord', including: 'The voice of the Lord is upon the waters'. **Acts 10.34-43** speaks of 'how God anointed Jesus of Nazareth with the Holy Spirit' (as Peter shares the gospel with a Gentile, reflecting the Epiphany season).
+* **Matthew 3.13-17** is Matthew's account of the baptism of Jesus, with 'the Spirit of God' descending on him, and 'a voice from heaven' saying, 'This is my Son, the Beloved, with whom I am well pleased.' **Isaiah 42.1-9** continues in Isaiah, is echoed in the Gospel reading: 'Here is my servant, whom I uphold, my chosen, in whom my soul delights'. **Acts 10.34-43** speaks of 'how God anointed Jesus of Nazareth with the Holy Spirit' (as Peter shares the gospel with a Gentile, reflecting the Epiphany season).
+
+Year B
+
+* **Mark 1.4-11** describes John the Baptist's ministry of baptism ('I baptise you with water, but he will baptise you with the Holy Spirit'), and has Jesus being baptised by John, with 'the Spirit' descending on him, and 'a voice from heaven'. **Genesis 1.1-5** says, 'the Spirit of God was hovering over the waters. And God said ...'. **Acts 19.1-7** has Paul in Ephesus contrasting the baptism of John with baptism 'in the name of the Lord Jesus', which is accompanied by the Holy Spirit.
 
 ## Epiphany 2
 
