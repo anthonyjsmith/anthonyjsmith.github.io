@@ -13,7 +13,7 @@ Any feedback? Please [contact](/contact/) me!
 **_Work in progress!_**
 
 * Year A: complete
-* Year B: complete for Advent
+* Year B: complete from Advent 1 to Christmas 1
 * Year C: complete from Palm Sunday onwards
 * Festivals: complete for January to March, and from September to December
 * Appendix: Gospels: complete for Luke and John
@@ -240,9 +240,23 @@ Set III (emphasis on Jesus' divinity)
 
 ## Christmas 1
 
+'When the Festival of the Naming and Circumcision of Jesus, falling on a Sunday, is transferred to Monday 2 January, the Sunday is kept as the Second Sunday of Christmas but this provision is used.'
+
+The psalm is the same for Years A, B and C
+
+* **Psalm 148** [or 148.7-14] calls on the whole earth to praise the Lord, because he has 'raised up the horn of his people'.
+
 Year A
 
-* **Matthew 2.13-23** is part of the infancy narrative in Matthew, and describes Jesus being taken to Egypt to flee from Herod; the Massacre of the Innocents, and the returning of the Holy Family from Egypt. It therefore glimpses the suffering and exaltation of Jesus, which is reflected in the other readings. **Isaiah 63.7-9** continues in Isaiah, and reflects the Massacre of the Innocents: 'He said, "Surely they are my people, children who will be true to me"; and so he became their Saviour. ... In his love ... he lifted them up'. **Psalm 148** [or 148.7-14] calls on the whole earth to praise the Lord, because he has 'raised up the horn of his people'. **Hebrews 2.10-18** is about God 'bringing many children to glory' through the incarnation and suffering of Jesus.
+The focus is on the Holy Innocents, celebrated on 28 December, which may coincide with Christmas 1.
+
+* **Matthew 2.13-23** is part of the infancy narrative in Matthew, and describes Jesus being taken to Egypt to flee from Herod; the Massacre of the Innocents, and the returning of the Holy Family from Egypt. It therefore glimpses the suffering and exaltation of Jesus, which is reflected in the other readings. **Isaiah 63.7-9** continues in Isaiah, and reflects the Massacre of the Innocents: 'He said, "Surely they are my people, children who will be true to me"; and so he became their Saviour. ... In his love ... he lifted them up'. **Hebrews 2.10-18** is about God 'bringing many children to glory' through the incarnation and suffering of Jesus.
+
+Year B
+
+The focus is on the naming and circumcision of Jesus, celebrated on 1 January, which may coincide with Christmas 1.
+
+* **Luke 2.15-21** begins with the response of the shepherds, and concludes with the naming and circumcision of Jesus. **Isaiah 61.10 &ndash; 62.3** reflects the theme of naming: 'you will be called by a new name that the mouth of the Lord will bestow'. **Galatians 4.4-7** says that Jesus was 'born under the law', which explains why he was circumcised.
 
 ## Christmas 2*
 
