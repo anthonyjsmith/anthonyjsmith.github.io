@@ -13,7 +13,7 @@ Any feedback? Please [contact](/contact/) me!
 **_Work in progress!_**
 
 * Year A: complete
-* Year B: complete from Advent 1 to Epiphany 1
+* Year B: complete from Advent 1 to Epiphany 2
 * Year C: complete from Palm Sunday onwards
 * Festivals: complete for January to March, and from September to December
 * Appendix: Gospels: complete for Luke and John
@@ -71,7 +71,7 @@ Other semicontinuous treatments of New Testament books are as follows:
 
 * 1 Corinthians:
   * Year A: chapters 1-3 after Epiphany and in February
-  * Year B: chapter 9 for two Sundays in February
+  * Year B: chapter 9 for two Sundays in February (RCL also features chapters 6-8 in Epiphany 2-4)
   * Year C: chapters 12-13 for two Sundays in Epiphany, followed by chapter 15 for three Sundays in February
 * 1 Peter: Easter season, Year A
 * 1 John: Easter season, Year B
@@ -303,12 +303,21 @@ Year B
 
 ## Epiphany 2
 
-The Gospel readings for this Sunday are from John 1 and 2. In the RCL, it makes sense to see these readings as John's announcement of the beginning of Jesus' public ministry (with echoes of Jesus' baptism), to go alongside next week's readings from Matthew, Mark and Luke. This makes slightly less sense under Common Worship: see note on Epiphany 3.
+The Gospel readings for this Sunday cover John 1.29 &ndash; 2.11. In the RCL, it makes sense to see these readings as John's announcement of the beginning of Jesus' public ministry (with echoes of Jesus' baptism), to go alongside next week's readings from Matthew, Mark and Luke. This makes slightly less sense under Common Worship: see note on Epiphany 3.
 
 Year A
 
 * **1 Corinthians 1.1-9** begins a series covering almost all of 1 Corinthians 1-3. Paul gives thanks for the grace of God that has been given to the church in Corinth.
 * **John 1.29-42** has John (the Baptist) saying of Jesus, 'Here is the Lamb of God who takes away the sin of the world', reflecting the Epiphany season, adding that 'he was before me'. **Isaiah 49.1-7** continues in Isaiah, and has the 'servant' saying, 'The Lord called me before I was born', and the Lord saying to his servant, 'I will give you as a light to the nations, that my salvation may reach to the end of the earth'. **Psalm 40.1-12** (EV: 1-11) has the speaker saying, 'Lo, I come. In the scroll of the book it is written of me that I should do your will, O my God'.
+
+Year B
+
+* **Revelation 5.1-10** begins a three-part non-sequential series about Jesus in Revelation (replacing the RCL readings: 1 Corinthians 6.12-20; 7.29-31; 8.1-13), and is about the 'Lion' who is a 'Lamb', and who is 'worthy to take the scroll'.
+* **John 1.43-51** has Jesus calling Philip and Nathanael, who asks, 'Where did you come to know me?' **1 Samuel 3.1-10 [11-20]** is about God calling Samuel. **Psalm 139.1-5, 12-18** (EV: 1-6, 13-18) [or 139.1-9 (EV: 1-10)] says, 'O Lord, you have searched me out and known me'.
+
+Year C
+
+* **John 2.1-11** (see BCP)
 
 ## Epiphany 3
 
