@@ -13,7 +13,7 @@ Any feedback? Please [contact](/contact/) me!
 **_Work in progress!_**
 
 * Year A: complete
-* Year B: complete from Advent 1 to Epiphany 2
+* Year B: complete from Advent 1 to Epiphany 3
 * Year C: complete from Palm Sunday onwards
 * Festivals: complete for January to March, and from September to December
 * Appendix: Gospels: complete for Luke and John
@@ -312,12 +312,12 @@ Year A
 
 Year B
 
-* **Revelation 5.1-10** begins a three-part non-sequential series about Jesus in Revelation (replacing the RCL readings: 1 Corinthians 6.12-20; 7.29-31; 8.1-13), and is about the 'Lion' who is a 'Lamb', and who is 'worthy to take the scroll'.
+* **Revelation 5.1-10** begins a three-part non-sequential series about the revelation of Jesus' glory in Revelation (replacing the RCL readings: 1 Corinthians 6.12-20; 7.29-31; 8.1-13), and is about the 'Lion' who is a 'Lamb', and who is 'worthy to take the scroll'.
 * **John 1.43-51** has Jesus calling Philip and Nathanael, who asks, 'Where did you come to know me?' **1 Samuel 3.1-10 [11-20]** is about God calling Samuel. **Psalm 139.1-5, 12-18** (EV: 1-6, 13-18) [or 139.1-9 (EV: 1-10)] says, 'O Lord, you have searched me out and known me'.
 
 Year C
 
-* **John 2.1-11** (see BCP)
+* **John 2.1-11** (see BCP) is the account of Jesus turning water into wine, by which he 'revealed his glory' (an Epiphany theme).
 
 ## Epiphany 3
 
@@ -330,7 +330,10 @@ Year A
 
 Year B
 
-RCL has Mark 1.14-20 as the Gospel reading, which is replaced by John 2.1-11.
+RCL has Mark 1.14-20 as the Gospel reading, with related readings from Jonah 3.1-5, 10 and Psalm 62.5-12, all of which are transferred to 3 before Advent in Common Worship.
+
+* **Revelation 19.6-10** continues the series about the revelation of Jesus' glory in Revelation (replacing the RCL reading), and is about 'the marriage supper of the Lamb' (providing a connection with the Gospel reading).
+* **John 2.1-11** is the account of Jesus turning water into wine, by which he 'revealed his glory' (an Epiphany theme). **Genesis 14.17-20** is about King Melchizedek who brings wine and is honoured by Abram. **Psalm 128** says, 'Your wife will be like a fruitful vine'.
 
 Year C
 
@@ -1242,6 +1245,8 @@ Year A
 * **Matthew 25.1-13** continues the series in Matthew, and is the parable of the ten bridesmaids (five foolish and five wise). **Wisdom of Solomon 6.12-16** (from the Apocrypha) is about wisdom, and is continued in the canticle, **Wisdom of Solomon 6.17-20**. Alternatively, **Amos 5.18-24**, is a warning (to the foolish) that 'the day of the Lord' will be 'darkness, not light', whereas **Psalm 70** echoes the longing of the wise bridesmaids for the coming of the bridegroom: 'O Lord, do not delay'.
 
 Year B
+
+The Old Testament, Psalm and Gospel are transferred from RCL Epiphany 3.
 
 * **Mark 1.14-20** (Mark 12.38-44 in RCL).
 
