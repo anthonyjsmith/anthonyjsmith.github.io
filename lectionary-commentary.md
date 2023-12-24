@@ -242,7 +242,7 @@ Set III (emphasis on Jesus' divinity)
 
 Year A
 
-* **Matthew 2.13-23** is part of the infancy narrative in Matthew, and describes Jesus being taken to Egypt to flee from Herod and then returning from Egypt. It therefore glimpses the suffering and exaltation of Jesus, which is reflected in the other readings. **Isaiah 63.7-9** continues in Isaiah, and says that the Lord 'became their saviour' and has 'lifted them up'.  **Psalm 148** [or 148.7-14] calls on the whole earth to praise the Lord, because he has 'raised up the horn of his people'. **Hebrews 2.10-18** is about God 'bringing many children to glory' through the incarnation and suffering of Jesus.
+* **Matthew 2.13-23** is part of the infancy narrative in Matthew, and describes Jesus being taken to Egypt to flee from Herod; the Massacre of the Innocents, and the returning of the Holy Family from Egypt. It therefore glimpses the suffering and exaltation of Jesus, which is reflected in the other readings. **Isaiah 63.7-9** continues in Isaiah, and reflects the Massacre of the Innocents: 'He said, "Surely they are my people, children who will be true to me"; and so he became their Saviour. ... In his love ... he lifted them up'. **Psalm 148** [or 148.7-14] calls on the whole earth to praise the Lord, because he has 'raised up the horn of his people'. **Hebrews 2.10-18** is about God 'bringing many children to glory' through the incarnation and suffering of Jesus.
 
 ## Christmas 2*
 
