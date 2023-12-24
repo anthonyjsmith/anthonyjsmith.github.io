@@ -250,7 +250,7 @@ Year A
 
 The focus is on the Holy Innocents, celebrated on 28 December, which may coincide with Christmas 1.
 
-* **Matthew 2.13-23** is part of the infancy narrative in Matthew, and describes Jesus being taken to Egypt to flee from Herod; the Massacre of the Innocents, and the returning of the Holy Family from Egypt. It therefore glimpses the suffering and exaltation of Jesus, which is reflected in the other readings. **Isaiah 63.7-9** continues in Isaiah, and reflects the Massacre of the Innocents: 'He said, "Surely they are my people, children who will be true to me"; and so he became their Saviour. ... In his love ... he lifted them up'. **Hebrews 2.10-18** is about God 'bringing many children to glory' through the incarnation and suffering of Jesus.
+* **Matthew 2.13-23** is part of the infancy narrative in Matthew, and describes Jesus being taken to Egypt to flee from Herod; the Massacre of the Innocents, and the returning of the Holy Family from Egypt. It therefore glimpses the suffering and exaltation of Jesus, which is reflected in the other readings. **Isaiah 63.7-9** continues in Isaiah, and reflects the Massacre of the Innocents: 'Surely they are my people, children who will not deal falsely ... in his love ... he lifted them up'. **Hebrews 2.10-18** is about God 'bringing many children to glory' through the incarnation and suffering of Jesus.
 
 Year B
 
@@ -299,7 +299,7 @@ Year A
 
 Year B
 
-* **Mark 1.4-11** describes John the Baptist's ministry of baptism ('I baptise you with water, but he will baptise you with the Holy Spirit'), and has Jesus being baptised by John, with 'the Spirit' descending on him, and 'a voice from heaven'. **Genesis 1.1-5** says, 'the Spirit of God was hovering over the waters. And God said ...'. **Acts 19.1-7** has Paul in Ephesus contrasting the baptism of John with baptism 'in the name of the Lord Jesus', which is accompanied by the Holy Spirit.
+* **Mark 1.4-11** describes John the Baptist's ministry of baptism ('I have baptized you with water; but he will baptize you with the Holy Spirit'), and has Jesus being baptised by John, with 'the Spirit' descending on him, and 'a voice ... from heaven'. **Genesis 1.1-5** says, 'a wind from God [or 'the spirit of God'] swept over the face of the waters. Then God said ...'. **Acts 19.1-7** has Paul in Ephesus contrasting the baptism of John with baptism 'in the name of the Lord Jesus', which is accompanied by the Holy Spirit.
 
 ## Epiphany 2
 
