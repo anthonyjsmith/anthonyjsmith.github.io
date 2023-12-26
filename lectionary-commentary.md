@@ -256,7 +256,7 @@ Year B
 
 The focus is on the naming and circumcision of Jesus, celebrated on 1 January, which may coincide with Christmas 1.
 
-* **Luke 2.15-21** begins with the response of the shepherds, and concludes with the naming and circumcision of Jesus. **Isaiah 61.10 &ndash; 62.3** reflects the theme of naming: 'you will be called by a new name that the mouth of the Lord will bestow'. **Galatians 4.4-7** says that Jesus was 'born under the law', which explains why he was circumcised.
+* **Luke 2.15-21** begins with the response of the shepherds, and concludes with the naming and circumcision of Jesus. **Isaiah 61.10 &ndash; 62.3** reflects the theme of naming: 'you will be called by a new name that the mouth of the Lord will bestow'. **Galatians 4.4-7** (see BCP) says that Jesus was 'born under the law', which explains why he was circumcised.
 
 ## Christmas 2*
 
@@ -365,7 +365,7 @@ May be celebrated on the Sunday between 28 January and 3 February.
 
 Years A, B and C
 
-* **Luke 2.22-40** is the account of the child Jesus being presented in the temple, and concludes by saying that 'The child grew and became strong'. **Malachi 3.1-5** says that 'the Lord whom you seek will suddenly come to his temple', to 'purify'. **Psalm 24.[1-6] 7-10** calls for the 'gates' and 'doors' to be 'lifted up' so that the 'Lord', the 'King of glory', 'may come in' [and also speaks of the need for 'clean hands and pure hearts']. **Hebrews 2.14-18** speaks of Jesus sharing 'flesh and blood', and then doing the work of the (heavenly) temple, as 'a merciful and faithful high priest in the service of God, to make a sacrifice of atonement for the sins of the people'.
+* **Luke 2.22-40** (see BCP) is the account of the child Jesus being presented in the temple, and concludes by saying that 'The child grew and became strong'. **Malachi 3.1-5** says that 'the Lord whom you seek will suddenly come to his temple', to 'purify'. **Psalm 24.[1-6] 7-10** calls for the 'gates' and 'doors' to be 'lifted up' so that the 'Lord', the 'King of glory', 'may come in' [and also speaks of the need for 'clean hands and pure hearts']. **Hebrews 2.14-18** speaks of Jesus sharing 'flesh and blood', and then doing the work of the (heavenly) temple, as 'a merciful and faithful high priest in the service of God, to make a sacrifice of atonement for the sins of the people'.
 
 # Ordinary Time {#ordinary-time-1}
 
@@ -391,6 +391,10 @@ Year A
 
 * **1 Corinthians 3.1-9** continues the series in 1 Corinthians 1-3 (without a gap), and warns against saying 'I belong to Paul' or 'I belong to Apollos'.
 * **Matthew 5.21-37** continues the series in Matthew (without a gap), and is about anger, adultery, divorce and oaths, with warnings of judgment in the case of disobedience. **Deuteronomy 30.15-20** is about obedience or disobedience, leading to life or death. Alternatively, **Ecclesiasticus 15.15-20** (from the Apocrypha) is on the same topic. **Psalm 119.1-8** is the first of two weeks in Psalm 119, and is about keeping God's commandments.
+
+Year B
+
+* **1 Corinthians 9.24-27** (see BCP, Septuagesima)
 
 Year C
 
@@ -448,7 +452,7 @@ Years A, B and C
 * Alternatively, **Isaiah 58.1-12** says, 'Is not this the fast that I choose: to loose the bonds of injustice ...'.
 * **Psalm 51.1-18** (EV: 1-17) says, 'Create in me a clean heart, O God'.
 * **2 Corinthians 5.20b &ndash; 6.10** says, 'we entreat you on behalf of Christ, be reconciled to God'.
-* **Matthew 6.1-6, 16-21** is about 'your Father who sees in secret', in relation to almsgiving, prayer, fasting, and storing up treasures in heaven.
+* **Matthew 6.1-6, 16-21** (see BCP) is about 'your Father who sees in secret', in relation to almsgiving, prayer, fasting, and storing up treasures in heaven.
 * Alternatively, **John 8.1-11** is about the woman caught in adultery: 'Neither do I condemn you. Go your way, and from now on do not sin again.'
 
 ## Lent 1
@@ -456,7 +460,7 @@ Years A, B and C
 Year A
 
 * **Psalm 32** is about confession and forgiveness of sin.
-* **Matthew 4.1-11** is about Jesus being tempted by the devil in the wilderness. **Genesis 2.15-17; 3.1-7** is about Eve and Adam succumbing to the serpent's temptation in the garden. **Romans 5.12-19** compares Adam with Christ.
+* **Matthew 4.1-11** (see BCP) is about Jesus being tempted by the devil in the wilderness. **Genesis 2.15-17; 3.1-7** is about Eve and Adam succumbing to the serpent's temptation in the garden. **Romans 5.12-19** compares Adam with Christ.
 
 ## Lent 2
 
@@ -530,11 +534,11 @@ The readings are the same for Years A, B and C, except for the Gospel reading.
 
 * **Isaiah 50.4-9a** says, 'I gave my back to those who struck me ... I did not hide my face from insult and spitting'.
 * **Psalm 31.9-16** [or 31.9-18] is a cry to God for help from one who has 'become a reproach to all my enemies'.
-* **Philippians 2.5-11** is about Christ, who 'humbled himself and became obedient to the point of death &ndash; even death on a cross'.
+* **Philippians 2.5-11** (see BCP) is about Christ, who 'humbled himself and became obedient to the point of death &ndash; even death on a cross'.
 
 Year A
 
-* **Matthew 26.14 &ndash; 27.66** recounts Jesus' last supper, betrayal, trial, death and burial (omitting the anointing in Bethany).
+* **Matthew 26.14 &ndash; 27.66** (see BCP) recounts Jesus' last supper, betrayal, trial, death and burial (omitting the anointing in Bethany).
 * Alternatively, **Matthew 27.11-54** begins with Jesus' trial before Pilate and ends with the immediate aftermath of Jesus' death.
 
 Year B
@@ -577,7 +581,7 @@ Years A, B and C
 
 * **Exodus 12.1-4 [5-10], 11-14** is the institution of the Passover.
 * **Psalm 116.1, 10-17** (EV: 1-2, 12-19) [or 116.9-17 (EV: 10-19)] says, 'I will lift up the cup of salvation'.
-* **1 Corinthians 11.23-26** is the institution of the Lord's Supper.
+* **1 Corinthians 11.23-26** (see BCP) is the institution of the Lord's Supper.
 * **John 13.1-17, 31b-35** is the account of Jesus washing his disciples' feet 'during supper', and Jesus' command: 'Just as I have loved you, you also should love one another.'
 
 ## Good Friday
@@ -586,9 +590,9 @@ Years A, B and C
 
 * **Isaiah 52.13 &ndash; 53.12** is the fourth of the four 'servant songs'.
 * **Psalm 22** [or 22.1-11, or 22.1-21] is quoted by Jesus on the cross: 'My God, my God, why have you forsaken me'.
-* **Hebrews 10.16-25** is an exhoration, 'since we have confidence to enter the sanctuary by the blood of Jesus'.
+* **Hebrews 10.16-25** (see BCP) is an exhoration, 'since we have confidence to enter the sanctuary by the blood of Jesus'.
 * Alternatively, **Hebrews 4.14-16; 5.7-9** says that Jesus has 'suffered' and 'passed through the heavens', and that we should 'therefore approach the throne of grace with boldness'.
-* **John 18.1 &ndash; 19.42** recounts Jesus' betrayal, trial, death and burial.
+* **John 18.1 &ndash; 19.42** (see BCP) recounts Jesus' betrayal, trial, death and burial.
 
 ## Easter Eve
 
@@ -598,7 +602,7 @@ Years A, B and C
 * Alternatively, **Lamentations 3.1-9, 19-24** says of God that 'he has made me sit in darkness like the dead of long ago', but expresses hope because 'The steadfast love of the Lord never ceases'.
 * **Psalm 31.1-4, 15, 16** [or 31.1-5] calls to the Lord for deliverance.
 * **1 Peter 4.1-8** says, 'whoever has suffered in the flesh has finished with sin', and that 'the gospel was proclaimed even to the dead'.
-* **Matthew 27.57-66** narrates the burial of Jesus, and the guard being placed at the tomb.
+* **Matthew 27.57-66** (see BCP) narrates the burial of Jesus, and the guard being placed at the tomb.
 * Alternatively, **John 19.38-42** narrates the burial of Jesus.
 
 # Easter {#easter}
@@ -640,12 +644,12 @@ The readings are the same for Years A, B and C, except for the alternative first
 
 * **Acts 10.34-43** begins a (vaguely sequential) series in Acts, and features Peter telling Cornelius about Jesus' life, death and resurrection.
 * **Psalm 118.1-2, 14-24** [or 118.14-24] draws on the same psalm as last week, and reflects the theme of resurrection: 'I shall not die, but live ... The stone which the builders rejected has become the chief cornerstone'.
-* **John 20.1-18** begins a series in John, and is John's account of the discovery of the empty tomb, and the appearance of the risen Jesus to Mary Magdalene.
+* **John 20.1-18** (see BCP) begins a series in John, and is John's account of the discovery of the empty tomb, and the appearance of the risen Jesus to Mary Magdalene.
 
 Year A
 
 * As an alternative first reading, **Jeremiah 31.1-6** is about the return from exile (a glimpse of resurrection).
-* **Colossians 3.1-4** says, 'if you have been raised with Christ, seek the things that are above'.
+* **Colossians 3.1-4** (see BCP) says, 'if you have been raised with Christ, seek the things that are above'.
 * For the alternative Gospel reading, **Matthew 28.1-10**, see Easter Vigil.
 
 Year B
@@ -663,7 +667,7 @@ Year C
 The Gospel reading and alternative first reading are the same for Years A, B and C.
 
 * For the alternative first reading, **Exodus 14.10-31; 15.20, 21**, see Easter Vigil.
-* **John 20.19-31** continues (directly) the series in John, with Jesus' appearances on Easter evening and a week later.
+* **John 20.19-31** (see BCP) continues (directly) the series in John, with Jesus' appearances on Easter evening and a week later.
 
 Year A
 
@@ -774,7 +778,7 @@ Year C
 
 Years A, B and C
 
-* **Acts 1.1-11** recounts Jesus' ascension.
+* **Acts 1.1-11** (see BCP) recounts Jesus' ascension.
 * (The alternative first reading, **Daniel 7.9-14**, has the Son of Man approaching the Ancient of Days and being given authority.)
 * **Psalm 47** picks up the ascension theme ('God has gone up').
 * (The alternative, **Psalm 93**, celebrates the reign of 'the Lord on high'.)
@@ -810,7 +814,7 @@ Year C
 
 The reading from Acts and the psalm are the same every year.
 
-* **Acts 2.1-21** narrates the pouring out of the Spirit at Pentecost, and the first part of Peter's sermon.
+* **Acts 2.1-21** (see BCP) narrates the pouring out of the Spirit at Pentecost, and the first part of Peter's sermon.
 * **Psalm 104.26-36, 37b** (EV: 24-34, 35b) [or 104.26-37 (EV: 24-35)] includes 'When you send forth your spirit, they are created'.
 
 Year A
@@ -829,7 +833,7 @@ Year C
 
 * (The alternative first reading, **Genesis 11.1-9**, recounts Babel, of which Pentecost is something of a reversal.)
 * **Romans 8.14-17** is about the work of the Spirit.
-* **John 14.8-17 [25-27]** continues the series John's 'farewell discourse', with Jesus' promise of the Spirit.
+* **John 14.8-17 [25-27]** (see BCP) continues the series John's 'farewell discourse', with Jesus' promise of the Spirit.
 
 # Ordinary Time {#ordinary-time-2}
 
@@ -846,7 +850,7 @@ Year A
 
 Year B
 
-* **John 3.1-17** concludes the series in John ...
+* **John 3.1-17** (see BCP) concludes the series in John ...
 
 Year C
 
@@ -1199,10 +1203,10 @@ Year C
 
 Year A
 
-* **Revelation 7.9-17** has a 'great multitude ... standing before the throne and before the Lamb, robed in white'.
+* **Revelation 7.9-17** (see BCP) has a 'great multitude ... standing before the throne and before the Lamb, robed in white'.
 * **Psalm 34.1-10** says, 'Look upon him and be radiant', and, 'Fear the Lord, all you his holy ones'.
 * **1 John 3.1-3** says, 'when he is revealed, we will be like him, for we will see him as he is'.
-* **Matthew 5.1-12** contains the Beatitudes, including, 'Blessed are the pure in heart, for they will see God.'
+* **Matthew 5.1-12** (see BCP) contains the Beatitudes, including, 'Blessed are the pure in heart, for they will see God.'
 
 Year C
 
@@ -1287,7 +1291,7 @@ Year A
 
 Year C
 
-* **Jeremiah 23.1-6** says that God will raise up 'a righteous Branch, and he shall reign as king'.
+* **Jeremiah 23.1-6** (see BCP) says that God will raise up 'a righteous Branch, and he shall reign as king'.
 * **Psalm 46** has God reigning over the nations, causing wars to cease.
 * **Colossians 1.11-20** is about 'the kingdom of [God's] beloved Son', in whom all things in heaven and on earth hold together.
 * **Luke 23.33-43** concludes the series in Luke, with an extract from the Passion narrative (set for Palm Sunday). One of the crucified criminals acknowledges Christ as King.
@@ -1311,7 +1315,7 @@ If Jesus was born on 25 December, he was circumcised on 1 January.
 * **Numbers 6.22-27** connects the Aaronic blessing with the Lord's name: 'So they shall put my name on the Israelites'.
 * **Psalm 8** says to the Lord, 'how glorious is your name'.
 * **Galatians 4.4-7** says that Jesus was 'born under the law', which explains why he was circumcised.
-* **Luke 2.15-21** says, 'After eight days had passed, it was time to circumcise the child; and he was called Jesus, the name given by the angel before he was conceived in the womb.'
+* **Luke 2.15-21** (see BCP) says, 'After eight days had passed, it was time to circumcise the child; and he was called Jesus, the name given by the angel before he was conceived in the womb.'
 
 ## The Conversion of Paul (25 January)
 
@@ -1321,9 +1325,9 @@ According to rule 6 at the top of the [lectionary](https://www.churchofengland.o
 
 * **Jeremiah 1.4-10** is about Jeremiah's call as 'a prophet to the nations'. (See below for the alternative, **Acts 9.1-22**.)
 * **Psalm 67** says, 'let all the peoples praise you'.
-* **Acts 9.1-22** is the account of Saul/Paul's experience on the road to Damascus, in which the Lord says of him, 'he is an instrument whom I have chosen to bring my name before Gentiles'.
+* **Acts 9.1-22** (see BCP) is the account of Saul/Paul's experience on the road to Damascus, in which the Lord says of him, 'he is an instrument whom I have chosen to bring my name before Gentiles'.
 * Alternatively, the passage from Acts can be the first reading, with **Galatians 1.11-16a** as the second reading, in which Paul says that God 'was pleased to reveal his Son to me, so that I might proclaim him among the Gentiles'.
-* **Matthew 19.27-30** is Jesus' promise to those who have 'left everything and followed [him]', which is the essence of conversion.
+* **Matthew 19.27-30** (see BCP) is Jesus' promise to those who have 'left everything and followed [him]', which is the essence of conversion.
 
 ## Joseph of Nazareth (19 March)
 
@@ -1345,7 +1349,7 @@ This is a Principal Feast, but it comes across as somewhat unwanted, as it is ne
 * **Isaiah 7.10-14** says, 'Look, the young woman [Gk _the virgin_] is with child and shall bear a son, and shall name him Immanuel.'
 * **Psalm 40.5-11** (EV: 5-10) reflects Mary's response: 'In the scroll of the book it is written of me that I should do your will, O my God; I delight to do it: your law is within my heart.'
 * **Hebrews 10.4-10** quotes Psalm 40 in relation to Jesus: 'Then I said, "See, God, I have come to do your will, O God" (in the scroll of the book it is written of me).'
-* **Luke 1.26-38** is about the visit of Gabriel to Mary: 'you will conceive in your womb and bear a son', concluding with Mary saying, 'Here am I, the servant of the Lord; let it be with me according to your word.'
+* **Luke 1.26-38** (see BCP) is about the visit of Gabriel to Mary: 'you will conceive in your womb and bear a son', concluding with Mary saying, 'Here am I, the servant of the Lord; let it be with me according to your word.'
 
 ## George, Martyr, Patron of England (23 April)
 
@@ -1357,9 +1361,19 @@ This is a Principal Feast, but it comes across as somewhat unwanted, as it is ne
 
 25 April always falls during Easter season, so this Festival is never celebrated on a Sunday (unless it is the Patronal Festival celebrated as a Principal Feast). See above on George (23 April).
 
+* **Proverbs 15.28-33** or **Acts 15.35-41**
+* **Psalm 119.9-16**
+* **Ephesians 4.7-16** (see BCP)
+* **Mark 13.5-13**
+
 ## Philip and James, Apostles (1 May)
 
 1 May always falls during Easter season, so this Festival is never celebrated on a Sunday (unless it is the Patronal Festival celebrated as a Principal Feast).
+
+* **Isaiah 30.15-21**
+* **Psalm 119.1-8**
+* **Ephesians 1.3-10**
+* **John 14.1-14** (see BCP)
 
 ## Matthias the Apostle (14 May)
 
@@ -1368,6 +1382,11 @@ This is a Principal Feast, but it comes across as somewhat unwanted, as it is ne
 According to rule 6 at the top of the [lectionary](https://www.churchofengland.org/prayer-and-worship/worship-texts-and-resources/common-worship/churchs-year/lectionary#p539a),
 
 > If there are only two readings at the principal service on ... the Festivals of Matthias ..., the reading from the Acts of the Apostles must always be used.
+
+* **Isaiah 22.15-25**
+* **Psalm 15**
+* **Acts 1.15-26** (see BCP)
+* **John 15.9-17**
 
 ## The Visit of the Blessed Virgin Mary to Elizabeth (31 May)
 
@@ -1381,11 +1400,29 @@ According to rule 6 at the top of the [lectionary](https://www.churchofengland.o
 
 > If there are only two readings at the principal service on ... the Festivals of ... Barnabas ..., the reading from the Acts of the Apostles must always be used.
 
+* **Job 29.11-16** or **Acts 11.19-30** (see BCP)
+* **Psalm 112**
+* **Acts 11.19-30** (see BCP) or **Galatians 2.1-10**
+* **John 15.12-17** (see BCP)
+
 ## The Birth of John the Baptist (24 June)
+
+* **Isaiah 40.1-11**
+* **Psalm 85.7-13**
+* **Acts 13.14b-26** (see BCP) or **Galatians 3.23-29**
+* **Luke 1.57-66, 80** (see BCP)
 
 ## Peter and Paul, Apostles (29 June)
 
+* **Acts 12.1-11** (see BCP)
+* **Matthew 16.13-19** (see BCP)
+
 ## Thomas the Apostle (3 July)
+
+* **Habakkuk 2.1-4**
+* **Psalm 31.1-6**
+* **Ephesians 2.19-22** (see BCP)
+* **John 20.24-29** (see BCP)
 
 ## Mary Magdalene (22 July)
 
@@ -1395,11 +1432,21 @@ According to rule 6 at the top of the [lectionary](https://www.churchofengland.o
 
 > If there are only two readings at the principal service on ... the Festivals of ... James ..., the reading from the Acts of the Apostles must always be used.
 
+* **Jeremiah 45.1-5** or **Acts 11.27 &ndash; 12.2** (see BCP)
+* **Psalm 126**
+* **Acts 11.27 &ndash; 12.2** (see BCP) or **2 Corinthians 4.7-15**
+* **Matthew 20.20-28** (see BCP)
+
 ## The Transfiguration of Our Lord (6 August)
 
 ## The Blessed Virgin Mary (15 August)
 
 ## Bartholomew the Apostle (24 August)
+
+* **Isaiah 43.8-13** or **Acts 5.12-16** (see BCP)
+* **Psalm 145.1-7**
+* **Acts 5.12-16** (see BCP) or **1 Corinthians 4.9-15**
+* **Luke 22.24-30** (see BCP)
 
 ## Holy Cross Day (14 September)
 
@@ -1415,8 +1462,8 @@ Matthew was a tax-collector. This is reflected in the readings.
 
 * **Proverbs 3.13-18** says that wisdom is better than silver and gold.
 * **Psalm 119.65-72** says that God's law is 'dearer to me than a hoard of gold and silver'.
-* **2 Corinthians 4.1-6** has several possible connections with Matthew: renouncing 'shameful things', the 'open statement of the truth' (in writing his Gospel), light shining into Matthew's heart.
-* **Matthew 9.9-13** tells of Jesus calling Matthew the tax-collector to follow him, and of Jesus eating with 'tax-collectors and sinners'.
+* **2 Corinthians 4.1-6** (see BCP) has several possible connections with Matthew: renouncing 'shameful things', the 'open statement of the truth' (in writing his Gospel), light shining into Matthew's heart.
+* **Matthew 9.9-13** (see BCP) tells of Jesus calling Matthew the tax-collector to follow him, and of Jesus eating with 'tax-collectors and sinners'.
 
 ## Michael and All Angels (29 September)
 
@@ -1425,7 +1472,7 @@ Michael the archangel is mentioned four times in Scripture: Daniel 10.13-21 and 
 * **Genesis 28.10-17** is Jacob's dream of a 'ladder' with 'the angels of God ... ascending and descending on it', which is echoed in the Gospel reading.
 * (See below for the alternative, **Revelation 12.7-12**.)
 * **Psalm 103.19-22** says, 'Bless the Lord, you angels of his'.
-* **Revelation 12.7-12** is about 'Michael and his angels' fighting against 'the dragon ... and his angels'.
+* **Revelation 12.7-12** (see BCP) is about 'Michael and his angels' fighting against 'the dragon ... and his angels'.
 * Alternatively, the passage from Revelation can be the first reading, with **Hebrews 1.5-14** as the second reading, contrasting angels with the Son: see 1.1-4 and 2.1-4.)
 * **John 1.47-51** has Jesus saying to Nathanael, 'you will see heaven opened and the angels of God ascending and descending upon the Son of Man', echoing the Old Testament reading.
 
@@ -1436,8 +1483,8 @@ Luke was a 'physician' (Colossians 4.14). This is reflected in the readings. (El
 * **Isaiah 35.3-6** is about the restoration of health.
 * Alternatively, **Acts 16.6-12a** contains the first 'we' of the narrative, subtly indicating the point at which Luke joined Paul and his companions.
 * **Psalm 147.1-7** says that the Lord 'heals the brokenhearted and binds up all their wounds'.
-* **2 Timothy 4.5-17** says, 'Only Luke is with me.'
-* **Luke 10.1-9** is about the mission of the seventy, which perhaps speaks more directly to those (such as Luke) who are not numbered among the Twelve. (Luke has at times been numbered among the [seventy disciples](https://en.wikipedia.org/wiki/Seventy_disciples).) They were sent out to 'cure the sick' and to speak of the 'kingdom of God', which is appropriate to Luke as a physician and the author of one of the Gospels.
+* **2 Timothy 4.5-17** (see BCP) says, 'Only Luke is with me.'
+* **Luke 10.1-9** (see BCP) is about the mission of the seventy, which perhaps speaks more directly to those (such as Luke) who are not numbered among the Twelve. (Luke has at times been numbered among the [seventy disciples](https://en.wikipedia.org/wiki/Seventy_disciples).) They were sent out to 'cure the sick' and to speak of the 'kingdom of God', which is appropriate to Luke as a physician and the author of one of the Gospels.
 
 ## Simon and Jude, Apostles (28 October)
 
@@ -1448,7 +1495,7 @@ Jude, one of the Twelve, is mentioned as 'Judas son of James' in Luke 6.16 and A
 According to tradition, Simon and Jude worked together as evangelists and were martyred together.
 
 * **Ephesians 2.19-22** speaks of the church as being 'built upon the foundation of the apostles and prophets, with Christ Jesus himself as the cornerstone'. **Isaiah 28.14-16** has God speaking of 'a foundation stone, a tested stone, a precious cornerstone, a sure foundation'. **Psalm 119.89-96** reflects the theme of foundations: the Lord's word 'stands firm', the Lord has 'established the earth', and the Lord's 'judgements stand firm'.
-* **John 15.17-27** reflects Simon and Jude's calling, by speaking of persecution and of Jesus' command to his disciples to 'testify'.
+* **John 15.17-27** (see BCP) reflects Simon and Jude's calling, by speaking of persecution and of Jesus' command to his disciples to 'testify'.
 
 ## Andrew the Apostle (30 November)
 
@@ -1456,8 +1503,8 @@ According to tradition, Simon and Jude worked together as evangelists and were m
 
 'In the Anglican Communion, St Andrewstide is widely observed by intercessions for foreign missions.'[^Andrew] This is the emphasis in the readings.
 
-* **Romans 10.12-18** is about the good news being proclaimed 'to all the earth', echoing Jesus' call to Andrew. The other two readings are quoted: **Isaiah 52.7-10** ('How beautiful ... are the feet') and **Psalm 19.1-6** ('... their words to the ends of the world').
-* **Matthew 4.18-22** has Jesus calling two pairs of brothers as his first followers: Simon Peter and Andrew, followed by James and John. To the first pair, Jesus says, 'Follow me, and I will make you fish for people.'
+* **Romans 10.12-18** (see BCP) is about the good news being proclaimed 'to all the earth', echoing Jesus' call to Andrew. The other two readings are quoted: **Isaiah 52.7-10** ('How beautiful ... are the feet') and **Psalm 19.1-6** ('... their words to the ends of the world').
+* **Matthew 4.18-22** (see BCP) has Jesus calling two pairs of brothers as his first followers: Simon Peter and Andrew, followed by James and John. To the first pair, Jesus says, 'Follow me, and I will make you fish for people.'
 
 ## Stephen, Deacon, First Martyr (26 December)
 
@@ -1468,7 +1515,7 @@ According to rule 6 at the top of the [lectionary](https://www.churchofengland.o
 * **2 Chronicles 24.20-22** is about the stoning of Zechariah (who said as he was dying, 'May the Lord see and avenge!').
 * (See below for the alternative, **Acts 7.51-60**.)
 * **Psalm 119.161-168** speaks of being 'persecuted ... without a cause'.
-* **Acts 7.51-60** is about the stoning of Stephen (who said as he was dying, 'Lord, do not hold this sin against them').
+* **Acts 7.51-60** (see BCP) is about the stoning of Stephen (who said as he was dying, 'Lord, do not hold this sin against them').
 * Alternatively, the passage from Acts can be the first reading, with **Galatians 2.16b-20** as the second reading, which speaks of having been 'crucified with Christ'.
 * **Matthew 10.17-22** warns of being 'put to death' because of Jesus.
 
@@ -1477,8 +1524,8 @@ According to rule 6 at the top of the [lectionary](https://www.churchofengland.o
 John the Apostle (son of Zebedee) is traditionally identified with the evangelist who wrote 'John's Gospel', with the author of the 'Letters of John', and with the author of the Book of Revelation.
 
 * **Psalm 117** may have been chosen because John's testimony was for all nations.
-* **1 John 1** is about John's eyewitness testimony.
-* **John 21.19b-25** says that 'the disciple whom Jesus loved', 'the one who had reclined next to Jesus at the supper', was the one who wrote this Gospel. **Exodus 33.7-11a** speaks of a similarly close relationship: 'the Lord used to speak to Moses face to face, as one speaks to a friend'.
+* **1 John 1** (see BCP) is about John's eyewitness testimony.
+* **John 21.19b-25** (see BCP) says that 'the disciple whom Jesus loved', 'the one who had reclined next to Jesus at the supper', was the one who wrote this Gospel. **Exodus 33.7-11a** speaks of a similarly close relationship: 'the Lord used to speak to Moses face to face, as one speaks to a friend'.
 
 ## The Holy Innocents (28 December)
 
@@ -1486,7 +1533,7 @@ The infants of Bethlehem are often celebrated as martyrs, and this may be reflec
 
 * **Psalm 124** speaks of having 'escaped', as the infant Jesus (and the other infants?) escaped from Herod.
 * **1 Corinthians 1.26-29** speaks of God choosing 'what is weak in the world to shame the strong', inviting a contrast between the infant Jesus (and the other infants?) and Herod.
-* **Matthew 2.13-18** says that Herod 'killed all the children in and around Bethlehem who were two years old or under'. **Jeremiah 31.15-17** is quoted: 'Rachel weeping for her children'.
+* **Matthew 2.13-18** (see BCP) says that Herod 'killed all the children in and around Bethlehem who were two years old or under'. **Jeremiah 31.15-17** is quoted: 'Rachel weeping for her children'.
 
 ## Dedication Festival
 
