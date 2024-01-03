@@ -70,7 +70,7 @@ New Testament readings after Trinity and before Advent cover the following books
 Other semicontinuous treatments of New Testament books are as follows:
 
 * 1 Corinthians:
-  * Year A: chapters 1-3 after Epiphany and in February
+  * Year A: chapters 1-3 for three Sundays in Epiphany and in February
   * Year B: chapter 9 for two Sundays in February (RCL also features chapters 6-8 in Epiphany 2-4)
   * Year C: chapters 12-13 for two Sundays in Epiphany, followed by chapter 15 for three Sundays in February
 * 1 Peter: Easter season, Year A
@@ -123,7 +123,7 @@ Those who prefer the readings to cohere can have their wishes partially satisfie
 
 Psalm references are to the Common Worship psalter. Where the versification is different in standard English versions of the Bible, this is indicated by 'EV'. Quotations are drawn from the Common Worship psalter or the NRSV.
 
-Depending on the day of the week for Christmas and Epiphany, and the date of Easter, lectionary provision for days marked with * might not be used in any given year. Other days might also be displaced for various reasons.
+Depending on the day of the week for Christmas and the Epiphany, and the date of Easter, lectionary provision for days marked with * might not be used in any given year. Other days might also be displaced for various reasons.
 
 # Advent {#advent}
 
@@ -240,7 +240,7 @@ Set III (emphasis on Jesus' divinity)
 
 ## Christmas 1
 
-'When the Festival of the Naming and Circumcision of Jesus, falling on a Sunday, is transferred to Monday 2 January, the Sunday is kept as the Second Sunday of Christmas but this provision is used.'
+These readings are used on the first Sunday _after_ Christmas.
 
 The psalm is the same for Years A, B and C.
 
@@ -260,7 +260,7 @@ The focus is on the naming and circumcision of Jesus, celebrated on 1 January, w
 
 ## Christmas 2*
 
-These readings apply only when there is a Sunday between 2 and 5 January, and when Epiphany is not being celebrated on that day.
+These readings are used on the second Sunday _after_ Christmas, if there is one before the Epiphany. In other words, these readings apply only when there is a Sunday between 2 and 5 January, and when the Epiphany is not being celebrated on that day.
 
 Years A, B and C
 
@@ -273,13 +273,13 @@ Years A, B and C
 
 # Epiphany {#epiphany}
 
-Although the Sundays are the Sundays _of_ Epiphany, if Epiphany falls on a Sunday, the readings are moved to the following week. In other words, the readings for Epiphany N are used on the Nth Sunday _after_ Epiphany (as in the RCL).
+Although the Sundays are the Sundays _of_ Epiphany, if the Epiphany falls on a Sunday, the readings are moved to the following week. In other words, the readings for Epiphany N are used on the Nth Sunday _after_ the Epiphany (as in the RCL).
 
-Note that the RCL considers the 'Season of Epiphany' to be part of 'Ordinary Time', and to cover the whole period between Epiphany and Lent.
+Note that the RCL considers the 'Season of Epiphany' to be part of 'Ordinary Time', and to cover the whole period between the Epiphany and Lent.
 
 ## The Epiphany
 
-May be celebrated on the Sunday between 2 and 8 January.
+May be celebrated on the Sunday between 2 and 8 January (the second Sunday _after_ Christmas).
 
 Years A, B and C
 
@@ -287,7 +287,9 @@ Years A, B and C
 
 ## The Baptism of Christ: Epiphany 1
 
-Celebrated on Monday 8 or 9 January if Epiphany is celebrated on Sunday 7 or 8 January.
+These readings are used on the first Sunday _after_ the Epiphany (the Sunday between 7 and 13 January).
+
+Celebrated on Monday 8 or 9 January if the Epiphany is celebrated on Sunday 7 or 8 January.
 
 The psalm is the same for Years A, B and C.
 
@@ -302,6 +304,8 @@ Year B
 * **Mark 1.4-11** describes John the Baptist's ministry of baptism ('I have baptized you with water; but he will baptize you with the Holy Spirit'), and has Jesus being baptised by John, with 'the Spirit' descending on him, and 'a voice ... from heaven'. **Genesis 1.1-5** says, 'a wind from God [or 'the spirit of God'] swept over the face of the waters. Then God said ...'. **Acts 19.1-7** has Paul in Ephesus contrasting the baptism of John with baptism 'in the name of the Lord Jesus', which is accompanied by the Holy Spirit.
 
 ## Epiphany 2
+
+These readings are used on the second Sunday _after_ the Epiphany (the Sunday between 14 and 20 January).
 
 The Gospel readings for this Sunday cover John 1.29 &ndash; 2.11. In the RCL, it makes sense to see these readings as John's announcement of the beginning of Jesus' public ministry (with echoes of Jesus' baptism), to go alongside next week's readings from Matthew, Mark and Luke. This makes slightly less sense under Common Worship: see note on Epiphany 3.
 
@@ -320,6 +324,8 @@ Year C
 * **John 2.1-11** (see BCP) is the account of Jesus turning water into wine, by which he 'revealed his glory' (an Epiphany theme).
 
 ## Epiphany 3
+
+These readings are used on the third Sunday _after_ the Epiphany (the Sunday between 21 and 27 January).
 
 In the RCL, it makes sense to see this Sunday as marking the beginning of the semicontinuous series in the respective Gospel, with the Gospel reading marking the beginning of Jesus' public ministry. Common Worship has a different approach, which emphasises the Epiphany season, partly by including John 2.1-11 in Year A (Epiphany 4) and Year B (Epiphany 3), in addition to Year C (Epiphany 2), and partly by setting the Candlemas Gospel reading for Epiphany 4 in Year C.
 
@@ -341,6 +347,8 @@ Year C
 
 ## Epiphany 4*
 
+These readings are used on the fourth Sunday _after_ the Epiphany (the Sunday between 28 January and 3 February).
+
 Displaced if Candlemas falls (or is celebrated) on a Sunday.
 
 Year A
@@ -361,7 +369,7 @@ RCL has Luke 4.21-30 as the Gospel reading, which is replaced by Luke 2.22-40 (t
 
 ## The Presentation of Christ in the Temple (Candlemas)
 
-May be celebrated on the Sunday between 28 January and 3 February.
+May be celebrated on the Sunday between 28 January and 3 February (the fourth Sunday _after_ the Epiphany).
 
 Years A, B and C
 
@@ -415,7 +423,7 @@ Year C
 * **1 Corinthians 15.35-38, 42-50** concludes the series in 1 Corinthians 15, with extracts from the section on the resurrection body. (15.51-58 is the reading for the following week in the RCL.)
 * **Luke 6.27-38** continues the series in Luke (without a gap), and focuses on loving one's enemies. (6.39-49 is the reading for the following week in the RCL, which is omitted in Common Worship: see discussion below. To fill in the gap, this week's reading could be extended to 6.42 'when opportunity allows'.) (NB: Luke 6.20-31 set for All Saints' Day.) **Genesis 45.3-11, 15** is about Joseph's love for his brothers, who had behaved like his enemies. **Psalm 37.1-11, 40, 41** (EV: 1-11, 39, 40) [or 37.1-7] calls us not to fret about evildoers.
 
-## 2 before Lent
+## 2 before Lent*
 
 Creation theme.
 
@@ -428,7 +436,7 @@ Year A
 * **Romans 8.18-25** says that 'the creation waits with eager longing for the revealing of the children of God'.
 * **Matthew 6.25-34** says, 'do not worry', and invites us to consider God's care for the birds and the 'grass of the field'. (Matthew 6.25-33 also set for Harvest Thanksgiving, Year B.)
 
-## 1 before Lent
+## 1 before Lent*
 
 (RCL 'Last Sunday after the Epiphany', or 'Transfiguration Sunday'.)
 
@@ -445,6 +453,8 @@ In terms of the Gospel readings for Lent 1-5, there is some structure to the rea
 * Year C, mostly in Luke, is less clearly structured, and is about Jesus setting out for Jerusalem (Lent 2), then about repentance (Lent 3) and Jesus welcoming sinners (Lent 4), before finishing in John with Jesus being anointed at Bethany.
 
 ## Ash Wednesday
+
+Falls between 4 February and 10 March.
 
 Years A, B and C
 
@@ -640,6 +650,8 @@ Year C
 
 ## Easter Day
 
+Falls between 22 March and 25 April.
+
 The readings are the same for Years A, B and C, except for the alternative first reading, the epistle, and the alternative Gospel reading.
 
 * **Acts 10.34-43** begins a (vaguely sequential) series in Acts, and features Peter telling Cornelius about Jesus' life, death and resurrection.
@@ -812,6 +824,8 @@ Year C
 
 ## Pentecost
 
+Falls between 10 May and 13 June.
+
 The reading from Acts and the psalm are the same every year.
 
 * **Acts 2.1-21** (see BCP) narrates the pouring out of the Spirit at Pentecost, and the first part of Peter's sermon.
@@ -838,6 +852,8 @@ Year C
 # Ordinary Time {#ordinary-time-2}
 
 ## Trinity Sunday
+
+Falls between 17 May and 20 June.
 
 Year A
 
