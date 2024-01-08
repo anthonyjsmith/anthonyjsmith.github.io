@@ -13,7 +13,7 @@ Any feedback? Please [contact](/contact/) me!
 **_Work in progress!_**
 
 * Year A: complete
-* Year B: complete from Advent 1 to Proper 3 (February)
+* Year B: complete from Advent 1 to 2 before Lent
 * Year C: complete from Palm Sunday onwards
 * Festivals: complete for January to March, and from September to December
 * Appendix: Gospels: complete for Luke and John
@@ -446,6 +446,13 @@ Year A
 * **Psalm 136** [or 136.1-9, 23-26] is about God who 'made the heavens' (5-9) and 'gives food to all creatures' (25).
 * **Romans 8.18-25** says that 'the creation waits with eager longing for the revealing of the children of God'.
 * **Matthew 6.25-34** says, 'do not worry', and invites us to consider God's care for the birds and the 'grass of the field'. (Matthew 6.25-33 also set for Harvest Thanksgiving, Year B.)
+
+Year B
+
+* **Proverbs 8.1, 22-31** is about wisdom's role in creation.
+* **Psalm 104.26-37** (EV: 24-35) praised God for his creation.
+* **Colossians 1.15-20** says of God's Son that 'all things have been created through him and for him'.
+* **John 1.1-14** says of the 'Word' that 'All things came into being through him, and without him not one thing came into being.'
 
 ## 1 before Lent*
 
