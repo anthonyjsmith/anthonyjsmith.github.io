@@ -13,7 +13,7 @@ Any feedback? Please [contact](/contact/) me!
 **_Work in progress!_**
 
 * Year A: complete
-* Year B: complete from Advent 1 to Proper 1 (February)
+* Year B: complete from Advent 1 to Proper 2 (February)
 * Year C: complete from Palm Sunday onwards
 * Festivals: complete for January to March, and from September to December
 * Appendix: Gospels: complete for Luke and John
@@ -407,7 +407,8 @@ Year A
 
 Year B
 
-* **1 Corinthians 9.24-27** (see BCP, Septuagesima)
+* **1 Corinthians 9.24-27** (see BCP, Septuagesima) continues the series in 1 and 2 Corinthians (without a gap), and is about running in order to receive the prize.
+* **Mark 1.40-45** continues the series in Mark (without a gap), and is about Jesus cleansing a man with leprosy. **2 Kings 5.1-14** is about Elisha curing Naaman of his leprosy (see Proper 9, Year C). **Psalm 30** gives thanks to God for answered prayer: 'you have healed me'.
 
 Year C
 
@@ -971,7 +972,7 @@ Year A
 
 Year C
 
-* **2 Kings 5.1-14** continues the series on the prophets, and concludes the series in 1 and 2 Kings, with Naaman being healed of leprosy. **Psalm 30** gives thanks to God for answered prayer.
+* **2 Kings 5.1-14** continues the series on the prophets, and concludes the series in 1 and 2 Kings, with Elisha curing Naaman of leprosy (see Proper 2, Year B). **Psalm 30** gives thanks to God for answered prayer: 'you have healed me'.
 * **Galatians 6.[1-6] 7-16** concludes the series in Galatians, with an exhortation to do good to all.
 * **Luke 10.1-11, 16-20** continues the series in Luke (without a gap), with Jesus sending out the seventy-two who then return rejoicing. (10.12-15, 'woe to you...', could be included 'when opportunity allows': compare Matthew 11.16-19, 25-30, which also omits this bit.) The 'Related' reading, **Isaiah 66.10-14**, calls on people to rejoice. The 'Related' psalm, **Psalm 66.1-8** (EV: 1-9), begins with a call to be joyful.
 
@@ -1756,6 +1757,7 @@ For Matthew, Mark and Luke, the semicontinuous series from Epiphany 3 to the end
 * Mark 1.14-20: **3 before Advent** (NB: RCL Epiphany 3).
 * Mark 1.21-28: **Epiphany 4**
 * Mark 1.29-39: **Proper 1**
+* Mark 1.40-45: **Proper 2**
 * ...
 * Mark 2.13: omitted.
 * Mark 2.14-17: see Matthew 9.9-13, 18-26.
