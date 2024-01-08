@@ -13,7 +13,7 @@ Any feedback? Please [contact](/contact/) me!
 **_Work in progress!_**
 
 * Year A: complete
-* Year B: complete from Advent 1 to Proper 2 (February)
+* Year B: complete from Advent 1 to Proper 3 (February)
 * Year C: complete from Palm Sunday onwards
 * Festivals: complete for January to March, and from September to December
 * Appendix: Gospels: complete for Luke and John
@@ -423,6 +423,11 @@ Year A
 
 * **1 Corinthians 3.10-11, 16-23** concludes the series in 1 Corinthians 1-3 (continuing without a gap), and is about building the church on the foundation of Jesus Christ. (The omitted verses about 'the Day' could easily be included: 'the fire will test what sort of work each has done'.)
 * **Matthew 5.38-48** continues the series in Matthew (without a gap), and is about loving one's enemies. **Leviticus 19.1-2, 9-18** says, 'you shall love your neighbour as yourself'. **Psalm 119.33-40** is the second of two weeks in Psalm 119, and is about keeping God's commandments (reflecting the broader theme of the Gospel reading).
+
+Year B
+
+* **2 Corinthians 1.18-22** concludes the series in 1 and 2 Corinthians, and says that 'every one of God’s promises is a "Yes"'.
+* **Mark 2.1-12** continues the series in Mark (without a gap), and is about Jesus healing and forgiving a paralysed man, concluding with amazement: 'We have never seen anything like this!' **Isaiah 43.18-25** says that God is doing 'a new thing': 'I will not remember your sins'. **Psalm 41** says, 'The Lord sustains them on their sickbed; their sickness, Lord, you will remove.'
 
 Year C
 
@@ -1655,8 +1660,7 @@ For Matthew, Mark and Luke, the semicontinuous series from Epiphany 3 to the end
 * Matthew 6.16-21: Ash Wednesday.
 * Matthew 6.22-23: omitted, along with its parallel in Luke 11.34-35.
 * Matthew 6.24: see Luke 16.1-13.
-* Matthew 6.25-33: Harvest Thanksgiving, Year B.
-* Matthew 6.25-34: 2 before Lent.
+* Matthew 6.25-34: **2 before Lent** (6.25-33: Harvest Thanksgiving, Year B).
 * Matthew 7.1-2: see Luke 6.27-38.
 * Matthew 7.3-5: omitted, along with its parallel in Luke 6.41-42 (NB: RCL 'Proper 3').
 * Matthew 7.6: omitted.
@@ -1758,7 +1762,7 @@ For Matthew, Mark and Luke, the semicontinuous series from Epiphany 3 to the end
 * Mark 1.21-28: **Epiphany 4**
 * Mark 1.29-39: **Proper 1**
 * Mark 1.40-45: **Proper 2**
-* ...
+* Mark 2.1-12: **Proper 3**
 * Mark 2.13: omitted.
 * Mark 2.14-17: see Matthew 9.9-13, 18-26.
 * Mark 2.18-22: omitted, along with its parallels in Matthew 9.14-17 and Luke 5.33-39 (NB: RCL 'Proper 3').
