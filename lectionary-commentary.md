@@ -13,7 +13,7 @@ Any feedback? Please [contact](/contact/) me!
 **_Work in progress!_**
 
 * Year A: complete
-* Year B: complete from Advent 1 to 2 before Lent
+* Year B: complete from Advent 1 to Ash Wednesday
 * Year C: complete from Palm Sunday onwards
 * Festivals: complete for January to March, and from September to December
 * Appendix: Gospels: complete for Luke and John
@@ -458,9 +458,15 @@ Year B
 
 (RCL 'Last Sunday after the Epiphany', or 'Transfiguration Sunday'.)
 
+The Gospel readings are about Jesus' Transfiguration.
+
 Year A
 
 * **Matthew 17.1-9** is Matthew's account of Jesus' Transfiguration, on a mountain, with Peter, James and John, with Moses and Elijah appearing, a cloud overshadowing them, and a voice saying, 'This is my Son'. **Exodus 24.12-18** is about Moses seeing the glory of the Lord on the mountain. **Psalm 2** has God saying, 'You are my Son'. Alternatively, **Psalm 99** (also set for Year C) says that God 'spoke to them out of the pillar of cloud', and calls people to 'worship him upon his holy hill'. **2 Peter 1.16-21** includes Peter's eyewitness account of the Transfiguration.
+
+Year B
+
+* **Mark 9.2-9** is Mark's account of Jesus' Transfiguration, on a 'high mountain', with Moses and Elijah appearing. **2 Kings 2.1-12** is about Elijah being taken up to heaven. **Psalm 50.1-6** says that God 'has spoken' and 'shines forth'. **2 Corinthians 4.3-6** speaks about 'the light of the knowledge of the glory of God in the face of Jesus Christ'.
 
 # Lent {#lent}
 
@@ -1766,15 +1772,17 @@ For Matthew, Mark and Luke, the semicontinuous series from Epiphany 3 to the end
 * Mark 1.4-11: Epiphany 1.
 * Mark 1.9-15: Lent 1.
 * Mark 1.14-20: **3 before Advent** (NB: RCL Epiphany 3).
-* Mark 1.21-28: **Epiphany 4**
-* Mark 1.29-39: **Proper 1**
-* Mark 1.40-45: **Proper 2**
-* Mark 2.1-12: **Proper 3**
+* Mark 1.21-28: **Epiphany 4**.
+* Mark 1.29-39: **Proper 1**.
+* Mark 1.40-45: **Proper 2**.
+* Mark 2.1-12: **Proper 3**.
 * Mark 2.13: omitted.
 * Mark 2.14-17: see Matthew 9.9-13, 18-26.
 * Mark 2.18-22: omitted, along with its parallels in Matthew 9.14-17 and Luke 5.33-39 (NB: RCL 'Proper 3').
 * ...
 * Mark 8.22-26: omitted, along with its close parallel in Matthew 9.27-31.
+* ...
+* Mark 9.2-9: 1 before Lent.
 * ...
 * Mark 9.13: omitted, along with its parallel in Matthew 11.14.
 * ...
