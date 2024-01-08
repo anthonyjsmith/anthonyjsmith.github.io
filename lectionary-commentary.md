@@ -13,7 +13,7 @@ Any feedback? Please [contact](/contact/) me!
 **_Work in progress!_**
 
 * Year A: complete
-* Year B: complete from Advent 1 to Candlemas
+* Year B: complete from Advent 1 to Proper 1 (February)
 * Year C: complete from Palm Sunday onwards
 * Festivals: complete for January to March, and from September to December
 * Appendix: Gospels: complete for Luke and John
@@ -385,6 +385,11 @@ Year A
 
 * **1 Corinthians 2.1-12 [13-16]** continues the series in 1 Corinthians 1-3 (without a gap), and is about Christ crucified and the wisdom of God.
 * **Matthew 5.13-20** begins/resumes a semicontinuous series in Matthew 5-25, which covers these three Sundays in February, and all the Sundays between Trinity and Advent. Jesus speaks about being salt and light ('let your light shine before others'), about not coming to abolish the law or the prophets but to fulfil, and about righteousness. **Isaiah 58.1-9a [9b-12]** says 'your light shall break forth like the dawn' and 'rise in the darkness'. **Psalm 112.1-9 [10]** speaks of those whose righteousness is clearly seen.
+
+Year B
+
+* **1 Corinthians 9.16-23** begins a three-part series in 1 and 2 Corinthians, and is about doing everything for the sake of the gospel.
+* **Mark 1.29-39** continues the series in Mark (without a gap), and is about Jesus healing many and proclaiming the message. **Isaiah 40.21-31** says of God, 'He gives power to the faint, and strengthens the powerless.' **Psalm 147.1-12, 21c** (EV: 1-11, 20c) [or 147.1-12 (EV: 1-11)] says of God, 'He heals the brokenhearted and binds up all their wounds.'
 
 Year C
 
@@ -1750,6 +1755,7 @@ For Matthew, Mark and Luke, the semicontinuous series from Epiphany 3 to the end
 * Mark 1.9-15: Lent 1.
 * Mark 1.14-20: **3 before Advent** (NB: RCL Epiphany 3).
 * Mark 1.21-28: **Epiphany 4**
+* Mark 1.29-39: **Proper 1**
 * ...
 * Mark 2.13: omitted.
 * Mark 2.14-17: see Matthew 9.9-13, 18-26.
