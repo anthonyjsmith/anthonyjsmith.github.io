@@ -16,7 +16,7 @@ Any feedback? Please [contact](/contact/) me!
 * Year B: complete from Advent 1 to Ash Wednesday
 * Year C: complete from Palm Sunday onwards
 * Festivals: complete for January to March, and from September to December
-* Appendix: Gospels: complete for Luke and John
+* Appendix: Gospels: complete for Matthew 1-14, Luke and John
 
 # Contents
 
@@ -1000,7 +1000,7 @@ Year A
 
 * **Genesis 25.19-34** continues the series in the Pentateuch and in Genesis, and is about the birth of Esau and Jacob, and Esau selling his birthright to Jacob. **Psalm 119.105-112** might be related by the theme of holding firmly to something: Jacob holding firmly to Esau's heel, and the psalmist holding firmly to God's word.
 * **Romans 8.1-11** continues the series in Romans (after a gap of only half a verse), and is about life in the Spirit.
-* **Matthew 13.1-9, 18-23** continues the series in Matthew, and is the Parable of the Sower. The 'Related' reading, **Isaiah 55.10-13**, likens God's word to rain, 'giving seed to the sower'. The 'Related' psalm, **Psalm 65.[1-7] 8-13** (EV: [1-8] 9-13), is about God watering the earth and bringing grain.
+* **Matthew 13.1-9, 18-23** continues the series in Matthew, and is the Parable of the Sower. (13.10-17 could be included 'when opportunity allows'.) The 'Related' reading, **Isaiah 55.10-13**, likens God's word to rain, 'giving seed to the sower'. The 'Related' psalm, **Psalm 65.[1-7] 8-13** (EV: [1-8] 9-13), is about God watering the earth and bringing grain.
 
 Year C
 
@@ -1720,13 +1720,17 @@ For Matthew, Mark and Luke, the semicontinuous series from Epiphany 3 to the end
 * Matthew 12.43-45: omitted, along with its parallel in Luke 11.24-26.
 * Matthew 12.46-50: see Mark 3.20-35.
 * Matthew 13.1-9, 18-23: **Proper 10**.
-* ...
+* Matthew 13.10-15: omitted, along with its parallels in Mark 4.10-12 and Luke 8.9-10.
+* Matthew 13.16-17: omitted, along with its parallel in Luke 10.23-24.
 * Matthew 13.24-30, 36-43: **Proper 11**.
-* ...
 * Matthew 13.31-33, 44-52: **Proper 12**.
-* ...
+* Matthew 13.34-35: omitted.
+* Matthew 13.53: omitted.
+* Matthew 13.54-58: see Mark 6.1-13.
+* Matthew 14.1-12: see Mark 6.14-29.
 * Matthew 14.13-21: **Proper 13**.
 * Matthew 14.22-33: **Proper 14**.
+* Matthew 14.34-36: see Mark 6.30-34, 53-56.
 * ...
 * Matthew 15.[10-20] 21-28: **Proper 15**.
 * ...
@@ -1779,6 +1783,10 @@ For Matthew, Mark and Luke, the semicontinuous series from Epiphany 3 to the end
 * Mark 2.13: omitted.
 * Mark 2.14-17: see Matthew 9.9-13, 18-26.
 * Mark 2.18-22: omitted, along with its parallels in Matthew 9.14-17 and Luke 5.33-39 (NB: RCL 'Proper 3').
+* ...
+* Mark 4.1-9, 14-20: see Matthew 13.1-9, 18-23.
+* Mark 4.10-12: omitted, along with its parallels in Matthew 13.10-17 and Luke 8.9-10.
+* Mark 4.13: omitted
 * ...
 * Mark 8.22-26: omitted, along with its close parallel in Matthew 9.27-31.
 * ...
@@ -1836,7 +1844,8 @@ For Matthew, Mark and Luke, the semicontinuous series from Epiphany 3 to the end
 * Luke 7.11-17: **Proper 5**.
 * Luke 7.18-35: see Matthew 11.2-19, which is mostly covered on two separate occasions by Matthew 11.2-11 and 16-19.
 * Luke 7.36 &ndash; 8.3: **Proper 6**.
-* Luke 8.4-15: partially covered by Matthew 13.1-9, 18-23
+* Luke 8.4-8, 11-15: see Matthew 13.1-9, 18-23.
+* Luke 8.9-10: omitted, along with its parallels in Matthew 13.10-17 and Mark 4.10-12.
 * Luke 8.16-18: omitted.
 * Luke 8.19-21: see Mark 3.20-35.
 * Luke 8.22-25: 2 before Lent, also covered in Mark 4.35-41.
@@ -1852,9 +1861,9 @@ For Matthew, Mark and Luke, the semicontinuous series from Epiphany 3 to the end
 * Luke 9.49-50: see Mark 9.38-50.
 * Luke 9.51-62: **Proper 8**.
 * Luke 10.1-11, 16-20: **Proper 9**.
-* Luke 10.12-15: omitted, along with its parallel in Matthew 11.20-24. (Could be included in Luke 10.1-11, 16-20.)
+* Luke 10.12-15: omitted, along with its parallel in Matthew 11.20-24.
 * Luke 10.21-22: see Matthew 11.16-19, 25-30.
-* Luke 10.23-24: omitted, but could be included if the gap is filled in Matthew 13.1-9, 18-23.
+* Luke 10.23-24: omitted, along with its parallel in Matthew 13.16-17.
 * Luke 10.25-37: **Proper 10**.
 * Luke 10.38-42: **Proper 11**.
 * Luke 11.1-13: **Proper 12**.
