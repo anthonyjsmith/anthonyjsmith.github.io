@@ -1661,16 +1661,15 @@ For Matthew, Mark and Luke, the semicontinuous series from Epiphany 3 to the end
 * Matthew 3.1-12: Advent 2.
 * Matthew 3.13-17: Epiphany 1.
 * Matthew 4.1-11: Lent 1.
-* Matthew 4.12-23: **Epiphany 3**.
+* Matthew 4.12-23: **Epiphany 3** (4.18-22: Andrew).
 * Matthew 5.1-12: All Saints' Day (NB: RCL Epiphany 4).
 * Matthew 5.13-20: **Proper 1**.
 * Matthew 5.21-37: **Proper 2**.
 * Matthew 5.38-48: **Proper 3**.
-* Matthew 6.1-6: Ash Wednesday.
+* Matthew 6.1-6, 16-21: Ash Wednesday.
 * Matthew 6.7-8: omitted.
 * Matthew 6.9-13: see Luke 11.1-13.
 * Matthew 6.14-15: omitted (but see Matthew 18.21-35).
-* Matthew 6.16-21: Ash Wednesday.
 * Matthew 6.22-23: omitted, along with its parallel in Luke 11.34-35.
 * Matthew 6.24: see Luke 16.1-13.
 * Matthew 6.25-34: **2 before Lent** (6.25-33: Harvest Thanksgiving, Year B).
@@ -1698,7 +1697,7 @@ For Matthew, Mark and Luke, the semicontinuous series from Epiphany 3 to the end
 * Matthew 9.27-31: omitted, along with its close parallel in Mark 8.22-26.
 * Matthew 9.32-33: omitted (cf. Matthew 12.22-23).
 * Matthew 9.34: see Mark 3.20-35 (cf. Matthew 12.24).
-* Matthew 9.35 &ndash; 10.8 [9-23]: **Proper 6**.
+* Matthew 9.35 &ndash; 10.8 [9-23]: **Proper 6** (10.17-22: Stephen).
 * Matthew 10.24-39: **Proper 7**.
 * Matthew 10.40-42: **Proper 8**.
 * Matthew 11.1: omitted.
@@ -1734,7 +1733,7 @@ For Matthew, Mark and Luke, the semicontinuous series from Epiphany 3 to the end
 * ...
 * Matthew 15.[10-20] 21-28: **Proper 15**.
 * ...
-* Matthew 16.13-20: **Proper 16**.
+* Matthew 16.13-20: **Proper 16** (16.13-19: Peter and Paul).
 * Matthew 16.21-28: **Proper 17**.
 * ...
 * Matthew 17.1-9: 1 before Lent.
@@ -1742,9 +1741,14 @@ For Matthew, Mark and Luke, the semicontinuous series from Epiphany 3 to the end
 * Matthew 18.15-20: **Proper 18**.
 * Matthew 18.21-35: **Proper 19**.
 * ...
+* Matthew 19.27-30: Conversion of Paul.
+* ...
 * Matthew 20.1-16: **Proper 20**.
 * ...
+* Matthew 20.20-28: James.
+* ...
 * Matthew 21.1-11: Palm Sunday.
+* Matthew 21.12-16: Dedication Festival.
 * ...
 * Matthew 21.23-32: **Proper 21**.
 * Matthew 21.33-46: **Proper 22**.
@@ -1762,7 +1766,7 @@ For Matthew, Mark and Luke, the semicontinuous series from Epiphany 3 to the end
 * ...
 * Matthew 25.1-13: **3 before Advent**.
 * Matthew 25.14-30: **2 before Advent**.
-* Matthew 25.31-46: **Christ the King**.
+* Matthew 25.31-46: **1 before Advent**.
 * ...
 * Matthew 26.14 &ndash; 27.66: Palm Sunday.
 * Matthew 27.57-66: Easter Eve, Years A, B and C (first alternative).
@@ -1783,23 +1787,59 @@ For Matthew, Mark and Luke, the semicontinuous series from Epiphany 3 to the end
 * Mark 2.13: omitted.
 * Mark 2.14-17: see Matthew 9.9-13, 18-26.
 * Mark 2.18-22: omitted, along with its parallels in Matthew 9.14-17 and Luke 5.33-39 (NB: RCL 'Proper 3').
+* Mark 2.23 &ndash; 3.6: **Proper 4**
+* ...
+* Mark 3.20-35: **Proper 5**.
 * ...
 * Mark 4.1-9, 14-20: see Matthew 13.1-9, 18-23.
 * Mark 4.10-12: omitted, along with its parallels in Matthew 13.10-17 and Luke 8.9-10.
 * Mark 4.13: omitted
 * ...
+* Mark 4.26-34: **Proper 6**.
+* Mark 4.35-41: **Proper 7**.
+* ...
+* Mark 5.21-43: **Proper 8**.
+* ...
+* Mark 6.1-13: **Proper 9**.
+* Mark 6.14-29: **Proper 10**.
+* Mark 6.30-34, 53-56: **Proper 11**.
+* ...
+* Mark 7.1-8, 14, 15, 21-23: **Proper 17**.
+* ...
+* Mark 7.24-37: **Proper 18**.
+* ...
 * Mark 8.22-26: omitted, along with its close parallel in Matthew 9.27-31.
+* Mark 8.27-38: **Proper 19**.
+* Mark 8.31-38: Lent 2.
 * ...
 * Mark 9.2-9: 1 before Lent.
 * ...
 * Mark 9.13: omitted, along with its parallel in Matthew 11.14.
 * ...
+* Mark 9.30-37: **Proper 20**.
+* Mark 9.38-50: **Proper 21**.
+* ...
+* Mark 10.2-16: **Proper 22**.
+* Mark 10.17-31: **Proper 23**.
+* ...
+* Mark 10.35-45: **Proper 24**.
+* Mark 10.46-52: **Proper 25**.
+* ...
+* Mark 11.1-11: Palm Sunday
+* ...
+* Mark 12.28-34: **4 before Advent**.
+* ...
 * Mark 12.38-40: omitted, along with its parallels in Matthew 23.1-7 and Luke 20.45-47 (NB: RCL 'Proper 26' and 'Proper 27').
 * Mark 12.41-44 (widow's offering): omitted, along with its parallel in Luke 21.1-4 (NB: RCL 'Proper 27').
 * ...
+* Mark 13.1-8: **2 before Advent**.
+* Mark 13.5-13: Mark.
 * Mark 13.14-19: omitted, along with near parallels in Matthew 24.15-21 and Luke 21.20-24.
 * ...
 * Mark 13.24-37: Advent 1.
+* ...
+* Mark 14.1 &ndash; 15.47: Palm Sunday.
+* Mark 16.1-8: Easter Vigil; Easter Day (second alternative).
 * ...
 
 ## Luke (Year C)
@@ -1808,8 +1848,8 @@ For Matthew, Mark and Luke, the semicontinuous series from Epiphany 3 to the end
 * Luke 1.26-38: Advent 4, Year B; Annunciation.
 * Luke 1.39-56: Advent 4 (omitting verse 56); 1.46-55 (the Magnificat) as the canticle for Advent 3 or 4 (1.39-56: Visit of the Blessed Virgin Mary to Elizabeth; 1.46-56: Blessed Virgin Mary).
 * Luke 1.57-80: omitted from the main lectionary, but 1.68-79 (the Benedictus) is included as the canticle for Advent 2 (1.57-66, 80: Birth of John the Baptist).
-* Luke 2.1-14 [15-20]: Christmas I.
-* Luke 2.[1-7] 8-20: Christmas II.
+* Luke 2.1-14 [15-20]: Christmas Day (I).
+* Luke 2.[1-7] 8-20: Christmas Day (II).
 * Luke 2.15-21: Christmas 1, Year B; Naming and Circumcision of Jesus.
 * Luke 2.22-40: Epiphany 4, Candlemas (2.33-35: Mothering Sunday, first alternative).
 * Luke 2.41-52: Christmas 1.
@@ -1856,11 +1896,11 @@ For Matthew, Mark and Luke, the semicontinuous series from Epiphany 3 to the end
 * Luke 9.18-27: see Mark 8.27-31.
 * Luke 9.18-20: see Matthew 16.13-20.
 * Luke 9.21-27: see Matthew 16.21-28 and Mark 8.31-38.
-* Luke 9.28-43a: 1 before Lent.
+* Luke 9.28-43a: 1 before Lent (9.28-36: Transfiguration).
 * Luke 9.43b-48: see Mark 9.30-37.
 * Luke 9.49-50: see Mark 9.38-50.
 * Luke 9.51-62: **Proper 8**.
-* Luke 10.1-11, 16-20: **Proper 9**.
+* Luke 10.1-11, 16-20: **Proper 9** (10.1-9: Luke).
 * Luke 10.12-15: omitted, along with its parallel in Matthew 11.20-24.
 * Luke 10.21-22: see Matthew 11.16-19, 25-30.
 * Luke 10.23-24: omitted, along with its parallel in Matthew 13.16-17.
@@ -1905,7 +1945,7 @@ For Matthew, Mark and Luke, the semicontinuous series from Epiphany 3 to the end
 * Luke 14.25-33: **Proper 18**.
 * Luke 14.34-35: see the similar saying in Matthew 5.13-20 and Mark 9.38-50.
 * Luke 15.1-10: **Proper 19**.
-* Luke 15.11-32: Lent 4 (NB: Mothering Sunday).
+* Luke 15.1-3, 11b-32: Lent 4 (NB: Mothering Sunday).
 * Luke 16.1-13: **Proper 20**.
 * Luke 16.14-15: omitted.
 * Luke 16.16: omitted, along with its parallel in Matthew 11.12-13.
@@ -1915,7 +1955,7 @@ For Matthew, Mark and Luke, the semicontinuous series from Epiphany 3 to the end
 * Luke 17.1-2: omitted, along with its parallel in Matthew 18.6-7.
 * Luke 17.3-4: see Matthew 18.15-20 and 18.21-35.
 * Luke 17.5-10: **Proper 22**.
-* Luke 17.11-19: **Proper 23**.
+* Luke 17.11-19: **Proper 23** (Harvest Thanksgiving, Year A).
 * Luke 17.20-22: omitted
 * Luke 17.23: omitted, along with its parallel in Matthew 24.23. Compare Luke 21.5-19.
 * Luke 17.24: omitted, along with its parallel in Matthew 24.27.
@@ -1953,7 +1993,7 @@ For Matthew, Mark and Luke, the semicontinuous series from Epiphany 3 to the end
 * Luke 21.37-38: omitted.
 * Luke 22.1-6: see Mark 14.1-2, 10-11, included in Mark 14.1 &ndash; 15.47 (Palm Sunday).
 * Luke 22.7-13: see Mark 14.12-16, included in Mark 14.1 &ndash; 15.47 (Palm Sunday).
-* Luke 22.14 &ndash; 23.56: Palm Sunday.
+* Luke 22.14 &ndash; 23.56: Palm Sunday (22.24-30: Bartholomew).
 * Luke 23.33-43: **1 before Advent**.
 * Luke 24.1-12: Easter Vigil; Easter Day (second alternative).
 * Luke 24.13-35: Easter 3, Year A.
@@ -2047,7 +2087,7 @@ In detail:
 * John 17.6-19: Easter 7, Year B.
 * John 17.20-26: Easter 7, Year C.
 * John 18.1 &ndash; 19.42: Good Friday.
-* John 18.33-37: Christ the King, Year B.
+* John 18.33-37: 1 before Advent, Year B.
 * John 19.25-27: Mothering Sunday, Years A, B and C (second alternative).
 * John 19.38-42: Easter Eve, Years A, B and C (second alternative).
 * John 20.1-18: Easter Day, Years A, B and C (first alternative) (20.1-2, 11-18: Mary Magdalene).
