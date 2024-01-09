@@ -39,9 +39,9 @@ Any feedback? Please [contact](/contact/) me!
 
 Note that there is often no 'theme' tying the readings together. (Many people persist in looking for one, even decades after the ASB.) Where readings are closely related, they are grouped together below. In many cases, however, a particular reading will not be related to other readings on the same day, but it will turn out to be part of a series on a particular book of the Bible running over several weeks. This principle of continuous (or semicontinuous) reading of Scripture is one of the key principles behind the lectionary.
 
-(I have put the Principal Service Lectionary into a [spreadsheet](/assets/lectionary.xlsx), including a reverse lectionary as the second sheet.)
-
 ## The Bible and the lectionary
+
+I have put the Principal Service Lectionary into a [spreadsheet](/assets/lectionary.xlsx), including a 'reverse lectionary' as the second sheet (listing the passages in biblical order).
 
 For the Gospels, Year A focuses on Matthew, Year B on Mark, and Year C on Luke.
 
@@ -51,7 +51,7 @@ The Gospel readings on Sundays during Ordinary Time work semicontinuously throug
 
 Acts is read at the Baptism of Christ, between Easter Day and Pentecost (vaguely sequentially), and on some Festivals.
 
-Numerous Psalms are included. To get some idea, see the [Reverse Lectionary](https://www.lectionarypage.net/ReverseLectionary.html#Psalms) for the Episcopal Church's adaptation of the RCL.
+Numerous Psalms are included.
 
 Many other books are read semicontinuously, while also featuring in a non-sequential way during seasons and Festivals and as 'Related' Old Testament readings after Trinity.
 
