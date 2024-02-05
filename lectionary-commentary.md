@@ -450,7 +450,7 @@ Year A
 Year B
 
 * **Proverbs 8.1, 22-31** is about wisdom's role in creation.
-* **Psalm 104.26-37** (EV: 24-35) praised God for his creation.
+* **Psalm 104.26-37** (EV: 24-35) praises God for his creation: 'In wisdom you have made them all'.
 * **Colossians 1.15-20** says of God's Son that 'all things have been created through him and for him'.
 * **John 1.1-14** says of the 'Word' that 'All things came into being through him, and without him not one thing came into being.'
 
