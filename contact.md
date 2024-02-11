@@ -1,6 +1,6 @@
 ---
 title: Contact
-excerpt: Drop me an email or find me on Twitter.
+# excerpt: Drop me an email or find me on Twitter.
 ---
 For church-related matters, drop me an email at [Anthony.Smith@durham.anglican.org](mailto:Anthony.Smith@durham.anglican.org).
 

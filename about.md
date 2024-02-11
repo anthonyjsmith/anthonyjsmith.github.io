@@ -1,6 +1,6 @@
 ---
 title: About
-excerpt: "Christian. Husband. Vicar near Darlington. Previous lives: organist, astronomer, software developer. Singer (classical)."
+# excerpt: "Christian. Husband. Vicar near Darlington. Previous lives: organist, astronomer, software developer. Singer (classical)."
 ---
 _Christian. [Husband](http://elinevanasperen.wordpress.com/). Vicar near Darlington. Previous lives: organist, [astronomer](/astronomy/), [software developer](/software/). [Singer (classical)](/singing/)._
 

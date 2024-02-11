@@ -1,6 +1,6 @@
 ---
 title: Commentary on the Common Worship Principal Service Lectionary
-excerpt: 'Work in progress! This is a commentary on the lectionary, not a commentary on the passages. The aim is to answer the question: Why was this passage chosen?'
+# excerpt: 'Work in progress! This is a commentary on the lectionary, not a commentary on the passages. The aim is to answer the question: Why was this passage chosen?'
 ---
 This is a commentary on the _lectionary_, not a commentary on the _passages_. The aim is to answer the question: _Why was this passage chosen?_
 
