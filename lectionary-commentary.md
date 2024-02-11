@@ -13,7 +13,7 @@ Any feedback? Please [contact](/contact/) me!
 **_Work in progress!_**
 
 * Year A: complete
-* Year B: complete from Advent 1 to Lent 2
+* Year B: complete from Advent 1 to Lent 3
 * Year C: complete from Palm Sunday onwards
 * Festivals: complete for January to March, and from September to December
 * Appendix: Gospels: complete for Matthew 1-14, Luke and John
@@ -522,6 +522,12 @@ Year B
 Year A
 
 * **John 4.5-42** continues the baptism-related series in John, and is about the Samaritan woman's encounter with Jesus, including a discussion about 'living water' (i.e., the Spirit, 7.39), and about worshipping the Father 'in spirit and in truth'. **Exodus 17.1-7** is about Moses bringing water from the rock, in response to the people testing God at Massah and Meribah. **Psalm 95** recalls the time when the people tested God at Massah and Meribah. **Romans 5.1-11** says that 'God's love has been poured into our hearts through the Holy Spirit'.
+
+Year B
+
+* **Exodus 20.1-17** is the Ten Commandments, reflecting the Lenten theme of self-examination. **Psalm 19** [or 19.7-14] is about God's law, and longs for a blameless life.
+* **1 Corinthians 1.18-25** looks towards the cross: 'the message about the cross is foolishness to those who are perishing, but to us who are being saved it is the power of God'.
+* **John 2.13-22** has Jesus saying (of his body), 'Destroy this temple, and in three days I will raise it up.'
 
 ## Lent 4
 
