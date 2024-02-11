@@ -13,7 +13,7 @@ Any feedback? Please [contact](/contact/) me!
 **_Work in progress!_**
 
 * Year A: complete
-* Year B: complete from Advent 1 to Easter Day
+* Year B: complete from Advent 1 to Easter 2
 * Year C: complete from Palm Sunday onwards
 * Festivals: complete for January to March, and from September to December
 * Appendix: Gospels: complete for Matthew 1-14, Luke and John
@@ -740,11 +740,16 @@ Year A
 * **Psalm 16** is quoted in the reading from Acts: 'you will not abandon my soul to Death/Hades'.
 * **1 Peter 1.3-9** begins a (mostly) semicontinuous series in 1 Peter (which covers all of the 'Easter N' Sundays), and has the same Peter speaking of the hope that comes through the resurrection of Jesus.
 
+Year B
+
+* **Acts 4.32-35** continues the series in Acts, and is about the believers sharing their possessions, as 'the apostles gave their testimony to the resurrection of the Lord Jesus'. **Psalm 133** says, 'How very good and pleasant it is when kindred live together in unity!'
+* **1 John 1.1 &ndash; 2.2** begins a semicontinuous series in 1 John (which covers all of the 'Easter N' Sundays), and is about 'fellowship ... with the Father and with his Son Jesus Christ'.
+
 Year C
 
 * **Acts 5.27-32** continues the series in Acts, and recounts the apostles before the Sanhedrin, testifying to Jesus' resurrection (with a mention of the Holy Spirit).
 * **Psalm 118.14-29** largely duplicates the psalm from last week (and the week before), and speaks of the 'stone which the builders rejected', linking with the rejection of Jesus by the authorities in Acts. An alternative psalm is provided, **Psalm 150**, which is a joyful expression of praise for God's mighty acts.
-* **Revelation 1.4-8** begins a (sparse but sequential) series in Revelation, covering every 'Sunday of Easter'.
+* **Revelation 1.4-8** begins a (sparse but sequential) series in Revelation (which covers all of the 'Easter N' Sundays), and speaks of Jesus Christ as 'the firstborn of the dead'.
 
 ## Easter 3
 
