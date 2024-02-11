@@ -13,7 +13,7 @@ Any feedback? Please [contact](/contact/) me!
 **_Work in progress!_**
 
 * Year A: complete
-* Year B: complete from Advent 1 to Ash Wednesday
+* Year B: complete from Advent 1 to Lent 1
 * Year C: complete from Palm Sunday onwards
 * Festivals: complete for January to March, and from September to December
 * Appendix: Gospels: complete for Matthew 1-14, Luke and John
@@ -491,10 +491,17 @@ Years A, B and C
 
 ## Lent 1
 
+The Gospel readings are about Jesus' temptation in the wilderness.
+
 Year A
 
 * **Psalm 32** is about confession and forgiveness of sin.
 * **Matthew 4.1-11** (see BCP) is about Jesus being tempted by the devil in the wilderness. **Genesis 2.15-17; 3.1-7** is about Eve and Adam succumbing to the serpent's temptation in the garden. **Romans 5.12-19** compares Adam with Christ.
+
+Year B
+
+* **Psalm 25.1-9** (EV: 1-10) includes confession of sin and a desire to follow God's ways.
+* **Mark 1.9-15** is about Jesus being tempted by Satan in the wilderness (12-13), with surrounding verses about Jesus' baptism (9-11) and his proclamation of the good news (14-15). **1 Peter 3.18-22** mentions Christ's proclamation, calling to mind God's patience in the time of Noah, and connects the flood with baptism. **Genesis 9.8-17** is about God's covenant with Noah, his descendants, and 'all flesh that is on the earth': 'never again shall there be a flood to destroy the earth'.
 
 ## Lent 2
 
@@ -1007,7 +1014,6 @@ Year C
 * **Amos 7.7-17** continues the series on the prophets, and is the first of two weeks in Amos (the earliest of the prophetic books). The theme of God as judge is reflected in **Psalm 82**.
 * **Colossians 1.1-14** begins a series covering much of Colossians 1.1 &ndash; 3.11, and gives thanks for the fruitfulness that comes from 'the word of the truth, the gospel'.
 * **Luke 10.25-37** continues the series in Luke, on the importance of love for God and neighbour, explained in the parable of the good Samaritan, The 'Related' reading, **Deuteronomy 30.9-14** is about turning to God 'with all your heart and with all your soul' and obeying God's commandments. (The promise of fruitfulness might relate to the reading from Colossians.) The 'Related' psalm, **Psalm 25.1-10** (EV: 1-11) asks for guidance in keeping God's ways.
-
 
 ## Sunday between 17 and 23 July (Proper 11)
 
