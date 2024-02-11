@@ -13,7 +13,7 @@ Any feedback? Please [contact](/contact/) me!
 **_Work in progress!_**
 
 * Year A: complete
-* Year B: complete from Advent 1 to Lent 3
+* Year B: complete from Advent 1 to Lent 4
 * Year C: complete from Palm Sunday onwards
 * Festivals: complete for January to March, and from September to December
 * Appendix: Gospels: complete for Matthew 1-14, Luke and John
@@ -515,7 +515,7 @@ Year A
 Year B
 
 * **Genesis 17.1-7, 15, 16** is about God's covenant with Abraham and Sarah: 'I will make nations of you'. **Psalm 22.23-31** calls for praise from nations and future generations. **Romans 4.13-25** is about God's promise and Abraham's faith, and quotes Genesis 17: 'for he is the father of all of us, as it is written, "I have made you the father of many nations"'.
-* **Mark 8.31-38** has Jesus foretelling his death and resurrection, and calling his followers to 'take up their cross'.
+* **Mark 8.31-38** begins a series looking towards the cross, has Jesus foretelling his death and resurrection, and calling his followers to 'take up their cross'.
 
 ## Lent 3
 
@@ -527,7 +527,7 @@ Year B
 
 * **Exodus 20.1-17** is the Ten Commandments, reflecting the Lenten theme of self-examination. **Psalm 19** [or 19.7-14] is about God's law, and longs for a blameless life.
 * **1 Corinthians 1.18-25** looks towards the cross: 'the message about the cross is foolishness to those who are perishing, but to us who are being saved it is the power of God'.
-* **John 2.13-22** has Jesus saying (of his body), 'Destroy this temple, and in three days I will raise it up.'
+* **John 2.13-22** continues the series looking towards the cross, has Jesus saying (of his body), 'Destroy this temple, and in three days I will raise it up.'
 
 ## Lent 4
 
@@ -536,6 +536,10 @@ May be 'displaced' by Mothering Sunday.
 Year A
 
 * **John 9.1-41** continues the baptism-related series in John, and is about the blind man receiving sight by washing in water, after Jesus has said, 'I am the light of the world'. The Pharisees are 'blind' in that they cannot see who Jesus is. **1 Samuel 16.1-13** is about recognising the Lord's anointed (David). **Psalm 23** has a possible connection with the Old Testament reading ('you have anointed my head with oil'), but seems more likely to reflect the experience of the man born blind, who was led (to water) by Jesus. Note that John 9 leads directly into John 10, apparently inviting the conclusion that the man born blind is one of Jesus' sheep. **Ephesians 5.8-14** is about light and darkness.
+
+Year B
+
+* **John 3.14-21** continues the series looking towards the cross, and says, 'just as Moses lifted up the serpent in the wilderness, so must the Son of Man be lifted up, that whoever believes in him may have eternal life'. **Numbers 21.4-9** is about Moses making a bronze serpent and putting it on a pole. **Psalm 107.1-3, 17-22** [or 107.1-9] is about God delivering and healing those are rebellious and go astray. **Ephesians 2.1-10** is about being 'dead through the trespasses and sins' and being saved by grace through faith.
 
 ## Mothering Sunday
 
