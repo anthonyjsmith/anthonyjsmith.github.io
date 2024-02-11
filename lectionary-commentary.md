@@ -13,7 +13,7 @@ Any feedback? Please [contact](/contact/) me!
 **_Work in progress!_**
 
 * Year A: complete
-* Year B: complete from Advent 1 to Lent 1
+* Year B: complete from Advent 1 to Lent 2
 * Year C: complete from Palm Sunday onwards
 * Festivals: complete for January to March, and from September to December
 * Appendix: Gospels: complete for Matthew 1-14, Luke and John
@@ -511,6 +511,11 @@ Year A
 
 * **Genesis 12.1-4a** is about God's call and promise to Abram, and the beginning of Abram's journey. **Psalm 121** gives assurance of God's protection on the journey. **Romans 4.1-5, 13-17** is about Abraham's faith in God's promise.
 * **John 3.1-17** begins a series of baptism-related encounters with Jesus in John's Gospel, and is about Nicodemus's encounter with Jesus, with its discussion of being born 'of water and Spirit'.
+
+Year B
+
+* **Genesis 17.1-7, 15, 16** is about God's covenant with Abraham and Sarah: 'I will make nations of you'. **Psalm 22.23-31** calls for praise from nations and future generations. **Romans 4.13-25** is about God's promise and Abraham's faith, and quotes Genesis 17: 'for he is the father of all of us, as it is written, "I have made you the father of many nations"'.
+* **Mark 8.31-38** has Jesus foretelling his death and resurrection, and calling his followers to 'take up their cross'.
 
 ## Lent 3
 
