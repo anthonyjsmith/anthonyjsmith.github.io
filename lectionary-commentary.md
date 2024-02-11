@@ -13,7 +13,7 @@ Any feedback? Please [contact](/contact/) me!
 **_Work in progress!_**
 
 * Year A: complete
-* Year B: complete from Advent 1 to Easter Vigil
+* Year B: complete from Advent 1 to Easter Day
 * Year C: complete from Palm Sunday onwards
 * Festivals: complete for January to March, and from September to December
 * Appendix: Gospels: complete for Matthew 1-14, Luke and John
@@ -717,6 +717,8 @@ Year A
 
 Year B
 
+* As an alternative first reading, **Isaiah 25.6-9** says that God 'will swallow up death for ever'.
+* **1 Corinthians 15.1-11** says that Christ 'was raised' and 'appeared'.
 * For the alternative Gospel reading, **Mark 16.1-8**, see Easter Vigil.
 
 Year C
