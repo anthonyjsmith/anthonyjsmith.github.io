@@ -13,7 +13,7 @@ Any feedback? Please [contact](/contact/) me!
 **_Work in progress!_**
 
 * Year A: complete
-* Year B: complete from Advent 1 to Lent 4
+* Year B: complete from Advent 1 to Easter Vigil
 * Year C: complete from Palm Sunday onwards
 * Festivals: complete for January to March, and from September to December
 * Appendix: Gospels: complete for Matthew 1-14, Luke and John
@@ -562,6 +562,11 @@ Year A
 
 * **John 11.1-45** concludes the baptism-related series in John, and is about the dying and rising of Lazarus, which is related to baptism, and also looks ahead to Jesus' death and resurrection. **Ezekiel 37.1-14** is about God's breath (spirit) bringing dry bones to life. **Psalm 130** is about waiting for redemption: 'Out of the depths have I cried to you, O Lord'. **Romans 8.6-11** is about God giving life to mortal bodies through his Spirit.
 
+Year B
+
+* **Jeremiah 31.31-34** is the promise of a new covenant: 'I will put my law within them, and I will write it on their hearts'. **Psalm 51.1-13** (EV: 1-12) says, 'you ... shall make me understand wisdom in the depths of my heart'. Alternatively, **Psalm 119.9-16** says, 'Your words have I hidden within my heart, that I should not sin against you.'
+* **John 12.20-33** concludes the series looking towards the cross, and says that Jesus will be glorified through his death. **Hebrews 5.5-10** says that Jesus 'did not glorify himself', but suffered and then was 'designated by God a high priest according to the order of Melchizedek'.
+
 ## Palm Sunday
 
 The lectionary assumes a 'Liturgy of the Palms' and a 'Liturgy of the Passion', each with its own reading from the Gospels and the Psalms (as in [_Times and Seasons_](https://www.churchofengland.org/prayer-and-worship/worship-texts-and-resources/common-worship/churchs-year/times-and-seasons-2#mmm151)). But this is not mandatory, and it is not clear what should be done if there is no 'Liturgy of the Palms'. Presumably that part could simply be omitted. But the [RCL](http://www.commontexts.org/rcl/download/) describes an alternative: 'Those who do not observe the procession with palms and do not wish to use the passion gospel may substitute the gospel and psalm given for the Liturgy of the Passion with the gospel and psalm indicated for the Liturgy of the Palms. Whenever possible, the whole passion narrative should be read.'
@@ -577,7 +582,7 @@ Year B
 
 * **Mark 11.1-11** is Mark's account of Jesus' entry into Jerusalem (branches are mentioned, but no palms specifically).
 * Alternatively, **John 12.12-16**  is John's account of Jesus' entry into Jerusalem (and the only account to mention palm branches).
-* **Psalm 118.1-2, 19-24** [or 118.19-24] omits the verse about 'Blessed is he...' (see Year A), presumably for brevity, and therefore focuses on entering (the city) with joy.
+* **Psalm 118.1-2, 19-24** [or 118.19-24] omits the verse about 'Blessed is he...' (see Year A), presumably for brevity (or possibly by mistake: see RCL), and therefore focuses on entering (the city) with joy.
 
 Year C
 
