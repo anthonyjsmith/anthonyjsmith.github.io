@@ -1,6 +1,6 @@
 ---
 title: Astronomy
-excerpt: After studying mathematics at Cambridge, I took an MSc in Cosmology and PhD in astronomy at Sussex, followed by work in astronomical software.
+description: After studying mathematics at Cambridge, I took an MSc in Cosmology and PhD in astronomy at Sussex, followed by work in astronomical software.
 ---
 From 2008 to 2013, my astronomy work was mainly software development: see the [software page](/software/).
 

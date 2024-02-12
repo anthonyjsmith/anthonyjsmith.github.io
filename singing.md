@@ -1,6 +1,6 @@
 ---
 title: Singing
-excerpt: Bass-baritone singing activities, including audio samples, biography, and details of recent concerts.
+description: Bass-baritone singing activities, including audio samples, biography, and details of recent concerts.
 ---
 ### On this page
 
