@@ -1,6 +1,6 @@
 ---
 title: Subscribe
-# excerpt: Subscribe to get the latest updates by email or via the RSS feed.
+excerpt: Subscribe to get the latest updates by email or via the RSS feed.
 ---
 Probably the simplest way to get updates is to <a href="https://app.feedblitz.com/f/f.fbz?track={{ site.url | append: '/feed/' | cgi_escape }}" target="_blank">subscribe by email (using feedblitz)</a>.
 

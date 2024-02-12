@@ -11,6 +11,7 @@ disqus_shortname: anthonysmithmeuk
 twitter:
   username: anthonyjsmith
 author: anthonyjsmith
+excerpt_separator: "\n\n" # https://github.com/jekyll/jekyll/issues/9544 lib/jekyll/configuration.rb
 
 defaults:
   -
