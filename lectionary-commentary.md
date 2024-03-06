@@ -539,7 +539,7 @@ Year A
 
 Year B
 
-* **John 3.14-21** continues the series looking towards the cross, and says, 'just as Moses lifted up the serpent in the wilderness, so must the Son of Man be lifted up, that whoever believes in him may have eternal life'. **Numbers 21.4-9** is about Moses making a bronze serpent and putting it on a pole. **Psalm 107.1-3, 17-22** [or 107.1-9] is about God delivering and healing those are rebellious and go astray. **Ephesians 2.1-10** is about being 'dead through the trespasses and sins' and being saved by grace through faith.
+* **John 3.14-21** continues the series looking towards the cross, and says, 'just as Moses lifted up the serpent in the wilderness, so must the Son of Man be lifted up, that whoever believes in him may have eternal life'. The following verses discuss the different kinds of deeds done by those who do or do not believe: 'done in God' or 'evil'. **Numbers 21.4-9** is about Moses making a bronze serpent and putting it on a pole. **Psalm 107.1-3, 17-22** [or 107.1-9] is about God delivering and healing those are rebellious and go astray. **Ephesians 2.1-10** is about being 'dead through the trespasses and sins' and being saved by grace through faith (believing) &ndash; 'not the result of works', but 'for good works'.
 
 ## Mothering Sunday
 
