@@ -565,7 +565,7 @@ Year A
 Year B
 
 * **Jeremiah 31.31-34** is the promise of a new covenant: 'I will put my law within them, and I will write it on their hearts'. **Psalm 51.1-13** (EV: 1-12) says, 'you ... shall make me understand wisdom in the depths of my heart'. Alternatively, **Psalm 119.9-16** says, 'Your words have I hidden within my heart, that I should not sin against you.'
-* **John 12.20-33** concludes the series looking towards the cross, and says that Jesus will be glorified through his death. **Hebrews 5.5-10** says that Jesus 'did not glorify himself', but suffered and then was 'designated by God a high priest according to the order of Melchizedek'.
+* **John 12.20-33** concludes the series looking towards the cross, and says that Jesus will be glorified through his death, in which he will be 'lifted up' (see John 3.14 from last week). **Hebrews 5.5-10** says that Jesus 'did not glorify himself', but suffered and then was 'designated by God a high priest according to the order of Melchizedek'.
 
 ## Palm Sunday
 
