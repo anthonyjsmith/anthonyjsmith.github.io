@@ -581,7 +581,7 @@ Year A
 Year B
 
 * **Mark 11.1-11** is Mark's account of Jesus' entry into Jerusalem (branches are mentioned, but no palms specifically).
-* Alternatively, **John 12.12-16**  is John's account of Jesus' entry into Jerusalem (and the only account to mention palm branches).
+* Alternatively, **John 12.12-16** is John's account of Jesus' entry into Jerusalem (and the only account to mention palm branches).
 * **Psalm 118.1-2, 19-24** [or 118.19-24] omits the verse about 'Blessed is he...' (see Year A), presumably for brevity (or possibly by mistake: see RCL), and therefore focuses on entering (the city) with joy.
 
 Year C
@@ -1094,7 +1094,7 @@ Year A
 
 Year C
 
-* **Isaiah 1.1, 10-20** continues the series on the prophets, and is the first of two weeks in Isaiah (moving on chronologically from Hosea). Both readings are quite hard-hitting, which provides a smooth transition into Jeremiah. (Isaiah's call featured in Proper 1.) God has no pleasure in his people's offerings when their hands are 'full of blood'. **Psalm 50.1-8, 23, 24** (EV: 1-8, 22, 23) [or 50.1-7]  speaks of God testifying against his people, despite their sacrifices.
+* **Isaiah 1.1, 10-20** continues the series on the prophets, and is the first of two weeks in Isaiah (moving on chronologically from Hosea). Both readings are quite hard-hitting, which provides a smooth transition into Jeremiah. (Isaiah's call featured in Proper 1.) God has no pleasure in his people's offerings when their hands are 'full of blood'. **Psalm 50.1-8, 23, 24** (EV: 1-8, 22, 23) [or 50.1-7] speaks of God testifying against his people, despite their sacrifices.
 * **Hebrews 11.1-3, 8-16** begins a series in Hebrews 11-13, and is about the faith of Abraham.
 * **Luke 12.32-40** continues the series in Luke, and is about treasure in heaven and the coming of the Son of Man. The choice of verses seems odd, but it captures the seamless transition between 'don't worry' (22-34) and 'be ready' (35-48). (The reading could be extended to verse 48, 'when opportunity allows'.) The 'Related' reading, **Genesis 15.1-6**, is about Abram looking to his reward and trusting God's promise. The 'Related' psalm, **Psalm 33.12-22** [or 33.12-21] is about waiting for God, who is our 'shield' (Genesis 15.1).
 
