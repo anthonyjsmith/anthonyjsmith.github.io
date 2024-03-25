@@ -632,7 +632,7 @@ Years A, B and C
 
 Years A, B and C
 
-* **Isaiah 50.4-9a**  is the third of the four 'servant songs', and says, 'The Lord God helps me'. **Psalm 70** says, 'O Lord, make haste to help me', and 'You are my help and my deliverer'.
+* **Isaiah 50.4-9a** is the third of the four 'servant songs', and says, 'The Lord God helps me'. **Psalm 70** says, 'O Lord, make haste to help me', and 'You are my help and my deliverer'.
 * **Hebrews 12.1-3** speaks of Jesus, 'who for the sake of the joy that was set before him endured the cross, disregarding its shame'.
 * **John 13.21-32** has Jesus saying, 'one of you will betray me', and Judas going out.
 
