@@ -13,7 +13,7 @@ Any feedback? Please [contact](/contact/) me!
 **_Work in progress!_**
 
 * Year A: complete
-* Year B: complete from Advent 1 to Easter 6
+* Year B: complete from Advent 1 to Easter 7
 * Year C: complete from Palm Sunday onwards
 * Festivals: complete for January to March, and from September to December
 * Appendix: Gospels: complete for Matthew 1-14, Luke and John
@@ -743,7 +743,7 @@ Year A
 Year B
 
 * **Acts 4.32-35** continues the series in Acts, and is about the believers sharing their possessions, as 'the apostles gave their testimony to the resurrection of the Lord Jesus'. **Psalm 133** says, 'How very good and pleasant it is when kindred live together in unity!'
-* **1 John 1.1 &ndash; 2.2** begins a semicontinuous series in 1 John (which covers all of the 'Easter N' Sundays), and is about 'fellowship ... with the Father and with his Son Jesus Christ', and also 'fellowship with one another' (as in the reading from Acts).
+* **1 John 1.1 &ndash; 2.2** begins a semicontinuous series in 1 John (which covers all of the 'Easter N' Sundays), and is about 'fellowship ... with the Father and with his Son Jesus Christ', and also 'fellowship with one another' (as in the reading from Acts). The testimony is about 'what we have seen with our eyes, what we have looked at and touched with our hands' (as with Thomas in the reading from John).
 
 Year C
 
@@ -769,7 +769,7 @@ Year A
 Year B
 
 * **Acts 3.12-19** continues the series in Acts, and explains (as in the following week) that the lame man was enabled to walk through faith in the name of Jesus, 'whom God raised from the dead', and calls for repentance. **Psalm 4** says, 'when I call upon the Lord, he will hear me'.
-* **1 John 3.1-7** continues the series in 1 John, and speaks of being 'children of God' and being people who 'purify themselves'.
+* **1 John 3.1-7** continues the series in 1 John, and speaks of being 'children of God' and being people who 'purify themselves' (repentance).
 * **Luke 24.36b-48** has the risen Jesus opening the minds of his disciples 'to understand the scriptures', and saying, 'Thus it is written, that the Messiah is to suffer and to rise from the dead on the third day, and that repentance and forgiveness of sins is to be proclaimed in his name' (with 'name' and repentance providing connections with the reading from Acts).
 
 Year C
@@ -879,20 +879,22 @@ The alternative first reading is the same for Years A, B and C.
 
 Year A
 
-* **Acts 1.6-14** recounts Jesus' ascension, and speaks of Jesus' followers 'constantly devoting themselves to prayer'.
+* **Acts 1.6-14** continues the series in Acts, recounting Jesus' ascension, and speaking of Jesus' followers 'constantly devoting themselves to prayer'.
 * **Psalm 68.1-10, 32-35** [or 68.1-10] has connections with Jesus' ascension: 'Let God arise', and 'exalt him who rides on the clouds'.
 * **1 Peter 4.12-14; 5.6-11** concludes the series in 1 Peter, and is about present suffering and future glory, which might resonate with the expectant longing of the period between Ascension Day and Pentecost.
 * **John 17.1-11** continues the series in John, and concludes the series in the 'farewell discourse', with the first section of Jesus' prayer (see Years B and C). Jesus' prayer for his own glorification is answered in his ascension.
 
 Year B
 
-* **John 17.6-19** continues the series in John's 'farewell discourse', with the central section of Jesus' prayer (see Years A and C).
+* **Acts 1.15-17, 21-26** continues the series in Acts, and is about Matthias being chosen to take the place of Judas, and to be a witness to the resurrection of Jesus. **Psalm 1** contrasts the righteous and the wicked.
+* **1 John 5.9-13** concludes the series in 1 John, and is about 'believing in the testimony that God has given concerning his Son'.
+* **John 17.6-19** continues the series in John's 'farewell discourse', with the central section of Jesus' prayer (see Years A and C). Jesus prays for his disciples, for their sanctification as they are sent into the world, including a mention of 'the one destined to be lost' (see the reading from Acts).
 
 Year C
 
 * **Acts 16.16-34** continues the series on Acts (immediately from last Sunday), recounting the resurrection-like deliverance of Paul and Silas from prison. **Psalm 97** echoes the reading from Acts with the earth shaking and people rejoicing.
 * **Revelation 22.12-14, 16, 17, 20, 21** concludes the series on Revelation (in a somewhat redacted fashion). There is a mention of the Spirit, and a longing for Jesus' return, echoing Ascension themes.
-* **John 17.20-26** continues the series in John's 'farewell discourse' with the concluding section of Jesus' prayer (see Years A and B).
+* **John 17.20-26** continues the series in John's 'farewell discourse' with the concluding section of Jesus' prayer (see Years A and B). Jesus prays for all believers.
 
 ## Pentecost
 
