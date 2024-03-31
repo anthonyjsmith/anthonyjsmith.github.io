@@ -847,7 +847,7 @@ Year B
 * **Acts 10.44-48** continues the series in Acts (continuing the reading from Easter Day without a gap), and recounts 'the gift of the Holy Spirit' being 'poured out even on the Gentiles'. **Psalm 98** says, 'all the ends of the earth have seen the salvation of our God'.
 * (For the alternative first reading, **Isaiah 55.1-11**, see Easter Vigil.)
 * **1 John 5.1-6** continues the series in 1 John (without a gap), and is about loving God and obeying his commandments (as in the reading from John).
-* **John 15.9-17** continues the series in John's 'farewell discourse' (without a gap), and is about keeping Jesus' commandments (as in the reading from 1 John), especially his commandment to 'love one another'.
+* **John 15.9-17** continues the series in John's 'farewell discourse' (without a gap), and is about keeping Jesus' commandments (as in the reading from 1 John), especially his commandment to 'love one another'. The theme of fruit returns, 'so that the Father will give you whatever you ask him in my name' (Rogation).
 
 Year C
 
