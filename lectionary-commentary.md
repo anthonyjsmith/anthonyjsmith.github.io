@@ -13,7 +13,7 @@ Any feedback? Please [contact](/contact/) me!
 **_Work in progress!_**
 
 * Year A: complete
-* Year B: complete from Advent 1 to Easter 7
+* Year B: complete from Advent 1 to Pentecost
 * Year C: complete from Palm Sunday onwards
 * Festivals: complete for January to March, and from September to December
 * Appendix: Gospels: complete for Matthew 1-14, Luke and John
@@ -915,7 +915,8 @@ Year A
 Year B
 
 * (For the alternative first reading, **Ezekiel 37.1-14**, see Easter Vigil.)
-* **John 15.26-27; 16.4b-15** continues the series in John, and concludes the series in the 'farewell discourse', ... .
+* **Romans 8.22-27** speaks of 'the first fruits of the Spirit', and says 'the Spirit helps us in our weakness' and 'intercedes for the saints'.
+* **John 15.26-27; 16.4b-15** continues the series in John, and concludes the series in the 'farewell discourse'. Jesus will send the 'Advocate', the 'Spirit of truth', who will 'testify'.
 
 Year C
 
