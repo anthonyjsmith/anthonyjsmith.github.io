@@ -13,7 +13,7 @@ Any feedback? Please [contact](/contact/) me!
 **_Work in progress!_**
 
 * Year A: complete
-* Year B: complete from Advent 1 to Easter 3
+* Year B: complete from Advent 1 to Easter 4
 * Year C: complete from Palm Sunday onwards
 * Festivals: complete for January to March, and from September to December
 * Appendix: Gospels: complete for Matthew 1-14, Luke and John
@@ -768,7 +768,7 @@ Year A
 
 Year B
 
-* **Acts 3.12-19** continues the series in Acts, and explains that the lame man was enabled to walk through faith in the name of Jesus, 'whom God raised from the dead', and calls for repentance. **Psalm 4** says, 'when I call upon the Lord, he will hear me'.
+* **Acts 3.12-19** continues the series in Acts, and explains (as in the following week) that the lame man was enabled to walk through faith in the name of Jesus, 'whom God raised from the dead', and calls for repentance. **Psalm 4** says, 'when I call upon the Lord, he will hear me'.
 * **1 John 3.1-7** continues the series in 1 John, and speaks of being 'children of God' and being people who 'purify themselves'.
 * **Luke 24.36b-48** has the risen Jesus opening the minds of his disciples 'to understand the scriptures', and saying, 'Thus it is written, that the Messiah is to suffer and to rise from the dead on the third day, and that repentance and forgiveness of sins is to be proclaimed in his name' (with 'name' and repentance providing connections with the reading from Acts).
 
@@ -794,8 +794,10 @@ Year A
 
 Year B
 
+* **Acts 4.5-12** continues the series in Acts, and explains (as in the previous week) that the man was healed 'by the name of Jesus Christ of Nazareth, ... whom God raised from the dead'. The focus is more on the 'rulers, elders, and scribes', who might be likened to the 'hired hand' in the reading from John.
 * (For the alternative first reading, **Genesis 7.1-5, 11-18; 8.6-18; 9.8-13**, see Easter Vigil.)
-* **John 10.11-18** continues the series in John, and says that Jesus is the good shepherd who lays down his life and takes it back up again.
+* **1 John 3.16-24** continues the series in 1 John, and says that Jesus 'laid down his life for us' (as in the reading from John) and that 'we ought to lay down our lives for one another'.
+* **John 10.11-18** continues the series in John, and says that Jesus is the good shepherd who lays down his life (as in the reading from 1 John), and who takes it back up again.
 
 Year C
 
