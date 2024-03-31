@@ -13,7 +13,7 @@ Any feedback? Please [contact](/contact/) me!
 **_Work in progress!_**
 
 * Year A: complete
-* Year B: complete from Advent 1 to Easter 5
+* Year B: complete from Advent 1 to Easter 6
 * Year C: complete from Palm Sunday onwards
 * Festivals: complete for January to March, and from September to December
 * Appendix: Gospels: complete for Matthew 1-14, Luke and John
@@ -844,7 +844,10 @@ Year A
 
 Year B
 
+* **Acts 10.44-48** continues the series in Acts (continuing the reading from Easter Day without a gap), and recounts 'the gift of the Holy Spirit' being 'poured out even on the Gentiles'. **Psalm 98** says, 'all the ends of the earth have seen the salvation of our God'.
 * (For the alternative first reading, **Isaiah 55.1-11**, see Easter Vigil.)
+* **1 John 5.1-6** continues the series in 1 John (without a gap), and is about loving God and obeying his commandments (as in the reading from John).
+* **John 15.9-17** continues the series in John's 'farewell discourse' (without a gap), and is about keeping Jesus' commandments (as in the reading from 1 John), especially his commandment to 'love one another'.
 
 Year C
 
