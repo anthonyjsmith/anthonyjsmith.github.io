@@ -13,7 +13,7 @@ Any feedback? Please [contact](/contact/) me!
 **_Work in progress!_**
 
 * Year A: complete
-* Year B: complete from Advent 1 to Easter 4
+* Year B: complete from Advent 1 to Easter 5
 * Year C: complete from Palm Sunday onwards
 * Festivals: complete for January to March, and from September to December
 * Appendix: Gospels: complete for Matthew 1-14, Luke and John
@@ -818,7 +818,10 @@ Year A
 
 Year B
 
+* **Acts 8.26-40** is about Philip and the Ethiopian Eunuch: a worshipper of God who was baptised and went away rejoicing. **Psalm 22.25-31** speaks of the nations turning to the Lord.
 * (For the alternative first reading, **Baruch 3.9-15, 32 &ndash; 4.4**, or **Genesis 22.1-18**, see Easter Vigil.)
+* **1 John 4.7-21** continues the series in 1 John, and says, 'God is love, and those who abide in love abide in God, and God abides in them', providing connections with the reading from John.
+* **John 15.1-8** continues the series in John, and begins a series on the 'farewell discourse' with a two-part series on John 15. Jesus is the true vine, and he calls the 'branches' to 'abide in me' (as in the reading from 1 John) and hence to 'bear much fruit'.
 
 Year C
 
