@@ -743,7 +743,7 @@ Year A
 Year B
 
 * **Acts 4.32-35** continues the series in Acts, and is about the believers sharing their possessions, as 'the apostles gave their testimony to the resurrection of the Lord Jesus'. **Psalm 133** says, 'How very good and pleasant it is when kindred live together in unity!'
-* **1 John 1.1 &ndash; 2.2** begins a semicontinuous series in 1 John (which covers all of the 'Easter N' Sundays), and is about 'fellowship ... with the Father and with his Son Jesus Christ', and also 'fellowship with one another' (as in the reading from Acts). The testimony is about 'what we have seen with our eyes, what we have looked at and touched with our hands' (as with Thomas in the reading from John).
+* **1 John 1.1 &ndash; 2.2** begins a semicontinuous series in 1 John (which covers all of the 'Easter N' Sundays). Some parts of 1 John are quite negative and challenging, and the series appears to favour the more positive and accessible portions of the letter. (It is difficult to discern anything more subtle guiding the selection of passages.) This first passage is about 'fellowship ... with the Father and with his Son Jesus Christ', and also 'fellowship with one another' (as in the reading from Acts). The testimony is about 'what we have seen with our eyes, what we have looked at and touched with our hands' (as with Thomas in the reading from John).
 
 Year C
 
