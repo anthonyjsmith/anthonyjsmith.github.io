@@ -15,7 +15,7 @@ Any feedback? Please [contact](/contact/) me!
 * Year A: complete
 * Year B: complete from Advent 1 to Pentecost
 * Year C: complete from Palm Sunday onwards
-* Festivals: complete for January to March, and from September to December
+* Festivals: complete from 1 January to 23 April, and from September to December
 * Appendix: Gospels: complete for Matthew 1-14, Luke and John
 
 # Contents
@@ -1432,7 +1432,7 @@ According to rule 6 at the top of the [lectionary](https://www.churchofengland.o
 
 ## The Annunciation of Our Lord to the Blessed Virgin Mary (25 March)
 
-This is a Principal Feast, but it comes across as somewhat unwanted, as it is never celebrated on a Sunday. 25 March always fall during Lent, or very occasionally on or just after Easter Day. According to the [Rules],
+This is a Principal Feast, but it comes across as somewhat unwanted, as it is never celebrated on a Sunday (unless it is the Patronal Festival celebrated as a Principal Feast). 25 March always fall during Lent, or very occasionally on or just after Easter Day. According to the [Rules],
 
 > the Annunciation, falling on a Sunday, is transferred to the Monday following or, falling between Palm Sunday and the Second Sunday of Easter inclusive, is transferred to the Monday after the Second Sunday of Easter.
 
@@ -1443,13 +1443,21 @@ This is a Principal Feast, but it comes across as somewhat unwanted, as it is ne
 
 ## George, Martyr, Patron of England (23 April)
 
-23 April always falls during or just before Easter season (Easter always falls between 22 March and 25 April), so this Festival is never celebrated on a Sunday (unless it is the Patronal Festival celebrated as a Principal Feast). According to the [Rules],
+23 April always falls during the Easter season or on Good Friday or Easter Eve (Easter always falls between 22 March and 25 April), so this Festival is never celebrated on a Sunday (unless it is the Patronal Festival celebrated as a Principal Feast), and it is always celebrated during the Easter season. According to the [Rules],
 
 > When St George’s Day or St Mark’s Day falls between Palm Sunday and the Second Sunday of Easter inclusive, it is transferred to the Monday after the Second Sunday of Easter. If both fall in this period, St George’s Day is transferred to the Monday and St Mark’s Day to the Tuesday.
 
+The readings reflect themes of martyrdom (looking for hope beyond death) and of dragons and other dangerous animals.
+
+* **1 Maccabees 2.59-64** (from the Apocrypha) says, 'Daniel, because of his innocence, was delivered from the mouth of the lions.'
+* Alternatively, **Revelation 12.7-12** says, 'The great dragon was thrown down, that ancient serpent, who is called the Devil and Satan', and speaks of those who 'did not cling to life even in the face of death'.
+* **Psalm 126** says, 'Those who sow in tears shall reap with songs of joy.'
+* **2 Timothy 2.3-13** says, 'Share in suffering like a good soldier of Christ Jesus.'
+* **John 15.18-21** is from a portion of John's Gospel that features during the Easter season, and has Jesus saying, 'If the world hates you, be aware that it hated me before it hated you.'
+
 ## Mark the Evangelist (25 April)
 
-25 April always falls during Easter season, so this Festival is never celebrated on a Sunday (unless it is the Patronal Festival celebrated as a Principal Feast). See above on George (23 April).
+25 April always falls during the Easter season, so this Festival is never celebrated on a Sunday (unless it is the Patronal Festival celebrated as a Principal Feast). See above on George (23 April).
 
 * **Proverbs 15.28-33** or **Acts 15.35-41**
 * **Psalm 119.9-16**
@@ -1458,7 +1466,7 @@ This is a Principal Feast, but it comes across as somewhat unwanted, as it is ne
 
 ## Philip and James, Apostles (1 May)
 
-1 May always falls during Easter season, so this Festival is never celebrated on a Sunday (unless it is the Patronal Festival celebrated as a Principal Feast).
+1 May always falls during the Easter season, so this Festival is never celebrated on a Sunday (unless it is the Patronal Festival celebrated as a Principal Feast).
 
 * **Isaiah 30.15-21**
 * **Psalm 119.1-8**
