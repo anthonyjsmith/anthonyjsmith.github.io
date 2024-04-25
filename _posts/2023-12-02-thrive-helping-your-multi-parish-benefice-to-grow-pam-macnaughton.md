@@ -29,4 +29,4 @@ I don't think I had realised that the book was basically a companion to the cour
 
 My hunch is that the course wouldn’t be the right thing to run in the first year or two of a new vicar’s ministry in a multi-parish context. So I’ll be leaving it on the back burner for now. But I might well return to it in the future.
 
-(Next up: [_Multi-Congregation Ministry: Theology and Practice in a Changing Church_, by Malcolm Grundy](https://canterburypress.hymnsam.co.uk/books/9781848257917/multi-congregation-ministry).)
+(Next up: [_Multi-Congregation Ministry: Theology and Practice in a Changing Church_, by Malcolm Grundy]({% post_url 2024-02-01-multi-congregation-ministry-theology-and-practice-in-a-changing-church-malcolm-grundy %}).)
