@@ -4,7 +4,7 @@ description: 'Work in progress! This is a commentary on the lectionary, not a co
 ---
 This is a commentary on the _lectionary_, not a commentary on the _passages_. The aim is to answer the question: _Why was this passage chosen?_
 
-Simply search below for the relevant day, e.g., 'Advent 1', 'Proper 21', 'Bartholomew'.
+Simply navigate or search for the relevant day, e.g., 'Advent 1', 'Proper 21', 'Bartholomew'.
 
 Most of the comments below are 'reverse engineered' using the lectionary and a fair bit of guesswork, so they should not be taken as authoritative.
 
@@ -21,16 +21,125 @@ Any feedback? Please [contact](/contact/) me!
 # Contents
 
 * [Introduction](#introduction)
+  * [The Bible and the lectionary](#bible)
+  * [Choosing between the readings](#choosing)
+  * [Notes](#introductionnotes)
 * [Advent](#advent)
+  * [Advent 1](#advent1)
+  * [Advent 2](#advent2)
+  * [Advent 3](#advent3)
+  * [Advent 4](#advent4)
 * [Christmas](#christmas)
+  * [Christmas Day](#christmasday)
+  * [Christmas 1](#christmas1)
+  * [Christmas 2](#christmas2)
 * [Epiphany](#epiphany)
-* [Ordinary Time](#ordinary-time-1)
+  * [The Epiphany](#theepiphany)
+  * [Epiphany 1](#epiphany1)
+  * [Epiphany 2](#epiphany2)
+  * [Epiphany 3](#epiphany3)
+  * [Epiphany 4](#epiphany4)
+  * [Candlemas](#candlemas)
+* [Ordinary Time](#ordinarytime1)
+  * [Proper 1](#proper1)
+  * [Proper 2](#proper2)
+  * [Proper 3](#proper3)
+  * [2 before Lent](#beforelent2)
+  * [1 before Lent](#beforelent1)
 * [Lent](#lent)
+  * [Ash Wednesday](#ashwednesday)
+  * [Lent 1](#lent1)
+  * [Lent 2](#lent2)
+  * [Lent 3](#lent3)
+  * [Lent 4](#lent4)
+  * [Mothering Sunday](#motheringsunday)
+  * [Lent 5](#lent5)
+  * [Palm Sunday](#palmsunday)
+  * [Monday of Holy Week](#mondayholyweek)
+  * [Tuesday of Holy Week](#tuesdayholyweek)
+  * [Wednesday of Holy Week](#wednesdayholyweek)
+  * [Maundy Thursday](#maundythursday)
+  * [Good Friday](#goodfriday)
+  * [Easter Eve](#eastereve)
 * [Easter](#easter)
-* [Ordinary Time](#ordinary-time-2)
+  * [Easter Vigil](#eastervigil)
+  * [Easter Day](#easterday)
+  * [Easter 2](#easter2)
+  * [Easter 3](#easter3)
+  * [Easter 4](#easter4)
+  * [Easter 5](#easter5)
+  * [Easter 6](#easter6)
+  * [Ascension Day](#ascensionday)
+  * [Easter 7](#easter7)
+  * [Pentecost](#pentecost)
+* [Ordinary Time](#ordinarytime2)
+  * [Trinity Sunday](#trinity)
+  * [Corpus Christi](#corpuschristi)
+  * [Proper 3](#proper3b)
+  * [Proper 4](#proper4)
+  * [Proper 5](#proper5)
+  * [Proper 6](#proper6)
+  * [Proper 7](#proper7)
+  * [Proper 8](#proper8)
+  * [Proper 9](#proper9)
+  * [Proper 10](#proper10)
+  * [Proper 11](#proper11)
+  * [Proper 12](#proper12)
+  * [Proper 13](#proper13)
+  * [Proper 14](#proper14)
+  * [Proper 15](#proper15)
+  * [Proper 16](#proper16)
+  * [Proper 17](#proper17)
+  * [Proper 18](#proper18)
+  * [Proper 19](#proper19)
+  * [Proper 20](#proper20)
+  * [Proper 21](#proper21)
+  * [Proper 22](#proper22)
+  * [Proper 23](#proper23)
+  * [Proper 24](#proper24)
+  * [Proper 25](#proper25)
+  * [Bible Sunday](#biblesunday)
+  * [All Saints' Day](#allsaints)
+  * [4 before Advent](#beforeadvent4)
+  * [3 before Advent](#beforeadvent3)
+  * [2 before Advent](#beforeadvent2)
+  * [Christ the King: 1 before Advent](#beforeadvent1)
 * [Festivals](#festivals)
-* [Further reading](#further-reading)
-* [Appendix: Gospels](#appendix-gospels)
+  * [The Naming and Circumcision of Jesus (1 January)](#naming)
+  * [The Conversion of Paul (25 January)](#paul)
+  * [Joseph of Nazareth (19 March)](#joseph)
+  * [The Annunciation of Our Lord to the Blessed Virgin Mary (25 March)](#annunciation)
+  * [George, Martyr, Patron of England (23 April)](#george)
+  * [Mark the Evangelist (25 April)](#mark)
+  * [Philip and James, Apostles (1 May)](#pj)
+  * [Matthias the Apostle (14 May)](#matthias)
+  * [The Visit of the Blessed Virgin Mary to Elizabeth (31 May)](#visit)
+  * [Barnabas the Apostle (11 June)](#barnabas)
+  * [The Birth of John the Baptist (24 June)](#jtb)
+  * [Peter and Paul, Apostles (29 June)](#pp)
+  * [Thomas the Apostle (3 July)](#thomas)
+  * [Mary Magdalene (22 July)](#marymagdalene)
+  * [James the Apostle (25 July)](#james)
+  * [The Transfiguration of Our Lord (6 August)](#transfiguration)
+  * [The Blessed Virgin Mary (15 August)](#bvm)
+  * [Bartholomew the Apostle (24 August)](#bartholomew)
+  * [Holy Cross Day (14 September)](#holycross)
+  * [Matthew, Apostle and Evangelist (21 September)](#matthew)
+  * [Michael and All Angels (29 September)](#michael)
+  * [Luke the Evangelist (18 October)](#luke)
+  * [Simon and Jude, Apostles (28 October)](#sj)
+  * [Andrew the Apostle (30 November)](#andrew)
+  * [Stephen, Deacon, First Martyr (26 December)](#stephen)
+  * [John, Apostle and Evangelist (27 December)](#john)
+  * [The Holy Innocents (28 December)](#innocents)
+  * [Dedication Festival](#dedication)
+  * [Harvest Thanksgiving](#harvest)
+* [Appendix: Gospels](#appendixgospels)
+  * [Matthew (Year A)](#matthewgospel)
+  * [Mark (Year B)](#markgospel)
+  * [Luke (Year C)](#lukegospel)
+  * [John (Years A, B and C)](#johngospel)
+* [Further reading](#furtherreading)
 * [Notes](#notes)
 
 # Introduction {#introduction}
@@ -39,7 +148,7 @@ Any feedback? Please [contact](/contact/) me!
 
 Note that there is often no 'theme' tying the readings together. (Many people persist in looking for one, even decades after the ASB.) Where readings are closely related, they are grouped together below. In many cases, however, a particular reading will not be related to other readings on the same day, but it will turn out to be part of a series on a particular book of the Bible running over several weeks. This principle of continuous (or semicontinuous) reading of Scripture is one of the key principles behind the lectionary.
 
-## The Bible and the lectionary
+## The Bible and the lectionary {#bible}
 
 I have put the Principal Service Lectionary into a [spreadsheet](/assets/lectionary.xlsx), including a 'reverse lectionary' as the second sheet (listing the passages in biblical order).
 
@@ -47,7 +156,7 @@ For the Gospels, Year A focuses on Matthew, Year B on Mark, and Year C on Luke.
 
 John is read in all three years, mostly during the seasons (especially Easter), but with some appearances in Ordinary Time in Year B (such as a summer series on John 6).
 
-The Gospel readings on Sundays during Ordinary Time work semicontinuously through the central portions of Matthew, Mark and Luke. More precisely, this actually begins just before Ordinary Time, in Epiphany 3, with the start of Jesus' public ministry (or at least, it does in the RCL: see notes on Epiphany 3), continuing into February until 3 before Lent, and then the series resumes after Trinity, continuing until the Sunday before Advent. (The one exception is Year B, 3 before Advent, Mark 1.14-20.) Material from Matthew 1.1 &ndash; 4.11, Mark 1.1-13 and Luke 1.1 &ndash; 4.13 is included in Advent, Christmas, Epiphany 1 and Lent (along with extracts from other chapters), and the resurrection accounts are included during Easter. Note that the Passion narratives (Matthew 26-27, Mark 14-15 and Luke 22-23), with one or two small exceptions, are included _only_ on Palm Sunday, within the Liturgy of the Passion. See the [Appendix](#appendix-gospels) for details.
+The Gospel readings on Sundays during Ordinary Time work semicontinuously through the central portions of Matthew, Mark and Luke. More precisely, this actually begins just before Ordinary Time, in Epiphany 3, with the start of Jesus' public ministry (or at least, it does in the RCL: see notes on Epiphany 3), continuing into February until 3 before Lent, and then the series resumes after Trinity, continuing until the Sunday before Advent. (The one exception is Year B, 3 before Advent, Mark 1.14-20.) Material from Matthew 1.1 &ndash; 4.11, Mark 1.1-13 and Luke 1.1 &ndash; 4.13 is included in Advent, Christmas, Epiphany 1 and Lent (along with extracts from other chapters), and the resurrection accounts are included during Easter. Note that the Passion narratives (Matthew 26-27, Mark 14-15 and Luke 22-23), with one or two small exceptions, are included _only_ on Palm Sunday, within the Liturgy of the Passion. See the [Appendix](#appendixgospels) for details.
 
 Acts is read at the Baptism of Christ, between Easter Day and Pentecost (vaguely sequentially), and on some Festivals.
 
@@ -90,7 +199,7 @@ What about those parts of the Bible that are not read sequentially?
   * 2 Peter: included, but not in a systematic way
   * 2 John, 3 John, Jude: not included
 
-## Choosing between the readings
+## Choosing between the readings {#choosing}
 
 It is worth noting rule 5 at the top of the [lectionary](https://www.churchofengland.org/prayer-and-worship/worship-texts-and-resources/common-worship/churchs-year/lectionary#p539a), which gives permission to extend the readings:
 
@@ -119,7 +228,7 @@ On the Sundays after Trinity, the Gospel reading and the New Testament reading f
 
 Those who prefer the readings to cohere can have their wishes partially satisfied by opting for the 'Related' Old Testament reading (and psalm), which is related to the Gospel reading. But the cost of this is that it prevents the Old Testament from speaking so clearly with its own voice. Also, there is no 'Related' alternative reading from the New Testament. (RCL provides these two tracks until the Sunday before Advent, whereas Common Worship provides only the 'Related' track for the four Sundays before Advent, with some modifications.)
 
-## Notes
+## Notes {#introductionnotes}
 
 Psalm references are to the Common Worship psalter. Where the versification is different in standard English versions of the Bible, this is indicated by 'EV'. Quotations are drawn from the Common Worship psalter or the NRSV.
 
@@ -131,7 +240,7 @@ The readings are more strongly related to the themes of Advent than they are to 
 
 There is a tradition in some parts of the church of reflecting on the themes of hope, peace, joy and love on the four Sundays of Advent. The theme of hope is present on the first three Sundays, while the theme of peace is discernable on Advent 2, and joy on Advent 3.
 
-## Advent 1
+## Advent 1 {#advent1}
 
 The Gospel readings all speak of the 'coming' of 'the Son of Man'.
 
@@ -148,7 +257,7 @@ Year B
 * **1 Corinthians 1.3-9** speaks of waiting 'for the revealing of our Lord Jesus Christ' and 'the day of our Lord Jesus Christ'.
 * **Mark 13.24-37** speaks of 'the Son of Man coming in clouds' and about 'that day or hour' being unknown: 'Keep awake.'
 
-## Advent 2
+## Advent 2 {#advent2}
 
 The Gospel readings all introduce John the Baptist.
 
@@ -167,7 +276,7 @@ Year B
 * **2 Peter 3.8-15a** says, 'the day of the Lord will come like a thief', and calls for repentance and peace: 'lives of holiness and godliness ... strive to be found by him at peace, without spot or blemish'.
 * **Mark 1.1-8** quotes Isaiah 40.3 ('Prepare the way'), and is about John the Baptist 'proclaiming a baptism of repentance for the forgiveness of sins' in order to prepare the way for Jesus.
 
-## Advent 3
+## Advent 3 {#advent3}
 
 The Gospel readings all continue with John the Baptist.
 
@@ -193,7 +302,7 @@ Three themes are present in the readings: the coming of the Lord, anointing, and
 * **1 Thessalonians 5.16-24** could be seen as concluding the series in 1 Thessalonians from the end of Year A, and says 'Rejoice always', looking ahead to 'the coming of our Lord Jesus Christ'.
 * **John 1.6-8, 19-28** is about the testimony of John concerning Jesus the Messiah (anointed one).
 
-## Advent 4
+## Advent 4 {#advent4}
 
 The Gospel readings all look towards Jesus' birth to Mary.
 
@@ -215,7 +324,7 @@ The readings reflect the theme of God's promises being fulfilled.
 
 # Christmas {#christmas}
 
-## Christmas Day
+## Christmas Day {#christmasday}
 
 Set I (emphasis on the salvation Jesus brings)
 
@@ -238,7 +347,7 @@ Set III (emphasis on Jesus' divinity)
 * **Hebrews 1.1-4 [5-12]** (see BCP) speaks of the 'Son' through whom God 'created the worlds', who is 'the exact imprint of God's very being', and who is 'superior to angels'. [When God 'brings the firstborn into the world', the angels worship him.]
 * **John 1.1-14** (see BCP) speaks of the 'Word' who 'was God', through whom 'all things came into being', and who 'became flesh'.
 
-## Christmas 1
+## Christmas 1 {#christmas1}
 
 These readings are used on the first Sunday _after_ Christmas.
 
@@ -258,7 +367,7 @@ The focus is on the naming and circumcision of Jesus, celebrated on 1 January, w
 
 * **Luke 2.15-21** begins with the response of the shepherds, and concludes with the naming and circumcision of Jesus. **Isaiah 61.10 &ndash; 62.3** reflects the theme of naming: 'you will be called by a new name that the mouth of the Lord will bestow'. **Galatians 4.4-7** (see BCP) says that Jesus was 'born under the law', which explains why he was circumcised.
 
-## Christmas 2*
+## Christmas 2* {#christmas2}
 
 These readings are used on the second Sunday _after_ Christmas, if there is one before the Epiphany. In other words, these readings apply only when there is a Sunday between 2 and 5 January, and when the Epiphany is not being celebrated on that day.
 
@@ -277,7 +386,7 @@ Although the Sundays are the Sundays _of_ Epiphany, if the Epiphany falls on a S
 
 Note that the RCL considers the 'Season of Epiphany' to be part of 'Ordinary Time', and to cover the whole period between the Epiphany and Lent.
 
-## The Epiphany
+## The Epiphany {#theepiphany}
 
 May be celebrated on the Sunday between 2 and 8 January (the second Sunday _after_ Christmas).
 
@@ -285,7 +394,7 @@ Years A, B and C
 
 * **Matthew 2.1-12** (see BCP) recounts the visit of 'wise men from the East' to the child Jesus in Bethlehem. **Isaiah 60.1-6** says that 'Nations shall come to your light, and kings to the brightness of your dawn', adding that 'They shall bring gold and frankincense'. **Psalm 72.[1-9] 10-15** speaks of kings bringing gifts (including gold) to 'the king'. **Ephesians 3.1-12** (see BCP) is about the Gentiles becoming 'fellow-heirs, members of the same body, and sharers in the promise in Christ Jesus through the gospel'.
 
-## The Baptism of Christ: Epiphany 1
+## The Baptism of Christ: Epiphany 1 {#epiphany1}
 
 These readings are used on the first Sunday _after_ the Epiphany (the Sunday between 7 and 13 January).
 
@@ -303,7 +412,7 @@ Year B
 
 * **Mark 1.4-11** describes John the Baptist's ministry of baptism ('I have baptized you with water; but he will baptize you with the Holy Spirit'), and has Jesus being baptised by John, with 'the Spirit' descending on him, and 'a voice ... from heaven'. **Genesis 1.1-5** says, 'a wind from God [or 'the spirit of God'] swept over the face of the waters. Then God said ...'. **Acts 19.1-7** has Paul in Ephesus contrasting the baptism of John with baptism 'in the name of the Lord Jesus', which is accompanied by the Holy Spirit.
 
-## Epiphany 2
+## Epiphany 2 {#epiphany2}
 
 These readings are used on the second Sunday _after_ the Epiphany (the Sunday between 14 and 20 January).
 
@@ -323,7 +432,7 @@ Year C
 
 * **John 2.1-11** (see BCP) is the account of Jesus turning water into wine, by which he 'revealed his glory' (an Epiphany theme).
 
-## Epiphany 3
+## Epiphany 3 {#epiphany3}
 
 These readings are used on the third Sunday _after_ the Epiphany (the Sunday between 21 and 27 January).
 
@@ -345,7 +454,7 @@ Year C
 
 * **Luke 4.14-21**
 
-## Epiphany 4*
+## Epiphany 4* {#epiphany4}
 
 These readings are used on the fourth Sunday _after_ the Epiphany (the Sunday between 28 January and 3 February).
 
@@ -367,7 +476,7 @@ Year C
 
 RCL has Luke 4.21-30 as the Gospel reading, which is replaced by Luke 2.22-40 (the Gospel reading for Candlemas).
 
-## The Presentation of Christ in the Temple (Candlemas)
+## The Presentation of Christ in the Temple (Candlemas) {#candlemas}
 
 May be celebrated on the Sunday between 28 January and 3 February (the fourth Sunday _after_ the Epiphany).
 
@@ -375,9 +484,9 @@ Years A, B and C
 
 * **Luke 2.22-40** (see BCP) is the account of the child Jesus being presented in the temple, and concludes by saying that 'The child grew and became strong'. **Malachi 3.1-5** says that 'the Lord whom you seek will suddenly come to his temple', to 'purify'. **Psalm 24.[1-6] 7-10** calls for the 'gates' and 'doors' to be 'lifted up' so that the 'Lord', the 'King of glory', 'may come in' [and also speaks of the need for 'clean hands and pure hearts']. **Hebrews 2.14-18** speaks of Jesus sharing 'flesh and blood', and then doing the work of the (heavenly) temple, as 'a merciful and faithful high priest in the service of God, to make a sacrifice of atonement for the sins of the people'.
 
-# Ordinary Time {#ordinary-time-1}
+# Ordinary Time {#ordinarytime1}
 
-## Sunday between 4 and 10 February (Proper 1)*
+## Sunday between 4 and 10 February (Proper 1)* {#proper1}
 
 (RCL 'Fifth Sunday after the Epiphany'.)
 
@@ -396,7 +505,7 @@ Year C
 * **1 Corinthians 15.1-11**, on the preaching of the resurrection, begins a three-part series on 1 Corinthians 15, covering most of the chapter. (NB: on Easter Day, verses 1-11 are read in Year B, and verses 19-26 in Year C.)
 * **Luke 5.1-11** begins/resumes a semicontinuous series in Luke 5-21 (plus a bit of 23), which covers these three Sundays in February, and all the Sundays between Trinity and Advent. Jesus calls his first disciples. **Isaiah 6.1-8 [9-13]** continues the theme of calling, with the calling of Isaiah. Isaiah saw the Lord, 'high and lofty', in his heavenly temple, and **Psalm 138** refers to God as 'high' and speaks of his 'holy temple'.
 
-## Sunday between 11 and 17 February (Proper 2)*
+## Sunday between 11 and 17 February (Proper 2)* {#proper2}
 
 (RCL 'Sixth Sunday after the Epiphany', 'Proper 1'.)
 
@@ -415,7 +524,7 @@ Year C
 * **1 Corinthians 15.12-20**, on the resurrection of the dead, continues the series in 1 Corinthians 15.
 * **Luke 6.17-26** continues the series in Luke, with the blessings and woes. (NB: Luke 6.20-31 set for All Saints' Day.) **Jeremiah 17.5-10** continues the theme ('Cursed are those ...', 'Blessed are those ...'), as does **Psalm 1** ('Blessed are they ...', 'As for the wicked ...').
 
-## Sunday between 18 and 24 February (Proper 3)*
+## Sunday between 18 and 24 February (Proper 3)* {#proper3}
 
 (RCL 'Seventh Sunday after the Epiphany', 'Proper 2'.)
 
@@ -434,11 +543,11 @@ Year C
 * **1 Corinthians 15.35-38, 42-50** concludes the series in 1 Corinthians 15, with extracts from the section on the resurrection body. (15.51-58 is the reading for the following week in the RCL.)
 * **Luke 6.27-38** continues the series in Luke (without a gap), and focuses on loving one's enemies. (6.39-49 is the reading for the following week in the RCL, which is omitted in Common Worship: see discussion below. To fill in the gap, this week's reading could be extended to 6.42 'when opportunity allows'.) (NB: Luke 6.20-31 set for All Saints' Day.) **Genesis 45.3-11, 15** is about Joseph's love for his brothers, who had behaved like his enemies. **Psalm 37.1-11, 40, 41** (EV: 1-11, 39, 40) [or 37.1-7] calls us not to fret about evildoers.
 
-## 2 before Lent*
+## 2 before Lent* {#beforelent2}
 
 Creation theme.
 
-The addition of this creation-themed week means that 'Proper 3' in the RCL is not included (although the Gospel reading for Year A is almost the same). The Gospel readings from that week contain several famous sayings of Jesus: see the the [Appendix](#appendix-gospels) for Mark 2.13-22 and Luke 6.39-49.
+The addition of this creation-themed week means that 'Proper 3' in the RCL is not included (although the Gospel reading for Year A is almost the same). The Gospel readings from that week contain several famous sayings of Jesus: see the the [Appendix](#appendixgospels) for Mark 2.13-22 and Luke 6.39-49.
 
 Year A
 
@@ -454,7 +563,7 @@ Year B
 * **Colossians 1.15-20** says of God's Son that 'all things have been created through him and for him'.
 * **John 1.1-14** says of the 'Word' that 'All things came into being through him, and without him not one thing came into being.'
 
-## 1 before Lent*
+## 1 before Lent* {#beforelent1}
 
 (RCL 'Last Sunday after the Epiphany', or 'Transfiguration Sunday'.)
 
@@ -476,7 +585,7 @@ In terms of the Gospel readings for Lent 1-5, there is some structure to the rea
 * Year B looks towards Jesus' death and resurrection (one week in Mark, followed by three weeks in John), and
 * Year C, mostly in Luke, is less clearly structured, and is about Jesus setting out for Jerusalem (Lent 2), then about repentance (Lent 3) and Jesus welcoming sinners (Lent 4), before finishing in John with Jesus being anointed at Bethany.
 
-## Ash Wednesday
+## Ash Wednesday {#ashwednesday}
 
 Falls between 4 February and 10 March.
 
@@ -489,7 +598,7 @@ Years A, B and C
 * **Matthew 6.1-6, 16-21** (see BCP) is about 'your Father who sees in secret', in relation to almsgiving, prayer, fasting, and storing up treasures in heaven.
 * Alternatively, **John 8.1-11** is about the woman caught in adultery: 'Neither do I condemn you. Go your way, and from now on do not sin again.'
 
-## Lent 1
+## Lent 1 {#lent1}
 
 The Gospel readings are about Jesus' temptation in the wilderness.
 
@@ -503,7 +612,7 @@ Year B
 * **Psalm 25.1-9** (EV: 1-10) includes confession of sin and a desire to follow God's ways.
 * **Mark 1.9-15** is about Jesus being tempted by Satan in the wilderness (12-13), with surrounding verses about Jesus' baptism (9-11) and his proclamation of the good news (14-15). **1 Peter 3.18-22** mentions Christ's proclamation, calling to mind God's patience in the time of Noah, and connects the flood with baptism. **Genesis 9.8-17** is about God's covenant with Noah, his descendants, and 'all flesh that is on the earth': 'never again shall there be a flood to destroy the earth'.
 
-## Lent 2
+## Lent 2 {#lent2}
 
 The Old Testament reading each year is about God's promise to Abram. In the light of the fall (see last week), this could be intended as a reminder of God's gracious response to human sin.
 
@@ -517,7 +626,7 @@ Year B
 * **Genesis 17.1-7, 15, 16** is about God's covenant with Abraham and Sarah: 'I will make nations of you'. **Psalm 22.23-31** calls for praise from nations and future generations. **Romans 4.13-25** is about God's promise and Abraham's faith, and quotes Genesis 17: 'for he is the father of all of us, as it is written, "I have made you the father of many nations"'.
 * **Mark 8.31-38** begins a series looking towards the cross, has Jesus foretelling his death and resurrection, and calling his followers to 'take up their cross'.
 
-## Lent 3
+## Lent 3 {#lent3}
 
 Year A
 
@@ -529,7 +638,7 @@ Year B
 * **1 Corinthians 1.18-25** looks towards the cross: 'the message about the cross is foolishness to those who are perishing, but to us who are being saved it is the power of God'.
 * **John 2.13-22** continues the series looking towards the cross, has Jesus saying (of his body), 'Destroy this temple, and in three days I will raise it up.'
 
-## Lent 4
+## Lent 4 {#lent4}
 
 May be 'displaced' by Mothering Sunday.
 
@@ -541,7 +650,7 @@ Year B
 
 * **John 3.14-21** continues the series looking towards the cross, and says, 'just as Moses lifted up the serpent in the wilderness, so must the Son of Man be lifted up, that whoever believes in him may have eternal life'. The following verses discuss the different kinds of deeds done by those who do or do not believe: 'done in God' or 'evil'. **Numbers 21.4-9** is about Moses making a bronze serpent and putting it on a pole. **Psalm 107.1-3, 17-22** [or 107.1-9] is about God delivering and healing those are rebellious and go astray. **Ephesians 2.1-10** is about being 'dead through the trespasses and sins' and being saved by grace through faith (believing) &ndash; 'not the result of works', but 'for good works'.
 
-## Mothering Sunday
+## Mothering Sunday {#motheringsunday}
 
 The readings are related to mothering, but with a tinge of pain and hints of the cross, appropriately for Lent.
 
@@ -556,7 +665,7 @@ Years A, B and C
 * **Luke 2.33-35** has Simeon saying to Mary, 'a sword will pierce your own soul too'.
 * Alternatively, **John 19.25-27** has Jesus speaking to his mother from the cross.
 
-## Lent 5
+## Lent 5 {#lent5}
 
 Year A
 
@@ -567,7 +676,7 @@ Year B
 * **Jeremiah 31.31-34** is the promise of a new covenant: 'I will put my law within them, and I will write it on their hearts'. **Psalm 51.1-13** (EV: 1-12) says, 'you ... shall make me understand wisdom in the depths of my heart'. Alternatively, **Psalm 119.9-16** says, 'Your words have I hidden within my heart, that I should not sin against you.'
 * **John 12.20-33** concludes the series looking towards the cross, and says that Jesus will be glorified through his death, in which he will be 'lifted up' (see John 3.14 from last week). **Hebrews 5.5-10** says that Jesus 'did not glorify himself', but suffered and then was 'designated by God a high priest according to the order of Melchizedek'.
 
-## Palm Sunday
+## Palm Sunday {#palmsunday}
 
 The lectionary assumes a 'Liturgy of the Palms' and a 'Liturgy of the Passion', each with its own reading from the Gospels and the Psalms (as in [_Times and Seasons_](https://www.churchofengland.org/prayer-and-worship/worship-texts-and-resources/common-worship/churchs-year/times-and-seasons-2#mmm151)). But this is not mandatory, and it is not clear what should be done if there is no 'Liturgy of the Palms'. Presumably that part could simply be omitted. But the [RCL](http://www.commontexts.org/rcl/download/) describes an alternative: 'Those who do not observe the procession with palms and do not wish to use the passion gospel may substitute the gospel and psalm given for the Liturgy of the Passion with the gospel and psalm indicated for the Liturgy of the Palms. Whenever possible, the whole passion narrative should be read.'
 
@@ -612,7 +721,7 @@ Year C
 * **Luke 22.14 &ndash; 23.56** recounts Jesus' last supper, betrayal, trial, death and burial (omitting the preparations for the last supper).
 * Alternatively, **Luke 23.1-49** begins with Jesus' trial before Pilate and ends soon after Jesus' death.
 
-## Monday of Holy Week
+## Monday of Holy Week {#mondayholyweek}
 
 Years A, B and C
 
@@ -620,7 +729,7 @@ Years A, B and C
 * **Hebrews 9.11-15** speaks of the purifying blood of Christ.
 * **John 12.1-11** is about Mary anointing Jesus for his burial, and the plot to kill Lazarus.
 
-## Tuesday of Holy Week
+## Tuesday of Holy Week {#tuesdayholyweek}
 
 Years A, B and C
 
@@ -628,7 +737,7 @@ Years A, B and C
 * **1 Corinthians 1.18-31** is about 'the message of the cross'.
 * **John 12.20-36** is about Jesus being glorified in his death.
 
-## Wednesday of Holy Week
+## Wednesday of Holy Week {#wednesdayholyweek}
 
 Years A, B and C
 
@@ -636,7 +745,7 @@ Years A, B and C
 * **Hebrews 12.1-3** speaks of Jesus, 'who for the sake of the joy that was set before him endured the cross, disregarding its shame'.
 * **John 13.21-32** has Jesus saying, 'one of you will betray me', and Judas going out.
 
-## Maundy Thursday
+## Maundy Thursday {#maundythursday}
 
 Years A, B and C
 
@@ -645,7 +754,7 @@ Years A, B and C
 * **1 Corinthians 11.23-26** (see BCP) is the institution of the Lord's Supper.
 * **John 13.1-17, 31b-35** is the account of Jesus washing his disciples' feet 'during supper', and Jesus' command: 'Just as I have loved you, you also should love one another.'
 
-## Good Friday
+## Good Friday {#goodfriday}
 
 Years A, B and C
 
@@ -655,7 +764,7 @@ Years A, B and C
 * Alternatively, **Hebrews 4.14-16; 5.7-9** says that Jesus has 'suffered' and 'passed through the heavens', and that we should 'therefore approach the throne of grace with boldness'.
 * **John 18.1 &ndash; 19.42** (see BCP) recounts Jesus' betrayal, trial, death and burial.
 
-## Easter Eve
+## Easter Eve {#eastereve}
 
 Years A, B and C
 
@@ -672,7 +781,7 @@ A reading from Acts is included at every service between Easter Day and Pentecos
 
 Gospel readings between Easter Day and Pentecost are exclusively from John's Gospel (continuing to Trinity Sunday in Years B and C), except on Easter 3 in Years A and B, on Ascension Day, and except for the alternative readings for Easter Day (which duplicate those for the Easter Vigil). Furthermore, on Easter 5, 6 and 7 (and on Pentecost in Years B and C, and Trinity in Year C), the readings are from the 'farewell discourse' (John 13-17).
 
-## Easter Vigil
+## Easter Vigil {#eastervigil}
 
 The readings are the same for Years A, B and C, except for the Gospel reading. 'A minimum of three Old Testament readings should be chosen. The reading from Exodus 14 should always be used.'
 
@@ -699,7 +808,7 @@ Year C
 
 * **Luke 24.1-12** (also the alternative Gospel reading for Easter Day) is Luke's account of the discovery of the empty tomb.
 
-## Easter Day
+## Easter Day {#easterday}
 
 Falls between 22 March and 25 April.
 
@@ -727,7 +836,7 @@ Year C
 * **1 Corinthians 15.19-26** is one of the portions of the chapter proclaiming the resurrection of Jesus (see also Year B, and the Year C Sundays in February).
 * For the alternative Gospel reading, **Luke 24.1-12**, see Easter Vigil.
 
-## Easter 2
+## Easter 2 {#easter2}
 
 The Gospel reading and alternative first reading are the same for Years A, B and C.
 
@@ -751,7 +860,7 @@ Year C
 * **Psalm 118.14-29** largely duplicates the psalm from last week (and the week before), and speaks of the 'stone which the builders rejected', linking with the rejection of Jesus by the authorities in Acts. An alternative psalm is provided, **Psalm 150**, which is a joyful expression of praise for God's mighty acts.
 * **Revelation 1.4-8** begins a (sparse but sequential) series in Revelation (which covers all of the 'Easter N' Sundays), and speaks of Jesus Christ as 'the firstborn of the dead'.
 
-## Easter 3
+## Easter 3 {#easter3}
 
 Years A and B interrupt the Easter series in John with an excursion into Luke 24.
 
@@ -779,7 +888,7 @@ Year C
 * **Revelation 5.11-14** continues the series in Revelation, and gives glory to the slain-but-living Lamb.
 * **John 21.1-19** concludes the post-resurrection sub-series in John (extending the readings beyond John 20, unlike Years A and B).
 
-## Easter 4
+## Easter 4 {#easter4}
 
 The theme of Jesus as the shepherd dominates, with Gospel readings from John 10, and with Psalm 23 included every year. (This Sunday is sometimes known as 'Good Shepherd Sunday'.)
 
@@ -805,7 +914,7 @@ Year C
 * (For the alternative first reading, **Genesis 7.1-5, 11-18; 8.6-18; 9.8-13**, see Easter Vigil.)
 * **John 10.22-30** continues the series in John, and says that Jesus gives life to his sheep. **Revelation 7.9-17** continues the series in Revelation, and features the Lamb, whose blood has been shed, but who is alive, and is described as a shepherd.
 
-## Easter 5
+## Easter 5 {#easter5}
 
 The Gospel reading begins a series on the 'farewell discourse', which continues on Sundays until Easter 7 (Year A), Pentecost (Years B) or Trinity (Year C).
 
@@ -830,7 +939,7 @@ Year C
 * **Revelation 21.1-6** continues the series in Revelation, featuring the end of death.
 * **John 13.31-35** continues the series in John, and begins a series on the 'farewell discourse'. Jesus begins to prepare his disciples for his departure.
 
-## Easter 6
+## Easter 6 {#easter6}
 
 As the Sunday before the Rogation Days (the weekdays before Ascension Day), this is often observed as 'Rogation Sunday', with a focus on asking for God's blessing on the crops. ('Rogation' comes from Latin _rogare_, to ask.)
 
@@ -858,7 +967,7 @@ Year C
 * **John 14.23-29** continues the series in John's 'farewell discourse', looking ahead to the gift of the Spirit.
 * (The alternative, **John 5.1-9**, recounts the healing at the pool in Bethesda. Presumably there is a good reason for this.)
 
-## Ascension Day
+## Ascension Day {#ascensionday}
 
 Years A, B and C
 
@@ -869,7 +978,7 @@ Years A, B and C
 * **Ephesians 1.15-23** celebrates Christ's ascension to the heavenly realms.
 * **Luke 24.44-53** recounts Jesus' ascension.
 
-## Easter 7
+## Easter 7 {#easter7}
 
 The Gospel reading every year is taken from John 17.
 
@@ -896,7 +1005,7 @@ Year C
 * **Revelation 22.12-14, 16, 17, 20, 21** concludes the series on Revelation (in a somewhat redacted fashion). There is a mention of the Spirit, and a longing for Jesus' return, echoing Ascension themes.
 * **John 17.20-26** continues the series in John's 'farewell discourse' with the concluding section of Jesus' prayer (see Years A and B). Jesus prays for all believers.
 
-## Pentecost
+## Pentecost {#pentecost}
 
 Falls between 10 May and 13 June.
 
@@ -924,9 +1033,9 @@ Year C
 * **Romans 8.14-17** is about the work of the Spirit.
 * **John 14.8-17 [25-27]** (see BCP) continues the series John's 'farewell discourse', with Jesus' promise of the Spirit.
 
-# Ordinary Time {#ordinary-time-2}
+# Ordinary Time {#ordinarytime2}
 
-## Trinity Sunday
+## Trinity Sunday {#trinity}
 
 Falls between 17 May and 20 June.
 
@@ -950,18 +1059,18 @@ Year C
 * **Romans 5.1-5** is appropriate for Trinity Sunday: peace with God through Jesus Christ, and God's love poured into our hearts through the Holy Spirit.
 * **John 16.12-15** concludes the series in John (and the series in the 'farewell discourse'), and speaks of the Trinity, with Jesus speaking about the Spirit and about the Father.
 
-## Day of Thanksgiving for Holy Communion (Corpus Christi)
+## Day of Thanksgiving for Holy Communion (Corpus Christi) {#corpuschristi}
 
 * **Genesis 14.18-20** describes Melchizedek bringing bread and wine.
 * **Psalm 116.10-17** (EV: 12-19) mentions the 'cup of salvation' and offering 'a sacrifice of thanksgiving'.
 * **1 Corinthians 11.23-26** is Paul's account of the institution of the Lord's Supper.
 * **John 6.51-58** is about eating Jesus' flesh and drinking his blood.
 
-## Sunday between 24 and 28 May (Proper 3)*
+## Sunday between 24 and 28 May (Proper 3)* {#proper3b}
 
-See Sunday between 18 and 24 February.
+See [Sunday between 18 and 24 February](#proper3).
 
-## Sunday between 29 May and 4 June (Proper 4)*
+## Sunday between 29 May and 4 June (Proper 4)* {#proper4}
 
 Year A
 
@@ -975,7 +1084,7 @@ Year C
 * **Galatians 1.1-12** begins a semicontinuous series in Galatians, with Paul's preaching of the gospel.
 * **Luke 7.1-10** continues the series in Luke (from Proper 3), with the centurion's faith. The 'Related' reading, **1 Kings 8.22-23, 41-43**, asks God to answer the prayers of foreigners, while the 'Related' psalm, **Psalm 96.1-9** (part of the 'Continuous' psalm), invites the whole earth to draw near to the Lord.
 
-## Sunday between 5 and 11 June (Proper 5)*
+## Sunday between 5 and 11 June (Proper 5)* {#proper5}
 
 Year A
 
@@ -989,7 +1098,7 @@ Year C
 * **Galatians 1.11-24** continues the series in Galatians, overlapping slightly with the previous section. Paul recounts his calling. 
 * **Luke 7.11-17** continues the series in Luke (without a gap), and tells of Jesus raising the widow's son in Nain. The 'Related' reading, **1 Kings 17.17-24** (also the optional section of the 'Continuous' reading) tells of Elijah raising the widow's son in Zaraphath. The 'Related' psalm, **Psalm 30** thanks God for raising the psalmist 'from the dead'.
 
-## Sunday between 12 and 18 June (Proper 6)*
+## Sunday between 12 and 18 June (Proper 6)* {#proper6}
 
 Year A
 
@@ -1003,7 +1112,7 @@ Year C
 * **Galatians 2.15-21** continues the series in Galatians, on justification by faith.
 * **Luke 7.36 &ndash; 8.3** continues the series in Luke, with Jesus being anointed by the sinful woman, who had been forgiven. The 'Related' reading, **2 Samuel 11.26 &ndash; 12.10, 13-15** is about David being forgiven for his sin. The 'Related' psalm, **Psalm 32**, is about the blessing of forgiveness.
 
-## Sunday between 19 and 25 June (Proper 7)*
+## Sunday between 19 and 25 June (Proper 7)* {#proper7}
 
 Year A
 
@@ -1017,7 +1126,7 @@ Year C
 * **Galatians 3.23-29** continues the series in Galatians, on being children of God together.
 * **Luke 8.26-39** continues the series in Luke, with Jesus restoring the demon-possessed man. The 'Related' reading, **Isaiah 65.1-9** is about God holding out his hands to those who 'sit inside tombs' and 'eat swine's flesh'. The 'Related' psalm, **Psalm 22.19-28** praises God for his deliverance, and calls the nations to worship.
 
-## Sunday between 26 June and 2 July (Proper 8)
+## Sunday between 26 June and 2 July (Proper 8) {#proper8}
 
 Year A
 
@@ -1031,7 +1140,7 @@ Year C
 * **Galatians 5.1, 13-25** continues the series in Galatians, on the acts of the flesh and the fruit of the Spirit.
 * **Luke 9.51-62** continues the series in Luke, with Jesus heading towards Jerusalem and teaching on what it means to follow him. The 'Related' reading, **1 Kings 19.15-16, 19-21** is about Elisha following Elijah. The 'Related' psalm, **Psalm 16** is about following the Lord wholeheartedly.
 
-## Sunday between 3 and 9 July (Proper 9)
+## Sunday between 3 and 9 July (Proper 9) {#proper9}
 
 Year A
 
@@ -1045,7 +1154,7 @@ Year C
 * **Galatians 6.[1-6] 7-16** concludes the series in Galatians, with an exhortation to do good to all.
 * **Luke 10.1-11, 16-20** continues the series in Luke (without a gap), with Jesus sending out the seventy-two who then return rejoicing. (10.12-15, 'woe to you...', could be included 'when opportunity allows': compare Matthew 11.16-19, 25-30, which also omits this bit.) The 'Related' reading, **Isaiah 66.10-14**, calls on people to rejoice. The 'Related' psalm, **Psalm 66.1-8** (EV: 1-9), begins with a call to be joyful.
 
-## Sunday between 10 and 16 July (Proper 10)
+## Sunday between 10 and 16 July (Proper 10) {#proper10}
 
 Year A
 
@@ -1059,7 +1168,7 @@ Year C
 * **Colossians 1.1-14** begins a series covering much of Colossians 1.1 &ndash; 3.11, and gives thanks for the fruitfulness that comes from 'the word of the truth, the gospel'.
 * **Luke 10.25-37** continues the series in Luke, on the importance of love for God and neighbour, explained in the parable of the good Samaritan, The 'Related' reading, **Deuteronomy 30.9-14** is about turning to God 'with all your heart and with all your soul' and obeying God's commandments. (The promise of fruitfulness might relate to the reading from Colossians.) The 'Related' psalm, **Psalm 25.1-10** (EV: 1-11) asks for guidance in keeping God's ways.
 
-## Sunday between 17 and 23 July (Proper 11)
+## Sunday between 17 and 23 July (Proper 11) {#proper11}
 
 Year A
 
@@ -1073,7 +1182,7 @@ Year C
 * **Colossians 1.15-28** continues the series in Colossians (without a gap), focusing on the person and work of the Son of God.
 * **Luke 10.38-42** continues the series in Luke (without a gap), with Martha and Mary welcoming Jesus. The 'Related' reading, **Genesis 18.1-10a** is about Abraham showing hospitality to three visitors. The 'Related' psalm, **Psalm 15**, describes the purity of life displayed by Abraham.
 
-## Sunday between 24 and 30 July (Proper 12)
+## Sunday between 24 and 30 July (Proper 12) {#proper12}
 
 Year A
 
@@ -1087,7 +1196,7 @@ Year C
 * **Colossians 2.6-15 [16-19]** continues the series in Colossians, and is about fullness in Christ.
 * **Luke 11.1-13** continues the series in Luke (without a gap), and is about prayer. The 'Related' reading, **Genesis 18.20-32**, is from the same chapter as last week's reading, and is about Abraham interceding for Sodom. The 'Related' psalm, **Psalm 138**, gives thanks for answered prayer, and speaks of God differentiating between the lowly and the proud.
 
-## Sunday between 31 July and 6 August (Proper 13)
+## Sunday between 31 July and 6 August (Proper 13) {#proper13}
 
 Year A
 
@@ -1101,7 +1210,7 @@ Year C
 * **Colossians 3.1-11** concludes the series in Colossians, and is about dying to the old life and rising to the new life in Christ.
 * **Luke 12.13-21** continues the series in Luke, and is about possessions and the importance of being 'rich towards God'. The 'Related' reading, **Ecclesiastes 1.2, 12-14; 2.18-23** is about the futility of toiling in the face of death. The 'Related' psalm, **Psalm 49.1-12** [or 49.1-9], is a reminder that all will die and 'leave their riches to others'.
 
-## Sunday between 7 and 13 August (Proper 14)
+## Sunday between 7 and 13 August (Proper 14) {#proper14}
 
 Year A
 
@@ -1115,7 +1224,7 @@ Year C
 * **Hebrews 11.1-3, 8-16** begins a series in Hebrews 11-13, and is about the faith of Abraham.
 * **Luke 12.32-40** continues the series in Luke, and is about treasure in heaven and the coming of the Son of Man. The choice of verses seems odd, but it captures the seamless transition between 'don't worry' (22-34) and 'be ready' (35-48). (The reading could be extended to verse 48, 'when opportunity allows'.) The 'Related' reading, **Genesis 15.1-6**, is about Abram looking to his reward and trusting God's promise. The 'Related' psalm, **Psalm 33.12-22** [or 33.12-21] is about waiting for God, who is our 'shield' (Genesis 15.1).
 
-## Sunday between 14 and 20 August (Proper 15)
+## Sunday between 14 and 20 August (Proper 15) {#proper15}
 
 Year A
 
@@ -1129,7 +1238,7 @@ Year C
 * **Hebrews 11.29 &ndash; 12.2** continues the series in Hebrews 11-13, and is about faith and perseverance.
 * **Luke 12.49-56** continues the series in Luke, and is about Jesus coming to bring 'fire to the earth', not bringing peace but division. The 'Related' reading, **Jeremiah 23.23-29**, speaks of God's word being like fire, and is about the God who fills heaven and earth coming in judgment. The 'Related' psalm, **Psalm 82**, calls on God to 'judge the earth'.
 
-## Sunday between 21 and 27 August (Proper 16)
+## Sunday between 21 and 27 August (Proper 16) {#proper16}
 
 Year A
 
@@ -1143,7 +1252,7 @@ Year C
 * **Hebrews 12.18-29** continues the series in Hebrews 11-13, contrasting Sinai with Mount Zion.
 * **Luke 13.10-17** continues the series in Luke, and is about the crippled woman being healed on the sabbath, so that she 'stood up straight and began praising God'. The 'Related' reading, **Isaiah 58.9b-14**, is about honouring the sabbath and delighting in God, who will 'satisfy your needs'. The 'Related' psalm, **Psalm 103.1-8**, speaks of God as the one who 'satisfies you with good things'.
 
-## Sunday between 28 August and 3 September (Proper 17)
+## Sunday between 28 August and 3 September (Proper 17) {#proper17}
 
 Year A
 
@@ -1157,7 +1266,7 @@ Year C
 * **Hebrews 13.1-8, 15, 16** concludes the series in Hebrews 11-13, and is about the 'sacrifices' that are 'pleasing to God'.
 * **Luke 14.1, 7-14** continues the series in Luke, and is about taking the place of honour at a feast. (These verses are selected from verses 1-24, which form a single unit. The reading could be extended 'when opportunity allows'.) The 'Related' reading from the Apocrypha, **Ecclesiasticus 10.12-18**, is about pride and humility. The alternative 'Related' reading, **Proverbs 25.6-7**, says it is better to take the humble place and be exalted than vice versa. The 'Related' psalm, **Psalm 112**, says that those who give freely to the poor will be exalted.
 
-## Sunday between 4 and 10 September (Proper 18)
+## Sunday between 4 and 10 September (Proper 18) {#proper18}
 
 Year A
 
@@ -1171,7 +1280,7 @@ Year C
 * **Philemon 1-21** is Paul's appeal for runaway slave Onesimus. Perhaps it appears here because it mentions Timothy (see next week).
 * **Luke 14.25-33** continues the series in Luke, and is about the cost of being a disciple. (14.34-35 could be included for completeness 'when opportunity allows'.) The 'Related' reading, **Deuteronomy 30.15-20** calls its hearers to consider the benefits that follow when they 'choose life', and the curses that follow when they do not. The 'Related' psalm, **Psalm 1**, is about the blessings that await the righteous, and the judgment that awaits the wicked.
 
-## Sunday between 11 and 17 September (Proper 19)
+## Sunday between 11 and 17 September (Proper 19) {#proper19}
 
 Year A
 
@@ -1185,7 +1294,7 @@ Year C
 * **1 Timothy 1.12-17** begins a three-week series in 1 Timothy. Paul, the foremost of sinners, received mercy.
 * **Luke 15.1-10** continues the series in Luke, and is about God welcoming sinners, and the parables of the lost sheep and the lost coin. (These parables go together with that of the lost son, which follows directly, and which is set for Lent 4, but which might have been 'displaced' by Mothering Sunday.) The 'Related' reading, **Exodus 32.7-14**, is about God forgiving sinners, after the incident with the golden calf. The 'Related' psalm, **Psalm 51.1-11** (EV: 1-10), is about the forgiveness of sins.
 
-## Sunday between 18 and 24 September (Proper 20)
+## Sunday between 18 and 24 September (Proper 20) {#proper20}
 
 Year A
 
@@ -1199,7 +1308,7 @@ Year C
 * **1 Timothy 2.1-7** continues the series in 1 Timothy, with a call to pray for everyone.
 * **Luke 16.1-13** continues the series in Luke, with the parable of the shrewd and dishonest manager. The 'Related' reading, **Amos 8.4-7**, speaks against those who 'trample on the needy' and 'practise deceit'. The 'Related' psalm, **Psalm 113**, speaks of God who 'lifts the needy from the ashes'.
 
-## Sunday between 25 September and 1 October (Proper 21)
+## Sunday between 25 September and 1 October (Proper 21) {#proper21}
 
 Year A
 
@@ -1213,7 +1322,7 @@ Year C
 * **1 Timothy 6.6-19** concludes the series in 1 Timothy, with a call to 'Fight the good fight of the faith', and with teaching about riches (which &ndash; coincidentally? &ndash; fits well with the Gospel reading).
 * **Luke 16.19-31** continues the series in Luke, with the rich man and Lazarus. The 'Related' reading, **Amos 6.1a, 4-7**, is a warning for the rich. The 'Related' psalm, **Psalm 146**, warns that princes will perish, but promises 'bread to those who hunger'.
 
-## Sunday between 2 and 8 October (Proper 22)
+## Sunday between 2 and 8 October (Proper 22) {#proper22}
 
 Year A
 
@@ -1227,7 +1336,7 @@ Year C
 * **2 Timothy 1.1-14** begins a four-week series in 2 Timothy, with a call to remain faithful to the gospel.
 * **Luke 17.5-10** continues the series in Luke, with teaching about faith and duty. The 'Related' reading, **Habakkuk 1.1-4; 2.1-4**, features the prophet's faith being increased (perhaps). The 'Related' psalm, **Psalm 37.1-9**, is a response to Habakkuk's cries about wrongdoers, and calls for faith in God.
 
-## Sunday between 9 and 15 October (Proper 23)
+## Sunday between 9 and 15 October (Proper 23) {#proper23}
 
 Year A
 
@@ -1241,7 +1350,7 @@ Year C
 * **2 Timothy 2.8-15** continues the series in 2 Timothy, with a call to endurance.
 * **Luke 17.11-19** continues the series in Luke (without a gap), with the cleansing of the ten lepers, only one of whom (a Samaritan) gave praise to God. (See also Harvest Thanksgiving.) The 'Related' reading, **2 Kings 5.1-3, 7-15c**, is about Naaman being cured of leprosy. The 'Related' psalm, **Psalm 111**, is a psalm of thanksgiving for God's powerful works.
 
-## Sunday between 16 and 22 October (Proper 24)
+## Sunday between 16 and 22 October (Proper 24) {#proper24}
 
 Year A
 
@@ -1255,7 +1364,7 @@ Year C
 * **2 Timothy 3.14 &ndash; 4.5** continues the series in 2 Timothy, with a call to faithful proclamation.
 * **Luke 18.1-8** continues the series in Luke, with the parable of the persistent widow. The 'Related' reading, **Genesis 32.22-31**, is about Jacob's persistence with God. The 'Related' psalm, **Psalm 121**, is about looking to the Lord for help.
 
-## Sunday between 23 and 29 October (Proper 25)
+## Sunday between 23 and 29 October (Proper 25) {#proper25}
 
 Omitted if Bible Sunday is observed.
 
@@ -1271,7 +1380,7 @@ Year C
 * **2 Timothy 4.6-8, 16-18** concludes the series in 2 Timothy, with Paul looking towards his departure.
 * **Luke 18.9-14** continues the series in Luke (without a gap), with the parable of the Pharisee and the tax-collector. The 'Related' reading, **Ecclesiasticus 35.12-17**, is about God listening to the prayer of the poor (the tax-collector being taken as someone who is poor, at least in spirit, presumably). The alternative 'Related' reading, **Jeremiah 14.7-10, 19-22**, is a confession of sin and a plea for God's help. The 'Related' psalm, **Psalm 84.1-7** (EV: 1-8), expresses a desire 'to enter the courts of the Lord', and asks God to 'hear my prayer'.
 
-## The Last Sunday after Trinity if observed as Bible Sunday
+## The Last Sunday after Trinity if observed as Bible Sunday {#biblesunday}
 
 Year A
 
@@ -1287,7 +1396,7 @@ Year C
 * **Romans 15.1-6** speaks of the scriptures, that 'whatever was written in former days was written for our instruction'.
 * **Luke 4.16-24** tells of Jesus reading from Isaiah and saying, 'Today this scripture has been fulfilled in your hearing.' (Luke 4.14-21 is also set for Epiphany 3.)
 
-## All Saints' Day
+## All Saints' Day {#allsaints}
 
 1 November, or the Sunday between 30 October and 5 November as All Saints' Sunday.
 
@@ -1315,7 +1424,7 @@ Years A, B and C
 * **Hebrews 12.18-24** says, 'you have come to Mount Zion and to the city of the living God'.
 * **Matthew 5.1-12** contains the Beatitudes, including, 'Blessed are the pure in heart, for they will see God.'
 
-## 4 before Advent (between 30 October and 5 November)*
+## 4 before Advent (between 30 October and 5 November)* {#beforeadvent4}
 
 (RCL 'Proper 26'.)
 
@@ -1332,7 +1441,7 @@ Year C
 * **2 Thessalonians 1.1-12** begins a three-week series in 2 Thessalonians. Paul looks ahead to the coming of Jesus.
 * **Luke 19.1-10** continues the series in Luke, with Zacchaeus the repentant and forgiven tax-collector. **Isaiah 1.10-18** is a call to repentance and to seek justice, with a promise of forgiveness. **Psalm 32.1-8** (EV: 1-7) is about repentance and forgiveness.
 
-## 3 before Advent (between 6 and 12 November)
+## 3 before Advent (between 6 and 12 November) {#beforeadvent3}
 
 (RCL 'Proper 27'.)
 
@@ -1354,7 +1463,7 @@ Year C
 * **2 Thessalonians 2.1-5, 13-17** continues the series in 2 Thessalonians, with more on the coming of Jesus.
 * **Luke 20.27-38** continues the series in Luke, and picks up the end-times emphasis of the Sundays before Advent, with Jesus and the Sadducees discussing the resurrection and marriage. **Job 19.23-27a** contains a glimpse of resurrection hope. **Psalm 17.1-9** [or 17.1-8] follows Job in pleading integrity before God.
 
-## 2 before Advent (between 13 and 19 November)
+## 2 before Advent (between 13 and 19 November) {#beforeadvent2}
 
 (RCL 'Proper 28'.)
 
@@ -1370,7 +1479,7 @@ Year C
 * **2 Thessalonians 3.6-13** concludes the series in 2 Thessalonians, with a warning against idleness.
 * **Luke 21.5-19** continues the series in Luke, and continues the end-times emphasis of the Sundays before Advent, with Jesus speaking about the destruction of the temple and the signs of the end times. **Malachi 4.1-2a** looks ahead to a day of destruction. **Psalm 98** says that the Lord 'comes to judge the earth'.
 
-## Christ the King: 1 before Advent (between 20 and 26 November)
+## Christ the King: 1 before Advent (between 20 and 26 November) {#beforeadvent1}
 
 (RCL 'Proper 29'.)
 
@@ -1398,7 +1507,7 @@ One of these Festivals might be the Patronal or Dedication Festival, which can b
 
 If it falls on one of those days, it must be transferred.
 
-## The Naming and Circumcision of Jesus (1 January)
+## The Naming and Circumcision of Jesus (1 January) {#naming}
 
 If Jesus was born on 25 December, he was circumcised on 1 January.
 
@@ -1407,7 +1516,7 @@ If Jesus was born on 25 December, he was circumcised on 1 January.
 * **Galatians 4.4-7** says that Jesus was 'born under the law', which explains why he was circumcised.
 * **Luke 2.15-21** (see BCP) says, 'After eight days had passed, it was time to circumcise the child; and he was called Jesus, the name given by the angel before he was conceived in the womb.'
 
-## The Conversion of Paul (25 January)
+## The Conversion of Paul (25 January) {#paul}
 
 According to rule 6 at the top of the [lectionary](https://www.churchofengland.org/prayer-and-worship/worship-texts-and-resources/common-worship/churchs-year/lectionary#p539a),
 
@@ -1419,7 +1528,7 @@ According to rule 6 at the top of the [lectionary](https://www.churchofengland.o
 * Alternatively, the passage from Acts can be the first reading, with **Galatians 1.11-16a** as the second reading, in which Paul says that God 'was pleased to reveal his Son to me, so that I might proclaim him among the Gentiles'.
 * **Matthew 19.27-30** (see BCP) is Jesus' promise to those who have 'left everything and followed [him]', which is the essence of conversion.
 
-## Joseph of Nazareth (19 March)
+## Joseph of Nazareth (19 March) {#joseph}
 
 19 March always falls during Lent. According to the [Rules],
 
@@ -1430,7 +1539,7 @@ According to rule 6 at the top of the [lectionary](https://www.churchofengland.o
 * **Romans 4.13-18** moves (apparently) from the idea of Jesus being treated as Joseph's son, to the idea of believers being treated as descendants of Abraham.
 * **Matthew 1.18-25** is about Joseph, who 'took [Mary] as his wife', and 'named [her son] Jesus'.
 
-## The Annunciation of Our Lord to the Blessed Virgin Mary (25 March)
+## The Annunciation of Our Lord to the Blessed Virgin Mary (25 March) {#annunciation}
 
 This is a Principal Feast, but it comes across as somewhat unwanted, as it is never celebrated on a Sunday (unless it is the Patronal Festival celebrated as a Principal Feast). 25 March always fall during Lent, or very occasionally on or just after Easter Day. According to the [Rules],
 
@@ -1441,7 +1550,7 @@ This is a Principal Feast, but it comes across as somewhat unwanted, as it is ne
 * **Hebrews 10.4-10** quotes Psalm 40 in relation to Jesus: 'Then I said, "See, God, I have come to do your will, O God" (in the scroll of the book it is written of me).'
 * **Luke 1.26-38** (see BCP) is about the visit of Gabriel to Mary: 'you will conceive in your womb and bear a son', concluding with Mary saying, 'Here am I, the servant of the Lord; let it be with me according to your word.'
 
-## George, Martyr, Patron of England (23 April)
+## George, Martyr, Patron of England (23 April) {#george}
 
 23 April always falls during the Easter season or on Good Friday or Easter Eve (Easter always falls between 22 March and 25 April), so this Festival is never celebrated on a Sunday (unless it is the Patronal Festival celebrated as a Principal Feast), and it is always celebrated during the Easter season. According to the [Rules],
 
@@ -1455,7 +1564,7 @@ The readings reflect themes of martyrdom (looking for hope beyond death) and of 
 * **2 Timothy 2.3-13** says, 'Share in suffering like a good soldier of Christ Jesus.'
 * **John 15.18-21** is from a portion of John's Gospel that features during the Easter season, and has Jesus saying, 'If the world hates you, be aware that it hated me before it hated you.'
 
-## Mark the Evangelist (25 April)
+## Mark the Evangelist (25 April) {#mark}
 
 25 April always falls during the Easter season, so this Festival is never celebrated on a Sunday (unless it is the Patronal Festival celebrated as a Principal Feast). See above on George (23 April).
 
@@ -1465,7 +1574,7 @@ The readings reflect themes of martyrdom (looking for hope beyond death) and of 
 * **Ephesians 4.7-16** (see BCP) says, 'The gifts [Christ] gave were that some would be ... evangelists', and says that the church grows through 'speaking the truth in love'.
 * **Mark 13.5-13** speaks of persecution (according to tradition, Mark was martyred), and says, 'the good news must first be proclaimed to all nations'.
 
-## Philip and James, Apostles (1 May)
+## Philip and James, Apostles (1 May) {#pj}
 
 1 May always falls during the Easter season, so this Festival is never celebrated on a Sunday (unless it is the Patronal Festival celebrated as a Principal Feast).
 
@@ -1474,7 +1583,7 @@ The readings reflect themes of martyrdom (looking for hope beyond death) and of 
 * **Ephesians 1.3-10**
 * **John 14.1-14** (see BCP)
 
-## Matthias the Apostle (14 May)
+## Matthias the Apostle (14 May) {#matthias}
 
 14 May always falls between Easter and Trinity, so this Festival is never celebrated on a Sunday (unless it is the Patronal Festival celebrated as a Principal Feast).
 
@@ -1487,11 +1596,11 @@ According to rule 6 at the top of the [lectionary](https://www.churchofengland.o
 * **Acts 1.15-26** (see BCP)
 * **John 15.9-17**
 
-## The Visit of the Blessed Virgin Mary to Elizabeth (31 May)
+## The Visit of the Blessed Virgin Mary to Elizabeth (31 May) {#visit}
 
 31 May usually falls between Easter and Trinity, so this Festival can rarely be celebrated on a Sunday (unless it is the Patronal Festival celebrated as a Principal Feast).
 
-## Barnabas the Apostle (11 June)
+## Barnabas the Apostle (11 June) {#barnabas}
 
 11 June occasionally falls before Trinity (20 June at the latest).
 
@@ -1504,28 +1613,28 @@ According to rule 6 at the top of the [lectionary](https://www.churchofengland.o
 * **Acts 11.19-30** (see BCP) or **Galatians 2.1-10**
 * **John 15.12-17** (see BCP)
 
-## The Birth of John the Baptist (24 June)
+## The Birth of John the Baptist (24 June) {#jtb}
 
 * **Isaiah 40.1-11**
 * **Psalm 85.7-13**
 * **Acts 13.14b-26** (see BCP) or **Galatians 3.23-29**
 * **Luke 1.57-66, 80** (see BCP)
 
-## Peter and Paul, Apostles (29 June)
+## Peter and Paul, Apostles (29 June) {#pp}
 
 * **Acts 12.1-11** (see BCP)
 * **Matthew 16.13-19** (see BCP)
 
-## Thomas the Apostle (3 July)
+## Thomas the Apostle (3 July) {#thomas}
 
 * **Habakkuk 2.1-4**
 * **Psalm 31.1-6**
 * **Ephesians 2.19-22** (see BCP)
 * **John 20.24-29** (see BCP)
 
-## Mary Magdalene (22 July)
+## Mary Magdalene (22 July) {#marymagdalene}
 
-## James the Apostle (25 July)
+## James the Apostle (25 July) {#james}
 
 According to rule 6 at the top of the [lectionary](https://www.churchofengland.org/prayer-and-worship/worship-texts-and-resources/common-worship/churchs-year/lectionary#p539a),
 
@@ -1536,18 +1645,18 @@ According to rule 6 at the top of the [lectionary](https://www.churchofengland.o
 * **Acts 11.27 &ndash; 12.2** (see BCP) or **2 Corinthians 4.7-15**
 * **Matthew 20.20-28** (see BCP)
 
-## The Transfiguration of Our Lord (6 August)
+## The Transfiguration of Our Lord (6 August) {#transfiguration}
 
-## The Blessed Virgin Mary (15 August)
+## The Blessed Virgin Mary (15 August) {#bvm}
 
-## Bartholomew the Apostle (24 August)
+## Bartholomew the Apostle (24 August) {#bartholomew}
 
 * **Isaiah 43.8-13** or **Acts 5.12-16** (see BCP)
 * **Psalm 145.1-7**
 * **Acts 5.12-16** (see BCP) or **1 Corinthians 4.9-15**
 * **Luke 22.24-30** (see BCP)
 
-## Holy Cross Day (14 September)
+## Holy Cross Day (14 September) {#holycross}
 
 This is also known as the Feast of the 'Exaltation of the Cross', and has its origins in more than one event associated with the cross and Jerusalem. The theme of exaltation is reflected in the readings.
 
@@ -1555,7 +1664,7 @@ This is also known as the Feast of the 'Exaltation of the Cross', and has its or
 * **Philippians 2.6-11** is about Christ humbling himself to 'death on a cross' and subsequently being exalted.
 * **John 3.13-17** is about the Son of Man being 'lifted up', 'just as Moses lifted up the serpent in the wilderness'. **Numbers 21.4-9** is about the bronze serpent.
 
-## Matthew, Apostle and Evangelist (21 September)
+## Matthew, Apostle and Evangelist (21 September) {#matthew}
 
 Matthew was a tax-collector. This is reflected in the readings.
 
@@ -1564,7 +1673,7 @@ Matthew was a tax-collector. This is reflected in the readings.
 * **2 Corinthians 4.1-6** (see BCP) has several possible connections with Matthew: renouncing 'shameful things', the 'open statement of the truth' (in writing his Gospel), light shining into Matthew's heart.
 * **Matthew 9.9-13** (see BCP) tells of Jesus calling Matthew the tax-collector to follow him, and of Jesus eating with 'tax-collectors and sinners'.
 
-## Michael and All Angels (29 September)
+## Michael and All Angels (29 September) {#michael}
 
 Michael the archangel is mentioned four times in Scripture: Daniel 10.13-21 and 12.1, Jude 9 and Revelation 12.7.
 
@@ -1575,7 +1684,7 @@ Michael the archangel is mentioned four times in Scripture: Daniel 10.13-21 and 
 * Alternatively, the passage from Revelation can be the first reading, with **Hebrews 1.5-14** as the second reading, contrasting angels with the Son: see 1.1-4 and 2.1-4.)
 * **John 1.47-51** has Jesus saying to Nathanael, 'you will see heaven opened and the angels of God ascending and descending upon the Son of Man', echoing the Old Testament reading.
 
-## Luke the Evangelist (18 October)
+## Luke the Evangelist (18 October) {#luke}
 
 Luke was a 'physician' (Colossians 4.14). This is reflected in the readings. (Elsewhere, Luke is mentioned by name only in 2 Timothy 4.11 and Philemon 24.)
 
@@ -1585,7 +1694,7 @@ Luke was a 'physician' (Colossians 4.14). This is reflected in the readings. (El
 * **2 Timothy 4.5-17** (see BCP) says, 'Only Luke is with me.'
 * **Luke 10.1-9** (see BCP) is about the mission of the seventy, which perhaps speaks more directly to those (such as Luke) who are not numbered among the Twelve. (Luke has at times been numbered among the [seventy disciples](https://en.wikipedia.org/wiki/Seventy_disciples).) They were sent out to 'cure the sick' and to speak of the 'kingdom of God', which is appropriate to Luke as a physician and the author of one of the Gospels.
 
-## Simon and Jude, Apostles (28 October)
+## Simon and Jude, Apostles (28 October) {#sj}
 
 Simon, one of the Twelve (not Peter), appears as 'the Cananaean' in Matthew 10.4 and Mark 3.18, and as 'the Zealot' in Luke 6.15 and Acts 1.13.
 
@@ -1596,7 +1705,7 @@ According to tradition, Simon and Jude worked together as evangelists and were m
 * **Ephesians 2.19-22** speaks of the church as being 'built upon the foundation of the apostles and prophets, with Christ Jesus himself as the cornerstone'. **Isaiah 28.14-16** has God speaking of 'a foundation stone, a tested stone, a precious cornerstone, a sure foundation'. **Psalm 119.89-96** reflects the theme of foundations: the Lord's word 'stands firm', the Lord has 'established the earth', and the Lord's 'judgements stand firm'.
 * **John 15.17-27** (see BCP) reflects Simon and Jude's calling, by speaking of persecution and of Jesus' command to his disciples to 'testify'.
 
-## Andrew the Apostle (30 November)
+## Andrew the Apostle (30 November) {#andrew}
 
 30 November, if it is a Sunday, falls on the First Sunday of Advent, so this Festival is never celebrated on a Sunday (not even if it is the Patronal Festival celebrated as a Principal Feast).
 
@@ -1605,7 +1714,7 @@ According to tradition, Simon and Jude worked together as evangelists and were m
 * **Romans 10.12-18** (see BCP) is about the good news being proclaimed 'to all the earth', echoing Jesus' call to Andrew. The other two readings are quoted: **Isaiah 52.7-10** ('How beautiful ... are the feet') and **Psalm 19.1-6** ('... their words to the ends of the world').
 * **Matthew 4.18-22** (see BCP) has Jesus calling two pairs of brothers as his first followers: Simon Peter and Andrew, followed by James and John. To the first pair, Jesus says, 'Follow me, and I will make you fish for people.'
 
-## Stephen, Deacon, First Martyr (26 December)
+## Stephen, Deacon, First Martyr (26 December) {#stephen}
 
 According to rule 6 at the top of the [lectionary](https://www.churchofengland.org/prayer-and-worship/worship-texts-and-resources/common-worship/churchs-year/lectionary#p539a),
 
@@ -1618,7 +1727,7 @@ According to rule 6 at the top of the [lectionary](https://www.churchofengland.o
 * Alternatively, the passage from Acts can be the first reading, with **Galatians 2.16b-20** as the second reading, which speaks of having been 'crucified with Christ'.
 * **Matthew 10.17-22** warns of being 'put to death' because of Jesus.
 
-## John, Apostle and Evangelist (27 December)
+## John, Apostle and Evangelist (27 December) {#john}
 
 John the Apostle (son of Zebedee) is traditionally identified with the evangelist who wrote 'John's Gospel', with the author of the 'Letters of John', and with the author of the Book of Revelation.
 
@@ -1626,7 +1735,7 @@ John the Apostle (son of Zebedee) is traditionally identified with the evangelis
 * **1 John 1** (see BCP) is about John's eyewitness testimony.
 * **John 21.19b-25** (see BCP) says that 'the disciple whom Jesus loved', 'the one who had reclined next to Jesus at the supper', was the one who wrote this Gospel. **Exodus 33.7-11a** speaks of a similarly close relationship: 'the Lord used to speak to Moses face to face, as one speaks to a friend'.
 
-## The Holy Innocents (28 December)
+## The Holy Innocents (28 December) {#innocents}
 
 The infants of Bethlehem are often celebrated as martyrs, and this may be reflected in the readings.
 
@@ -1634,7 +1743,7 @@ The infants of Bethlehem are often celebrated as martyrs, and this may be reflec
 * **1 Corinthians 1.26-29** speaks of God choosing 'what is weak in the world to shame the strong', inviting a contrast between the infant Jesus (and the other infants?) and Herod.
 * **Matthew 2.13-18** (see BCP) says that Herod 'killed all the children in and around Bethlehem who were two years old or under'. **Jeremiah 31.15-17** is quoted: 'Rachel weeping for her children'.
 
-## Dedication Festival
+## Dedication Festival {#dedication}
 
 According to the [Rules],
 
@@ -1663,7 +1772,7 @@ Year C
 * **Ephesians 2.19-22** speaks of believers growing into 'a holy temple in the Lord'.
 * **John 2.13-22** speaks of Jesus driving people out of the temple and saying, 'Destroy this temple, and in three days I will raise it up.'
 
-## Harvest Thanksgiving
+## Harvest Thanksgiving {#harvest}
 
 Year A
 
@@ -1690,28 +1799,13 @@ Year C
 * Alternatively, **Revelation 14.14-18** is about 'one like the Son of Man' reaping the harvest of the earth.
 * **John 6.25-35** says (after the feeding of the 5000), 'Do not work for the food that perishes, but for the food that endures for eternal life'.
 
-# Further reading {#further-reading}
-
-Print resources
-
-* Paul Bradshaw, ed., _A Companion to Common Worship_, Volume 1 (London: SPCK, 2001)
-  * Gordon Giles, 'The Sunday Lectionary'
-
-Web resources
-
-* Consultation on Common Texts (CCT), founded in the 1960s
-  * [The Revised Common Lectionary](http://www.commontexts.org/rcl/) (RCL)
-  * [Introduction to the Revised Common Lectionary](http://www.commontexts.org/wp-content/uploads/2015/11/RCL_Introduction_Web.pdf) (1992)
-* [Simon Sarmiento](http://justus.anglican.org/~ss/)
-  * [Common Worship Changes to Revised Common Lectionary](http://justus.anglican.org/~ss/rcldifferences.html)
-
-# Appendix: Gospels {#appendix-gospels}
+# Appendix: Gospels {#appendixgospels}
 
 What follows will eventually be a complete index to each of the four Gospels, showing which passages are included, which are omitted because a parallel is included from one of the other Gospels, and which are simply omitted. See the [Introduction](#introduction) for a broad overview of how the Gospels are treated in the lectionary.
 
 For Matthew, Mark and Luke, the semicontinuous series from Epiphany 3 to the end of Ordinary Time is shown in bold.
 
-## Matthew (Year A)
+## Matthew (Year A) {#matthewgospel}
 
 * Matthew 1.1-17: omitted.
 * Matthew 1.18-25: Advent 4; Joseph of Nazareth.
@@ -1833,7 +1927,7 @@ For Matthew, Mark and Luke, the semicontinuous series from Epiphany 3 to the end
 * ...
 * Matthew 28.16-20: Trinity.
 
-## Mark (Year B)
+## Mark (Year B) {#markgospel}
 
 * Mark 1.1-8: Advent 2.
 * Mark 1.4-11: Epiphany 1.
@@ -1901,7 +1995,7 @@ For Matthew, Mark and Luke, the semicontinuous series from Epiphany 3 to the end
 * Mark 16.1-8: Easter Vigil; Easter Day (second alternative).
 * ...
 
-## Luke (Year C)
+## Luke (Year C) {#lukegospel}
 
 * Luke 1.1-25: omitted.
 * Luke 1.26-38: Advent 4, Year B; Annunciation.
@@ -2059,7 +2153,7 @@ For Matthew, Mark and Luke, the semicontinuous series from Epiphany 3 to the end
 * Luke 24.36-48: Easter 3, Year B.
 * Luke 24.44-53: Ascension Day, Years A, B and C.
 
-## John (Years A, B and C)
+## John (Years A, B and C) {#johngospel}
 
 Every year is a 'John year', at least from Christmas to Pentecost (or Trinity), during which the Gospel reading is very often taken from John. Most (73%) of John is covered, with the biggest omissions in chapters 7, 8 and 16. The only readings from John in Ordinary Time are from chapter 6 in Year B (Proper 12 to 16). Each year includes readings taken from the following chapters (more or less):
 
@@ -2154,6 +2248,21 @@ In detail:
 * John 20.19-31: Easter 2, Years A, B and C (20.24-29: Thomas).
 * John 21.1-19: Easter 3, Year C.
 * John 21.19b-25: John.
+
+# Further reading {#furtherreading}
+
+Print resources
+
+* Paul Bradshaw, ed., _A Companion to Common Worship_, Volume 1 (London: SPCK, 2001)
+  * Gordon Giles, 'The Sunday Lectionary'
+
+Web resources
+
+* Consultation on Common Texts (CCT), founded in the 1960s
+  * [The Revised Common Lectionary](http://www.commontexts.org/rcl/) (RCL)
+  * [Introduction to the Revised Common Lectionary](http://www.commontexts.org/wp-content/uploads/2015/11/RCL_Introduction_Web.pdf) (1992)
+* [Simon Sarmiento](http://justus.anglican.org/~ss/)
+  * [Common Worship Changes to Revised Common Lectionary](http://justus.anglican.org/~ss/rcldifferences.html)
 
 # Notes {#notes}
 
