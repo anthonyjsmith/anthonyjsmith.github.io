@@ -15,7 +15,7 @@ Any feedback? Please [contact](/contact/) me!
 * Year A: complete
 * Year B: complete from Advent 1 to Pentecost
 * Year C: complete from Palm Sunday onwards
-* Festivals: complete from 1 January to 23 April, and from September to December
+* Festivals: complete from January to April, and from September to December
 * Appendix: Gospels: complete for Matthew 1-14, Luke and John
 
 # Contents
@@ -1459,10 +1459,11 @@ The readings reflect themes of martyrdom (looking for hope beyond death) and of 
 
 25 April always falls during the Easter season, so this Festival is never celebrated on a Sunday (unless it is the Patronal Festival celebrated as a Principal Feast). See above on George (23 April).
 
-* **Proverbs 15.28-33** or **Acts 15.35-41**
-* **Psalm 119.9-16**
-* **Ephesians 4.7-16** (see BCP)
-* **Mark 13.5-13**
+* **Proverbs 15.28-33** speaks of 'good news', reflecting Mark's role in writing the 'good news' (Mark 1.1), and speaks of those who 'gain understanding', perhaps reflecting Mark's growth in wisdom after initially deserting Paul and Barnabas (Acts 15.38).
+* Alternatively, **Acts 15.35-41** is the account of Paul and Barnabas parting company, after disagreeing about whether 'to take with them John called Mark'.
+* **Psalm 119.9-16** speaks of 'young people' (Mark presumably being a young man at the start of his ministry), and says, 'I will not forget your word', pointing to Mark's work in writing his Gospel.
+* **Ephesians 4.7-16** (see BCP) says, 'The gifts [Christ] gave were that some would be ... evangelists', and says that the church grows through 'speaking the truth in love'.
+* **Mark 13.5-13** speaks of persecution (according to tradition, Mark was martyred), and says, 'the good news must first be proclaimed to all nations'.
 
 ## Philip and James, Apostles (1 May)
 
