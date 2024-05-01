@@ -15,7 +15,7 @@ Any feedback? Please [contact](/contact/) me!
 * Year A: complete
 * Year B: complete from Advent 1 to Pentecost
 * Year C: complete from Palm Sunday onwards
-* Festivals: complete from January to April, and from September to December
+* Festivals: complete from 1 January to 1 May, and from September to December
 * Appendix: Gospels: complete for Matthew 1-14, Luke and John
 
 # Contents
@@ -1497,6 +1497,8 @@ Year C
 
 # Festivals {#festivals}
 
+The RCL provides readings only for a small number of the Festivals listed below: the Annunciation, the Visitation, Holy Cross, and Thanksgiving Day (observed in Common Worship as Harvest Thanksgiving).
+
 According to the [Rules], Festivals are 'not usually displaced'. However,
 
 > Festivals falling on a Sunday are to be kept on that day or transferred to the Monday (or, at the discretion of the minister, to the next suitable weekday). But a Festival may not be celebrated on Sundays in Advent, Lent or Eastertide. Festivals coinciding with a Principal Feast or Principal Holy Day are transferred to the first available day.
@@ -1578,10 +1580,14 @@ The readings reflect themes of martyrdom (looking for hope beyond death) and of 
 
 1 May always falls during the Easter season, so this Festival is never celebrated on a Sunday (unless it is the Patronal Festival celebrated as a Principal Feast).
 
-* **Isaiah 30.15-21**
-* **Psalm 119.1-8**
-* **Ephesians 1.3-10**
-* **John 14.1-14** (see BCP)
+Two of the Twelve are called James; this is James 'the Less', son of Alphaeus.
+
+Little is known of Philip or James. The readings reflect Philip's desire to see the Father, and Jesus' response to Philip: 'Whoever has seen me has seen the Father.'
+
+* **Isaiah 30.15-21** says, 'your eyes shall see your Teacher'.
+* **Psalm 119.1-8** says, 'Blessed are those who ... seek him with their whole heart'.
+* **Ephesians 1.3-10** says that 'the God and Father of our Lord Jesus Christ ... has blessed us in Christ with every spiritual blessing' and 'has made known to us the mystery of his will'.
+* **John 14.1-14** (see BCP) has Philip saying to Jesus, 'Lord, show us the Father,' prompting the response from Jesus: 'Whoever has seen me has seen the Father.'
 
 ## Matthias the Apostle (14 May) {#matthias}
 
@@ -1597,6 +1603,8 @@ According to rule 6 at the top of the [lectionary](https://www.churchofengland.o
 * **John 15.9-17**
 
 ## The Visit of the Blessed Virgin Mary to Elizabeth (31 May) {#visit}
+
+Also known as the Visitation.
 
 31 May usually falls between Easter and Trinity, so this Festival can rarely be celebrated on a Sunday (unless it is the Patronal Festival celebrated as a Principal Feast).
 
@@ -1639,6 +1647,8 @@ According to rule 6 at the top of the [lectionary](https://www.churchofengland.o
 According to rule 6 at the top of the [lectionary](https://www.churchofengland.org/prayer-and-worship/worship-texts-and-resources/common-worship/churchs-year/lectionary#p539a),
 
 > If there are only two readings at the principal service on ... the Festivals of ... James ..., the reading from the Acts of the Apostles must always be used.
+
+Two of the Twelve are called James; this is James 'the Great', son of Zebedee and elder brother of John.
 
 * **Jeremiah 45.1-5** or **Acts 11.27 &ndash; 12.2** (see BCP)
 * **Psalm 126**
@@ -1773,6 +1783,8 @@ Year C
 * **John 2.13-22** speaks of Jesus driving people out of the temple and saying, 'Destroy this temple, and in three days I will raise it up.'
 
 ## Harvest Thanksgiving {#harvest}
+
+Based on the RCL readings for Thanksgiving Day.
 
 Year A
 
