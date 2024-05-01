@@ -965,7 +965,7 @@ Year C
 * **Psalm 67** picks up the Rogation theme, asking for a good harvest, but also calls for the nations to praise God, which links with the reading from Acts.
 * **Revelation 21.10, 22 &ndash; 22.5** continues the series on Revelation, focusing on the Holy City.
 * **John 14.23-29** continues the series in John's 'farewell discourse', looking ahead to the gift of the Spirit.
-* (The alternative, **John 5.1-9**, recounts the healing at the pool in Bethesda. Presumably there is a good reason for this.)
+* The alternative, **John 5.1-9**, recounts the healing at the pool in Beth-zatha (Bethesda). Jesus tells the sick man to 'Stand up' ('Arise'), which makes this reading appropriate for the Easter season, but it is difficult to identify a connection with this particular Sunday.
 
 ## Ascension Day {#ascensionday}
 
