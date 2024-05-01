@@ -897,21 +897,21 @@ The theme of Jesus as the shepherd dominates, with Gospel readings from John 10,
 Year A
 
 * **Acts 2.42-47** continues the series in Acts (and concludes the three-part series in Acts 2), and describes the shared life of the believers.
-* (The alternative first reading, **Genesis 7**, begins a series on the flood in Genesis, expanding the alternative reading for Years B and C. The resurrection of Jesus is like passing through the waters of the flood. See also Proper 4.)
+* The alternative first reading, **Genesis 7**, begins a series on the flood in Genesis, expanding the alternative reading for Years B and C. The resurrection of Jesus is like passing through the waters of the flood. See also Proper 4.
 * **1 Peter 2.19-25** continues the series in 1 Peter (out of sequence, in order to include the description of Jesus as 'shepherd'), and is about suffering after Jesus' example.
 * **John 10.1-10** continues the series in John, and introduces the theme of the sheep and the shepherd (although Jesus here is the gate). Jesus has come to give life to the sheep.
 
 Year B
 
 * **Acts 4.5-12** continues the series in Acts, and explains (as in the previous week) that the man was healed 'by the name of Jesus Christ of Nazareth, ... whom God raised from the dead'. The focus is more on the 'rulers, elders, and scribes', who might be likened to the 'hired hand' in the reading from John.
-* (For the alternative first reading, **Genesis 7.1-5, 11-18; 8.6-18; 9.8-13**, see Easter Vigil.)
+* For the alternative first reading, **Genesis 7.1-5, 11-18; 8.6-18; 9.8-13**, see Easter Vigil.
 * **1 John 3.16-24** continues the series in 1 John, and says that Jesus 'laid down his life for us' (as in the reading from John) and that 'we ought to lay down our lives for one another'.
 * **John 10.11-18** continues the series in John, and says that Jesus is the good shepherd who lays down his life (as in the reading from 1 John), and who takes it back up again.
 
 Year C
 
 * **Acts 9.36-43** continues the series in Acts, and shows that Jesus' power to raise the dead is active through his apostle Peter. The resurrection leads to the growth of the church.
-* (For the alternative first reading, **Genesis 7.1-5, 11-18; 8.6-18; 9.8-13**, see Easter Vigil.)
+* For the alternative first reading, **Genesis 7.1-5, 11-18; 8.6-18; 9.8-13**, see Easter Vigil.
 * **John 10.22-30** continues the series in John, and says that Jesus gives life to his sheep. **Revelation 7.9-17** continues the series in Revelation, and features the Lamb, whose blood has been shed, but who is alive, and is described as a shepherd.
 
 ## Easter 5 {#easter5}
@@ -921,21 +921,21 @@ The Gospel reading begins a series on the 'farewell discourse', which continues 
 Year A
 
 * **Acts 7.55-60** continues the series in Acts, and describes Stephen's vision of the risen Jesus, before his martyrdom. **Psalm 31.1-5, 15-16** [or 31.1-5] says, 'Into your hands I commend my spirit', which is echoed by Stephen: 'Lord Jesus, receive my spirit.'
-* (The alternative first reading, **Genesis 8.1-19**, continues the series on the flood in Genesis. The dove points towards the gift of the Spirit at Pentecost.)
+* The alternative first reading, **Genesis 8.1-19**, continues the series on the flood in Genesis. The dove points towards the gift of the Spirit at Pentecost.
 * **1 Peter 2.2-10** continues the series in 1 Peter, and describes Jesus as 'a living stone', and believers as 'living stones'.
 * **John 14.1-14** continues the series in John, and begins a series on the 'farewell discourse' with a two-part series on John 14. Jesus says that he is going to the Father.
 
 Year B
 
 * **Acts 8.26-40** is about Philip and the Ethiopian Eunuch: a worshipper of God who was baptised and went away rejoicing. **Psalm 22.25-31** speaks of the nations turning to the Lord.
-* (For the alternative first reading, **Baruch 3.9-15, 32 &ndash; 4.4**, or **Genesis 22.1-18**, see Easter Vigil.)
+* For the alternative first reading, **Baruch 3.9-15, 32 &ndash; 4.4**, or **Genesis 22.1-18**, see Easter Vigil.
 * **1 John 4.7-21** continues the series in 1 John, and says, 'God is love, and those who abide in love abide in God, and God abides in them', providing connections with the reading from John.
 * **John 15.1-8** continues the series in John, and begins a series on the 'farewell discourse' with a two-part series on John 15. Jesus is the true vine, and he calls the 'branches' to 'abide in me' (as in the reading from 1 John) and hence to 'bear much fruit'.
 
 Year C
 
 * **Acts 11.1-18** continues the series in Acts, recounting the spread of the gospel to the Gentiles. **Psalm 148** [or 148.1-6] invites 'all peoples' and all creation to 'Praise the Lord'.
-* (For the alternative first reading, **Baruch 3.9-15, 32 &ndash; 4.4**, or **Genesis 22.1-18**, see Easter Vigil.)
+* For the alternative first reading, **Baruch 3.9-15, 32 &ndash; 4.4**, or **Genesis 22.1-18**, see Easter Vigil.
 * **Revelation 21.1-6** continues the series in Revelation, featuring the end of death.
 * **John 13.31-35** continues the series in John, and begins a series on the 'farewell discourse'. Jesus begins to prepare his disciples for his departure.
 
@@ -946,7 +946,7 @@ As the Sunday before the Rogation Days (the weekdays before Ascension Day), this
 Year A
 
 * **Acts 17.22-31** continues the series in Acts, and features Paul's speech to the Areopagus. Paul speaks of God who 'gives to all mortals life and breath and all things' (Rogation), and concludes by speaking of the resurrection of Jesus.
-* (The alternative first reading, **Genesis 8.20 &ndash; 9.17**, concludes the series on the flood in Genesis.)
+* The alternative first reading, **Genesis 8.20 &ndash; 9.17**, concludes the series on the flood in Genesis.
 * **Psalm 66.7-18** (EV: 8-20) praises God for his deliverance and for answered prayer (Rogation).
 * **1 Peter 3.13-22** continues the series in 1 Peter, and is about suffering after the example of Jesus, who 'was put to death in the flesh, but made alive in the spirit'.
 * **John 14.15-21** continues the series in John's 'farewell discourse' (without a gap). Jesus will 'ask the Father' (Rogation) for the gift of 'another Advocate ... the Spirit of truth'.
@@ -954,14 +954,14 @@ Year A
 Year B
 
 * **Acts 10.44-48** continues the series in Acts (continuing the reading from Easter Day without a gap), and recounts 'the gift of the Holy Spirit' being 'poured out even on the Gentiles'. **Psalm 98** says, 'all the ends of the earth have seen the salvation of our God'.
-* (For the alternative first reading, **Isaiah 55.1-11**, see Easter Vigil.)
+* For the alternative first reading, **Isaiah 55.1-11**, see Easter Vigil.
 * **1 John 5.1-6** continues the series in 1 John (without a gap), and is about loving God and obeying his commandments (as in the reading from John).
 * **John 15.9-17** continues the series in John's 'farewell discourse' (without a gap), and is about keeping Jesus' commandments (as in the reading from 1 John), especially his commandment to 'love one another'. The theme of fruit returns, 'so that the Father will give you whatever you ask him in my name' (Rogation).
 
 Year C
 
 * **Acts 16.9-15** continues the series in Acts, recounting Lydia's conversion, as the risen Jesus opens her heart, and as the gospel advances into Europe.
-* (For the alternative first reading, **Ezekiel 37.1-14**, see Easter Vigil.)
+* For the alternative first reading, **Ezekiel 37.1-14**, see Easter Vigil.
 * **Psalm 67** picks up the Rogation theme, asking for a good harvest, but also calls for the nations to praise God, which links with the reading from Acts.
 * **Revelation 21.10, 22 &ndash; 22.5** continues the series on Revelation, focusing on the Holy City.
 * **John 14.23-29** continues the series in John's 'farewell discourse', looking ahead to the gift of the Spirit.
@@ -972,9 +972,9 @@ Year C
 Years A, B and C
 
 * **Acts 1.1-11** (see BCP) recounts Jesus' ascension.
-* (The alternative first reading, **Daniel 7.9-14**, has the Son of Man approaching the Ancient of Days and being given authority.)
+* The alternative first reading, **Daniel 7.9-14**, has the Son of Man approaching the Ancient of Days and being given authority.
 * **Psalm 47** picks up the ascension theme ('God has gone up').
-* (The alternative, **Psalm 93**, celebrates the reign of 'the Lord on high'.)
+* The alternative, **Psalm 93**, celebrates the reign of 'the Lord on high'.
 * **Ephesians 1.15-23** celebrates Christ's ascension to the heavenly realms.
 * **Luke 24.44-53** recounts Jesus' ascension.
 
@@ -1016,20 +1016,20 @@ The reading from Acts and the psalm are the same every year.
 
 Year A
 
-* (The alternative first reading, **Numbers 11.24-30**, has Moses saying, 'Would that all the Lord’s people were prophets, and that the Lord would put his spirit on them!')
+* The alternative first reading, **Numbers 11.24-30**, has Moses saying, 'Would that all the Lord’s people were prophets, and that the Lord would put his spirit on them!'
 * **1 Corinthians 12.3b-13** is about the gifts of the Spirit (including tongues), and says, 'in the one Spirit we were all baptized into one body'.
 * **John 20.19-23** concludes the series in John, and says that Jesus 'breathed on [his disciples] and said to them, "Receive the Holy Spirit."'
-* (The alternative Gospel reading, **John 7.37-39**, is about Jesus' promise of 'living water', which is explained as being 'about the Spirit'.)
+* The alternative Gospel reading, **John 7.37-39**, is about Jesus' promise of 'living water', which is explained as being 'about the Spirit'.
 
 Year B
 
-* (For the alternative first reading, **Ezekiel 37.1-14**, see Easter Vigil.)
+* For the alternative first reading, **Ezekiel 37.1-14**, see Easter Vigil.
 * **Romans 8.22-27** speaks of 'the first fruits of the Spirit', and says 'the Spirit helps us in our weakness' and 'intercedes for the saints'.
 * **John 15.26-27; 16.4b-15** continues the series in John, and concludes the series in the 'farewell discourse'. Jesus will send the 'Advocate', the 'Spirit of truth', who will 'testify'.
 
 Year C
 
-* (The alternative first reading, **Genesis 11.1-9**, recounts Babel, of which Pentecost is something of a reversal.)
+* The alternative first reading, **Genesis 11.1-9**, recounts Babel, of which Pentecost is something of a reversal.
 * **Romans 8.14-17** is about the work of the Spirit.
 * **John 14.8-17 [25-27]** (see BCP) continues the series John's 'farewell discourse', with Jesus' promise of the Spirit.
 
@@ -1688,10 +1688,10 @@ Matthew was a tax-collector. This is reflected in the readings.
 Michael the archangel is mentioned four times in Scripture: Daniel 10.13-21 and 12.1, Jude 9 and Revelation 12.7.
 
 * **Genesis 28.10-17** is Jacob's dream of a 'ladder' with 'the angels of God ... ascending and descending on it', which is echoed in the Gospel reading.
-* (See below for the alternative, **Revelation 12.7-12**.)
+* See below for the alternative, **Revelation 12.7-12**.
 * **Psalm 103.19-22** says, 'Bless the Lord, you angels of his'.
 * **Revelation 12.7-12** (see BCP) is about 'Michael and his angels' fighting against 'the dragon ... and his angels'.
-* Alternatively, the passage from Revelation can be the first reading, with **Hebrews 1.5-14** as the second reading, contrasting angels with the Son: see 1.1-4 and 2.1-4.)
+* Alternatively, the passage from Revelation can be the first reading, with **Hebrews 1.5-14** as the second reading, contrasting angels with the Son: see 1.1-4 and 2.1-4.
 * **John 1.47-51** has Jesus saying to Nathanael, 'you will see heaven opened and the angels of God ascending and descending upon the Son of Man', echoing the Old Testament reading.
 
 ## Luke the Evangelist (18 October) {#luke}
@@ -1731,7 +1731,7 @@ According to rule 6 at the top of the [lectionary](https://www.churchofengland.o
 > If there are only two readings at the principal service on ... the Festivals of ... Stephen, the reading from the Acts of the Apostles must always be used.
 
 * **2 Chronicles 24.20-22** is about the stoning of Zechariah (who said as he was dying, 'May the Lord see and avenge!').
-* (See below for the alternative, **Acts 7.51-60**.)
+* See below for the alternative, **Acts 7.51-60**.
 * **Psalm 119.161-168** speaks of being 'persecuted ... without a cause'.
 * **Acts 7.51-60** (see BCP) is about the stoning of Stephen (who said as he was dying, 'Lord, do not hold this sin against them').
 * Alternatively, the passage from Acts can be the first reading, with **Galatians 2.16b-20** as the second reading, which speaks of having been 'crucified with Christ'.
