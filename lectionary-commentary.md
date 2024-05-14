@@ -15,7 +15,7 @@ Any feedback? Please [contact](/contact/) me!
 * Year A: complete
 * Year B: complete from Advent 1 to Pentecost
 * Year C: complete from Palm Sunday onwards
-* Festivals: complete from 1 January to 1 May, and from September to December
+* Festivals: complete from 1 January to 14 May, and from September to December
 * Appendix: Gospels: complete for Matthew 1-14, Luke and John
 
 # Contents
@@ -1597,10 +1597,10 @@ According to rule 6 at the top of the [lectionary](https://www.churchofengland.o
 
 > If there are only two readings at the principal service on ... the Festivals of Matthias ..., the reading from the Acts of the Apostles must always be used.
 
-* **Isaiah 22.15-25**
-* **Psalm 15**
-* **Acts 1.15-26** (see BCP)
-* **John 15.9-17**
+* **Isaiah 22.15-25** is about Shebna being thrust from his office and Eliakim taking his place (as Matthias took the place of Judas).
+* **Psalm 15** says that the one who 'leads an uncorrupt life ... shall never fall' (like Matthias, and unlike Judas).
+* **Acts 1.15-26** (see BCP) is about Matthias being chosen by the 'Lord' (Jesus) to take the place of Judas.
+* **John 15.9-17** has Jesus saying, 'You did not choose me but I chose you'.
 
 ## The Visit of the Blessed Virgin Mary to Elizabeth (31 May) {#visit}
 
