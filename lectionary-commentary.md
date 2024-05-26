@@ -13,10 +13,10 @@ Any feedback? Please [contact](/contact/) me!
 **_Work in progress!_**
 
 * Year A: complete
-* Year B: complete from Advent 1 through to Trinity and Proper 7
+* Year B: complete from Advent 1 through to Trinity and Proper 8
 * Year C: complete from Palm Sunday onwards
 * Festivals: complete from 1 January to 14 May, and from September to December
-* Appendix: Gospels: complete for Matthew 1-14, Mark 1-4, Luke and John
+* Appendix: Gospels: complete for Matthew 1-14, Mark 1-5, Luke and John
 
 # Contents
 
@@ -1161,6 +1161,12 @@ Year A
 * **Romans 6.12-23** continues the series in Romans (without a gap), and is about living as slaves of righteousness, not as slaves of sin.
 * **Matthew 10.40-42** continues the series in Matthew (without a gap), and says, 'Whoever welcomes you welcomes me, and whoever welcomes me welcomes the one who sent me. Whoever welcomes a prophet in the name of a prophet will receive a prophet's reward'. The 'Related' reading, **Jeremiah 28.5-9** is about true and false prophets, and looks ahead to the vindication (reward?) of the true prophets. The 'Related' psalm, **Psalm 89.1-4, 15-18** (or 89.8-18) says, 'in your favour you lift up our heads', which might be a prophet's reward.
 
+Year B
+
+* **2 Samuel 1.1, 17-27** continues the series on history and wisdom, and is David's lament over Saul and Jonathan: 'How the mighty have fallen!' **Psalm 130** says, 'If you, Lord, were to mark what is done amiss, O Lord, who could stand?'
+* **2 Corinthians 8.7-15** continues the series in 2 Corinthians, and is about giving in response to 'the generous act of our Lord Jesus Christ'.
+* **Mark 5.21-43** continues the series in Mark, and is about Jairus's daughter being raised to the life, and a woman being healed. The 'Related' reading from the Apocrypha, **Wisdom of Solomon 1.13-15; 2.23-24**, is about God's opposition to death. Alternatively (or as the 'Related' canticle), **Lamentations 3.23-33** is about hoping patiently in God. As an alternative to the 'Related' canticle, the 'Related' psalm, **Psalm 30**, says, 'You brought me up, O Lord, from the dead'.
+
 Year C
 
 * **2 Kings 2.1-2, 6-14** continues the series on the prophets and in 1 and 2 Kings, and is about Elijah being taken into heaven and the water dividing before Elijah and Elisha. (Perhaps coincidentally, there is a link with Luke 9.51, which speaks of Jesus being 'taken up'.) **Psalm 77.1-2, 11-20** [or 77.11-20] is about the waters seeing God and being afraid.
@@ -1994,9 +2000,8 @@ For Matthew, Mark and Luke, the semicontinuous series from Epiphany 3 to the end
 * Mark 4.25: Matthew 25.14-30.
 * Mark 4.26-34: **Proper 6**.
 * Mark 4.35-41: **Proper 7**.
-* ...
+* Mark 5.1-21: see Luke 8.26-39.
 * Mark 5.21-43: **Proper 8**.
-* ...
 * Mark 6.1-13: **Proper 9**.
 * Mark 6.14-29: **Proper 10**.
 * Mark 6.30-34, 53-56: **Proper 11**.
