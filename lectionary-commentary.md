@@ -13,7 +13,7 @@ Any feedback? Please [contact](/contact/) me!
 **_Work in progress!_**
 
 * Year A: complete
-* Year B: complete from Advent 1 to Pentecost
+* Year B: complete from Advent 1 to Trinity
 * Year C: complete from Palm Sunday onwards
 * Festivals: complete from 1 January to 14 May, and from September to December
 * Appendix: Gospels: complete for Matthew 1-14, Luke and John
@@ -1050,7 +1050,9 @@ Year A
 
 Year B
 
-* **John 3.1-17** (see BCP) concludes the series in John ...
+* **Isaiah 6.1-8** is Isaiah's vision of God who is worshipped as 'Holy, holy, holy', hinting at God being Trinity. **Psalm 29** says, 'worship the Lord in the beauty of holiness', and 'in his temple all cry, "Glory!"'
+* **Romans 8.12-17** refers to all three Persons of the Trinity: those who are 'led by the Spirit of God' are 'children of God' and 'joint heirs with Christ'.
+* **John 3.1-17** (see BCP) concludes the series in John, and speaks of the three Persons of the Trinity: being 'born of the Spirit' and believing in God's Son.
 
 Year C
 
