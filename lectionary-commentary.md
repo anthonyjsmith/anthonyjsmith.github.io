@@ -13,10 +13,10 @@ Any feedback? Please [contact](/contact/) me!
 **_Work in progress!_**
 
 * Year A: complete
-* Year B: complete from Advent 1 through to Trinity and Proper 4
+* Year B: complete from Advent 1 through to Trinity and Proper 6
 * Year C: complete from Palm Sunday onwards
 * Festivals: complete from 1 January to 14 May, and from September to December
-* Appendix: Gospels: complete for Matthew 1-14, Luke and John
+* Appendix: Gospels: complete for Matthew 1-14, Mark 1-3, Luke and John
 
 # Contents
 
@@ -1100,6 +1100,12 @@ Year A
 * **Romans 4.13-25** continues the series in Romans, and is about the fulfilment of God's promise to Abraham (the connection with the first reading might be deliberate).
 * **Matthew 9.9-13, 18-26** continues the series in Matthew, and is about Jesus calling Matthew and eating with 'tax-collectors and sinners', and then about Jesus restoring a girl to life and healing a woman. (The gap in the reading could be filled to include material that is otherwise omitted from the lectionary.) The 'Related' reading, **Hosea 5.15 &ndash; 6.6**, says, 'I desire steadfast love [mercy] and not sacrifice', which is quoted in the Gospel reading. The 'Related' psalm, **Psalm 50.7-15**, has God testifying against Israel, despite their sacrifices.
 
+Year B
+
+* **1 Samuel 8.4-11 [12-15] 16-20 [11.14-15]** continues the series on history and wisdom, and is about Israel's request for a king [Saul]. **Psalm 138** says, 'All the kings of the earth shall praise you, O Lord'.
+* **2 Corinthians 4.13 &ndash; 5.1** continues the series in 2 Corinthians (without a gap), and is about having faith and speaking, despite affliction.
+* **Mark 3.20-35** continues the series in Mark, and is about Jesus and Beelzebul, Satan, forgiveness, and Jesus' true family. The 'Related' reading, **Genesis 3.8-15**, includes God's judgment on the serpent. The 'Related' psalm, **Psalm 130**, says, 'But there is forgiveness with you'.
+
 Year C
 
 * **1 Kings 17.8-16 [17-24]** continues the series on the prophets and in 1 and 2 Kings (out of sequence, presumably to give some connections with the Gospel reading), and tells of Elijah providing for the widow in Zaraphath [and raising her son: see the Gospel reading]. **Psalm 146** rejoices in the Lord's provision for the orphan and widow.
@@ -1113,6 +1119,12 @@ Year A
 * **Genesis 18.1-15 [21.1-7]** continues the series in the Pentateuch and in Genesis, and is about the promise [and birth] of Isaac. **Psalm 116.1, 10-17** (EV: 1-2, 12-19) [or 116.9-17 (EV: 10-19)] expresses the kind of grateful response Abraham and Sarah would have made for the gift of a son.
 * **Romans 5.1-8** continues the series in Romans (without a gap), and is about sinners being justified by faith.
 * **Matthew 9.35 &ndash; 10.8 [9-23]** continues the series in Matthew, and is about the calling of the twelve apostles, and their mission 'to the lost sheep of the house of Israel'. The 'Related' reading, **Exodus 19.2-8a**, is about Israel's vocation (to which Jesus presumably calls them to return). The 'Related' psalm, **Psalm 100**, says, 'we are his people and the sheep of his pasture'.
+
+Year B
+
+* **1 Samuel 15.34 &ndash; 16.13** continues the series on history and wisdom, and is about Samuel anointing David to replace Saul as king. **Psalm 20** says, 'Now I know that the Lord will save his anointed'.
+* **2 Corinthians 5.6-10 [11-13] 14-17** continues the series in 2 Corinthians, and is about walking 'by faith, not by sight' or 'from a human point of view' (providing some links with the reading from 1 Samuel).
+* **Mark 4.26-34** continues the series in Mark, and features two parables of growth. The 'Related' reading, **Ezekiel 17.22-24**, is about God planting a 'sprig' to grow and become 'a noble cedar'. The 'Related' psalm, **Psalm 92.1-4, 12-15** [or 92.1-8], praises God for his works and says, 'The righteous shall flourish like a palm tree, and shall spread abroad like a cedar of Lebanon' (12).
 
 Year C
 
@@ -1961,13 +1973,18 @@ For Matthew, Mark and Luke, the semicontinuous series from Epiphany 3 to the end
 * Mark 2.14-17: see Matthew 9.9-13, 18-26.
 * Mark 2.18-22: omitted, along with its parallels in Matthew 9.14-17 and Luke 5.33-39 (NB: RCL 'Proper 3').
 * Mark 2.23 &ndash; 3.6: **Proper 4**
-* ...
+* Mark 3.7-12: omitted.
+* Mark 3.13-19: see Matthew 9.35 &ndash; 10.8.
 * Mark 3.20-35: **Proper 5**.
-* ...
-* Mark 4.1-9, 14-20: see Matthew 13.1-9, 18-23.
-* Mark 4.10-12: omitted, along with its parallels in Matthew 13.10-17 and Luke 8.9-10.
-* Mark 4.13: omitted
-* ...
+* Mark 4.1-20...
+  * Mark 4.1-9, 14-20: see Matthew 13.1-9, 18-23.
+  * Mark 4.10-12: omitted, along with its parallels in Matthew 13.10-17 and Luke 8.9-10.
+  * Mark 4.13: omitted.
+* Mark 4.21: see Matthew 5.13-20.
+* Mark 4.22: see Matthew 10.24-39.
+* Mark 4.23: common saying, included elsewhere ('Let anyone with ears to hear listen!').
+* Mark 4.24: see Luke 6.27-38.
+* Mark 4.25: Matthew 25.14-30.
 * Mark 4.26-34: **Proper 6**.
 * Mark 4.35-41: **Proper 7**.
 * ...
