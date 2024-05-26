@@ -13,10 +13,10 @@ Any feedback? Please [contact](/contact/) me!
 **_Work in progress!_**
 
 * Year A: complete
-* Year B: complete from Advent 1 through to Trinity and Proper 6
+* Year B: complete from Advent 1 through to Trinity and Proper 7
 * Year C: complete from Palm Sunday onwards
 * Festivals: complete from 1 January to 14 May, and from September to December
-* Appendix: Gospels: complete for Matthew 1-14, Mark 1-3, Luke and John
+* Appendix: Gospels: complete for Matthew 1-14, Mark 1-4, Luke and John
 
 # Contents
 
@@ -1139,6 +1139,13 @@ Year A
 * **Genesis 21.8-21** continues the series in the Pentateuch and in Genesis (without a gap, if the optional verses were included last week), and is about Hagar and Ishmael. **Psalm 86.1-10, 16-17** [or 86.1-10] echoes Hagar's cry of distress, particularly, 'save the child of your handmaid'.
 * **Romans 6.1b-11** continues the series in Romans, and is about dying and rising with Christ.
 * **Matthew 10.24-39** continues the series in Matthew (without a gap, if the optional verses were included last week), and is about not being afraid of persecution. The 'Related' reading, **Jeremiah 20.7-13**, is Jeremiah's response to persecution. The 'Related' psalm, **Psalm 69.8-11 [12-17] 18-20** (EV: 7-10 [11-15] 16-18) [or 69.14-20 (EV: 13-18)] is a prayer for deliverance from persecution.
+
+Year B
+
+* **1 Samuel 17.[1a, 4-11, 19-23] 32-49** continues the series on history and wisdom, and is about David's victory over Goliath. **Psalm 9.9-20** is about God's deliverance of the oppressed.
+* Alternatively, **1 Samuel 17.57 &ndash; 18.5, 10-16** is about Jonathan making a covenant with David, and Saul trying to kill David. **Psalm 133** reflects on Jonathan's covenant with David: 'Behold how good and pleasant it is to dwell together in unity.'
+* **2 Corinthians 6.1-13** continues the series in 2 Corinthians, and is about Paul's afflictions.
+* **Mark 4.35-41** continues the series in Mark (without a gap), and is about Jesus stilling the storm. The 'Related' reading, **Job 38.1-11**, has God saying to the sea, 'here shall your proud waves be stopped'. The 'Related' psalm, **Psalm 107.1-3, 23-32** [or 107.23-32], says of God, 'He made the storm be still and the waves of the sea were calmed.'
 
 Year C
 
