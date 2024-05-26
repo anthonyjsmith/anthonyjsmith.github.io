@@ -13,7 +13,7 @@ Any feedback? Please [contact](/contact/) me!
 **_Work in progress!_**
 
 * Year A: complete
-* Year B: complete from Advent 1 to Trinity
+* Year B: complete from Advent 1 through to Trinity and Proper 4
 * Year C: complete from Palm Sunday onwards
 * Festivals: complete from 1 January to 14 May, and from September to December
 * Appendix: Gospels: complete for Matthew 1-14, Luke and John
@@ -426,7 +426,7 @@ Year A
 Year B
 
 * **Revelation 5.1-10** begins a three-part non-sequential series about the revelation of Jesus' glory in Revelation (replacing the RCL readings: 1 Corinthians 6.12-20; 7.29-31; 8.1-13), and is about the 'Lion' who is a 'Lamb', and who is 'worthy to take the scroll'.
-* **John 1.43-51** has Jesus calling Philip and Nathanael, who asks, 'Where did you come to know me?' **1 Samuel 3.1-10 [11-20]** is about God calling Samuel. **Psalm 139.1-5, 12-18** (EV: 1-6, 13-18) [or 139.1-9 (EV: 1-10)] says, 'O Lord, you have searched me out and known me'.
+* **John 1.43-51** has Jesus calling Philip and Nathanael, who asks, 'Where did you come to know me?' **1 Samuel 3.1-10 [11-20]** is about God calling Samuel (see Proper 4). **Psalm 139.1-5, 12-18** (EV: 1-6, 13-18) [or 139.1-9 (EV: 1-10)] says, 'O Lord, you have searched me out and known me'.
 
 Year C
 
@@ -497,7 +497,7 @@ Year A
 
 Year B
 
-* **1 Corinthians 9.16-23** begins a three-part series in 1 and 2 Corinthians, and is about doing everything for the sake of the gospel.
+* **1 Corinthians 9.16-23** begins a two-part series in 1 Corinthians (which would have begun on Epiphany 2 in the RCL), and is about doing everything for the sake of the gospel.
 * **Mark 1.29-39** continues the series in Mark (without a gap), and is about Jesus healing many and proclaiming the message. **Isaiah 40.21-31** says of God, 'He gives power to the faint, and strengthens the powerless.' **Psalm 147.1-12, 21c** (EV: 1-11, 20c) [or 147.1-12 (EV: 1-11)] says of God, 'He heals the brokenhearted and binds up all their wounds.'
 
 Year C
@@ -516,7 +516,7 @@ Year A
 
 Year B
 
-* **1 Corinthians 9.24-27** (see BCP, Septuagesima) continues the series in 1 and 2 Corinthians (without a gap), and is about running in order to receive the prize.
+* **1 Corinthians 9.24-27** (see BCP, Septuagesima) concludes the two-part series in 1 Corinthians (without a gap), and is about running in order to receive the prize.
 * **Mark 1.40-45** continues the series in Mark (without a gap), and is about Jesus cleansing a man with leprosy. **2 Kings 5.1-14** is about Elisha curing Naaman of his leprosy (see Proper 9, Year C). **Psalm 30** gives thanks to God for answered prayer: 'you have healed me'.
 
 Year C
@@ -535,7 +535,7 @@ Year A
 
 Year B
 
-* **2 Corinthians 1.18-22** concludes the series in 1 and 2 Corinthians, and says that 'every one of God’s promises is a "Yes"'.
+* **2 Corinthians 1.18-22** begins a series in 2 Corinthians (see Proper 4-9, NB: RCL 'Proper 3'), and says that 'every one of God’s promises is a "Yes"'.
 * **Mark 2.1-12** continues the series in Mark (without a gap), and is about Jesus healing and forgiving a paralysed man, concluding with amazement: 'We have never seen anything like this!' **Isaiah 43.18-25** says that God is doing 'a new thing': 'I will not remember your sins'. **Psalm 41** says, 'The Lord sustains them on their sickbed; their sickness, Lord, you will remove.'
 
 Year C
@@ -1079,6 +1079,12 @@ Year A
 * **Genesis 6.9-22; 7.24; 8.14-19** begins a 22-week semicontinuous series in the Pentateuch (12 weeks in Genesis, 9 weeks in Exodus and Deuteronomy 34 for the final week), which covers all of the Sundays after Trinity. (In the RCL, the series begins at Genesis 1.1 on Trinity Sunday, whereas in Common Worship that passage is set for 2 before Lent.) A brief account is provided of Noah and the flood. (See also the alternative first readings for Easter 4-6.) **Psalm 46** says, 'Therefore we will not fear, though ... the waters rage and swell'. (Perhaps intentionally, there is a link with the 'floods' in the Gospel reading.)
 * **Romans 1.16, 17; 3.22b-28 [29-31]** begins a 16-part semicontinuous series in Romans, and is about the righteousness of God through faith.
 * **Matthew 7.21-29** continues the series in Matthew (from 2 before Lent), on the theme of hearing and doing, with the house on rock or sand, and the floods coming. (If the reading is extended to begin at verse 16, this would restore to the lectionary some important sayings that are omitted by Common Worship: see RCL 'Proper 3' and Luke 6.43-44.) The 'Related' reading, **Deuteronomy 11.18-21, 26-28**, is about blessing following obedience, and curse following disobedience. The 'Related' psalm, **Psalm 31.1-5, 19-24** [or 31.19-24] mentions God being a 'strong rock', and speaks of the blessings that come from fearing God.
+
+Year B
+
+* **1 Samuel 3.1-10 [11-20]** begins a series on history and wisdom (4 weeks in 1 Samuel, 7 weeks in 2 Samuel, 2 weeks in 1 Kings, 1 week in Song of Solomon, 3 weeks in Proverbs, 1 week in Esther, 4 weeks in Job). This reading begins a series on Samuel, Saul, David and Solomon from 1 and 2 Samuel and 1 Kings, and is about God calling Samuel (see Epiphany 2). **Psalm 139.1-5, 12-18** says, 'you know my sitting down and my rising up'.
+* **2 Corinthians 4.5-12** continues the series in 2 Corinthians (see Proper 3, NB: RCL 'Proper 3'), and says, 'we have this treasure in clay jars'.
+* **Mark 2.23 &ndash; 3.6** continues the series in Mark (from Proper 3, NB: RCL 'Proper 3'), and is about Jesus and the sabbath. The 'Related' reading, **Deuteronomy 5.12-15**, is about the sabbath. The 'Related' psalm, **Psalm 81.1-10**, says, 'I eased their shoulder from the burden', reflecting the sabbath.
 
 Year C
 
@@ -1951,7 +1957,7 @@ For Matthew, Mark and Luke, the semicontinuous series from Epiphany 3 to the end
 * Mark 1.29-39: **Proper 1**.
 * Mark 1.40-45: **Proper 2**.
 * Mark 2.1-12: **Proper 3**.
-* Mark 2.13: omitted.
+* Mark 2.13: omitted (NB: RCL 'Proper 3').
 * Mark 2.14-17: see Matthew 9.9-13, 18-26.
 * Mark 2.18-22: omitted, along with its parallels in Matthew 9.14-17 and Luke 5.33-39 (NB: RCL 'Proper 3').
 * Mark 2.23 &ndash; 3.6: **Proper 4**
