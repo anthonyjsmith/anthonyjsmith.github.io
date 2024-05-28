@@ -13,7 +13,7 @@ Any feedback? Please [contact](/contact/) me!
 **_Work in progress!_**
 
 * Year A: complete
-* Year B: complete from Advent 1 through to Trinity and Proper 8
+* Year B: complete from Advent 1 through Trinity to Proper 8
 * Year C: complete from Palm Sunday onwards
 * Festivals: complete from 1 January to 14 May, and from September to December
 * Appendix: Gospels: complete for Matthew 1-14, Mark 1-5, Luke and John
@@ -1163,7 +1163,7 @@ Year A
 
 Year B
 
-* **2 Samuel 1.1, 17-27** continues the series on history and wisdom, and is David's lament over Saul and Jonathan: 'How the mighty have fallen!' **Psalm 130** says, 'If you, Lord, were to mark what is done amiss, O Lord, who could stand?'
+* **2 Samuel 1.1, 17-27** continues the series on history and wisdom, and is David's lament over Saul and Jonathan: 'How the mighty have fallen!' **Psalm 130** begins, 'Out of the depths have I cried to you, O Lord', perhaps reflecting David's grief.
 * **2 Corinthians 8.7-15** continues the series in 2 Corinthians, and is about giving in response to 'the generous act of our Lord Jesus Christ'.
 * **Mark 5.21-43** continues the series in Mark, and is about Jairus's daughter being raised to the life, and a woman being healed. The 'Related' reading from the Apocrypha, **Wisdom of Solomon 1.13-15; 2.23-24**, is about God's opposition to death. Alternatively (or as the 'Related' canticle), **Lamentations 3.23-33** is about hoping patiently in God. As an alternative to the 'Related' canticle, the 'Related' psalm, **Psalm 30**, says, 'You brought me up, O Lord, from the dead'.
 
