@@ -15,7 +15,7 @@ Any feedback? Please [contact](/contact/) me!
 * Year A: complete
 * Year B: complete from Advent 1 through Trinity to Proper 8
 * Year C: complete from Palm Sunday onwards
-* Festivals: complete from 1 January to 14 May, and from September to December
+* Festivals: complete except for 11 June to 24 August
 * Appendix: Gospels: complete for Matthew 1-14, Mark 1-5, Luke and John
 
 # Contents
@@ -1640,6 +1640,11 @@ According to rule 6 at the top of the [lectionary](https://www.churchofengland.o
 Also known as the Visitation.
 
 31 May usually falls between Easter and Trinity, so this Festival can rarely be celebrated on a Sunday (unless it is the Patronal Festival celebrated as a Principal Feast).
+
+* **Zephaniah 3.14-18** calls on 'daughter Zion' to rejoice, because 'The L<span style="font-variant:small-caps">ord</span>, your God, is in your midst'.
+* **Psalm 113** says that God 'raises the poor from the dust' and 'gives the barren woman a place in the house and makes her a joyful mother of children'.
+* **Romans 12.9-16** says, 'Rejoice with those who rejoice'.
+* **Luke 1.39-49 [50-56]** has Mary visiting Elizabeth after the annunciation. At Mary's greeting, the child in Elizabeth's womb (John the Baptist) leaps for joy, Elizabeth cries out, 'Blessed...', and Mary responds with the Magnificat.
 
 ## Barnabas the Apostle (11 June) {#barnabas}
 
