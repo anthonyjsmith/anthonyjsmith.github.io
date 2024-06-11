@@ -15,7 +15,7 @@ Any feedback? Please [contact](/contact/) me!
 * Year A: complete
 * Year B: complete from Advent 1 through Trinity to Proper 8
 * Year C: complete from Palm Sunday onwards
-* Festivals: complete except for 11 June to 24 August
+* Festivals: complete except for 24 June to 24 August
 * Appendix: Gospels: complete for Matthew 1-14, Mark 1-5, Luke and John
 
 # Contents
@@ -1654,10 +1654,13 @@ According to rule 6 at the top of the [lectionary](https://www.churchofengland.o
 
 > If there are only two readings at the principal service on ... the Festivals of ... Barnabas ..., the reading from the Acts of the Apostles must always be used.
 
-* **Job 29.11-16** or **Acts 11.19-30** (see BCP)
-* **Psalm 112**
-* **Acts 11.19-30** (see BCP) or **Galatians 2.1-10**
-* **John 15.12-17** (see BCP)
+Barnabas first appears in Acts 4.32-37, which says that his name means 'son of encouragement', and that he sold a field in order to help believers who were in need.
+
+* **Job 29.11-16** has Job saying, 'I delivered the poor who cried,' and, 'I was a father to the needy'.
+* **Psalm 112** says that the righteous 'have given freely to the poor'.
+* **Acts 11.19-30** (see BCP) has Barnabas being sent from Jerusalem to Antioch, and then being sent back (with Saul) in order to 'send relief to the believers living in Judea'.
+* Alternatively, the passage from Acts can be the first reading, with **Galatians 2.1-10** as the second reading, which is about Paul's visit to Jerusalem with Barnabas, including the request they received to 'remember the poor'.
+* **John 15.12-17** (see BCP) includes the commandment to 'love one another', and has Jesus saying, 'I appointed you to go and bear fruit'.
 
 ## The Birth of John the Baptist (24 June) {#jtb}
 
