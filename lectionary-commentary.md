@@ -15,7 +15,7 @@ Any feedback? Please [contact](/contact/) me!
 * Year A: complete
 * Year B: complete from Advent 1 through Trinity to Proper 8
 * Year C: complete from Palm Sunday onwards
-* Festivals: complete except for 24 June to 24 August
+* Festivals: complete except for 29 June to 24 August
 * Appendix: Gospels: complete for Matthew 1-14, Mark 1-5, Luke and John
 
 # Contents
@@ -1664,10 +1664,11 @@ Barnabas first appears in Acts 4.32-37, which says that his name means 'son of e
 
 ## The Birth of John the Baptist (24 June) {#jtb}
 
-* **Isaiah 40.1-11**
-* **Psalm 85.7-13**
-* **Acts 13.14b-26** (see BCP) or **Galatians 3.23-29**
-* **Luke 1.57-66, 80** (see BCP)
+* **Isaiah 40.1-11** anticipates John the Baptist: 'In the wilderness prepare the way'.
+* **Psalm 85.7-13** speaks of the way being prepared: 'Righteousness shall go before him and direct his steps in the way' (NRSV: 'make a path for his steps').
+* **Acts 13.14b-26** includes Paul's description of John's ministry.
+* Alternatively, **Galatians 3.23-29** speaks of the law preparing the way for Christ.
+* **Luke 1.57-66, 80** (see BCP) is about the birth of John the Baptist.
 
 ## Peter and Paul, Apostles (29 June) {#pp}
 
