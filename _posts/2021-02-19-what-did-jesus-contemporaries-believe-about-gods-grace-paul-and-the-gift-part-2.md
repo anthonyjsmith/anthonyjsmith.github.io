@@ -13,7 +13,7 @@ date: 2021-02-19 17:54:23.655203000 +00:00
 
 > Grace is everywhere in Second Temple Judaism but not everywhere the same (p. 6).
 
-Since 1977 and the publication of _Paul and Palestinian Judaism_ by E. P. Sanders, there has been a long-running debate about grace. Did the Jews in Jesus' time believe in grace or works? Does God accept us because we are good enough, or does God accept us because of his grace? Many had previously assumed that Judaism at the time of Jesus and Paul was a religion of works-righteousness. But Sanders examined various Jewish texts from that period, and found everywhere he looked: grace, grace, and more grace!
+Since 1977 and the publication of [_Paul and Palestinian Judaism_]({% post_url 2024-06-23-paul-and-palestinian-judaism-e-p-sanders %}) by E. P. Sanders, there has been a long-running debate about grace. Did the Jews in Jesus' time believe in grace or works? Does God accept us because we are good enough, or does God accept us because of his grace? Many had previously assumed that Judaism at the time of Jesus and Paul was a religion of works-righteousness. But Sanders examined various Jewish texts from that period, and found everywhere he looked: grace, grace, and more grace!
 
 So which is it? Grace or works?
 
