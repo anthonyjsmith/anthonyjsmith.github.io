@@ -15,7 +15,7 @@ Any feedback? Please [contact](/contact/) me!
 * Year A: complete
 * Year B: complete from Advent 1 through Trinity to Proper 8
 * Year C: complete from Palm Sunday onwards
-* Festivals: complete except for 29 June to 24 August
+* Festivals: complete except for 3 July to 24 August
 * Appendix: Gospels: complete for Matthew 1-14, Mark 1-5, Luke and John
 
 # Contents
@@ -116,7 +116,7 @@ Any feedback? Please [contact](/contact/) me!
   * [The Visit of the Blessed Virgin Mary to Elizabeth (31 May)](#visit)
   * [Barnabas the Apostle (11 June)](#barnabas)
   * [The Birth of John the Baptist (24 June)](#jtb)
-  * [Peter and Paul, Apostles (29 June)](#pp)
+  * [Peter and Paul, Apostles, or Peter the Apostle (29 June)](#peter)
   * [Thomas the Apostle (3 July)](#thomas)
   * [Mary Magdalene (22 July)](#marymagdalene)
   * [James the Apostle (25 July)](#james)
@@ -1670,10 +1670,20 @@ Barnabas first appears in Acts 4.32-37, which says that his name means 'son of e
 * Alternatively, **Galatians 3.23-29** speaks of the law preparing the way for Christ.
 * **Luke 1.57-66, 80** (see BCP) is about the birth of John the Baptist.
 
-## Peter and Paul, Apostles (29 June) {#pp}
+## Peter and Paul, Apostles, or Peter the Apostle (29 June) {#peter}
 
-* **Acts 12.1-11** (see BCP)
-* **Matthew 16.13-19** (see BCP)
+The readings differ slightly, depending on whether Peter and Paul are celebrated together, or Peter alone.
+
+Both Peter and Paul faced persecution and martyrdom, and this is reflected in the readings.
+
+* _Peter and Paul:_ **Zechariah 4.1-6a, 10b-14** is the vision of the two olive trees (see Revelation 11), which have been associated with Peter and Paul.
+* _Peter alone:_ **Ezekiel 3.22-27** is part of Ezekiel's calling as a prophet, and includes 'cords shall be placed on you, and you shall be bound with them' (see Acts 12).
+* **Psalm 125** says, 'Those who trust in the Lord are like Mount Zion, which cannot be moved, but stands fast for ever', like the 'rock' in Matthew 16.
+* **Acts 12.1-11** (see BCP) is about Peter being imprisoned and chained, and then being rescued by an angel.
+* Alternatively, the passage from Acts can be the first reading, with one of the following as the second reading:
+  * _Peter and Paul:_ **2 Timothy 4.6-8, 17, 18** has Paul anticipating his death, looking ahead to 'the crown of righteousness', and trusting in the Lord to rescue him.
+  * _Peter alone:_ **1 Peter 2.19-25** is about suffering unjustly, after the example of Christ.
+* **Matthew 16.13-19** (see BCP) is Peter's declaration of Jesus as Messiah, with Jesus' response: 'you are Peter, and on this rock I will build my church, and the gates of Hades will not prevail against it'.
 
 ## Thomas the Apostle (3 July) {#thomas}
 
