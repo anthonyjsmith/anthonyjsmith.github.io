@@ -15,7 +15,7 @@ Any feedback? Please [contact](/contact/) me!
 * Year A: complete
 * Year B: complete from Advent 1 through Trinity to Proper 8
 * Year C: complete from Palm Sunday onwards
-* Festivals: complete except for 3 July to 24 August
+* Festivals: complete except for 22 July to 24 August
 * Appendix: Gospels: complete for Matthew 1-14, Mark 1-5, Luke and John
 
 # Contents
@@ -1687,10 +1687,10 @@ Both Peter and Paul faced persecution and martyrdom, and this is reflected in th
 
 ## Thomas the Apostle (3 July) {#thomas}
 
-* **Habakkuk 2.1-4**
-* **Psalm 31.1-6**
-* **Ephesians 2.19-22** (see BCP)
-* **John 20.24-29** (see BCP)
+* **Habakkuk 2.1-4** says, 'the righteous live by their faith', reflecting the mention in the Gospel reading of 'those who have not seen and yet have come to believe'.
+* **Psalm 31.1-6** emphasises that faith is better than sight: 'I hate those who cling to worthless idols; I put my trust in the Lord.'
+* **Ephesians 2.19-22** (see BCP) speaks of the church as being 'built upon the foundation of the apostles and prophets, with Christ Jesus himself as the cornerstone'.
+* **John 20.24-29** (see BCP) is about Thomas believing only after seeing the risen Jesus, who then said, 'Have you believed because you have seen me? Blessed are those who have not seen and yet have come to believe.'
 
 ## Mary Magdalene (22 July) {#marymagdalene}
 
