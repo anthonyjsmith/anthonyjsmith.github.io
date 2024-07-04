@@ -13,7 +13,7 @@ Any feedback? Please [contact](/contact/) me!
 **_Work in progress!_**
 
 * Year A: complete
-* Year B: complete from Advent 1 through Trinity to Proper 8
+* Year B: complete from Advent 1 through Trinity to Proper 9
 * Year C: complete from Palm Sunday onwards
 * Festivals: complete except for 22 July to 24 August
 * Appendix: Gospels: complete for Matthew 1-14, Mark 1-5, Luke and John
@@ -1163,7 +1163,7 @@ Year A
 
 Year B
 
-* **2 Samuel 1.1, 17-27** continues the series on history and wisdom, and is David's lament over Saul and Jonathan: 'How the mighty have fallen!' **Psalm 130** begins, 'Out of the depths have I cried to you, O Lord', perhaps reflecting David's grief.
+* **2 Samuel 1.1, 17-27** continues the series on history and wisdom, and is David's lament over Saul and Jonathan: 'How the mighty have fallen!' (The Gospel reading also has people 'weeping and wailing loudly' following a death.) **Psalm 130** begins, 'Out of the depths have I cried to you, O Lord', perhaps reflecting David's grief.
 * **2 Corinthians 8.7-15** continues the series in 2 Corinthians, and is about giving in response to 'the generous act of our Lord Jesus Christ'.
 * **Mark 5.21-43** continues the series in Mark, and is about Jairus's daughter being raised to the life, and a woman being healed. The 'Related' reading from the Apocrypha, **Wisdom of Solomon 1.13-15; 2.23-24**, is about God's opposition to death. Alternatively (or as the 'Related' canticle), **Lamentations 3.23-33** is about hoping patiently in God. As an alternative to the 'Related' canticle, the 'Related' psalm, **Psalm 30**, says, 'You brought me up, O Lord, from the dead'.
 
@@ -1180,6 +1180,12 @@ Year A
 * **Genesis 24.34-38, 42-49, 58-67** continues the series in the Pentateuch and in Genesis, and is about Abraham's servant finding a wife (Rebekah) for Isaac. **Psalm 45.10-17** is about a royal bride being brought to the king. Alternatively, the canticle, **Song of Solomon 2.8-13** is about the meeting of the woman and her beloved.
 * **Romans 7.15-25a** continues the series in Romans, and is about delighting 'in the law of God' but being 'captive to the law of sin'. (The whole of verse 25 could be included.)
 * **Matthew 11.16-19, 25-30** continues the series in Matthew, and is about negative and positive responses to Jesus, who is 'gentle and humble in heart', and calls all who are weary to come to him. (11.20-24, 'woe to you...', could be included 'when opportunity allows': compare Luke 10.1-11, 16-20, which also omits this bit.) The 'Related' reading, **Zechariah 9.9-12** is about Zion's king coming in humility. The 'Related' psalm, **Psalm 145.8-15** (EV: 8-14), says, 'The Lord is gracious and merciful' and 'loving to everyone'.
+
+Year B
+
+* **2 Samuel 5.1-5, 9-10** continues the series on history and wisdom, and is about David being anointed as king over all Israel in Hebron, and then taking the 'stronghold of Zion' (7), naming it the 'city of David' (9). **Psalm 48** says, 'On Mount Zion, the divine dwelling place, stands the city of the great king.'
+* **2 Corinthians 12.2-10** continues the series in 2 Corinthians, and is about Paul boasting of his weaknesses.
+* **Mark 6.1-13** continues the series in Mark (without a gap), and is about Jesus being met with unbelief in his 'home town' ('Prophets are not without honour, except in their home town'), and then sending the twelve out two by two. The 'Related' reading, **Ezekiel 2.1-5**, is about Ezekiel being sent as a 'prophet' to 'impudent and stubborn' people who will 'refuse to hear'. The 'Related' psalm, **Psalm 123**, calls out to God on account of 'the scorn of the arrogant' and 'the contempt of the proud'.
 
 Year C
 
