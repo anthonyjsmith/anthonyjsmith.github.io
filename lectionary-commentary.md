@@ -13,7 +13,7 @@ Any feedback? Please [contact](/contact/) me!
 **_Work in progress!_**
 
 * Year A: complete
-* Year B: complete from Advent 1 through Trinity to Proper 9
+* Year B: complete from Advent 1 through Trinity to Proper 10
 * Year C: complete from Palm Sunday onwards
 * Festivals: complete except for 22 July to 24 August
 * Appendix: Gospels: complete for Matthew 1-14, Mark 1-5, Luke and John
@@ -535,7 +535,7 @@ Year A
 
 Year B
 
-* **2 Corinthians 1.18-22** begins a series in 2 Corinthians (see Proper 4-9, NB: RCL 'Proper 3'), and says that 'every one of God’s promises is a "Yes"'.
+* **2 Corinthians 1.18-22** begins a seven-part series in 2 Corinthians (see Proper 4-9, NB: RCL 'Proper 3'), and says that 'every one of God’s promises is a "Yes"'.
 * **Mark 2.1-12** continues the series in Mark (without a gap), and is about Jesus healing and forgiving a paralysed man, concluding with amazement: 'We have never seen anything like this!' **Isaiah 43.18-25** says that God is doing 'a new thing': 'I will not remember your sins'. **Psalm 41** says, 'The Lord sustains them on their sickbed; their sickness, Lord, you will remove.'
 
 Year C
@@ -1184,7 +1184,7 @@ Year A
 Year B
 
 * **2 Samuel 5.1-5, 9-10** continues the series on history and wisdom, and is about David being anointed as king over all Israel in Hebron, and then taking the 'stronghold of Zion' (7), naming it the 'city of David' (9). **Psalm 48** says, 'On Mount Zion, the divine dwelling place, stands the city of the great king.'
-* **2 Corinthians 12.2-10** continues the series in 2 Corinthians, and is about Paul boasting of his weaknesses.
+* **2 Corinthians 12.2-10** concludes the series in 2 Corinthians, and is about Paul boasting of his weaknesses.
 * **Mark 6.1-13** continues the series in Mark (without a gap), and is about Jesus being met with unbelief in his 'home town' ('Prophets are not without honour, except in their home town'), and then sending the twelve out two by two. The 'Related' reading, **Ezekiel 2.1-5**, is about Ezekiel being sent as a 'prophet' to 'impudent and stubborn' people who will 'refuse to hear'. The 'Related' psalm, **Psalm 123**, calls out to God on account of 'the scorn of the arrogant' and 'the contempt of the proud'.
 
 Year C
@@ -1200,6 +1200,12 @@ Year A
 * **Genesis 25.19-34** continues the series in the Pentateuch and in Genesis, and is about the birth of Esau and Jacob, and Esau selling his birthright to Jacob. **Psalm 119.105-112** might be related by the theme of holding firmly to something: Jacob holding firmly to Esau's heel, and the psalmist holding firmly to God's word.
 * **Romans 8.1-11** continues the series in Romans (after a gap of only half a verse), and is about life in the Spirit.
 * **Matthew 13.1-9, 18-23** continues the series in Matthew, and is the Parable of the Sower. (13.10-17 could be included 'when opportunity allows'.) The 'Related' reading, **Isaiah 55.10-13**, likens God's word to rain, 'giving seed to the sower'. The 'Related' psalm, **Psalm 65.[1-7] 8-13** (EV: [1-8] 9-13), is about God watering the earth and bringing grain.
+
+Year B
+
+* **2 Samuel 6.1-5, 12b-19** continues the series on history and wisdom, and is about David bringing the ark up into the city of David. **Psalm 24** is about ascending 'the hill of the Lord', and about the triumphal entry of the 'King of glory'.
+* **Ephesians 1.3-14** begins a seven-part series in Ephesians, and is about God blessing us in Christ.
+* **Mark 6.14-29** continues the series in Mark (without a gap), and is about John the Baptist being beheaded by King Herod. The 'Related' reading, **Amos 7.7-15**, is about Amos speaking against King Jeroboam, and facing threats as a consequence. The 'Related' psalm, **Psalm 85.8-13**, says, 'I will listen to what the Lord God will say' (reflecting the role of a prophet), and promises that God's 'salvation is near to those who fear him'.
 
 Year C
 
@@ -1338,7 +1344,7 @@ Year C
 Year A
 
 * **Exodus 16.2-15** continues the series in the Pentateuch and in Exodus, and is about the manna. **Psalm 105.1-6, 37-45** [or 105.37-45] (see also Proper 12, 14 and 17) says, 'They asked and he brought them quails; he satisfied them with the bread of heaven.'
-* **Philippians 1.21-30** begins a 4-part semicontinuous series in Philippians, and is about living 'in a manner worthy of the gospel of Christ'.
+* **Philippians 1.21-30** begins a four-part semicontinuous series in Philippians, and is about living 'in a manner worthy of the gospel of Christ'.
 * **Matthew 20.1-16** continues the series in Matthew, and is the parable of the labourers in the vineyard: 'are you envious because I am generous?' The 'Related' reading, **Jonah 3.10 &ndash; 4.11**, is about Jonah's anger in response God showing mercy to Nineveh: 'a gracious God and merciful, slow to anger, and abounding in steadfast love'. The 'Related' psalm, **Psalm 145.1-8**, says that God is 'gracious and merciful, long-suffering and of great goodness'.
 
 Year C
