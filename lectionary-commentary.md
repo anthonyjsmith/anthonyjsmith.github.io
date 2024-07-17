@@ -13,10 +13,10 @@ Any feedback? Please [contact](/contact/) me!
 **_Work in progress!_**
 
 * Year A: complete
-* Year B: complete from Advent 1 through Trinity to Proper 10
+* Year B: complete up to Proper 11
 * Year C: complete from Palm Sunday onwards
 * Festivals: complete except for 22 July to 24 August
-* Appendix: Gospels: complete for Matthew 1-14, Mark 1-5, Luke and John
+* Appendix: Gospels: complete for Matthew 1-14, Mark 1-6, Luke and John
 
 # Contents
 
@@ -1221,6 +1221,12 @@ Year A
 * **Romans 8.12-25** continues the series in Romans (without a gap), and is about life in the Spirit, suffering, and future glory.
 * **Matthew 13.24-30, 36-43** continues the series in Matthew (without a gap), and is the Parable of the Weeds, speaking of the judgment 'at the end of the age', which is delayed for the sake of the 'righteous'. The 'Related' reading from the Apocrypha, **Wisdom of Solomon 12.13, 16-19**, is a careful selection of verses speaking of God's 'forbearance'. Alternatively, **Isaiah 44.6-8** speaks of God as the one who 'has announced from of old the things to come'. The 'Related' psalm, **Psalm 86.11-17**, is about God being 'slow to anger'.
 
+Year B
+
+* **2 Samuel 7.1-14a** continues the series on history and wisdom, and is about God's promise to make a 'house' for David. **Psalm 89.20-37** speaks of God's promise to David: 'His seed shall endure for ever and his throne as the sun before me'.
+* **Ephesians 2.11-22** continues the series in Ephesians, and is about Christ creating 'in himself one new humanity in place of the two'.
+* **Mark 6.30-34, 53-56** continues the series in Mark (without a gap), and is about Jesus having compassion on the crowd 'because they were like sheep without a shepherd', teaching them, and healing the sick. (Note that John's accounts of the feeding of the 5000 and Jesus walking on the water are included next week.) The 'Related' reading, **Jeremiah 23.1-6**, is about God's promise to 'raise up shepherds' in place of 'the shepherds who destroy and scatter'. The 'Related' psalm, **Psalm 23**, begins, 'The Lord is my shepherd'.
+
 Year C
 
 * **Amos 8.1-12** continues the series on the prophets, and is the second of two weeks in Amos, continuing from last week without a gap. The warnings of judgment are reflected in **Psalm 52**.
@@ -2020,10 +2026,9 @@ For Matthew, Mark and Luke, the semicontinuous series from Epiphany 3 to the end
 * Mark 3.7-12: omitted.
 * Mark 3.13-19: see Matthew 9.35 &ndash; 10.8.
 * Mark 3.20-35: **Proper 5**.
-* Mark 4.1-20...
-  * Mark 4.1-9, 14-20: see Matthew 13.1-9, 18-23.
-  * Mark 4.10-12: omitted, along with its parallels in Matthew 13.10-17 and Luke 8.9-10.
-  * Mark 4.13: omitted.
+* Mark 4.1-9, 14-20: see Matthew 13.1-9, 18-23.
+* Mark 4.10-12: omitted, along with its parallels in Matthew 13.10-17 and Luke 8.9-10.
+* Mark 4.13: omitted.
 * Mark 4.21: see Matthew 5.13-20.
 * Mark 4.22: see Matthew 10.24-39.
 * Mark 4.23: common saying, included elsewhere ('Let anyone with ears to hear listen!').
@@ -2036,7 +2041,8 @@ For Matthew, Mark and Luke, the semicontinuous series from Epiphany 3 to the end
 * Mark 6.1-13: **Proper 9**.
 * Mark 6.14-29: **Proper 10**.
 * Mark 6.30-34, 53-56: **Proper 11**.
-* ...
+* Mark 6.35-44: see Matthew 14.13-21 and John 6.1-21.
+* Mark 6.45-52: see Matthew 14.22-33 and John 6.1-21.
 * Mark 7.1-8, 14, 15, 21-23: **Proper 17**.
 * ...
 * Mark 7.24-37: **Proper 18**.
