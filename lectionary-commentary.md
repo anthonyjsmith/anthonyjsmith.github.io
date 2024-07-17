@@ -16,7 +16,7 @@ Any feedback? Please [contact](/contact/) me!
 * Year B: complete up to Proper 11
 * Year C: complete from Palm Sunday onwards
 * Festivals: complete except for 22 July to 24 August
-* Appendix: Gospels: complete for Matthew 1-14, Mark 1-6, Luke and John
+* Appendix: Gospels: complete for Matthew 1-18, Mark 1-6, Luke and John
 
 # Contents
 
@@ -1938,7 +1938,7 @@ For Matthew, Mark and Luke, the semicontinuous series from Epiphany 3 to the end
 * Matthew 11.1: omitted.
 * Matthew 11.2-11: Advent 3.
 * Matthew 11.12-13: omitted, along with its parallel in Luke 16.16.
-* Matthew 11.14: omitted, along with its parallel in Mark 9.13.
+* Matthew 11.14: omitted, along with its close parallels in Matthew 17.10-13 and Mark 9.11-13.
 * Matthew 11.15: common saying, included elsewhere ('Let anyone with ears listen!').
 * Matthew 11.16-19, 25-30: **Proper 9**.
 * Matthew 11.20-24: omitted, along with its parallel in Luke 10.12-15.
@@ -1965,14 +1965,26 @@ For Matthew, Mark and Luke, the semicontinuous series from Epiphany 3 to the end
 * Matthew 14.13-21: **Proper 13**.
 * Matthew 14.22-33: **Proper 14**.
 * Matthew 14.34-36: see Mark 6.30-34, 53-56.
-* ...
+* Matthew 15.1-3: see Mark 7.1-8, 14, 15, 21-23.
+* Matthew 15.4-6: omitted, along with its parallel in Mark 7.9-13.
+* Matthew 15.7-9: see Mark 7.1-8, 14, 15, 21-23.
 * Matthew 15.[10-20] 21-28: **Proper 15**.
-* ...
+* Matthew 15.29-31: see Mark 7.24-37.
+* Matthew 15.32-39: omitted, along with its parallel in Mark 8.1-10.
+* Matthew 16.1-12: omitted, along with its parallel in Mark 8.11-21.
 * Matthew 16.13-20: **Proper 16** (16.13-19: Peter and Paul).
 * Matthew 16.21-28: **Proper 17**.
-* ...
 * Matthew 17.1-9: 1 before Lent.
-* ...
+* Matthew 17.10-13: omitted, along with its parallel in Mark 9.11-13, and its close parallel in Matthew 11.14.
+* Matthew 17.14-20a: omitted, along with its parallel in Mark 9.14-29
+* Matthew 17.20b-21: see Luke 17.5-10.
+* Matthew 17.22-23: see Mark 9.30-37.
+* Matthew 17.24-27: omitted.
+* Matthew 18.1-5: see Mark 9.30-37.
+* Matthew 18.6-9: see Mark 9.38-50.
+* Matthew 18.10: omitted.
+* Matthew 18.11: see Luke 19.1-10.
+* Matthew 18.12-14: see Luke 15.1-10.
 * Matthew 18.15-20: **Proper 18**.
 * Matthew 18.21-35: **Proper 19**.
 * ...
@@ -1985,6 +1997,7 @@ For Matthew, Mark and Luke, the semicontinuous series from Epiphany 3 to the end
 * Matthew 21.1-11: Palm Sunday.
 * Matthew 21.12-16: Dedication Festival.
 * ...
+* Matthew 21.21-22: see Luke 17.5-10.
 * Matthew 21.23-32: **Proper 21**.
 * Matthew 21.33-46: **Proper 22**.
 * Matthew 22.1-14: **Proper 23**.
@@ -2052,8 +2065,8 @@ For Matthew, Mark and Luke, the semicontinuous series from Epiphany 3 to the end
 * Mark 8.31-38: Lent 2.
 * ...
 * Mark 9.2-9: 1 before Lent.
-* ...
-* Mark 9.13: omitted, along with its parallel in Matthew 11.14.
+* Mark 9.10: omitted
+* Mark 9.11-13: omitted, along with its parallel in Matthew 17.10-13, and its close parallel in Matthew 11.14.
 * ...
 * Mark 9.30-37: **Proper 20**.
 * Mark 9.38-50: **Proper 21**.
@@ -2065,6 +2078,8 @@ For Matthew, Mark and Luke, the semicontinuous series from Epiphany 3 to the end
 * Mark 10.46-52: **Proper 25**.
 * ...
 * Mark 11.1-11: Palm Sunday
+* ...
+* Mark 11.23: see Luke 17.5-10.
 * ...
 * Mark 12.28-34: **4 before Advent**.
 * ...
