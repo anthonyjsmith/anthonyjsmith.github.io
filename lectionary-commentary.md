@@ -541,7 +541,7 @@ Year B
 Year C
 
 * **1 Corinthians 15.35-38, 42-50** concludes the series in 1 Corinthians 15, with extracts from the section on the resurrection body. (15.51-58 is the reading for the following week in the RCL.)
-* **Luke 6.27-38** continues the series in Luke (without a gap), and focuses on loving one's enemies. (6.39-49 is the reading for the following week in the RCL, which is omitted in Common Worship: see discussion below. To fill in the gap, this week's reading could be extended to 6.42 'when opportunity allows'.) (NB: Luke 6.20-31 set for All Saints' Day.) **Genesis 45.3-11, 15** is about Joseph's love for his brothers, who had behaved like his enemies. **Psalm 37.1-11, 40, 41** (EV: 1-11, 39, 40) [or 37.1-7] calls us not to fret about evildoers.
+* **Luke 6.27-38** continues the series in Luke (without a gap), and focuses on loving one's enemies. (6.39-49 is the reading for the following week in the RCL, which is omitted in Common Worship: see discussion below. To fill in the gap, this week's reading could be extended to 6.42 'when opportunity allows'.) (NB: Luke 6.20-31 set for All Saints' Day.) **Genesis 45.3-11, 15** is about Joseph's love for his brothers, who had behaved like his enemies. **Psalm 37.1-11, 40-41** (EV: 1-11, 39-40) [or 37.1-7] calls us not to fret about evildoers.
 
 ## 2 before Lent* {#beforelent2}
 
@@ -623,7 +623,7 @@ Year A
 
 Year B
 
-* **Genesis 17.1-7, 15, 16** is about God's covenant with Abraham and Sarah: 'I will make nations of you'. **Psalm 22.23-31** calls for praise from nations and future generations. **Romans 4.13-25** is about God's promise and Abraham's faith, and quotes Genesis 17: 'for he is the father of all of us, as it is written, "I have made you the father of many nations"'.
+* **Genesis 17.1-7, 15-16** is about God's covenant with Abraham and Sarah: 'I will make nations of you'. **Psalm 22.23-31** calls for praise from nations and future generations. **Romans 4.13-25** is about God's promise and Abraham's faith, and quotes Genesis 17: 'for he is the father of all of us, as it is written, "I have made you the father of many nations"'.
 * **Mark 8.31-38** begins a series looking towards the cross, has Jesus foretelling his death and resurrection, and calling his followers to 'take up their cross'.
 
 ## Lent 3 {#lent3}
@@ -770,7 +770,7 @@ Years A, B and C
 
 * **Job 14.1-14** asks, 'If mortals die, will they live again?'
 * Alternatively, **Lamentations 3.1-9, 19-24** says of God that 'he has made me sit in darkness like the dead of long ago', but expresses hope because 'The steadfast love of the Lord never ceases'.
-* **Psalm 31.1-4, 15, 16** [or 31.1-5] calls to the Lord for deliverance.
+* **Psalm 31.1-4, 15-16** [or 31.1-5] calls to the Lord for deliverance.
 * **1 Peter 4.1-8** says, 'whoever has suffered in the flesh has finished with sin', and that 'the gospel was proclaimed even to the dead'.
 * **Matthew 27.57-66** (see BCP) narrates the burial of Jesus, and the guard being placed at the tomb.
 * Alternatively, **John 19.38-42** narrates the burial of Jesus.
@@ -788,7 +788,7 @@ The readings are the same for Years A, B and C, except for the Gospel reading. '
 * **Genesis 1.1 &ndash; 2.4a** picks up on Easter and baptismal themes of (new) creation out of water, new life, and light out of darkness. **Psalm 136.1-9, 23-26** praises God as Creator.
 * **Genesis 7.1-5, 11-18; 8.6-18; 9.8-13** (also the alternative first reading for Easter 4, spread over three weeks in Year A, Easter 4-6), picks up on the resurrection of Jesus being like passing through the waters of the flood. The dove points towards the gift of the Spirit at Pentecost. **Psalm 46** is about God as a refuge, 'Though the waters rage and swell'.
 * **Genesis 22.1-18** (also the alternative _alternative_ first reading for Easter 5, Years B and C) is about Abraham's beloved son Isaac being taken to the point of death and rescued. **Psalm 16** says, 'Preserve me, O God,' and 'you will not abandon my soul to Death'.
-* **Exodus 14.10-31; 15.20, 21** (also the alternative first reading for Easter 2) draws on the connection between Israel passing through the Red Sea and Jesus passing through death to new life. The canticle **Exodus 15.1b-13, 17, 18** continues the theme.
+* **Exodus 14.10-31; 15.20, 21** (also the alternative first reading for Easter 2) draws on the connection between Israel passing through the Red Sea and Jesus passing through death to new life. The canticle **Exodus 15.1b-13, 17-18** continues the theme.
 * **Isaiah 55.1-11** (also the alternative first reading for Easter 6, Year B) picks up on baptismal themes: 'come to the waters', and 'as the rain and the snow come down from heaven, and do not return there until they have watered the earth ...'. The canticle **Isaiah 12.2-6** says, 'With joy you will draw water from the wells of salvation.'
 * **Baruch 3.9-15, 32 &ndash; 4.4** (from the Apocrypha, also the alternative first reading for Easter 5, Years B and C) is about wisdom, perhaps picking up on the Easter theme of newness of life. (Alternatively, **Proverbs 8.1-8, 19-21; 9.4b-6** is also about wisdom.) **Psalm 19** says, 'the testimony of the Lord ... gives wisdom to the simple'.
 * **Ezekiel 36.24-28** (also the alternative first reading for Easter 7) says to a people in exile, 'I will sprinkle clean water upon you,' and 'I will put my spirit within you'. **Psalms 42, 43** expresses longing for God.
@@ -1002,7 +1002,7 @@ Year B
 Year C
 
 * **Acts 16.16-34** continues the series on Acts (immediately from last Sunday), recounting the resurrection-like deliverance of Paul and Silas from prison. **Psalm 97** echoes the reading from Acts with the earth shaking and people rejoicing.
-* **Revelation 22.12-14, 16, 17, 20, 21** concludes the series on Revelation (in a somewhat redacted fashion). There is a mention of the Spirit, and a longing for Jesus' return, echoing Ascension themes.
+* **Revelation 22.12-14, 16-17, 20-21** concludes the series on Revelation (in a somewhat redacted fashion). There is a mention of the Spirit, and a longing for Jesus' return, echoing Ascension themes.
 * **John 17.20-26** continues the series in John's 'farewell discourse' with the concluding section of Jesus' prayer (see Years A and B). Jesus prays for all believers.
 
 ## Pentecost {#pentecost}
@@ -1271,7 +1271,7 @@ Year A
 
 Year C
 
-* **Isaiah 1.1, 10-20** continues the series on the prophets, and is the first of two weeks in Isaiah (moving on chronologically from Hosea). Both readings are quite hard-hitting, which provides a smooth transition into Jeremiah. (Isaiah's call featured in Proper 1.) God has no pleasure in his people's offerings when their hands are 'full of blood'. **Psalm 50.1-8, 23, 24** (EV: 1-8, 22, 23) [or 50.1-7] speaks of God testifying against his people, despite their sacrifices.
+* **Isaiah 1.1, 10-20** continues the series on the prophets, and is the first of two weeks in Isaiah (moving on chronologically from Hosea). Both readings are quite hard-hitting, which provides a smooth transition into Jeremiah. (Isaiah's call featured in Proper 1.) God has no pleasure in his people's offerings when their hands are 'full of blood'. **Psalm 50.1-8, 23-24** (EV: 1-8, 22-23) [or 50.1-7] speaks of God testifying against his people, despite their sacrifices.
 * **Hebrews 11.1-3, 8-16** begins a series in Hebrews 11-13, and is about the faith of Abraham.
 * **Luke 12.32-40** continues the series in Luke, and is about treasure in heaven and the coming of the Son of Man. The choice of verses seems odd, but it captures the seamless transition between 'don't worry' (22-34) and 'be ready' (35-48). (The reading could be extended to verse 48, 'when opportunity allows'.) The 'Related' reading, **Genesis 15.1-6**, is about Abram looking to his reward and trusting God's promise. The 'Related' psalm, **Psalm 33.12-22** [or 33.12-21] is about waiting for God, who is our 'shield' (Genesis 15.1).
 
@@ -1314,7 +1314,7 @@ Year A
 Year C
 
 * **Jeremiah 2.4-13** continues the series on the prophets and in Jeremiah, and is about God's people forsaking him in favour of 'cracked cisterns'. **Psalm 81.1, 10-16** [or 81.1-11] is about God's desire to 'fill' and 'satisfy' his people, but their refusal to listen.
-* **Hebrews 13.1-8, 15, 16** concludes the series in Hebrews 11-13, and is about the 'sacrifices' that are 'pleasing to God'.
+* **Hebrews 13.1-8, 15-16** concludes the series in Hebrews 11-13, and is about the 'sacrifices' that are 'pleasing to God'.
 * **Luke 14.1, 7-14** continues the series in Luke, and is about taking the place of honour at a feast. (These verses are selected from verses 1-24, which form a single unit. The reading could be extended 'when opportunity allows'.) The 'Related' reading from the Apocrypha, **Ecclesiasticus 10.12-18**, is about pride and humility. The alternative 'Related' reading, **Proverbs 25.6-7**, says it is better to take the humble place and be exalted than vice versa. The 'Related' psalm, **Psalm 112**, says that those who give freely to the poor will be exalted.
 
 ## Sunday between 4 and 10 September (Proper 18) {#proper18}
@@ -1335,7 +1335,7 @@ Year C
 
 Year A
 
-* **Exodus 14.19-31** continues the series in the Pentateuch and in Exodus, and is about the Israelites walking through the sea on dry ground. **Psalm 114** is about the see fleeing 'When Israel went out of Egypt'. Alternatively, the canticle, **Exodus 15.1b-11, 20, 21**, is the song of Moses and Miriam: 'horse and rider he has thrown into the sea'.
+* **Exodus 14.19-31** continues the series in the Pentateuch and in Exodus, and is about the Israelites walking through the sea on dry ground. **Psalm 114** is about the see fleeing 'When Israel went out of Egypt'. Alternatively, the canticle, **Exodus 15.1b-11, 20-21**, is the song of Moses and Miriam: 'horse and rider he has thrown into the sea'.
 * **Romans 14.1-12** concludes the series in Romans (continuing without a gap), and calls us not to judge or despise one another.
 * **Matthew 18.21-35** continues the series in Matthew (without a gap), and includes the parable of the unforgiving servant. The 'Related' reading, **Genesis 50.15-21**, is about Joseph forgiving his brothers. The 'Related' psalm, **Psalm 103.[1-7] 8-13**, says that God 'has not dealt with us according to our sins'.
 
@@ -1699,7 +1699,7 @@ Both Peter and Paul faced persecution and martyrdom, and this is reflected in th
 * **Psalm 125** says, 'Those who trust in the Lord are like Mount Zion, which cannot be moved, but stands fast for ever', like the 'rock' in Matthew 16.
 * **Acts 12.1-11** (see BCP) is about Peter being imprisoned and chained, and then being rescued by an angel.
 * Alternatively, the passage from Acts can be the first reading, with one of the following as the second reading:
-  * _Peter and Paul:_ **2 Timothy 4.6-8, 17, 18** has Paul anticipating his death, looking ahead to 'the crown of righteousness', and trusting in the Lord to rescue him.
+  * _Peter and Paul:_ **2 Timothy 4.6-8, 17-18** has Paul anticipating his death, looking ahead to 'the crown of righteousness', and trusting in the Lord to rescue him.
   * _Peter alone:_ **1 Peter 2.19-25** is about suffering unjustly, after the example of Christ.
 * **Matthew 16.13-19** (see BCP) is Peter's declaration of Jesus as Messiah, with Jesus' response: 'you are Peter, and on this rock I will build my church, and the gates of Hades will not prevail against it'.
 
@@ -1965,9 +1965,9 @@ For Matthew, Mark and Luke, the semicontinuous series from Epiphany 3 to the end
 * Matthew 14.13-21: **Proper 13**.
 * Matthew 14.22-33: **Proper 14**.
 * Matthew 14.34-36: see Mark 6.30-34, 53-56.
-* Matthew 15.1-3: see Mark 7.1-8, 14, 15, 21-23.
+* Matthew 15.1-3: see Mark 7.1-8, 14-15, 21-23.
 * Matthew 15.4-6: omitted, along with its parallel in Mark 7.9-13.
-* Matthew 15.7-9: see Mark 7.1-8, 14, 15, 21-23.
+* Matthew 15.7-9: see Mark 7.1-8, 14-15, 21-23.
 * Matthew 15.[10-20] 21-28: **Proper 15**.
 * Matthew 15.29-31: see Mark 7.24-37.
 * Matthew 15.32-39: omitted, along with its parallel in Mark 8.1-10.
@@ -2056,7 +2056,7 @@ For Matthew, Mark and Luke, the semicontinuous series from Epiphany 3 to the end
 * Mark 6.30-34, 53-56: **Proper 11**.
 * Mark 6.35-44: see Matthew 14.13-21 and John 6.1-21.
 * Mark 6.45-52: see Matthew 14.22-33 and John 6.1-21.
-* Mark 7.1-8, 14, 15, 21-23: **Proper 17**.
+* Mark 7.1-8, 14-15, 21-23: **Proper 17**.
 * ...
 * Mark 7.24-37: **Proper 18**.
 * ...
@@ -2108,7 +2108,7 @@ For Matthew, Mark and Luke, the semicontinuous series from Epiphany 3 to the end
 * Luke 2.22-40: Epiphany 4, Candlemas (2.33-35: Mothering Sunday, first alternative).
 * Luke 2.41-52: Christmas 1.
 * Luke 3.1-6: Advent 2.
-* Luke 3.7-22: 3.7-18: Advent 3; 3.15-17, 21, 22: Epiphany 1 (3.19, 20: see Mark 6.14-29).
+* Luke 3.7-22: 3.7-18: Advent 3; 3.15-17, 21-22: Epiphany 1 (3.19, 20: see Mark 6.14-29).
 * Luke 3.23-38: omitted.
 * Luke 4.1-13: Lent 1.
 * Luke 4.14-21: **Epiphany 3**.
@@ -2131,7 +2131,7 @@ For Matthew, Mark and Luke, the semicontinuous series from Epiphany 3 to the end
   * Luke 6.40: see John 13.1-17, 31b-35.
   * Luke 6.41-42: omitted, along with its parallel in Matthew 7.3-5.
   * Luke 6.43-44: omitted, along with its parallels in Matthew 7.16, 18, 20 and Matthew 11.33-35.
-  * Luke 6.45: see Matthew 12.34-35 (which is omitted) and a near parallel in Mark 7.20-23, which is (mostly) included in Mark 7.1-8, 14, 15, 21-23.
+  * Luke 6.45: see Matthew 12.34-35 (which is omitted) and a near parallel in Mark 7.20-23, which is (mostly) included in Mark 7.1-8, 14-15, 21-23.
   * Luke 6.46-49: see Matthew 7.21-29.
 * Luke 7.1-10: **Proper 4**.
 * Luke 7.11-17: **Proper 5**.
