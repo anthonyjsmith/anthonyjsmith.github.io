@@ -2127,13 +2127,12 @@ For Matthew, Mark and Luke, the semicontinuous series from Epiphany 3 to the end
 * Luke 6.20-31: All Saints' Day.
 * Luke 6.27-38: **Proper 3**.
 * Luke 6.39-49 (NB: RCL 'Proper 3')...
-  * Luke 6.39 ('Can a blind person guide a blind person?'): see Matthew 15.14, which is included in Matthew 15.[10-20] 21-28.
-  * Luke 6.40 ('A disciple is not above the teacher'): see John 13.16, which is included on Maundy Thursday.
-  * Luke 6.41-42 ('speck ... log'): omitted, along with its parallel in Matthew 7.3-5.
-  * Luke 6.43-44 ('tree is known by its fruit'): omitted, along with its parallels in Matthew 7.16, 18, 20 and Matthew 11.33-35.
-  * Luke 6.45 ('it is out of the abundance of the heart that the mouth speaks'): see Matthew 12.34-35 (which is omitted) and a near parallel in Mark 7.20-23, which is (mostly) included in Mark 7.1-8, 14, 15, 21-23.
-  * Luke 6.46 ('Lord ... do what I say'): see Matthew 7.21, which is included in 7.21-29.
-  * Luke 6.47-49 ('house ... without a foundation'): see Matthew 7.24-27, which is included in 7.21-29.
+  * Luke 6.39: see Matthew 15.[10-20] 21-28.
+  * Luke 6.40: see John 13.1-17, 31b-35.
+  * Luke 6.41-42: omitted, along with its parallel in Matthew 7.3-5.
+  * Luke 6.43-44: omitted, along with its parallels in Matthew 7.16, 18, 20 and Matthew 11.33-35.
+  * Luke 6.45: see Matthew 12.34-35 (which is omitted) and a near parallel in Mark 7.20-23, which is (mostly) included in Mark 7.1-8, 14, 15, 21-23.
+  * Luke 6.46-49: see Matthew 7.21-29.
 * Luke 7.1-10: **Proper 4**.
 * Luke 7.11-17: **Proper 5**.
 * Luke 7.18-35: see Matthew 11.2-19, which is mostly covered on two separate occasions by Matthew 11.2-11 and 16-19.
