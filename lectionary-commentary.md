@@ -15,7 +15,7 @@ Any feedback? Please [contact](/contact/) me!
 * Year A: complete
 * Year B: complete up to Proper 11
 * Year C: complete from Palm Sunday onwards
-* Festivals: complete except for 22 July to 24 August
+* Festivals: complete except for 25 July to 24 August
 * Appendix: Gospels: complete for Matthew 1-18, Mark 1-6, Luke and John
 
 # Contents
@@ -1711,6 +1711,13 @@ Both Peter and Paul faced persecution and martyrdom, and this is reflected in th
 * **John 20.24-29** (see BCP) is about Thomas believing only after seeing the risen Jesus, who then said, 'Have you believed because you have seen me? Blessed are those who have not seen and yet have come to believe.'
 
 ## Mary Magdalene (22 July) {#marymagdalene}
+
+The focus is on Mary Magdalene seeing the risen Christ.
+
+* **Song of Solomon 3.1-4** says, 'I found him whom my soul loves' and 'I held him, and would not let him go'.
+* **Psalm 42.1-10** (EV: 1-8) expresses a tearful longing for 'the presence of God'.
+* **2 Corinthians 5.14-17** speaks of Christ being raised, and says, 'even though we once knew Christ from a human point of view, we know him no longer in that way'.
+* **John 20.1-2, 11-18** is about Mary Magdalene 'weeping outside the tomb', then encountering the risen Jesus, who said, 'Do not hold on to me'.
 
 ## James the Apostle (25 July) {#james}
 
