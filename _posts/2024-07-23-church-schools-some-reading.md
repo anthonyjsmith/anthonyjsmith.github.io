@@ -5,6 +5,7 @@ description: Many children are in Church of England schools. I’ve been reading
 tags:
 - Christianity
 - Culture
+- Reviews
 date: 2024-07-23 10:33:12.150253000 +01:00
 ---
 In England, around 19% of primary school pupils and around 6% of secondary pupils [are in Church of England schools](https://www.churchofengland.org/about/education-and-schools/education-publications/deeply-christian-serving-common-good-2016).
