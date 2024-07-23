@@ -1,5 +1,5 @@
 ---
-title: 'Church Schools: some reading'
+title: 'Church schools: some reading'
 description: Many children are in Church of England schools. I’ve been reading a few
   bits and pieces to help me to understand what church schools are all about.
 tags:
