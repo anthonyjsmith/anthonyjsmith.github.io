@@ -13,7 +13,7 @@ Any feedback? Please [contact](/contact/) me!
 **_Work in progress!_**
 
 * Year A: complete
-* Year B: complete up to Proper 11
+* Year B: complete up to Proper 12
 * Year C: complete from Palm Sunday onwards
 * Festivals: complete except for 25 July to 24 August
 * Appendix: Gospels: complete for Matthew 1-18, Mark 1-6, Luke and John
@@ -1240,6 +1240,12 @@ Year A
 * **Genesis 29.15-28** continues the series in the Pentateuch and in Genesis, and is about Jacob marrying Laban's daughters. **Psalm 105.1-11, 45b** [or 105.1-11] (see also Proper 14, 17 and 20) speaks of God's faithfulness to his covenant with Abraham, Isaac and Jacob. Alternatively, **Psalm 128** speaks of God's blessing in terms of wife and children.
 * **Romans 8.26-39** continues the series in Romans (without a gap), and is about 'the love of God in Christ Jesus our Lord'.
 * **Matthew 13.31-33, 44-52** continues the series in Matthew (without a gap), and consists of several parables, likening understanding to treasure. The 'Related' reading, **1 Kings 3.5-12**, speaks of Solomon's request for 'an understanding mind', which is more precious than riches. The 'Related' psalm, **Psalm 119.129-136** echoes Solomon's request: 'Order my steps by your word ... and teach me your statutes'.
+
+Year B
+
+* **2 Samuel 11.1-15** continues the series on history and wisdom, and is about David and Bathsheba (to be continued next week). **Psalm 14** says, 'there is no one that does good'.
+* **Ephesians 3.14-21** continues the series in Ephesians, and is Paul's prayer for his readers 'to know the love of Christ'.
+* **John 6.1-21** begins a five-part series covering most of John 6 (acting as an interlude in the series in Mark), and is about Jesus feeding the 5000 and walking on the water (filling the gap in last week's reading from Mark 6). The 'Related' reading, **2 Kings 4.42-44**, is about Elisha feeding 100 people. The 'Related' psalm, **Psalm 145.10-19** (EV: 10-18), says, 'The eyes of all wait upon you, O Lord, and you give them their food in due season. You open wide your hand and fill all things living with plenty.'
 
 Year C
 
