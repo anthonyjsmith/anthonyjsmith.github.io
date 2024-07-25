@@ -234,6 +234,8 @@ Psalm references are to the Common Worship psalter. Where the versification is d
 
 Depending on the day of the week for Christmas and the Epiphany, and the date of Easter, lectionary provision for days marked with * might not be used in any given year. Other days might also be displaced for various reasons.
 
+Readings that are the same as (or overlap with) the 'Epistles and Gospels' printed in the Book of Common Prayer are marked with '(see BCP)', while those that are the same as (or overlap with) the supplementary readings in 'A Lectionary and Additional Collects for Holy Communion (Book of Common Prayer)' (linked from the [Common Worship Lectionary page](https://www.churchofengland.org/prayer-and-worship/worship-texts-and-resources/common-worship/churchs-year/lectionary)) are marked with '(see BCP+)'.
+
 # Advent {#advent}
 
 The readings are more strongly related to the themes of Advent than they are to each other within each Sunday.
@@ -256,6 +258,10 @@ Year B
 * **Psalm 80.1-8, 18-20** (EV: 1-7, 17-19) [or 80.1-8 (EV: 1-7)] calls on God to 'come to our salvation' and 'show the light of your countenance', and speaks of 'the man at your right hand, the son of man you made so strong for yourself'.
 * **1 Corinthians 1.3-9** speaks of waiting 'for the revealing of our Lord Jesus Christ' and 'the day of our Lord Jesus Christ'.
 * **Mark 13.24-37** speaks of 'the Son of Man coming in clouds' and about 'that day or hour' being unknown: 'Keep awake.'
+
+Year C
+
+* **Psalm 25.1-9** (see BCP+).
 
 ## Advent 2 {#advent2}
 
@@ -286,7 +292,7 @@ Year A
 
 Four themes are present in the readings: the coming of the Lord, preparing the way, blind eyes being opened, and rejoicing.
 
-* **Isaiah 35.1-10** continues in Isaiah, and is a call to 'rejoice with joy' in the light of God coming, reversing fortunes, strengthening the weak, opening the eyes of the blind, and a 'highway' being there.
+* **Isaiah 35.1-10** (see BCP+) continues in Isaiah, and is a call to 'rejoice with joy' in the light of God coming, reversing fortunes, strengthening the weak, opening the eyes of the blind, and a 'highway' being there.
 * **Psalm 146.4-10** (EV: 5-10) connects hope with joy ('Happy are those ... whose hope is in the Lord their God'), and says, 'the Lord opens the eyes of the blind'.
 * Alternatively, the canticle is the **Magnificat (Luke 1.46-55)**, which is a song of joy, and is about fortunes being reversed.
 * **James 5.7-10** says, 'Strengthen your hearts, for the coming of the Lord is near.'
@@ -326,24 +332,26 @@ The readings reflect the theme of God's promises being fulfilled.
 
 ## Christmas Day {#christmasday}
 
+'Set III should be used at some service during the celebration.'
+
 Set I (emphasis on the salvation Jesus brings)
 
-* **Isaiah 9.2-7** speaks of those in darkness seeing 'a great light', and announces that 'a child has been born', who will be named 'Wonderful Counsellor...', and who will reign 'with justice and with righteousness'.
+* **Isaiah 9.2-7** (see BCP+) speaks of those in darkness seeing 'a great light', and announces that 'a child has been born', who will be named 'Wonderful Counsellor...', and who will reign 'with justice and with righteousness'.
 * **Psalm 96** calls for rejoicing before the Lord, because 'he comes, he comes to judge the earth', 'with righteousness'.
 * **Titus 2.11-14** says that 'the grace of God has appeared, bringing salvation to all' through Jesus, who 'gave himself for us'.
-* **Luke 2.1-14 [15-20]** is about Jesus' birth in Bethlehem, the angels appearing to the shepherds and announcing the birth of a Saviour, [and the shepherds going to Bethlehem to 'see'].
+* **Luke 2.1-14 [15-20]** (see BCP+) is about Jesus' birth in Bethlehem, the angels appearing to the shepherds and announcing the birth of a Saviour, [and the shepherds going to Bethlehem to 'see'].
 
 Set II (emphasis on God's glory appearing and being seen)
 
 * **Isaiah 62.6-12** begins by speaking of king and nations who will 'see ... your glory', and says to Zion, 'See, your salvation comes'.
 * **Psalm 97** says of the Lord that 'all the peoples have seen his glory'.
-* **Titus 3.4-7** speaks of 'when the goodness and loving-kindness of God our Saviour appeared'.
-* **Luke 2.[1-7] 8-20** is about [Jesus' birth in Bethlehem], the angels appearing to the shepherds and announcing the birth of a Saviour, and the shepherds going to Bethlehem to 'see'.
+* **Titus 3.4-7** (see BCP+) speaks of 'when the goodness and loving-kindness of God our Saviour appeared'.
+* **Luke 2.[1-7] 8-20** (see BCP+) is about [Jesus' birth in Bethlehem], the angels appearing to the shepherds and announcing the birth of a Saviour, and the shepherds going to Bethlehem to 'see'.
 
 Set III (emphasis on Jesus' divinity)
 
 * **Isaiah 52.7-10** speaks of 'the return of the Lord to Zion', and says that he 'has bared his holy arm before the eyes of all the nations'.
-* **Psalm 98** speaks of the Lord bring victory by his 'own right hand and his holy arm', and calls for rejoicing before the Lord, because 'he comes to judge the earth'.
+* **Psalm 98** (see BCP+) speaks of the Lord bring victory by his 'own right hand and his holy arm', and calls for rejoicing before the Lord, because 'he comes to judge the earth'.
 * **Hebrews 1.1-4 [5-12]** (see BCP) speaks of the 'Son' through whom God 'created the worlds', who is 'the exact imprint of God's very being', and who is 'superior to angels'. [When God 'brings the firstborn into the world', the angels worship him.]
 * **John 1.1-14** (see BCP) speaks of the 'Word' who 'was God', through whom 'all things came into being', and who 'became flesh'.
 
@@ -392,7 +400,7 @@ May be celebrated on the Sunday between 2 and 8 January (the second Sunday _afte
 
 Years A, B and C
 
-* **Matthew 2.1-12** (see BCP) recounts the visit of 'wise men from the East' to the child Jesus in Bethlehem. **Isaiah 60.1-6** says that 'Nations shall come to your light, and kings to the brightness of your dawn', adding that 'They shall bring gold and frankincense'. **Psalm 72.[1-9] 10-15** speaks of kings bringing gifts (including gold) to 'the king'. **Ephesians 3.1-12** (see BCP) is about the Gentiles becoming 'fellow-heirs, members of the same body, and sharers in the promise in Christ Jesus through the gospel'.
+* **Matthew 2.1-12** (see BCP) recounts the visit of 'wise men from the East' to the child Jesus in Bethlehem. **Isaiah 60.1-6** (see BCP+) says that 'Nations shall come to your light, and kings to the brightness of your dawn', adding that 'They shall bring gold and frankincense'. **Psalm 72.[1-9] 10-15** speaks of kings bringing gifts (including gold) to 'the king'. **Ephesians 3.1-12** (see BCP) is about the Gentiles becoming 'fellow-heirs, members of the same body, and sharers in the promise in Christ Jesus through the gospel'.
 
 ## The Baptism of Christ: Epiphany 1 {#epiphany1}
 
@@ -482,7 +490,7 @@ May be celebrated on the Sunday between 28 January and 3 February (the fourth Su
 
 Years A, B and C
 
-* **Luke 2.22-40** (see BCP) is the account of the child Jesus being presented in the temple, and concludes by saying that 'The child grew and became strong'. **Malachi 3.1-5** says that 'the Lord whom you seek will suddenly come to his temple', to 'purify'. **Psalm 24.[1-6] 7-10** calls for the 'gates' and 'doors' to be 'lifted up' so that the 'Lord', the 'King of glory', 'may come in' [and also speaks of the need for 'clean hands and pure hearts']. **Hebrews 2.14-18** speaks of Jesus sharing 'flesh and blood', and then doing the work of the (heavenly) temple, as 'a merciful and faithful high priest in the service of God, to make a sacrifice of atonement for the sins of the people'.
+* **Luke 2.22-40** (see BCP) is the account of the child Jesus being presented in the temple, and concludes by saying that 'The child grew and became strong'. **Malachi 3.1-5** (see BCP+) says that 'the Lord whom you seek will suddenly come to his temple', to 'purify'. **Psalm 24.[1-6] 7-10** calls for the 'gates' and 'doors' to be 'lifted up' so that the 'Lord', the 'King of glory', 'may come in' [and also speaks of the need for 'clean hands and pure hearts']. **Hebrews 2.14-18** speaks of Jesus sharing 'flesh and blood', and then doing the work of the (heavenly) temple, as 'a merciful and faithful high priest in the service of God, to make a sacrifice of atonement for the sins of the people'.
 
 # Ordinary Time {#ordinarytime1}
 
@@ -591,7 +599,7 @@ Falls between 4 February and 10 March.
 
 Years A, B and C
 
-* **Joel 2.1-2, 12-17** says, 'return to me with all your heart, with fasting, with weeping, and with mourning'.
+* **Joel 2.1-2, 12-17** (see BCP+) says, 'return to me with all your heart, with fasting, with weeping, and with mourning'.
 * Alternatively, **Isaiah 58.1-12** says, 'Is not this the fast that I choose: to loose the bonds of injustice ...'.
 * **Psalm 51.1-18** (EV: 1-17) says, 'Create in me a clean heart, O God'.
 * **2 Corinthians 5.20b &ndash; 6.10** says, 'we entreat you on behalf of Christ, be reconciled to God'.
@@ -605,12 +613,16 @@ The Gospel readings are about Jesus' temptation in the wilderness.
 Year A
 
 * **Psalm 32** is about confession and forgiveness of sin.
-* **Matthew 4.1-11** (see BCP) is about Jesus being tempted by the devil in the wilderness. **Genesis 2.15-17; 3.1-7** is about Eve and Adam succumbing to the serpent's temptation in the garden. **Romans 5.12-19** compares Adam with Christ.
+* **Matthew 4.1-11** (see BCP) is about Jesus being tempted by the devil in the wilderness. **Genesis 2.15-17; 3.1-7** (see BCP+) is about Eve and Adam succumbing to the serpent's temptation in the garden. **Romans 5.12-19** compares Adam with Christ.
 
 Year B
 
 * **Psalm 25.1-9** (EV: 1-10) includes confession of sin and a desire to follow God's ways.
 * **Mark 1.9-15** is about Jesus being tempted by Satan in the wilderness (12-13), with surrounding verses about Jesus' baptism (9-11) and his proclamation of the good news (14-15). **1 Peter 3.18-22** mentions Christ's proclamation, calling to mind God's patience in the time of Noah, and connects the flood with baptism. **Genesis 9.8-17** is about God's covenant with Noah, his descendants, and 'all flesh that is on the earth': 'never again shall there be a flood to destroy the earth'.
+
+Year C
+
+* **Psalm 91.1-2, 9-16** [or 91.1-11] (see BCP+).
 
 ## Lent 2 {#lent2}
 
@@ -749,7 +761,7 @@ Years A, B and C
 
 Years A, B and C
 
-* **Exodus 12.1-4 [5-10], 11-14** is the institution of the Passover.
+* **Exodus 12.1-4 [5-10], 11-14** (see BCP+) is the institution of the Passover.
 * **Psalm 116.1, 10-17** (EV: 1-2, 12-19) [or 116.9-17 (EV: 10-19)] says, 'I will lift up the cup of salvation'.
 * **1 Corinthians 11.23-26** (see BCP) is the institution of the Lord's Supper.
 * **John 13.1-17, 31b-35** is the account of Jesus washing his disciples' feet 'during supper', and Jesus' command: 'Just as I have loved you, you also should love one another.'
@@ -768,7 +780,7 @@ Years A, B and C
 
 Years A, B and C
 
-* **Job 14.1-14** asks, 'If mortals die, will they live again?'
+* **Job 14.1-14** (see BCP+) asks, 'If mortals die, will they live again?'
 * Alternatively, **Lamentations 3.1-9, 19-24** says of God that 'he has made me sit in darkness like the dead of long ago', but expresses hope because 'The steadfast love of the Lord never ceases'.
 * **Psalm 31.1-4, 15-16** [or 31.1-5] calls to the Lord for deliverance.
 * **1 Peter 4.1-8** says, 'whoever has suffered in the flesh has finished with sin', and that 'the gospel was proclaimed even to the dead'.
@@ -947,7 +959,7 @@ Year A
 
 * **Acts 17.22-31** continues the series in Acts, and features Paul's speech to the Areopagus. Paul speaks of God who 'gives to all mortals life and breath and all things' (Rogation), and concludes by speaking of the resurrection of Jesus.
 * The alternative first reading, **Genesis 8.20 &ndash; 9.17**, concludes the series on the flood in Genesis.
-* **Psalm 66.7-18** (EV: 8-20) praises God for his deliverance and for answered prayer (Rogation).
+* **Psalm 66.7-18** (EV: 8-20) (see BCP+) praises God for his deliverance and for answered prayer (Rogation).
 * **1 Peter 3.13-22** continues the series in 1 Peter, and is about suffering after the example of Jesus, who 'was put to death in the flesh, but made alive in the spirit'.
 * **John 14.15-21** continues the series in John's 'farewell discourse' (without a gap). Jesus will 'ask the Father' (Rogation) for the gift of 'another Advocate ... the Spirit of truth'.
 
@@ -972,11 +984,11 @@ Year C
 Years A, B and C
 
 * **Acts 1.1-11** (see BCP) recounts Jesus' ascension.
-* The alternative first reading, **Daniel 7.9-14**, has the Son of Man approaching the Ancient of Days and being given authority.
+* The alternative first reading, **Daniel 7.9-14** (see BCP+), has the Son of Man approaching the Ancient of Days and being given authority.
 * **Psalm 47** picks up the ascension theme ('God has gone up').
 * The alternative, **Psalm 93**, celebrates the reign of 'the Lord on high'.
 * **Ephesians 1.15-23** celebrates Christ's ascension to the heavenly realms.
-* **Luke 24.44-53** recounts Jesus' ascension.
+* **Luke 24.44-53** (see BCP+) recounts Jesus' ascension.
 
 ## Easter 7 {#easter7}
 
@@ -989,7 +1001,7 @@ The alternative first reading is the same for Years A, B and C.
 Year A
 
 * **Acts 1.6-14** continues the series in Acts, recounting Jesus' ascension, and speaking of Jesus' followers 'constantly devoting themselves to prayer'.
-* **Psalm 68.1-10, 32-35** [or 68.1-10] has connections with Jesus' ascension: 'Let God arise', and 'exalt him who rides on the clouds'.
+* **Psalm 68.1-10, 32-35** [or 68.1-10] (see BCP+) has connections with Jesus' ascension: 'Let God arise', and 'exalt him who rides on the clouds'.
 * **1 Peter 4.12-14; 5.6-11** concludes the series in 1 Peter, and is about present suffering and future glory, which might resonate with the expectant longing of the period between Ascension Day and Pentecost.
 * **John 17.1-11** continues the series in John, and concludes the series in the 'farewell discourse', with the first section of Jesus' prayer (see Years B and C). Jesus' prayer for his own glorification is answered in his ascension.
 
@@ -1044,13 +1056,13 @@ Year A
 (RCL has Genesis 1.1 &ndash; 2.4a as the first reading, which then serves as the beginning of a series in Genesis. See 2 before Lent, which includes this passage as the Old Testament reading.)
 
 * **Isaiah 40.12-17, 27-31** says, 'Who has directed the spirit of the Lord ...?' Is the answer, 'Jesus'? Otherwise, the connection with Trinity Sunday is not immediately obvious.
-* **Psalm 8** (Years A and C) is about God's glory being revealed in creation and redemption (this finds its climax when God is revealed as Trinity), and is about God's 'name' (cf. Matthew 28.19: 'in the name of the Father and of the Son and of the Holy Spirit').
+* **Psalm 8** (Years A and C) (see BCP+) is about God's glory being revealed in creation and redemption (this finds its climax when God is revealed as Trinity), and is about God's 'name' (cf. Matthew 28.19: 'in the name of the Father and of the Son and of the Holy Spirit').
 * **2 Corinthians 13.11-13** refers to the Trinity: 'The grace of the Lord Jesus Christ, the love of God, and the communion of the Holy Spirit be with all of you.'
 * **Matthew 28.16-20** says, 'Go therefore and make disciples of all nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit'.
 
 Year B
 
-* **Isaiah 6.1-8** is Isaiah's vision of God who is worshipped as 'Holy, holy, holy', hinting at God being Trinity. **Psalm 29** says, 'worship the Lord in the beauty of holiness', and 'in his temple all cry, "Glory!"'
+* **Isaiah 6.1-8** (see BCP+) is Isaiah's vision of God who is worshipped as 'Holy, holy, holy', hinting at God being Trinity. **Psalm 29** says, 'worship the Lord in the beauty of holiness', and 'in his temple all cry, "Glory!"'
 * **Romans 8.12-17** refers to all three Persons of the Trinity: those who are 'led by the Spirit of God' are 'children of God' and 'joint heirs with Christ'.
 * **John 3.1-17** (see BCP) concludes the series in John, and speaks of the three Persons of the Trinity: being 'born of the Spirit' and believing in God's Son.
 
@@ -1477,7 +1489,7 @@ Years A, B and C
 
 * **Isaiah 56.3-8** has God promising to give 'an everlasting name' and to bring people to his 'holy mountain'.
 * Alternatively, **2 Esdras 2.42-48** (from the Apocrypha) speaks of the 'Son of God' crowning a great multitude on Mount Zion.
-* **Psalm 33.1-5** calls on the 'righteous' to sing God's praise.
+* **Psalm 33.1-5** (see BCP+) calls on the 'righteous' to sing God's praise.
 * **Hebrews 12.18-24** says, 'you have come to Mount Zion and to the city of the living God'.
 * **Matthew 5.1-12** contains the Beatitudes, including, 'Blessed are the pure in heart, for they will see God.'
 
@@ -1549,7 +1561,7 @@ Year C
 
 * **Jeremiah 23.1-6** (see BCP) says that God will raise up 'a righteous Branch, and he shall reign as king'.
 * **Psalm 46** has God reigning over the nations, causing wars to cease.
-* **Colossians 1.11-20** is about 'the kingdom of [God's] beloved Son', in whom all things in heaven and on earth hold together.
+* **Colossians 1.11-20** (see BCP+) is about 'the kingdom of [God's] beloved Son', in whom all things in heaven and on earth hold together.
 * **Luke 23.33-43** concludes the series in Luke, with an extract from the Passion narrative (set for Palm Sunday). One of the crucified criminals acknowledges Christ as King.
 
 # Festivals {#festivals}
@@ -1571,7 +1583,7 @@ If it falls on one of those days, it must be transferred.
 If Jesus was born on 25 December, he was circumcised on 1 January.
 
 * **Numbers 6.22-27** connects the Aaronic blessing with the Lord's name: 'So they shall put my name on the Israelites'.
-* **Psalm 8** says to the Lord, 'how glorious is your name'.
+* **Psalm 8** (see BCP+) says to the Lord, 'how glorious is your name'.
 * **Galatians 4.4-7** says that Jesus was 'born under the law', which explains why he was circumcised.
 * **Luke 2.15-21** (see BCP) says, 'After eight days had passed, it was time to circumcise the child; and he was called Jesus, the name given by the angel before he was conceived in the womb.'
 
@@ -1582,7 +1594,7 @@ According to rule 6 at the top of the [lectionary](https://www.churchofengland.o
 > If there are only two readings at the principal service on ... the Conversion of Paul ..., the reading from the Acts of the Apostles must always be used.
 
 * **Jeremiah 1.4-10** is about Jeremiah's call as 'a prophet to the nations'. (See below for the alternative, **Acts 9.1-22**.)
-* **Psalm 67** says, 'let all the peoples praise you'.
+* **Psalm 67** (see BCP+) says, 'let all the peoples praise you'.
 * **Acts 9.1-22** (see BCP) is the account of Saul/Paul's experience on the road to Damascus, in which the Lord says of him, 'he is an instrument whom I have chosen to bring my name before Gentiles'.
 * Alternatively, the passage from Acts can be the first reading, with **Galatians 1.11-16a** as the second reading, in which Paul says that God 'was pleased to reveal his Son to me, so that I might proclaim him among the Gentiles'.
 * **Matthew 19.27-30** (see BCP) is Jesus' promise to those who have 'left everything and followed [him]', which is the essence of conversion.
@@ -1604,7 +1616,7 @@ This is a Principal Feast, but it comes across as somewhat unwanted, as it is ne
 
 > the Annunciation, falling on a Sunday, is transferred to the Monday following or, falling between Palm Sunday and the Second Sunday of Easter inclusive, is transferred to the Monday after the Second Sunday of Easter.
 
-* **Isaiah 7.10-14** says, 'Look, the young woman [Gk _the virgin_] is with child and shall bear a son, and shall name him Immanuel.'
+* **Isaiah 7.10-14** (see BCP+) says, 'Look, the young woman [Gk _the virgin_] is with child and shall bear a son, and shall name him Immanuel.'
 * **Psalm 40.5-11** (EV: 5-10) reflects Mary's response: 'In the scroll of the book it is written of me that I should do your will, O my God; I delight to do it: your law is within my heart.'
 * **Hebrews 10.4-10** quotes Psalm 40 in relation to Jesus: 'Then I said, "See, God, I have come to do your will, O God" (in the scroll of the book it is written of me).'
 * **Luke 1.26-38** (see BCP) is about the visit of Gabriel to Mary: 'you will conceive in your womb and bear a son', concluding with Mary saying, 'Here am I, the servant of the Lord; let it be with me according to your word.'
@@ -1627,9 +1639,9 @@ The readings reflect themes of martyrdom (looking for hope beyond death) and of 
 
 25 April always falls during the Easter season, so this Festival is never celebrated on a Sunday (unless it is the Patronal Festival celebrated as a Principal Feast). See above on George (23 April).
 
-* **Proverbs 15.28-33** speaks of 'good news', reflecting Mark's role in writing the 'good news' (Mark 1.1), and speaks of those who 'gain understanding', perhaps reflecting Mark's growth in wisdom after initially deserting Paul and Barnabas (Acts 15.38).
+* **Proverbs 15.28-33** (see BCP+) speaks of 'good news', reflecting Mark's role in writing the 'good news' (Mark 1.1), and speaks of those who 'gain understanding', perhaps reflecting Mark's growth in wisdom after initially deserting Paul and Barnabas (Acts 15.38).
 * Alternatively, **Acts 15.35-41** is the account of Paul and Barnabas parting company, after disagreeing about whether 'to take with them John called Mark'.
-* **Psalm 119.9-16** speaks of 'young people' (Mark presumably being a young man at the start of his ministry), and says, 'I will not forget your word', pointing to Mark's work in writing his Gospel.
+* **Psalm 119.9-16** (see BCP+) speaks of 'young people' (Mark presumably being a young man at the start of his ministry), and says, 'I will not forget your word', pointing to Mark's work in writing his Gospel.
 * **Ephesians 4.7-16** (see BCP) says, 'The gifts [Christ] gave were that some would be ... evangelists', and says that the church grows through 'speaking the truth in love'.
 * **Mark 13.5-13** speaks of persecution (according to tradition, Mark was martyred), and says, 'the good news must first be proclaimed to all nations'.
 
@@ -1666,9 +1678,9 @@ Also known as the Visitation.
 31 May usually falls between Easter and Trinity, so this Festival can rarely be celebrated on a Sunday (unless it is the Patronal Festival celebrated as a Principal Feast).
 
 * **Zephaniah 3.14-18** calls on 'daughter Zion' to rejoice, because 'The L<span style="font-variant:small-caps">ord</span>, your God, is in your midst'.
-* **Psalm 113** says that God 'raises the poor from the dust' and 'gives the barren woman a place in the house and makes her a joyful mother of children'.
+* **Psalm 113** (see BCP+) says that God 'raises the poor from the dust' and 'gives the barren woman a place in the house and makes her a joyful mother of children'.
 * **Romans 12.9-16** says, 'Rejoice with those who rejoice'.
-* **Luke 1.39-49 [50-56]** has Mary visiting Elizabeth after the annunciation. At Mary's greeting, the child in Elizabeth's womb (John the Baptist) leaps for joy, Elizabeth cries out, 'Blessed...', and Mary responds with the Magnificat.
+* **Luke 1.39-49 [50-56]** (see BCP) has Mary visiting Elizabeth after the annunciation. At Mary's greeting, the child in Elizabeth's womb (John the Baptist) leaps for joy, Elizabeth cries out, 'Blessed...', and Mary responds with the Magnificat.
 
 ## Barnabas the Apostle (11 June) {#barnabas}
 
@@ -1680,17 +1692,17 @@ According to rule 6 at the top of the [lectionary](https://www.churchofengland.o
 
 Barnabas first appears in Acts 4.32-37, which says that his name means 'son of encouragement', and that he sold a field in order to help believers who were in need.
 
-* **Job 29.11-16** has Job saying, 'I delivered the poor who cried,' and, 'I was a father to the needy'.
-* **Psalm 112** says that the righteous 'have given freely to the poor'.
+* **Job 29.11-16** (see BCP+) has Job saying, 'I delivered the poor who cried,' and, 'I was a father to the needy'.
+* **Psalm 112** (see BCP+) says that the righteous 'have given freely to the poor'.
 * **Acts 11.19-30** (see BCP) has Barnabas being sent from Jerusalem to Antioch, and then being sent back (with Saul) in order to 'send relief to the believers living in Judea'.
 * Alternatively, the passage from Acts can be the first reading, with **Galatians 2.1-10** as the second reading, which is about Paul's visit to Jerusalem with Barnabas, including the request they received to 'remember the poor'.
 * **John 15.12-17** (see BCP) includes the commandment to 'love one another', and has Jesus saying, 'I appointed you to go and bear fruit'.
 
 ## The Birth of John the Baptist (24 June) {#jtb}
 
-* **Isaiah 40.1-11** anticipates John the Baptist: 'In the wilderness prepare the way'.
+* **Isaiah 40.1-11** (see BCP+) anticipates John the Baptist: 'In the wilderness prepare the way'.
 * **Psalm 85.7-13** speaks of the way being prepared: 'Righteousness shall go before him and direct his steps in the way' (NRSV: 'make a path for his steps').
-* **Acts 13.14b-26** includes Paul's description of John's ministry.
+* **Acts 13.14b-26** (see BCP) includes Paul's description of John's ministry.
 * Alternatively, **Galatians 3.23-29** speaks of the law preparing the way for Christ.
 * **Luke 1.57-66, 80** (see BCP) is about the birth of John the Baptist.
 
@@ -1702,7 +1714,7 @@ Both Peter and Paul faced persecution and martyrdom, and this is reflected in th
 
 * _Peter and Paul:_ **Zechariah 4.1-6a, 10b-14** is the vision of the two olive trees (see Revelation 11), which have been associated with Peter and Paul.
 * _Peter alone:_ **Ezekiel 3.22-27** is part of Ezekiel's calling as a prophet, and includes 'cords shall be placed on you, and you shall be bound with them' (see Acts 12).
-* **Psalm 125** says, 'Those who trust in the Lord are like Mount Zion, which cannot be moved, but stands fast for ever', like the 'rock' in Matthew 16.
+* **Psalm 125** (see BCP+) says, 'Those who trust in the Lord are like Mount Zion, which cannot be moved, but stands fast for ever', like the 'rock' in Matthew 16.
 * **Acts 12.1-11** (see BCP) is about Peter being imprisoned and chained, and then being rescued by an angel.
 * Alternatively, the passage from Acts can be the first reading, with one of the following as the second reading:
   * _Peter and Paul:_ **2 Timothy 4.6-8, 17-18** has Paul anticipating his death, looking ahead to 'the crown of righteousness', and trusting in the Lord to rescue him.
@@ -1722,8 +1734,8 @@ The focus is on Mary Magdalene seeing the risen Christ.
 
 * **Song of Solomon 3.1-4** says, 'I found him whom my soul loves' and 'I held him, and would not let him go'.
 * **Psalm 42.1-10** (EV: 1-8) expresses a tearful longing for 'the presence of God'.
-* **2 Corinthians 5.14-17** speaks of Christ being raised, and says, 'even though we once knew Christ from a human point of view, we know him no longer in that way'.
-* **John 20.1-2, 11-18** is about Mary Magdalene 'weeping outside the tomb', then encountering the risen Jesus, who said, 'Do not hold on to me'.
+* **2 Corinthians 5.14-17** (see BCP+) speaks of Christ being raised, and says, 'even though we once knew Christ from a human point of view, we know him no longer in that way'.
+* **John 20.1-2, 11-18** (see BCP+) is about Mary Magdalene 'weeping outside the tomb', then encountering the risen Jesus, who said, 'Do not hold on to me'.
 
 ## James the Apostle (25 July) {#james}
 
@@ -1743,6 +1755,8 @@ Two of the Twelve are called James; this is James 'the Great', son of Zebedee an
 
 ## The Blessed Virgin Mary (15 August) {#bvm}
 
+* **Psalm 45.10-17** (see BCP+).
+
 ## Bartholomew the Apostle (24 August) {#bartholomew}
 
 * **Isaiah 43.8-13** or **Acts 5.12-16** (see BCP)
@@ -1756,14 +1770,14 @@ This is also known as the Feast of the 'Exaltation of the Cross', and has its or
 
 * **Psalm 22.23-28** expresses praise to the Lord, who 'has not despised nor abhorred the suffering of the poor', which fits with the theme of the crucified one being exalted.
 * **Philippians 2.6-11** is about Christ humbling himself to 'death on a cross' and subsequently being exalted.
-* **John 3.13-17** is about the Son of Man being 'lifted up', 'just as Moses lifted up the serpent in the wilderness'. **Numbers 21.4-9** is about the bronze serpent.
+* **John 3.13-17** is about the Son of Man being 'lifted up', 'just as Moses lifted up the serpent in the wilderness'. **Numbers 21.4-9** (see BCP+) is about the bronze serpent.
 
 ## Matthew, Apostle and Evangelist (21 September) {#matthew}
 
 Matthew was a tax-collector. This is reflected in the readings.
 
 * **Proverbs 3.13-18** says that wisdom is better than silver and gold.
-* **Psalm 119.65-72** says that God's law is 'dearer to me than a hoard of gold and silver'.
+* **Psalm 119.65-72** (see BCP+) says that God's law is 'dearer to me than a hoard of gold and silver'.
 * **2 Corinthians 4.1-6** (see BCP) has several possible connections with Matthew: renouncing 'shameful things', the 'open statement of the truth' (in writing his Gospel), light shining into Matthew's heart.
 * **Matthew 9.9-13** (see BCP) tells of Jesus calling Matthew the tax-collector to follow him, and of Jesus eating with 'tax-collectors and sinners'.
 
@@ -1773,7 +1787,7 @@ Michael the archangel is mentioned four times in Scripture: Daniel 10.13-21 and 
 
 * **Genesis 28.10-17** is Jacob's dream of a 'ladder' with 'the angels of God ... ascending and descending on it', which is echoed in the Gospel reading.
 * See below for the alternative, **Revelation 12.7-12**.
-* **Psalm 103.19-22** says, 'Bless the Lord, you angels of his'.
+* **Psalm 103.19-22** (see BCP+) says, 'Bless the Lord, you angels of his'.
 * **Revelation 12.7-12** (see BCP) is about 'Michael and his angels' fighting against 'the dragon ... and his angels'.
 * Alternatively, the passage from Revelation can be the first reading, with **Hebrews 1.5-14** as the second reading, contrasting angels with the Son: see 1.1-4 and 2.1-4.
 * **John 1.47-51** has Jesus saying to Nathanael, 'you will see heaven opened and the angels of God ascending and descending upon the Son of Man', echoing the Old Testament reading.
@@ -1782,9 +1796,9 @@ Michael the archangel is mentioned four times in Scripture: Daniel 10.13-21 and 
 
 Luke was a 'physician' (Colossians 4.14). This is reflected in the readings. (Elsewhere, Luke is mentioned by name only in 2 Timothy 4.11 and Philemon 24.)
 
-* **Isaiah 35.3-6** is about the restoration of health.
+* **Isaiah 35.3-6** (see BCP+) is about the restoration of health.
 * Alternatively, **Acts 16.6-12a** contains the first 'we' of the narrative, subtly indicating the point at which Luke joined Paul and his companions.
-* **Psalm 147.1-7** says that the Lord 'heals the brokenhearted and binds up all their wounds'.
+* **Psalm 147.1-7** (see BCP+) says that the Lord 'heals the brokenhearted and binds up all their wounds'.
 * **2 Timothy 4.5-17** (see BCP) says, 'Only Luke is with me.'
 * **Luke 10.1-9** (see BCP) is about the mission of the seventy, which perhaps speaks more directly to those (such as Luke) who are not numbered among the Twelve. (Luke has at times been numbered among the [seventy disciples](https://en.wikipedia.org/wiki/Seventy_disciples).) They were sent out to 'cure the sick' and to speak of the 'kingdom of God', which is appropriate to Luke as a physician and the author of one of the Gospels.
 
@@ -1796,7 +1810,7 @@ Jude, one of the Twelve, is mentioned as 'Judas son of James' in Luke 6.16 and A
 
 According to tradition, Simon and Jude worked together as evangelists and were martyred together.
 
-* **Ephesians 2.19-22** speaks of the church as being 'built upon the foundation of the apostles and prophets, with Christ Jesus himself as the cornerstone'. **Isaiah 28.14-16** has God speaking of 'a foundation stone, a tested stone, a precious cornerstone, a sure foundation'. **Psalm 119.89-96** reflects the theme of foundations: the Lord's word 'stands firm', the Lord has 'established the earth', and the Lord's 'judgements stand firm'.
+* **Ephesians 2.19-22** speaks of the church as being 'built upon the foundation of the apostles and prophets, with Christ Jesus himself as the cornerstone'. **Isaiah 28.14-16** (see BCP+) has God speaking of 'a foundation stone, a tested stone, a precious cornerstone, a sure foundation'. **Psalm 119.89-96** reflects the theme of foundations: the Lord's word 'stands firm', the Lord has 'established the earth', and the Lord's 'judgements stand firm'.
 * **John 15.17-27** (see BCP) reflects Simon and Jude's calling, by speaking of persecution and of Jesus' command to his disciples to 'testify'.
 
 ## Andrew the Apostle (30 November) {#andrew}
@@ -1814,9 +1828,9 @@ According to rule 6 at the top of the [lectionary](https://www.churchofengland.o
 
 > If there are only two readings at the principal service on ... the Festivals of ... Stephen, the reading from the Acts of the Apostles must always be used.
 
-* **2 Chronicles 24.20-22** is about the stoning of Zechariah (who said as he was dying, 'May the Lord see and avenge!').
+* **2 Chronicles 24.20-22** (see BCP+) is about the stoning of Zechariah (who said as he was dying, 'May the Lord see and avenge!').
 * See below for the alternative, **Acts 7.51-60**.
-* **Psalm 119.161-168** speaks of being 'persecuted ... without a cause'.
+* **Psalm 119.161-168** (see BCP+) speaks of being 'persecuted ... without a cause'.
 * **Acts 7.51-60** (see BCP) is about the stoning of Stephen (who said as he was dying, 'Lord, do not hold this sin against them').
 * Alternatively, the passage from Acts can be the first reading, with **Galatians 2.16b-20** as the second reading, which speaks of having been 'crucified with Christ'.
 * **Matthew 10.17-22** warns of being 'put to death' because of Jesus.
@@ -1827,7 +1841,7 @@ John the Apostle (son of Zebedee) is traditionally identified with the evangelis
 
 * **Psalm 117** may have been chosen because John's testimony was for all nations.
 * **1 John 1** (see BCP) is about John's eyewitness testimony.
-* **John 21.19b-25** (see BCP) says that 'the disciple whom Jesus loved', 'the one who had reclined next to Jesus at the supper', was the one who wrote this Gospel. **Exodus 33.7-11a** speaks of a similarly close relationship: 'the Lord used to speak to Moses face to face, as one speaks to a friend'.
+* **John 21.19b-25** (see BCP) says that 'the disciple whom Jesus loved', 'the one who had reclined next to Jesus at the supper', was the one who wrote this Gospel. **Exodus 33.7-11a** (see BCP+) speaks of a similarly close relationship: 'the Lord used to speak to Moses face to face, as one speaks to a friend'.
 
 ## The Holy Innocents (28 December) {#innocents}
 
@@ -1835,7 +1849,7 @@ The infants of Bethlehem are often celebrated as martyrs, and this may be reflec
 
 * **Psalm 124** speaks of having 'escaped', as the infant Jesus (and the other infants?) escaped from Herod.
 * **1 Corinthians 1.26-29** speaks of God choosing 'what is weak in the world to shame the strong', inviting a contrast between the infant Jesus (and the other infants?) and Herod.
-* **Matthew 2.13-18** (see BCP) says that Herod 'killed all the children in and around Bethlehem who were two years old or under'. **Jeremiah 31.15-17** is quoted: 'Rachel weeping for her children'.
+* **Matthew 2.13-18** (see BCP) says that Herod 'killed all the children in and around Bethlehem who were two years old or under'. **Jeremiah 31.15-17** (see BCP+) is quoted: 'Rachel weeping for her children'.
 
 ## Dedication Festival {#dedication}
 
@@ -1847,17 +1861,17 @@ Year A
 
 * **1 Kings 8.22-30** is Solomon's prayer of dedication for the temple.
 * Alternatively, **Revelation 21.9-14** speaks of the walls and gates of the 'holy city Jerusalem coming down out of heaven from God'.
-* **Psalm 122** says, 'I was glad when they said to me, "Let us go to the house of the Lord."'
+* **Psalm 122** (see BCP+) says, 'I was glad when they said to me, "Let us go to the house of the Lord."'
 * **Hebrews 12.18-24** says that believers 'have come to Mount Zion and to the city of the living God, the heavenly Jerusalem'.
-* **Matthew 21.12-16** says that Jesus 'drove out all who were selling and buying in the temple'.
+* **Matthew 21.12-16** (see BCP+) says that Jesus 'drove out all who were selling and buying in the temple'.
 
 Year B
 
 * **Genesis 28.11-18** is about Jacob's vision: 'This is none other than the house of God, and this is the gate of heaven.'
 * Alternatively, **Revelation 21.9-14**: see Year A.
 * **Psalm 122**: see Year A.
-* **1 Peter 2.1-10** likens believers to 'living stones', being built into a spiritual house'.
-* **John 10.22-29** is set in Jerusalem at the time of 'the festival of the Dedication'.
+* **1 Peter 2.1-10** (see BCP+) likens believers to 'living stones', being built into a spiritual house'.
+* **John 10.22-29** (see BCP+) is set in Jerusalem at the time of 'the festival of the Dedication'.
 
 Year C
 
@@ -1872,9 +1886,9 @@ Based on the RCL readings for Thanksgiving Day.
 
 Year A
 
-* **Deuteronomy 8.7-18** speaks of God bringing his people into a fruitful land, and warns against forgetting God in times of plenty.
+* **Deuteronomy 8.7-18** (see BCP+) speaks of God bringing his people into a fruitful land, and warns against forgetting God in times of plenty.
 * Alternatively, **Deuteronomy 28.1-14** speaks of the blessings that follow from obedience.
-* **Psalm 65** says, 'You visit the earth and water it; you make it very plenteous.'
+* **Psalm 65** (see BCP+) says, 'You visit the earth and water it; you make it very plenteous.'
 * **2 Corinthians 9.6-15** speaks of sowing and reaping for 'the harvest of your righteousness'.
 * **Luke 12.16-30** is about the rich man and his barns, and about not worrying (compare Year B). (Verse 31 could also be included.)
 * Alternatively, **Luke 17.11-19** is about the ten lepers, only one of whom returned to praise God.
@@ -1889,7 +1903,7 @@ Year B
 
 Year C
 
-* **Deuteronomy 26.1-11** is about offering some of the first fruits of the harvest.
+* **Deuteronomy 26.1-11** (see BCP+) is about offering some of the first fruits of the harvest.
 * **Psalm 100** calls for joy and thanksgiving.
 * **Philippians 4.4-9** calls for 'prayer and supplication with thanksgiving'.
 * Alternatively, **Revelation 14.14-18** is about 'one like the Son of Man' reaping the harvest of the earth.
