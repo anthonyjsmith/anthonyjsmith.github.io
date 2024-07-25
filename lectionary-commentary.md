@@ -15,7 +15,7 @@ Any feedback? Please [contact](/contact/) me!
 * Year A: complete
 * Year B: complete up to Proper 12
 * Year C: complete from Palm Sunday onwards
-* Festivals: complete except for 25 July to 24 August
+* Festivals: complete except for 6 to 24 August
 * Appendix: Gospels: complete for Matthew 1-18, Mark 1-6, Luke and John
 
 # Contents
@@ -1731,12 +1731,13 @@ According to rule 6 at the top of the [lectionary](https://www.churchofengland.o
 
 > If there are only two readings at the principal service on ... the Festivals of ... James ..., the reading from the Acts of the Apostles must always be used.
 
-Two of the Twelve are called James; this is James 'the Great', son of Zebedee and elder brother of John.
+Two of the Twelve are called James; this is James 'the Great', son of Zebedee and elder brother of John, and the first of the Twelve to suffer martyrdom (Acts 12.2).
 
-* **Jeremiah 45.1-5** or **Acts 11.27 &ndash; 12.2** (see BCP)
-* **Psalm 126**
-* **Acts 11.27 &ndash; 12.2** (see BCP) or **2 Corinthians 4.7-15**
-* **Matthew 20.20-28** (see BCP)
+* **Jeremiah 45.1-5** gives assurance in the face of death: 'I will give you your life as a prize of war in every place to which you may go'.
+* **Psalm 126** says, 'Those who sow in tears shall reap with songs of joy.'
+* **Acts 11.27 &ndash; 12.2** (see BCP) says that Herod 'had James, the brother of John, killed with the sword'.
+* Alternatively, the passage from Acts can be the first reading, with **2 Corinthians 4.7-15** as the second reading, in which Paul speaks of 'being given up to death for Jesus' sake'.
+* **Matthew 20.20-28** (see BCP) is the request of 'the mother of the sons of Zebedee' (James and John), with Jesus' words to them, 'You will indeed drink my cup'.
 
 ## The Transfiguration of Our Lord (6 August) {#transfiguration}
 
