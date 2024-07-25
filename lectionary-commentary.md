@@ -441,7 +441,7 @@ In the RCL, it makes sense to see this Sunday as marking the beginning of the se
 Year A
 
 * **1 Corinthians 1.10-18** continues the series in 1 Corinthians 1-3 (without a gap), and is about divisions in the church.
-* **Matthew 4.12-23** is the beginning of Jesus' ministry, in 'Galilee of the Gentiles'. (Matthew 4.18-22 is also set for Andrew.) **Isaiah 9.1-4** continues in Isaiah, and is quoted in the Gospel reading, including: 'The people ... in darkness have seen a great light'. **Psalm 27.1, 4-12** (EV: 1, 4-9) [or 27.1-11 (EV: 1-9a)] says, 'The Lord is my light and my salvation'.
+* **Matthew 4.12-23** is the beginning of Jesus' ministry, in 'Galilee of the Gentiles'. **Isaiah 9.1-4** continues in Isaiah, and is quoted in the Gospel reading, including: 'The people ... in darkness have seen a great light'. **Psalm 27.1, 4-12** (EV: 1, 4-9) [or 27.1-11 (EV: 1-9a)] says, 'The Lord is my light and my salvation'.
 
 Year B
 
