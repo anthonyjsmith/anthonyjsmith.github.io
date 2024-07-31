@@ -13,7 +13,7 @@ Any feedback? Please [contact](/contact/) me!
 **_Work in progress!_**
 
 * Year A: complete
-* Year B: complete up to Proper 12
+* Year B: complete up to Proper 13
 * Year C: complete from Palm Sunday onwards
 * Festivals: complete except for 6 to 24 August
 * Appendix: Gospels: complete for Matthew 1-18, Mark 1-6, Luke and John
@@ -1272,6 +1272,12 @@ Year A
 * **Genesis 32.22-31** continues the series in the Pentateuch and in Genesis, and is about Jacob wrestling with God: 'I have seen God face to face'. **Psalm 17.1-7, 16** (EV: 1-7, 15) [or 17.1-7] calls out to God in prayer, and says in the final verse, 'As for me, I shall see your face in righteousness'.
 * **Romans 9.1-5** continues the series in Romans (without a gap), and is about Paul's 'great sorrow' for his fellow Israelites.
 * **Matthew 14.13-21** continues the series in Matthew, and is the feeding of the 5000. The 'Related' reading, **Isaiah 55.1-5**, invites people to come and 'eat what is good'. The 'Related' psalm, **Psalm 145.8-9, 15-22** (EV: 8-9, 14-21) [or 145.15-22 (EV: 14-21)], says to God, 'You open wide your hand and fill all things living with plenty.'
+
+Year B
+
+* **2 Samuel 11.26 &ndash; 12.13a** continues the series on history and wisdom, and is about David and Bathsheba (continued from last week), with Nathan confronting David. **Psalm 51.1-13** (EV: 1-12) includes in the superscription, 'A Psalm of David, when the prophet Nathan came to him, after he had gone in to Bathsheba' (NRSV).
+* **Ephesians 4.1-16** continues the series in Ephesians (without a gap), and is about the unity and growth of the body of Christ.
+* **John 6.24-35** continues the series in John 6 (skipping verses 22 and 23, which could be included for completeness and context), and connects the feeding of the 5000 with the theme of Jesus as the 'bread of life' (including, 'He gave them bread from heaven to eat'). The 'Related' reading, **Exodus 16.2-4, 9-15**, is quoted or alluded to in John 6: 'bread from heaven ... the bread that the L<span style="font-variant:small-caps">ord</span> has given you to eat'. The 'Related' psalm, **Psalm 78.23-29**, is also quoted or alluded to in John 6: 'He rained down upon them manna to eat'.
 
 Year C
 
