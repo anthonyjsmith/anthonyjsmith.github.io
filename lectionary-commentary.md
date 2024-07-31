@@ -13,7 +13,7 @@ Any feedback? Please [contact](/contact/) me!
 **_Work in progress!_**
 
 * Year A: complete
-* Year B: complete up to Proper 14
+* Year B: complete up to Proper 15
 * Year C: complete from Palm Sunday onwards
 * Festivals: complete except for 6 to 24 August
 * Appendix: Gospels: complete for Matthew 1-18, Mark 1-6, Luke and John
@@ -1297,7 +1297,7 @@ Year B
 
 * **2 Samuel 18.5-9, 15, 31-33** continues the series on history and wisdom, and is about Absalom's death. **Psalm 130** (again: Proper 8) begins, 'Out of the depths have I cried to you, O Lord', reflecting David's grief.
 * **Ephesians 4.25 &ndash; 5.2** continues the series in Ephesians, and describes the new way of life.
-* **John 6.35, 41-51** continues the series in John 6 (including verse 35 from last week, then leaving a gap, which could be filled for completeness), and is about Jesus as the bread of life: 'whoever believes has eternal life'. The 'Related' reading, **1 Kings 19.4-8**, is about Elijah being provided with food by an angel. The 'Related' psalm, **Psalm 34.1-8**, says, 'The angel of the Lord encamps around those who fear him and delivers them. O taste and see that the Lord is gracious; blessed is the one who trusts in him.'
+* **John 6.35, 41-51** continues the series in John 6 (including verse 35 from last week, then leaving a gap, which could be filled for completeness), and is about Jesus as the bread of life: 'whoever believes has eternal life'. The 'Related' reading, **1 Kings 19.4-8**, is about Elijah being provided with food by an angel. The 'Related' psalm, **Psalm 34.1-8** (continued next week and the week after), says, 'The angel of the Lord encamps around those who fear him and delivers them. O taste and see that the Lord is gracious; blessed is the one who trusts in him.'
 
 Year C
 
@@ -1312,6 +1312,12 @@ Year A
 * **Genesis 45.1-15** continues the series in the Pentateuch and concludes the series in Genesis, and is about Joseph revealing his identity to his brothers in Egypt. **Psalm 133** says, 'Behold how good and pleasant it is to dwell together in unity!'
 * **Romans 11.1-2a, 29-32** continues the series in Romans, and is about God showing mercy to Israel.
 * **Matthew 15.[10-20] 21-28** continues the series in Matthew, and is about [things that defile, and] the Canaanite woman's faith. The 'Related' reading, **Isaiah 56.1, 6-8**, speaks about God accepting foreigners. The 'Related' psalm, **Psalm 67**, calls for God's 'saving power' to be known 'among all nations'.
+
+Year B
+
+* **1 Kings 2.10-12; 3.3-14** continues the series on history and wisdom, and is about David's death and Solomon's prayer for 'an understanding mind to govern your people, able to discern between good and evil'. **Psalm 111** says, 'The fear of the Lord is the beginning of wisdom'.
+* **Ephesians 5.15-20** continues the series in Ephesians, and is about living 'not as unwise people but as wise' (perhaps providing a link with the Old Testament reading). (Some of the preceding verses could be included.)
+* **John 6.51-58** continues the series in John 6 (including verse 51 from last week), and says it is necessary to 'eat the flesh of the Son of Man and drink his blood'. The 'Related' reading, **Proverbs 9.1-6**, has 'Wisdom' saying, 'Come, eat of my bread and drink of the wine I have mixed.' The 'Related' psalm, **Psalm 34.9-14** (continued from last week and continued next week), says, 'Lions may lack and suffer hunger, but those who seek the Lord lack nothing that is good', and, 'those who fear him lack nothing'. (cf. Proverbs 9.10: 'The fear of the Lord is the beginning of wisdom').
 
 Year C
 
