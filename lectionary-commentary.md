@@ -13,7 +13,7 @@ Any feedback? Please [contact](/contact/) me!
 **_Work in progress!_**
 
 * Year A: complete
-* Year B: complete up to Proper 15
+* Year B: complete up to Proper 16
 * Year C: complete from Palm Sunday onwards
 * Festivals: complete except for 6 to 24 August
 * Appendix: Gospels: complete for Matthew 1-18, Mark 1-6, Luke and John
@@ -1332,6 +1332,12 @@ Year A
 * **Exodus 1.8 &ndash; 2.10** continues the series in the Pentateuch and begins a 9-week series in Exodus, and is about Israel being oppressed in Egypt, and the baby Moses being rescued through the water. **Psalm 124** is about God rescuing his people from 'the raging waters'.
 * **Romans 12.1-8** continues the series in Romans, and is about presenting 'your bodies as a living sacrifice', and living as members of 'one body in Christ'.
 * **Matthew 16.13-20** continues the series in Matthew, and includes Peter's confession: 'You are the Messiah', and speaks of the 'rock' on which Jesus will build his church, 'and the gates of Hades will not prevail against it'. The 'Related' reading, **Isaiah 51.1-6**, says, 'Look to the rock from which you were hewn', inviting a comparison between Peter and Abraham. The 'Related' psalm, **Psalm 138**, says that the 'fury of [God's] enemies' will not prevent his purposes from being fulfilled.
+
+Year B
+
+* **1 Kings 8.[1, 6, 10-11] 22-30, 41-43** continues the series on history and wisdom, and is about Solomon's dedication of 'the house of the L<span style="font-variant:small-caps">ord</span>'. **Psalm 84** begins, 'How lovely is your dwelling place, O Lord of hosts!'
+* **Ephesians 6.10-20** concludes the series in Ephesians, and is about the 'armour of God'.
+* **John 6.56-69** concludes the series in John 6 (including verse 56-58 from last week, and skipping the final two verses of the chapter, which could be included for completeness), and focuses on positive and negative responses to Jesus' teaching. The 'Related' reading, **Joshua 24.1-2a, 14-18**, has Joshua urging the people to respond well to God: 'choose this day whom you will serve'. The 'Related' psalm, **Psalm 34.15-22** (continued from last week and the week before), makes a contrast between the 'righteous' and the 'wicked'.
 
 Year C
 
