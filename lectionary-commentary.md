@@ -13,7 +13,7 @@ Any feedback? Please [contact](/contact/) me!
 **_Work in progress!_**
 
 * Year A: complete
-* Year B: complete up to Proper 13
+* Year B: complete up to Proper 14
 * Year C: complete from Palm Sunday onwards
 * Festivals: complete except for 6 to 24 August
 * Appendix: Gospels: complete for Matthew 1-18, Mark 1-6, Luke and John
@@ -1292,6 +1292,12 @@ Year A
 * **Genesis 37.1-4,12-28** continues the series in the Pentateuch and in Genesis, and is about Joseph's dreams and his brothers selling him to be taken to Egypt. **Psalm 105.1-6, 16-22, 45b** [or 105.1-10] (see also Proper 12, 17 and 20) speaks of 'Joseph, who was sold as a slave'.
 * **Romans 10.5-15** continues the series in Romans, and is about salvation through Jesus for Jew and Greek.
 * **Matthew 14.22-33** continues the series in Matthew (without a gap), and is about Jesus (and Peter) walking on water, and Jesus speaking peace: 'Take heart, it is I; do not be afraid.' The 'Related' reading, **1 Kings 19.9-18**, is about Elijah meeting God on the mountain, and has various things in common with the Gospel reading: a mountain, wind, and God's presence being recognised when the wind ceases. The 'Related' psalm, **Psalm 85.8-13**, says that God 'shall speak peace to his people'.
+
+Year B
+
+* **2 Samuel 18.5-9, 15, 31-33** continues the series on history and wisdom, and is about Absalom's death. **Psalm 130** (again: Proper 8) begins, 'Out of the depths have I cried to you, O Lord', reflecting David's grief.
+* **Ephesians 4.25 &ndash; 5.2** continues the series in Ephesians, and describes the new way of life.
+* **John 6.35, 41-51** continues the series in John 6 (including verse 35 from last week, then leaving a gap, which could be filled for completeness), and is about Jesus as the bread of life: 'whoever believes has eternal life'. The 'Related' reading, **1 Kings 19.4-8**, is about Elijah being provided with food by an angel. The 'Related' psalm, **Psalm 34.1-8**, says, 'The angel of the Lord encamps around those who fear him and delivers them. O taste and see that the Lord is gracious; blessed is the one who trusts in him.'
 
 Year C
 
