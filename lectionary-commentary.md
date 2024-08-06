@@ -15,7 +15,7 @@ Any feedback? Please [contact](/contact/) me!
 * Year A: complete
 * Year B: complete up to Proper 16
 * Year C: complete from Palm Sunday onwards
-* Festivals: complete except for 6 to 24 August
+* Festivals: complete except for 15 and 24 August
 * Appendix: Gospels: complete for Matthew 1-18, Mark 1-6, Luke and John
 
 # Contents
@@ -575,15 +575,15 @@ Year B
 
 (RCL 'Last Sunday after the Epiphany', or 'Transfiguration Sunday'.)
 
-The Gospel readings are about Jesus' Transfiguration.
+The Gospel readings are about Jesus' Transfiguration (which is also celebrated on 6 August).
 
 Year A
 
-* **Matthew 17.1-9** is Matthew's account of Jesus' Transfiguration, on a mountain, with Peter, James and John, with Moses and Elijah appearing, a cloud overshadowing them, and a voice saying, 'This is my Son'. **Exodus 24.12-18** is about Moses seeing the glory of the Lord on the mountain. **Psalm 2** has God saying, 'You are my Son'. Alternatively, **Psalm 99** (also set for Year C) says that God 'spoke to them out of the pillar of cloud', and calls people to 'worship him upon his holy hill'. **2 Peter 1.16-21** includes Peter's eyewitness account of the Transfiguration.
+* **Matthew 17.1-9** is Matthew's account of Jesus' Transfiguration, on a mountain, with Peter, James and John, with Moses and Elijah appearing, a cloud overshadowing them, and a voice saying, 'This is my Son'. **Exodus 24.12-18** (see BCP+, Transfiguration) is about Moses seeing the glory of the Lord on the mountain. **Psalm 2** has God saying, 'You are my Son'. Alternatively, **Psalm 99** (also set for Year C) says that God 'spoke to them out of the pillar of cloud', and calls people to 'worship him upon his holy hill'. **2 Peter 1.16-21** includes Peter's eyewitness account of the Transfiguration.
 
 Year B
 
-* **Mark 9.2-9** is Mark's account of Jesus' Transfiguration, on a 'high mountain', with Moses and Elijah appearing. **2 Kings 2.1-12** is about Elijah being taken up to heaven. **Psalm 50.1-6** says that God 'has spoken' and 'shines forth'. **2 Corinthians 4.3-6** speaks about 'the light of the knowledge of the glory of God in the face of Jesus Christ'.
+* **Mark 9.2-9** (see BCP+, Transfiguration) is Mark's account of Jesus' Transfiguration, on a 'high mountain', with Moses and Elijah appearing. **2 Kings 2.1-12** is about Elijah being taken up to heaven. **Psalm 50.1-6** says that God 'has spoken' and 'shines forth'. **2 Corinthians 4.3-6** speaks about 'the light of the knowledge of the glory of God in the face of Jesus Christ'.
 
 # Lent {#lent}
 
@@ -1776,6 +1776,13 @@ Two of the Twelve are called James; this is James 'the Great', son of Zebedee an
 * **Matthew 20.20-28** (see BCP) is the request of 'the mother of the sons of Zebedee' (James and John), with Jesus' words to them, 'You will indeed drink my cup'.
 
 ## The Transfiguration of Our Lord (6 August) {#transfiguration}
+
+The Transfiguration is also celebrated on the Sunday before Lent.
+
+* **Daniel 7.9-10, 13-14** is Daniel's vision of 'one like a human being coming with the clouds of heaven' and being presented before 'the Ancient One', whose 'clothing was white as snow, and the hair of his head like pure wool'.
+* **Psalm 97** says, 'Clouds and darkness are round about him', and, 'Fire goes before him'.
+* **2 Peter 1.16-19** includes Peter's eyewitness account of the Transfiguration.
+* **Luke 9.28-36** is Luke's account of Jesus' Transfiguration: 'his clothes became dazzling white ... they saw his glory ... a cloud came and overshadowed them'.
 
 ## The Blessed Virgin Mary (15 August) {#bvm}
 
