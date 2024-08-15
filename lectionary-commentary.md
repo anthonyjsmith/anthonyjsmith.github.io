@@ -1788,8 +1788,6 @@ The Transfiguration is also celebrated on the Sunday before Lent.
 
 Although the date is derived from the Assumption, this festival is not so specific, and 'may be celebrated on 8 September [The Birth of the Blessed Virgin Mary] instead of 15 August', according to the [Calendar](https://www.churchofengland.org/prayer-and-worship/worship-texts-and-resources/common-worship/churchs-year/calendar).
 
-Isaiah 61.10,11 or Revelation 11.19 - 12.6,10 Psalm 45.10-17  Galatians 4.4-7 Luke 1.46-55
-
 * **Isaiah 61.10-11** says, 'I will greatly rejoice in the L<span style="font-variant:small-caps">ord</span>, my whole being shall exult in my God', echoing the Magnificat.
 * Alternatively, **Revelation 11.19 &ndash; 12.6, 10** is John's vision of 'a woman clothed with the sun' who 'gave birth to a son, a male child, who is to rule all the nations with a rod of iron'. (The 'ark of his covenant' [11.19] has also been taken as a reference to Mary.)
 * **Psalm 45.10-17** (see BCP+) says to the 'king's daughter', 'I will make your name to be remembered through all generations', echoing the Magnificat.
