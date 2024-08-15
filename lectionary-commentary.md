@@ -16,7 +16,7 @@ Any feedback? Please [contact](/contact/) me!
 * Year B: complete up to Proper 16
 * Year C: complete from Palm Sunday onwards
 * Festivals: complete
-* Appendix: Gospels: complete for Matthew 1-18, Mark 1-6, Luke and John
+* Appendix: Gospels: complete for Matthew 1-22, Mark 1-6, Luke and John
 
 # Contents
 
@@ -2055,22 +2055,22 @@ For Matthew, Mark and Luke, the semicontinuous series from Epiphany 3 to the end
 * Matthew 18.12-14: see Luke 15.1-10.
 * Matthew 18.15-20: **Proper 18**.
 * Matthew 18.21-35: **Proper 19**.
-* ...
-* Matthew 19.27-30: Conversion of Paul.
-* ...
+* Matthew 19.1: omitted, along with its parallel in Mark 10.1.
+* Matthew 19.2-15: see Mark 10.2-16.
+* Matthew 19.16-30: see Mark 10.17-31 (19.27-30: Conversion of Paul).
 * Matthew 20.1-16: **Proper 20**.
-* ...
-* Matthew 20.20-28: James.
-* ...
+* Matthew 20.17-19: see Mark 9.30-32 for a close parallel.
+* Matthew 20.20-28: James; see Mark 10.35-45.
+* Matthew 20.29-34: see Mark 10.46-52.
 * Matthew 21.1-11: Palm Sunday.
-* Matthew 21.12-16: Dedication Festival.
-* ...
-* Matthew 21.21-22: see Luke 17.5-10.
+* Matthew 21.12-16: Dedication Festival; see John 2.13-22.
+* Matthew 21.17-22: omitted, along with its parallel in Mark 11.12-14, 19-24.
 * Matthew 21.23-32: **Proper 21**.
 * Matthew 21.33-46: **Proper 22**.
 * Matthew 22.1-14: **Proper 23**.
 * Matthew 22.15-22: **Proper 24**.
-* ...
+* Matthew 22.23-32: see Luke 20.27-38.
+* Matthew 22.33: omitted.
 * Matthew 22.34-46: **Proper 25**.
 * Matthew 23.1-7: omitted, along with its parallels in Mark 12.38-39 and Luke 20.45-46 (NB: RCL 'Proper 26').
 * Matthew 23.8-12: omitted (NB: RCL 'Proper 26').
@@ -2146,8 +2146,7 @@ For Matthew, Mark and Luke, the semicontinuous series from Epiphany 3 to the end
 * Mark 10.46-52: **Proper 25**.
 * ...
 * Mark 11.1-11: Palm Sunday
-* ...
-* Mark 11.23: see Luke 17.5-10.
+* Mark 11.12-14, 19-24: omitted, along with its parallel in Matthew 21.17-22.
 * ...
 * Mark 12.28-34: **4 before Advent**.
 * ...
@@ -2298,14 +2297,14 @@ For Matthew, Mark and Luke, the semicontinuous series from Epiphany 3 to the end
 * Luke 19.11-27: see Matthew 25.14-30.
 * Luke 19.28-40: Palm Sunday.
 * Luke 19.41-44: omitted.
-* Luke 19.45-46: see Matthew 21.12-16 (Dedication Festival, Year A) and John 2.13-22 (Lent 3, Year B, and Dedication Festival, Year C).
+* Luke 19.45-46: see Matthew 21.12-16 (Dedication Festival, Year A) and John 2.13-22.
 * Luke 19.47-48: omitted.
 * Luke 20.1-8: see Matthew 21.23-32.
 * Luke 20.9-19: see Matthew 21.33-46.
 * Luke 20.20-26: see Matthew 22.15-22.
 * Luke 20.27-38: **3 before Advent**.
-* Luke 20.39: omitted.
-* Luke 20.40-44: see Matthew 22.34-46.
+* Luke 20.39-40: omitted.
+* Luke 20.41-44: see Matthew 22.34-46.
 * Luke 20.45-47: omitted, along with its parallels in Matthew 23.1-7 and Mark 12.38-40 (NB: RCL 'Proper 26' and 'Proper 27').
 * Luke 21.1-4 (widow's offering): omitted, along with its parallel in Mark 12.41-44 (NB: RCL 'Proper 27').
 * Luke 21.5-19: **2 before Advent**.
