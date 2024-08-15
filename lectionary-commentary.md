@@ -15,7 +15,7 @@ Any feedback? Please [contact](/contact/) me!
 * Year A: complete
 * Year B: complete up to Proper 16
 * Year C: complete from Palm Sunday onwards
-* Festivals: complete except for 24 August
+* Festivals: complete
 * Appendix: Gospels: complete for Matthew 1-18, Mark 1-6, Luke and John
 
 # Contents
@@ -1796,10 +1796,13 @@ Although the date is derived from the Assumption, this festival is not so specif
 
 ## Bartholomew the Apostle (24 August) {#bartholomew}
 
-* **Isaiah 43.8-13** or **Acts 5.12-16** (see BCP)
-* **Psalm 145.1-7**
-* **Acts 5.12-16** (see BCP) or **1 Corinthians 4.9-15**
-* **Luke 22.24-30** (see BCP)
+One of the Twelve, according to Matthew, Mark and Luke, identified with Nathanael in John. Subsequently active as a missionary and then martyred, according to tradition.
+
+* **Isaiah 43.8-13** says, 'you are my witnesses'.
+* **Psalm 145.1-7** says, 'I will tell of all your wonderful deeds'.
+* **Acts 5.12-16** (see BCP) says that 'many signs and wonders were done among the people through the apostles' (including Bartholomew, presumably: 1.13).
+* Alternatively, the passage from Acts can be the first reading, with **1 Corinthians 4.9-15** as the second reading, in which Paul says, 'I think that God has exhibited us apostles as last of all, as though sentenced to death'.
+* **Luke 22.24-30** (see BCP) has Jesus saying, 'the greatest among you must become like the youngest, and the leader like one who serves', perhaps hinting at Bartholomew's martyrdom, or at his lack of prominence among the apostles.
 
 ## Holy Cross Day (14 September) {#holycross}
 
