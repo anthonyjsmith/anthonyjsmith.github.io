@@ -16,7 +16,7 @@ Any feedback? Please [contact](/contact/) me!
 * Year B: complete up to Proper 16
 * Year C: complete from Palm Sunday onwards
 * Festivals: complete
-* Appendix: Gospels: complete for Matthew 1-22, Mark 1-6, Luke and John
+* Appendix: Gospels: complete for Matthew 1-23, Mark 1-6, Luke and John
 
 # Contents
 
@@ -2072,9 +2072,10 @@ For Matthew, Mark and Luke, the semicontinuous series from Epiphany 3 to the end
 * Matthew 22.23-32: see Luke 20.27-38.
 * Matthew 22.33: omitted.
 * Matthew 22.34-46: **Proper 25**.
-* Matthew 23.1-7: omitted, along with its parallels in Mark 12.38-39 and Luke 20.45-46 (NB: RCL 'Proper 26').
+* Matthew 23.1-7: omitted, along with its parallels in Mark 12.38-39 and Luke 11.43, 20.45-46 (NB: RCL 'Proper 26').
 * Matthew 23.8-12: omitted (NB: RCL 'Proper 26').
-* ...
+* Matthew 23.13-36: omitted, along with Luke 11.39-42, 44-52, which contains many parallels.
+* Matthew 23.37-39: see Luke 13.31-35.
 * Matthew 24.1-14: **4 before Advent**.
 * ...
 * Matthew 24.30-35: Bible Sunday.
@@ -2237,7 +2238,7 @@ For Matthew, Mark and Luke, the semicontinuous series from Epiphany 3 to the end
 * Luke 11.33: see Matthew 5.13-20.
 * Luke 11.34-35: omitted, along with its parallel in Matthew 6.22-23.
 * Luke 11.36: omitted.
-* Luke 11.37-54 ('woe to you...'): omitted, along with Matthew 23, which contains many parallels (NB: RCL 'Proper 26').
+* Luke 11.37-54 ('woe to you...'): omitted, along with Matthew 23.1-36, which contains many parallels (NB: RCL 'Proper 26').
 * Luke 12.1-9: see Matthew 10.24-39.
 * Luke 12.10: see Mark 3.20-35.
 * Luke 12.11-12: omitted (but see Matthew 10.17-22, set for Stephen). Compare Luke 21.5-19 (and Mark 13.5-13, set for Mark).
