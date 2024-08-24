@@ -16,7 +16,7 @@ Any feedback? Please [contact](/contact/) me!
 * Year B: complete up to Proper 16
 * Year C: complete from Palm Sunday onwards
 * Festivals: complete
-* Appendix: Gospels: complete for Matthew 1-23, Mark 1-6, Luke and John
+* Appendix: Gospels: complete for Matthew, Mark 1-6, Luke and John
 
 # Contents
 
@@ -2072,23 +2072,26 @@ For Matthew, Mark and Luke, the semicontinuous series from Epiphany 3 to the end
 * Matthew 22.23-32: see Luke 20.27-38.
 * Matthew 22.33: omitted.
 * Matthew 22.34-46: **Proper 25**.
-* Matthew 23.1-7: omitted, along with its parallels in Mark 12.38-39 and Luke 11.43, 20.45-46 (NB: RCL 'Proper 26').
+* Matthew 23.1-7: omitted, along with its parallels in Mark 12.38-39 and Luke 11.43; 20.45-46 (NB: RCL 'Proper 26').
 * Matthew 23.8-12: omitted (NB: RCL 'Proper 26').
 * Matthew 23.13-36: omitted, along with Luke 11.39-42, 44-52, which contains many parallels.
 * Matthew 23.37-39: see Luke 13.31-35.
 * Matthew 24.1-14: **4 before Advent**.
-* ...
+* Matthew 24.15-25: omitted, along with its parallels in Mark 13.14-23 and Luke 21.20-24.
+* Matthew 24.26-27: omitted, along with its parallel in Luke 17.23-24.
+* Matthew 24.28: omitted, along with its parallel in Luke 17.37.
+* Matthew 24.29-35: see Mark 13.24-37.
 * Matthew 24.30-35: Bible Sunday.
 * Matthew 24.36-44: Advent 1.
-* ...
+* Matthew 24.45-51: omitted, along with its parallel in Luke 12.42-46.
 * Matthew 25.1-13: **3 before Advent**.
 * Matthew 25.14-30: **2 before Advent**.
 * Matthew 25.31-46: **1 before Advent**.
-* ...
+* Matthew 26.1-13: see Mark 14.1 &ndash; 15.47 and John 12.1-8.
 * Matthew 26.14 &ndash; 27.66: Palm Sunday.
 * Matthew 27.57-66: Easter Eve, Years A, B and C (first alternative).
 * Matthew 28.1-10: Easter Vigil; Easter Day (second alternative)
-* ...
+* Matthew 28.11-15: omitted.
 * Matthew 28.16-20: Trinity.
 
 ## Mark (Year B) {#markgospel}
@@ -2156,8 +2159,7 @@ For Matthew, Mark and Luke, the semicontinuous series from Epiphany 3 to the end
 * ...
 * Mark 13.1-8: **2 before Advent**.
 * Mark 13.5-13: Mark.
-* Mark 13.14-19: omitted, along with near parallels in Matthew 24.15-21 and Luke 21.20-24.
-* ...
+* Mark 13.14-23: omitted, along with its parallels in Matthew 24.15-25 and Luke 21.20-24.
 * Mark 13.24-37: Advent 1.
 * ...
 * Mark 14.1 &ndash; 15.47: Palm Sunday.
@@ -2278,8 +2280,7 @@ For Matthew, Mark and Luke, the semicontinuous series from Epiphany 3 to the end
 * Luke 17.5-10: **Proper 22**.
 * Luke 17.11-19: **Proper 23** (Harvest Thanksgiving, Year A).
 * Luke 17.20-22: omitted
-* Luke 17.23: omitted, along with its parallel in Matthew 24.23. Compare Luke 21.5-19.
-* Luke 17.24: omitted, along with its parallel in Matthew 24.27.
+* Luke 17.23-24: omitted, along with its parallel in Matthew 24.26-27.
 * Luke 17.25: various parallels.
 * Luke 17.26-27: see Matthew 24.36-44.
 * Luke 17.28-30: omitted.
@@ -2309,7 +2310,7 @@ For Matthew, Mark and Luke, the semicontinuous series from Epiphany 3 to the end
 * Luke 20.45-47: omitted, along with its parallels in Matthew 23.1-7 and Mark 12.38-40 (NB: RCL 'Proper 26' and 'Proper 27').
 * Luke 21.1-4 (widow's offering): omitted, along with its parallel in Mark 12.41-44 (NB: RCL 'Proper 27').
 * Luke 21.5-19: **2 before Advent**.
-* Luke 21.20-24: omitted, along with near parallels in Matthew 24.15-21 and Mark 13.14-19.
+* Luke 21.20-24: omitted, along with its parallels in Matthew 24.15-21 and Mark 13.14-19.
 * Luke 21.25-36: Advent 1.
 * Luke 21.37-38: omitted.
 * Luke 22.1-6: see Mark 14.1-2, 10-11, included in Mark 14.1 &ndash; 15.47 (Palm Sunday).
