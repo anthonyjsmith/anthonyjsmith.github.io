@@ -13,7 +13,7 @@ Any feedback? Please [contact](/contact/) me!
 **_Work in progress!_**
 
 * Year A: complete
-* Year B: complete up to Proper 17
+* Year B: complete up to Proper 18
 * Year C: complete from Palm Sunday onwards
 * Festivals: complete
 * Appendix: Gospels: complete for Matthew, Mark 1-7, Luke and John
@@ -1356,7 +1356,7 @@ Year A
 Year B
 
 * **Song of Solomon 2.8-13** continues the series on history and wisdom (beginning the wisdom part), and features the woman hearing the voice of her beloved (the only time this book features prominently in the lectionary). **Psalm 45.1-2, 6-9** [or 45.1-7] speaks in praise of the king: 'You are the most handsome of men'.
-* **James 1.17-27** begins a five-part series in James, and is about being 'doers of the word, and not merely hearers'.
+* **James 1.17-27** begins a five-part series in James, and is about being 'doers of the word, and not merely hearers' (providing some links with the Gospel reading).
 * **Mark 7.1-8, 14-15, 21-23** resumes the series in Mark, and is a warning against the hypocrisy of the Pharisees, who 'abandon the commandment of God and hold to human tradition'. (The gaps could be filled 'when opportunity allows'.) The 'Related' reading, **Deuteronomy 4.1-2, 6-9**, says, 'You must neither add anything to what I command you nor take away anything from it, but keep the commandments of the L<span style="font-variant:small-caps">ord</span> your God with which I am charging you.' The 'Related' psalm, **Psalm 15**, is about the one who 'leads an uncorrupt life and does the thing that is right'.
 
 Year C
@@ -1372,6 +1372,12 @@ Year A
 * **Exodus 12.1-14** continues the series in the Pentateuch and in Exodus, and describes the institution of the Passover celebration, as a reminder of God's judgment on the gods of Egypt. **Psalm 149** is a psalm of celebration and speaks of God's judgment on the nations.
 * **Romans 13.8-14** continues the series in Romans, and is about loving one another and living 'as in the day'.
 * **Matthew 18.15-20** continues the series in Matthew, and is about dealing with sin in the church. The 'Related' reading, **Ezekiel 33.7-11**, is about the wicked turning from their ways. The 'Related' psalm, **Psalm 119.33-40**, is about learning God's ways.
+
+Year B
+
+* **Proverbs 22.1-2, 8-9, 22-23** continues the series on history and wisdom, and begins a three-part series in Proverbs, with some proverbs about riches and poverty (perhaps chosen to link with the reading from James). **Psalm 125** says, 'Do good, O Lord, to those who are good'.
+* **James 2.1-10 [11-13] 14-17** continues the series in James, and is about how one should act towards those who are rich or poor (providing some links with the reading from Proverbs).
+* **Mark 7.24-37** continues the series in Mark (without a gap), and is about Jesus casting a demon out of the daughter of the Syrophoenician woman, and saying to a 'deaf man who had an impediment in his speech': 'Be opened.' The 'Related' reading, **Isaiah 35.4-7a**, says, 'Then the eyes of the blind shall be opened, and the ears of the deaf unstopped; then the lame shall leap like a deer, and the tongue of the speechless sing for joy.' The 'Related' psalm, **Psalm 146**, says, 'the Lord opens the eyes of the blind'.
 
 Year C
 
