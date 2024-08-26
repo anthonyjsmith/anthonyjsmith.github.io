@@ -13,10 +13,10 @@ Any feedback? Please [contact](/contact/) me!
 **_Work in progress!_**
 
 * Year A: complete
-* Year B: complete up to Proper 16
+* Year B: complete up to Proper 17
 * Year C: complete from Palm Sunday onwards
 * Festivals: complete
-* Appendix: Gospels: complete for Matthew, Mark 1-6, Luke and John
+* Appendix: Gospels: complete for Matthew, Mark 1-7, Luke and John
 
 # Contents
 
@@ -1335,7 +1335,7 @@ Year A
 
 Year B
 
-* **1 Kings 8.[1, 6, 10-11] 22-30, 41-43** continues the series on history and wisdom, and is about Solomon's dedication of 'the house of the L<span style="font-variant:small-caps">ord</span>'. **Psalm 84** begins, 'How lovely is your dwelling place, O Lord of hosts!'
+* **1 Kings 8.[1, 6, 10-11] 22-30, 41-43** continues the series on history and wisdom (concluding the history part), and is about Solomon's dedication of 'the house of the L<span style="font-variant:small-caps">ord</span>'. **Psalm 84** begins, 'How lovely is your dwelling place, O Lord of hosts!'
 * **Ephesians 6.10-20** concludes the series in Ephesians, and is about the 'armour of God'.
 * **John 6.56-69** concludes the series in John 6 (including verse 56-58 from last week, and skipping the final two verses of the chapter, which could be included for completeness), and focuses on positive and negative responses to Jesus' teaching. The 'Related' reading, **Joshua 24.1-2a, 14-18**, has Joshua urging the people to respond well to God: 'choose this day whom you will serve'. The 'Related' psalm, **Psalm 34.15-22** (continued from last week and the week before), makes a contrast between the 'righteous' and the 'wicked'.
 
@@ -1352,6 +1352,12 @@ Year A
 * **Exodus 3.1-15** continues the series in the Pentateuch and in Exodus, and is about Moses at the burning bush, and God's promise to deliver his people from Egypt, and bring them 'to a good and broad land'. **Psalm 105.1-6, 23-26, 45b** (see also Proper 12, 14 and 20) speaks of Israel in Egypt, and of God sending 'Moses his servant'. Alternatively, **Psalm 115** is about God's supremacy over the idols of the nations.
 * **Romans 12.9-21** continues the series in Romans (without a gap), and is about living as Christians.
 * **Matthew 16.21-28** continues the series in Matthew (without a gap), and has Jesus foretelling his death and resurrection, and calling his followers to 'take up their cross', with the promise that 'those who lose their life for my sake will find it'. The 'Related' reading, **Jeremiah 15.15-21**, has Jeremiah speaking of being persecuted, and God promising to save him and deliver him. The 'Related' psalm, **Psalm 26.1-8**, calls out for vindication when living among the wicked.
+
+Year B
+
+* **Song of Solomon 2.8-13** continues the series on history and wisdom (beginning the wisdom part), and features the woman hearing the voice of her beloved (the only time this book features prominently in the lectionary). **Psalm 45.1-2, 6-9** [or 45.1-7] speaks in praise of the king: 'You are the most handsome of men'.
+* **James 1.17-27** begins a five-part series in James, and is about being 'doers of the word, and not merely hearers'.
+* **Mark 7.1-8, 14-15, 21-23** resumes the series in Mark, and is a warning against the hypocrisy of the Pharisees, who 'abandon the commandment of God and hold to human tradition'. (The gaps could be filled 'when opportunity allows'.) The 'Related' reading, **Deuteronomy 4.1-2, 6-9**, says, 'You must neither add anything to what I command you nor take away anything from it, but keep the commandments of the L<span style="font-variant:small-caps">ord</span> your God with which I am charging you.' The 'Related' psalm, **Psalm 15**, is about 'Those who walk blamelessly, and do what is right'.
 
 Year C
 
@@ -2033,8 +2039,8 @@ For Matthew, Mark and Luke, the semicontinuous series from Epiphany 3 to the end
 * Matthew 14.13-21: **Proper 13**.
 * Matthew 14.22-33: **Proper 14**.
 * Matthew 14.34-36: see Mark 6.30-34, 53-56.
-* Matthew 15.1-3: see Mark 7.1-8, 14-15, 21-23.
-* Matthew 15.4-6: omitted, along with its parallel in Mark 7.9-13.
+* Matthew 15.1-2: see Mark 7.1-8, 14-15, 21-23.
+* Matthew 15.3-6: omitted, along with its parallel in Mark 7.9-13.
 * Matthew 15.7-9: see Mark 7.1-8, 14-15, 21-23.
 * Matthew 15.[10-20] 21-28: **Proper 15**.
 * Matthew 15.29-31: see Mark 7.24-37.
@@ -2129,7 +2135,8 @@ For Matthew, Mark and Luke, the semicontinuous series from Epiphany 3 to the end
 * Mark 6.35-44: see Matthew 14.13-21 and John 6.1-21.
 * Mark 6.45-52: see Matthew 14.22-33 and John 6.1-21.
 * Mark 7.1-8, 14-15, 21-23: **Proper 17**.
-* ...
+* Mark 7.9-13: omitted, along with its parallel in Matthew 15.3-6.
+* Mark 7.16-20: see Matthew 15.[10-20] 21-28.
 * Mark 7.24-37: **Proper 18**.
 * ...
 * Mark 8.22-26: omitted, along with its close parallel in Matthew 9.27-31.
