@@ -1357,7 +1357,7 @@ Year B
 
 * **Song of Solomon 2.8-13** continues the series on history and wisdom (beginning the wisdom part), and features the woman hearing the voice of her beloved (the only time this book features prominently in the lectionary). **Psalm 45.1-2, 6-9** [or 45.1-7] speaks in praise of the king: 'You are the most handsome of men'.
 * **James 1.17-27** begins a five-part series in James, and is about being 'doers of the word, and not merely hearers'.
-* **Mark 7.1-8, 14-15, 21-23** resumes the series in Mark, and is a warning against the hypocrisy of the Pharisees, who 'abandon the commandment of God and hold to human tradition'. (The gaps could be filled 'when opportunity allows'.) The 'Related' reading, **Deuteronomy 4.1-2, 6-9**, says, 'You must neither add anything to what I command you nor take away anything from it, but keep the commandments of the L<span style="font-variant:small-caps">ord</span> your God with which I am charging you.' The 'Related' psalm, **Psalm 15**, is about 'Those who walk blamelessly, and do what is right'.
+* **Mark 7.1-8, 14-15, 21-23** resumes the series in Mark, and is a warning against the hypocrisy of the Pharisees, who 'abandon the commandment of God and hold to human tradition'. (The gaps could be filled 'when opportunity allows'.) The 'Related' reading, **Deuteronomy 4.1-2, 6-9**, says, 'You must neither add anything to what I command you nor take away anything from it, but keep the commandments of the L<span style="font-variant:small-caps">ord</span> your God with which I am charging you.' The 'Related' psalm, **Psalm 15**, is about the one who 'leads an uncorrupt life and does the thing that is right'.
 
 Year C
 
