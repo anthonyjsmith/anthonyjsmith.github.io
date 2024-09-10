@@ -13,10 +13,10 @@ Any feedback? Please [contact](/contact/) me!
 **_Work in progress!_**
 
 * Year A: complete
-* Year B: complete up to Proper 18
+* Year B: complete up to Proper 19
 * Year C: complete from Palm Sunday onwards
 * Festivals: complete
-* Appendix: Gospels: complete for Matthew, Mark 1-7, Luke and John
+* Appendix: Gospels: complete for Matthew, Mark 1-8, Luke and John
 
 # Contents
 
@@ -1393,6 +1393,12 @@ Year A
 * **Romans 14.1-12** concludes the series in Romans (continuing without a gap), and calls us not to judge or despise one another.
 * **Matthew 18.21-35** continues the series in Matthew (without a gap), and includes the parable of the unforgiving servant. The 'Related' reading, **Genesis 50.15-21**, is about Joseph forgiving his brothers. The 'Related' psalm, **Psalm 103.[1-7] 8-13**, says that God 'has not dealt with us according to our sins'.
 
+Year B
+
+* **Proverbs 1.20-33** continues the series on history and wisdom and in Proverbs, and has 'Wisdom' raising her voice and speaking of knowledge. **Psalm 19** [or 19.1-6] says, 'The heavens are telling the glory of God ... and one night unfolds knowledge to another.' Alternatively, the canticle, **Wisdom of Solomon 7.26 &ndash; 8.1** (from the Apocrypha), says of wisdom, 'She reaches mightily from one end of the earth to the other, and she orders all things well.'
+* **James 3.1-12** continues the series in James, and says that 'no one can tame the tongue'.
+* **Mark 8.27-38** continues the series in Mark, and has Peter saying to Jesus, 'You are the Messiah', and Jesus speaking of his coming death and resurrection. The 'Related' reading, **Isaiah 50.4-9a**, says, 'I did not hide my face from insult and spitting', but, 'I know that I shall not be put to shame; he who vindicates me is near'. The 'Related' psalm, **Psalm 116.1-8** (EV: 1-9), says to God, 'you have delivered my soul from death'.
+
 Year C
 
 * **Jeremiah 4.11-12, 22-28** continues the series on the prophets and in Jeremiah, and is about the land becoming a desolation as a consequence of the people's foolishness. **Psalm 14** is about the foolishness of turning from God.
@@ -2144,11 +2150,12 @@ For Matthew, Mark and Luke, the semicontinuous series from Epiphany 3 to the end
 * Mark 7.9-13: omitted, along with its parallel in Matthew 15.3-6.
 * Mark 7.16-20: see Matthew 15.[10-20] 21-28.
 * Mark 7.24-37: **Proper 18**.
-* ...
+* Mark 8.1-10: omitted, along with its parallel in Matthew 15.32-39.
+* Mark 8.11-21: omitted, along with its parallel in Matthew 16.1-12.
 * Mark 8.22-26: omitted, along with its close parallel in Matthew 9.27-31.
 * Mark 8.27-38: **Proper 19**.
 * Mark 8.31-38: Lent 2.
-* ...
+* Mark 9.1: see Matthew 16.21-28.
 * Mark 9.2-9: 1 before Lent.
 * Mark 9.10: omitted
 * Mark 9.11-13: omitted, along with its parallel in Matthew 17.10-13, and its close parallel in Matthew 11.14.
