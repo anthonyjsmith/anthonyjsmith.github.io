@@ -1,7 +1,7 @@
 ---
 title: 'Embodied: Transgender Identities, the Church, and What the Bible Has to Say
   (Preston Sprinkle)'
-description:
+description: The best thing about this book is the way the author combines truth with grace.
 tags:
 - Christianity
 - Reviews
