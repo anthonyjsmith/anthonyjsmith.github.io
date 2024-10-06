@@ -13,7 +13,7 @@ Any feedback? Please [contact](/contact/) me!
 **_Work in progress!_**
 
 * Year A: complete
-* Year B: complete up to Proper 20
+* Year B: complete up to Proper 21
 * Year C: complete from Palm Sunday onwards
 * Festivals: complete
 * Appendix: Gospels: complete for Matthew, Mark 1-8, Luke and John
@@ -1432,6 +1432,12 @@ Year A
 * **Exodus 17.1-7** continues the series in the Pentateuch and in Exodus, and is about water coming out of the rock. **Psalm 78.1-4, 12-16** [or 78.1-7] praises God for his 'wonderful works' (4): 'He brought streams out of the rock and made water gush out like rivers' (16).
 * **Philippians 2.1-13** continues the series in Philippians (without a gap), and is about imitating Christ's humility.
 * **Matthew 21.23-32** continues the series in Matthew, and includes the parable of the two sons. The 'Related' reading, **Ezekiel 18.1-4, 25-32** is about how God deals with those (like the two sons) who change their ways. The 'Related' psalm, **Psalm 25.1-8** (EV: 1-9), says that God will 'teach sinners in the way'.
+
+Year B
+
+* **Esther 7.1-6, 9-10; 9.20-22** continues the series on history and wisdom, and is the only reading in the lectionary from Esther, giving a brief glimpse of the people's fortunes being turned 'from sorrow into gladness'. **Psalm 124** says, 'blessed be the Lord who has not given us over to be a prey for their teeth'.
+* **James 5.13-20** concludes the series in James with the final verses of the letter, about the 'prayer of faith'.
+* **Mark 9.38-50** continues the series in Mark (without a gap), and has Jesus saying, 'Whoever is not against us is for us' (in response to an attempt to stop people casting out demons in Jesus' name), and then teaching about things that cause people to stumble. The 'Related' reading, **Numbers 11.4-6, 10-16, 24-29**, has Joshua calling on Moses to stop certain people from prophesying, and Moses refusing to do so. The 'Related' psalm, **Psalm 19.7-14**, says, 'Keep your servant also from presumptuous sins lest they get dominion over me', reflecting Jesus' teaching on things that cause people to stumble.
 
 Year C
 
