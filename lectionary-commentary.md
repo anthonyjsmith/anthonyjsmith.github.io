@@ -13,7 +13,7 @@ Any feedback? Please [contact](/contact/) me!
 **_Work in progress!_**
 
 * Year A: complete
-* Year B: complete up to Proper 19
+* Year B: complete up to Proper 20
 * Year C: complete from Palm Sunday onwards
 * Festivals: complete
 * Appendix: Gospels: complete for Matthew, Mark 1-8, Luke and John
@@ -1413,6 +1413,12 @@ Year A
 * **Philippians 1.21-30** begins a four-part semicontinuous series in Philippians, and is about living 'in a manner worthy of the gospel of Christ'.
 * **Matthew 20.1-16** continues the series in Matthew, and is the parable of the labourers in the vineyard: 'are you envious because I am generous?' The 'Related' reading, **Jonah 3.10 &ndash; 4.11**, is about Jonah's anger in response God showing mercy to Nineveh: 'a gracious God and merciful, slow to anger, and abounding in steadfast love'. The 'Related' psalm, **Psalm 145.1-8**, says that God is 'gracious and merciful, long-suffering and of great goodness'.
 
+Year B
+
+* **Proverbs 31.10-31** continues the series on history and wisdom and concludes the series in Proverbs, with the description of the 'capable wife', twice mentioning 'the fruit of her hands'. **Psalm 1** says of those whose 'delight is in the law of the Lord', that they are like trees that 'yield their fruit in its season', and 'whatever they do, it shall prosper', reflecting the woman of Proverbs 31.
+* **James 3.13 &ndash; 4.3, 7-8a** continues the series in James (without a gap), and contrasts 'the wisdom from above', which is 'full of mercy and good fruits', with the 'wisdom' that is 'earthly, unspiritual, devilish' (providing some links with the reading from Proverbs and with the psalm).
+* **Mark 9.30-37** continues the series in Mark, and has Jesus foretelling his betrayal, death and resurrection, and teaching about greatness. The 'Related' reading from the Apocrypha, **Wisdom of Solomon 1.16 &ndash; 2.1, 12-22**, has the 'ungodly' saying, 'Let us lie in wait for the righteous man', not knowing 'the secret purposes of God'. The alternative 'Related' reading, **Jeremiah 11.18-20**, has Jeremiah committing his cause to God when threatened with death. The 'Related' psalm, **Psalm 54**, cries out for deliverance from those who 'seek after my life'.
+
 Year C
 
 * **Jeremiah 8.18 &ndash; 9.1** continues the series on the prophets and in Jeremiah, and expresses sorrow for the pain of 'my poor people'. **Psalm 79.1-9** cries out to God over the desolation of Jerusalem.
@@ -2062,8 +2068,8 @@ For Matthew, Mark and Luke, the semicontinuous series from Epiphany 3 to the end
 * Matthew 16.21-28: **Proper 17**.
 * Matthew 17.1-9: 1 before Lent.
 * Matthew 17.10-13: omitted, along with its parallel in Mark 9.11-13, and its close parallel in Matthew 11.14.
-* Matthew 17.14-20a: omitted, along with its parallel in Mark 9.14-29
-* Matthew 17.20b-21: see Luke 17.5-10.
+* Matthew 17.14-18: see Luke 9.28-43a.
+* Matthew 17.19-21: omitted, along with its parallel in Mark 9.28-29.
 * Matthew 17.22-23: see Mark 9.30-37.
 * Matthew 17.24-27: omitted.
 * Matthew 18.1-5: see Mark 9.30-37.
@@ -2159,7 +2165,8 @@ For Matthew, Mark and Luke, the semicontinuous series from Epiphany 3 to the end
 * Mark 9.2-9: 1 before Lent.
 * Mark 9.10: omitted
 * Mark 9.11-13: omitted, along with its parallel in Matthew 17.10-13, and its close parallel in Matthew 11.14.
-* ...
+* Mark 9.14-27: see Luke 9.28-43a.
+* Mark 9.28-29: omitted, along with its parallel in Matthew 17.19-21.
 * Mark 9.30-37: **Proper 20**.
 * Mark 9.38-50: **Proper 21**.
 * ...
