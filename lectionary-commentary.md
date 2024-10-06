@@ -13,10 +13,10 @@ Any feedback? Please [contact](/contact/) me!
 **_Work in progress!_**
 
 * Year A: complete
-* Year B: complete up to Proper 21
+* Year B: complete up to Proper 22
 * Year C: complete from Palm Sunday onwards
 * Festivals: complete
-* Appendix: Gospels: complete for Matthew, Mark 1-8, Luke and John
+* Appendix: Gospels: complete for Matthew, Mark 1-9, Luke and John
 
 # Contents
 
@@ -1302,7 +1302,7 @@ Year B
 Year C
 
 * **Isaiah 1.1, 10-20** continues the series on the prophets, and is the first of two weeks in Isaiah (moving on chronologically from Hosea). Both readings are quite hard-hitting, which provides a smooth transition into Jeremiah. (Isaiah's call featured in Proper 1.) God has no pleasure in his people's offerings when their hands are 'full of blood'. **Psalm 50.1-8, 23-24** (EV: 1-8, 22-23) [or 50.1-7] speaks of God testifying against his people, despite their sacrifices.
-* **Hebrews 11.1-3, 8-16** begins a series in Hebrews 11-13, and is about the faith of Abraham.
+* **Hebrews 11.1-3, 8-16** begins a four-part series in Hebrews 11-13, and is about the faith of Abraham.
 * **Luke 12.32-40** continues the series in Luke, and is about treasure in heaven and the coming of the Son of Man. The choice of verses seems odd, but it captures the seamless transition between 'don't worry' (22-34) and 'be ready' (35-48). (The reading could be extended to verse 48, 'when opportunity allows'.) The 'Related' reading, **Genesis 15.1-6**, is about Abram looking to his reward and trusting God's promise. The 'Related' psalm, **Psalm 33.12-22** [or 33.12-21] is about waiting for God, who is our 'shield' (Genesis 15.1).
 
 ## Sunday between 14 and 20 August (Proper 15) {#proper15}
@@ -1452,6 +1452,12 @@ Year A
 * **Exodus 20.1-4, 7-9, 12-20** continues the series in the Pentateuch and in Exodus, and is the Ten Commandments (with some of the details omitted). **Psalm 19** [or 19.7-14] is about the 'law', 'testimony', 'statutes' and 'commandment of the Lord'.
 * **Philippians 3.4b-14** begins a two-part series in Philippians, and has Paul saying, 'I regard everything as loss because of the surpassing value of knowing Christ Jesus my Lord'.
 * **Matthew 21.33-46** continues the series in Matthew (without a gap), and is the parable of the wicked tenants of the vineyard. The 'Related' reading, **Isaiah 5.1-7**, is a song about God's vineyard. The 'Related' psalm, **Psalm 80.9-17** (EV: 8-16), is about God's vine.
+
+Year B
+
+* **Job 1.1; 2.1-10** continues the series on history and wisdom, and begins a four-part series in Job, with an introduction to Job ('blameless and upright') and his sufferings. **Psalm 26** says, 'I have walked with integrity', and calls on God to 'Prove me ... and try me'.
+* **Hebrews 1.1-4; 2.5-12** begins a seven-part series in Hebrews 1-10, and is about Jesus being 'crowned with glory and honour because of the suffering of death' (perhaps providing a link with the Old Testament reading).
+* **Mark 10.2-16** continues the series in Mark (skipping one verse), and has Jesus teaching about divorce and blessing little children. The 'Related' reading, **Genesis 2.18-24**, has man giving 'names to all cattle, and to the birds of the air, and to every animal of the field', before God makes a woman, and is quoted in the Gospel reading ('Therefore a man leaves his father and his mother and clings to his wife, and they become one flesh'). The 'Related' psalm, **Psalm 8** (also quoted in the reading from Hebrews), says that all living things have been put under the feet of 'man'.
 
 Year C
 
@@ -2175,7 +2181,7 @@ For Matthew, Mark and Luke, the semicontinuous series from Epiphany 3 to the end
 * Mark 9.28-29: omitted, along with its parallel in Matthew 17.19-21.
 * Mark 9.30-37: **Proper 20**.
 * Mark 9.38-50: **Proper 21**.
-* ...
+* Mark 10.1: omitted, along with its parallel in Matthew 19.1.
 * Mark 10.2-16: **Proper 22**.
 * Mark 10.17-31: **Proper 23**.
 * ...
