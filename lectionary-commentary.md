@@ -13,10 +13,10 @@ Any feedback? Please [contact](/contact/) me!
 **_Work in progress!_**
 
 * Year A: complete
-* Year B: complete up to Proper 22
+* Year B: complete up to Proper 23
 * Year C: complete from Palm Sunday onwards
 * Festivals: complete
-* Appendix: Gospels: complete for Matthew, Mark 1-9, Luke and John
+* Appendix: Gospels: complete for Matthew, Mark 1-10, Luke and John
 
 # Contents
 
@@ -1473,6 +1473,12 @@ Year A
 * **Philippians 4.1-9** concludes the two-part series in Philippians, and contains an appeal for unity, and an encouragement to rejoice.
 * **Matthew 22.1-14** continues the series in Matthew (without a gap), and is the parable of the wedding banquet. The 'Related' reading, **Isaiah 25.1-9**, is about a 'feast' made by God 'for all peoples'. The 'Related' psalm, **Psalm 23**, says, 'You spread a table before me'.
 
+Year B
+
+* **Job 23.1-9, 16-17** continues the series on history and wisdom and in Job, and has Job longing to lay his case before God. **Psalm 22.1-15** says, 'I cry in the daytime, but you do not answer'.
+* **Hebrews 4.12-16** continues the series in Hebrews 1-10, and is about Jesus being a 'great high priest'.
+* **Mark 10.17-31** continues the series in Mark (without a gap), and is about the rich man and Jesus, ending with the promise that 'the last will be first'. The 'Related' reading, **Amos 5.6-7, 10-15**, calls on those who 'trample on the poor' to 'establish justice'. The 'Related' psalm, **Psalm 90.12-17**, says, 'Give us gladness for the days you have afflicted us'.
+
 Year C
 
 * **Jeremiah 29.1, 4-7** continues the series on the prophets and in Jeremiah, and is a word of comfort and assurance for God's people in exile (out of sequence, presumably for thematic reasons). (Extending the reading by a few verses would provide additional comfort.) **Psalm 66.1-11** (EV: 1-12) is about being brought 'through fire and water ... into a place of liberty'.
@@ -2184,10 +2190,9 @@ For Matthew, Mark and Luke, the semicontinuous series from Epiphany 3 to the end
 * Mark 10.1: omitted, along with its parallel in Matthew 19.1.
 * Mark 10.2-16: **Proper 22**.
 * Mark 10.17-31: **Proper 23**.
-* ...
+* Mark 10.32-34: see Mark 9.30-32 for a close parallel.
 * Mark 10.35-45: **Proper 24**.
 * Mark 10.46-52: **Proper 25**.
-* ...
 * Mark 11.1-11: Palm Sunday
 * Mark 11.12-14, 19-24: omitted, along with its parallel in Matthew 21.17-22.
 * ...
