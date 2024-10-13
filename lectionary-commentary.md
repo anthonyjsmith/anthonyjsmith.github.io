@@ -13,7 +13,7 @@ Any feedback? Please [contact](/contact/) me!
 **_Work in progress!_**
 
 * Year A: complete
-* Year B: complete up to Proper 23
+* Year B: complete up to Proper 24
 * Year C: complete from Palm Sunday onwards
 * Festivals: complete
 * Appendix: Gospels: complete for Matthew, Mark 1-10, Luke and John
@@ -1476,7 +1476,7 @@ Year A
 Year B
 
 * **Job 23.1-9, 16-17** continues the series on history and wisdom and in Job, and has Job longing to lay his case before God. **Psalm 22.1-15** says, 'I cry in the daytime, but you do not answer'.
-* **Hebrews 4.12-16** continues the series in Hebrews 1-10, and is about Jesus being a 'great high priest'.
+* **Hebrews 4.12-16** continues the series in Hebrews 1-10, and is an invitation to 'approach the throne of grace with boldness', because Jesus is a 'great high priest' (see next week).
 * **Mark 10.17-31** continues the series in Mark (without a gap), and is about the rich man and Jesus, ending with the promise that 'the last will be first'. The 'Related' reading, **Amos 5.6-7, 10-15**, calls on those who 'trample on the poor' to 'establish justice'. The 'Related' psalm, **Psalm 90.12-17**, says, 'Give us gladness for the days you have afflicted us'.
 
 Year C
@@ -1492,6 +1492,12 @@ Year A
 * **Exodus 33.12-23** continues the series in the Pentateuch and concludes the series in Exodus, and is about Moses interceding for God's people. **Psalm 99** says of Moses (and others): 'they called upon the Lord and he answered them'.
 * **1 Thessalonians 1.1-10** begins a five-part series in 1 Thessalonians (1.1 &ndash; 2.13; 4.13 &ndash; 5.11), and is about the faith and example of the Thessalonian believers.
 * **Matthew 22.15-22** continues the series in Matthew (without a gap), and is about paying taxes to the emperor. The 'Related' reading, **Isaiah 45.1-7**, is about God's lordship over Cyrus (the emperor). The 'Related' psalm, **Psalm 96.1-9 [10-13]** is about God's superiority over the nations.
+
+Year B
+
+* **Job 38.1-7 [34-41]** continues the series on history and wisdom and in Job, and is the first part of God's response to Job, pointing to God's wisdom in creation. **Psalm 104.1-10, 26, 37b** [correction: cf. RCL] (EV: 1-9, 24, 35b) [or 104.1-10 (EV: 1-9)] praises God for his wisdom in creation ('In wisdom you have made them all', 26 [EV: 24]).
+* **Hebrews 5.1-10** continues the series in Hebrews 1-10 (without a gap), and continues on the theme of Jesus as 'high priest'.
+* **Mark 10.35-45** continues the series in Mark, and has the request of James and John, and Jesus teaching about greatness and service: 'For the Son of Man came not to be served but to serve, and to give his life a ransom for many.' The 'Related' reading, **Isaiah 53.4-12**, is about the 'servant' who 'poured out himself to death' and 'shall prolong his days'. The 'Related' psalm, **Psalm 91.9-16**, has God saying of those who take refuge in him in the face of danger: 'With long life will I satisfy them'.
 
 Year C
 
