@@ -1043,7 +1043,7 @@ Year C
 
 * The alternative first reading, **Genesis 11.1-9**, recounts Babel, of which Pentecost is something of a reversal.
 * **Romans 8.14-17** is about the work of the Spirit.
-* **John 14.8-17 [25-27]** (see BCP) continues the series John's 'farewell discourse', with Jesus' promise of the Spirit.
+* **John 14.8-17 [25-27]** (see BCP) continues the series John's 'farewell discourse', with Jesus' promise of the Spirit. (Verses 25-27 might have been included for Easter 6.)
 
 # Ordinary Time {#ordinarytime2}
 
@@ -1972,16 +1972,16 @@ Year A
 * Alternatively, **Deuteronomy 28.1-14** speaks of the blessings that follow from obedience.
 * **Psalm 65** (see BCP+) says, 'You visit the earth and water it; you make it very plenteous.'
 * **2 Corinthians 9.6-15** speaks of sowing and reaping for 'the harvest of your righteousness'.
-* **Luke 12.16-30** is about the rich man and his barns, and about not worrying (compare Year B). (Verse 31 could also be included.)
+* **Luke 12.16-30** is about the rich man and his barns, and about not worrying about food or clothing (compare Year B). (Verse 31 could also be included.)
 * Alternatively, **Luke 17.11-19** is about the ten lepers, only one of whom returned to praise God.
 
 Year B
 
-* **Joel 2.21-27** is about God bringing fruitfulness, after the invasion of locusts.
-* **Psalm 126** says, 'Those who go out weeping, bearing the seed, will come back with shouts of joy, bearing their sheaves with them.'
+* **Joel 2.21-27** is about God bringing fruitfulness, after the invasion of locusts: 'the L<span style="font-variant:small-caps">ord</span> has done great things'.
+* **Psalm 126** says, 'The Lord has done great things', and, 'Those who go out weeping, bearing the seed, will come back with shouts of joy, bearing their sheaves with them.'
 * **1 Timothy 2.1-7** calls for 'supplications, prayers, intercessions, and thanksgivings'.
 * Alternatively, **1 Timothy 6.6-10** is about contentment: 'if we have food and clothing, we will be content with these'.
-* **Matthew 6.25-33** is about not worrying (compare Year A). (Verse 34 could also be included.)
+* **Matthew 6.25-33** is about not worrying about food or clothing (compare Year A). (Verse 34 could also be included.)
 
 Year C
 
