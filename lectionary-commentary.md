@@ -1497,7 +1497,7 @@ Year B
 
 * **Job 38.1-7 [34-41]** continues the series on history and wisdom and in Job, and is the first part of God's response to Job, pointing to God's wisdom in creation. **Psalm 104.1-10, 26, 37b** [correction: cf. RCL] (EV: 1-9, 24, 35b) [or 104.1-10 (EV: 1-9)] praises God for his wisdom in creation ('In wisdom you have made them all', 26 [EV: 24]).
 * **Hebrews 5.1-10** continues the series in Hebrews 1-10 (without a gap), and continues on the theme of Jesus as 'high priest'.
-* **Mark 10.35-45** continues the series in Mark, and has the request of James and John, and Jesus teaching about greatness and service: 'For the Son of Man came not to be served but to serve, and to give his life a ransom for many.' The 'Related' reading, **Isaiah 53.4-12**, is about the 'servant' who 'poured out himself to death' and 'shall prolong his days'. The 'Related' psalm, **Psalm 91.9-16**, has God saying of those who take refuge in him in the face of danger: 'With long life will I satisfy them'.
+* **Mark 10.35-45** continues the series in Mark, and has the request of James and John, and Jesus teaching about greatness and service: 'For the Son of Man came not to be served but to serve, and to give his life a ransom for many.' The 'Related' reading, **Isaiah 53.4-12**, is about the 'servant' who 'poured out himself to death' and yet 'shall prolong his days' and be allotted 'a portion with the great'. The 'Related' psalm, **Psalm 91.9-16**, has God saying of those who take refuge in him in the face of danger: 'I will lift them up' and 'With long life will I satisfy them'.
 
 Year C
 
