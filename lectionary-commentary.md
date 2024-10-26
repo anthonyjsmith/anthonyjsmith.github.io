@@ -13,7 +13,7 @@ Any feedback? Please [contact](/contact/) me!
 **_Work in progress!_**
 
 * Year A: complete
-* Year B: complete up to Proper 24
+* Year B: complete up to Proper 25
 * Year C: complete from Palm Sunday onwards
 * Festivals: complete
 * Appendix: Gospels: complete for Matthew, Mark 1-10, Luke and John
@@ -1514,6 +1514,12 @@ Year A
 * **Deuteronomy 34.1-12** concludes the series in the Pentateuch, and is about the death of Moses. **Psalm 90.1-6, 13-17** [or 90.1-6] is headed, 'A Prayer of Moses', and says, 'You turn us back to dust'.
 * **1 Thessalonians 2.1-8** continues the series in 1 Thessalonians (without a gap), and is about Paul's pattern of ministry.
 * **Matthew 22.34-46** continues the series in Matthew, and has Jesus being questioned about the greatest commandment in the law, and then asking a question about David's Lord. The 'Related' reading, **Leviticus 19.1-2, 15-18** includes 'you shall love your neighbour as yourself', which is quoted in the Gospel reading. The 'Related' psalm, **Psalm 1**, is about those whose 'delight is in the law of the Lord'.
+
+Year B
+
+* **Job 42.1-6, 10-17** concludes the series on history and wisdom and in Job, and is about Job's fortunes being restored after his suffering. **Psalm 34.1-8, 19-22** [or 34.1-8] says, 'This poor soul cried, and the Lord heard me and saved me from all my troubles.'
+* **Hebrews 7.23-28** continues the series in Hebrews 1-10, and continues on the theme of Jesus as 'high priest'.
+* **Mark 10.46-52** continues the series in Mark (without a gap), and is about Bartimaeus, who 'regained his sight and followed [Jesus] on the way'. The 'Related' reading, **Jeremiah 31.7-9**, says of the returning remnant, 'among them the blind and the lame', and speaks of 'gladness' and 'weeping'. The 'Related' psalm, **Psalm 126**, says, 'Those who go out weeping ... will come back with shouts of joy.'
 
 Year C
 
