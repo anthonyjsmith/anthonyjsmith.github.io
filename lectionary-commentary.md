@@ -13,7 +13,7 @@ Any feedback? Please [contact](/contact/) me!
 **_Work in progress!_**
 
 * Year A: complete
-* Year B: complete up to Proper 25
+* Year B: complete up to Proper 25 and Bible Sunday
 * Year C: complete from Palm Sunday onwards
 * Festivals: complete
 * Appendix: Gospels: complete for Matthew, Mark 1-10, Luke and John
@@ -1535,6 +1535,13 @@ Year A
 * **Psalm 119.9-16** is about delighting in God's words and commandments.
 * **Colossians 3.12-17** says, 'Let the word of Christ dwell in you richly'.
 * **Matthew 24.30-35** has Jesus saying, 'Heaven and earth will pass away, but my words will not pass away.'
+
+Year B
+
+* **Isaiah 55.1-11** has God saying, 'my word ... shall not return to me empty, but it shall accomplish that which I purpose, and succeed in the thing for which I sent it'.
+* **Psalm 19.7-14** begins, 'The law of the Lord is perfect, reviving the soul'.
+* **2 Timothy 3.14 &ndash; 4.5** speaks of Timothy having 'known the sacred writings' from childhood. 'All scripture is inspired by God and is useful', so Timothy should 'proclaim the message'.
+* **John 5.36b-47** has Jesus saying, 'You search the scriptures because you think that in them you have eternal life; and it is they that testify on my behalf'.
 
 Year C
 
