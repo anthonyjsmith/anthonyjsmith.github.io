@@ -13,7 +13,7 @@ Any feedback? Please [contact](/contact/) me!
 **_Work in progress!_**
 
 * Year A: complete
-* Year B: complete up to Proper 25 and Bible Sunday
+* Year B: complete except for the four Sundays before Advent
 * Year C: complete from Palm Sunday onwards
 * Festivals: complete
 * Appendix: Gospels: complete for Matthew, Mark 1-10, Luke and John
@@ -1560,6 +1560,14 @@ Year A
 * **Psalm 34.1-10** says, 'Look upon him and be radiant', and, 'Fear the Lord, all you his holy ones'.
 * **1 John 3.1-3** says, 'when he is revealed, we will be like him, for we will see him as he is'.
 * **Matthew 5.1-12** (see BCP) contains the Beatitudes, including, 'Blessed are the pure in heart, for they will see God.'
+
+Year B
+
+* **Wisdom of Solomon 3.1-9** (from the Apocrypha) says, 'the souls of the righteous are in the hand of God'.
+* Alternatively, **Isaiah 25.6-9** is echoed in the reading from Revelation: God 'will swallow up death for ever' and 'will wipe away the tears from all faces'.
+* **Psalm 24.1-6** says, 'Who shall ascend the hill of the Lord? And who shall stand in his holy place? Those who have clean hands and pure hearts'.
+* **Revelation 21.1-6a** speaks of the 'holy city' and of God dwelling with his people, and says, 'he will wipe every tear from their eyes. Death will be no more'.
+* **John 11.32-44** reflects the readings from Revelation and Isaiah, with Lazarus being raised from the dead.
 
 Year C
 
