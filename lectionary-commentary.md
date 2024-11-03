@@ -13,10 +13,10 @@ Any feedback? Please [contact](/contact/) me!
 **_Work in progress!_**
 
 * Year A: complete
-* Year B: complete except for the four Sundays before Advent
+* Year B: complete except for the last three Sundays before Advent
 * Year C: complete from Palm Sunday onwards
 * Festivals: complete
-* Appendix: Gospels: complete for Matthew, Mark 1-10, Luke and John
+* Appendix: Gospels: complete
 
 # Contents
 
@@ -1598,6 +1598,11 @@ Year A
 * **1 Thessalonians 2.9-13** continues the series in 1 Thessalonians (without a gap), and is about how both Paul and the word of God worked among the believers.
 * **Matthew 24.1-14** continues the series in Matthew, and is about 'the sign of [Jesus'] coming and of the end of the age'. (RCL has Matthew 23.1-12, which fits less well with the themes of the Sundays before Advent, but the change leaves a gap in the lectionary provision.) **Micah 3.5-12** is the related reading for the RCL reading, Matthew 23.1-12, pronouncing judgment on the prophets and rulers, but it also fits with Matthew 24.1-14, declaring that 'Jerusalem shall become a heap of ruins'. **Psalm 43** calls out for deliverance 'from the deceitful and the wicked'.
 
+Year B
+
+* **Hebrews 9.11-14** continues the series in Hebrews 1-10, and continues on the theme of Jesus as 'high priest'.
+* **Mark 12.28-34** continues the series in Mark, and is about the greatest commandments. **Deuteronomy 6.1-9** is quoted in the Gospel reading: 'Hear, O Israel ...'. **Psalm 119.1-8** says, 'You, O Lord, have charged that we should diligently keep your commandments.'
+
 Year C
 
 * **2 Thessalonians 1.1-12** begins a three-week series in 2 Thessalonians. Paul looks ahead to the coming of Jesus.
@@ -2208,7 +2213,7 @@ For Matthew, Mark and Luke, the semicontinuous series from Epiphany 3 to the end
 * Mark 8.31-38: Lent 2.
 * Mark 9.1: see Matthew 16.21-28.
 * Mark 9.2-9: 1 before Lent.
-* Mark 9.10: omitted
+* Mark 9.10: omitted.
 * Mark 9.11-13: omitted, along with its parallel in Matthew 17.10-13, and its close parallel in Matthew 11.14.
 * Mark 9.14-27: see Luke 9.28-43a.
 * Mark 9.28-29: omitted, along with its parallel in Matthew 17.19-21.
@@ -2220,22 +2225,25 @@ For Matthew, Mark and Luke, the semicontinuous series from Epiphany 3 to the end
 * Mark 10.32-34: see Mark 9.30-32 for a close parallel.
 * Mark 10.35-45: **Proper 24**.
 * Mark 10.46-52: **Proper 25**.
-* Mark 11.1-11: Palm Sunday
+* Mark 11.1-11: Palm Sunday.
 * Mark 11.12-14, 19-24: omitted, along with its parallel in Matthew 21.17-22.
-* ...
+* Mark 11.15-18: see Matthew 21.12-16 (Dedication Festival, Year A) and John 2.13-22.
+* Mark 11.25-26: omitted (but see Matthew 18.21-35).
+* Mark 11.27-33: see Matthew 21.23-32.
+* Mark 12.1-12: see Matthew 21.33-46.
+* Mark 12.13-17: see Matthew 22.15-22.
+* Mark 12.18-27: see Luke 20.27-38.
 * Mark 12.28-34: **4 before Advent**.
-* ...
+* Mark 12.35-37: see Matthew 22.34-46.
 * Mark 12.38-40: omitted, along with its parallels in Matthew 23.1-7 and Luke 20.45-47 (NB: RCL 'Proper 26' and 'Proper 27').
 * Mark 12.41-44 (widow's offering): omitted, along with its parallel in Luke 21.1-4 (NB: RCL 'Proper 27').
-* ...
 * Mark 13.1-8: **2 before Advent**.
 * Mark 13.5-13: Mark.
 * Mark 13.14-23: omitted, along with its parallels in Matthew 24.15-25 and Luke 21.20-24.
 * Mark 13.24-37: Advent 1.
-* ...
 * Mark 14.1 &ndash; 15.47: Palm Sunday.
 * Mark 16.1-8: Easter Vigil; Easter Day (second alternative).
-* ...
+* Mark 16.9-20 ('longer ending'): omitted.
 
 ## Luke (Year C) {#lukegospel}
 
