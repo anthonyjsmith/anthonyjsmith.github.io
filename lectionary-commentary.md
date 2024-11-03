@@ -13,7 +13,7 @@ Any feedback? Please [contact](/contact/) me!
 **_Work in progress!_**
 
 * Year A: complete
-* Year B: complete except for the last two Sundays before Advent
+* Year B: complete except for the Sunday before Advent
 * Year C: complete from Palm Sunday onwards
 * Festivals: complete
 * Appendix: Gospels: complete
@@ -1641,6 +1641,11 @@ Year A
 
 * **1 Thessalonians 5.1-11** concludes the series in 1 Thessalonians (continuing without a gap), and is about 'the day of the Lord'. (The series could be concluded a few weeks later, in Advent 3, Year A, with 1 Thessalonians 5.16-24.)
 * **Matthew 25.14-30** continues the series in Matthew (without a gap), and is the parable of the talents, concluding with a warning of judgment. **Zephaniah 1.7, 12-18** is about the day of the Lord: 'Neither their silver nor their gold will be able to save them'. **Psalm 90.1-8 [9-11] 12** [or 90.1-8] says, 'You have set our misdeeds before you and our secret sins in the light of your countenance.'
+
+Year B
+
+* **Hebrews 10.11-14 [15-18] 19-25** concludes the series in Hebrews 1-10, and is about Christ having finished his priestly work, and a call to persevere.
+* **Mark 13.1-8** continues the series in Mark, and has Jesus warning of 'wars and rumours of wars', as 'the beginning of the birth pangs', before 'the end'. **Daniel 12.1-3** speaks of 'a time of anguish' and of the dead being raised. **Psalm 16** expresses confidence in the face of death: 'my flesh also shall rest secure. For you will not abandon my soul to Death'.
 
 Year C
 
