@@ -2025,9 +2025,11 @@ Year C
 
 # Appendix: Gospels {#appendixgospels}
 
-What follows will eventually be a complete index to each of the four Gospels, showing which passages are included, which are omitted because a parallel is included from one of the other Gospels, and which are simply omitted. See the [Introduction](#introduction) for a broad overview of how the Gospels are treated in the lectionary.
+What follows is a complete index to each of the four Gospels, showing which passages are included, which are omitted but have a parallel passage included from one of the other Gospels, and which are simply omitted. See the [Introduction](#introduction) for a broad overview of how the Gospels are treated in the lectionary.
 
 For Matthew, Mark and Luke, the semicontinuous series from Epiphany 3 to the end of Ordinary Time is shown in bold.
+
+It is difficult to quantify how much material is included from the Synoptic Gospels, without first creating a harmony of the Gospels. In one English Version, the Synoptic Gospels have 61,615 words, of which 10,147 words are in the passages listed below as 'omitted'. This would mean that 84% of the material in the Synoptic Gospels is included, making certain assumptions about how likely it is that included or omitted passages have a parallel in another Gospel.
 
 ## Matthew (Year A) {#matthewgospel}
 
