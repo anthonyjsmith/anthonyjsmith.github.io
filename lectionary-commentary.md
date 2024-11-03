@@ -13,7 +13,7 @@ Any feedback? Please [contact](/contact/) me!
 **_Work in progress!_**
 
 * Year A: complete
-* Year B: complete except for the last three Sundays before Advent
+* Year B: complete except for the last two Sundays before Advent
 * Year C: complete from Palm Sunday onwards
 * Festivals: complete
 * Appendix: Gospels: complete
@@ -1621,9 +1621,10 @@ Year A
 
 Year B
 
-The Old Testament, Psalm and Gospel are transferred from RCL Epiphany 3.
+The Gospel and related Old Testament and Psalm are transferred from RCL Epiphany 3, conceivably because they were considered more suitable to Remembrance Sunday than the RCL readings (Mark 12.38-44 and related passages about poor widows).
 
-* **Mark 1.14-20** (Mark 12.38-44 in RCL).
+* **Hebrews 9.24-28** continues the series in Hebrews 1-10, and is about Christ's priestly offering of himself as a sacrifice.
+* **Mark 1.14-20** continues the series in Mark (out of sequence), and is about Jesus proclaiming, 'repent, and believe the good news', and calling people to follow him. **Jonah 3.1-5, 10** is about the people of Nineveh repenting at the preaching of Jonah: 'they turned from their evil ways'. **Psalm 62.5-12** reflects God's response to the repentance of the people of Nineveh: 'Steadfast love belongs to you, O Lord, for you repay everyone according to their deeds.'
 
 Year C
 
