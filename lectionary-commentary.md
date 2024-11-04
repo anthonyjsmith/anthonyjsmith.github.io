@@ -1554,6 +1554,8 @@ Year C
 
 1 November, or the Sunday between 30 October and 5 November as All Saints' Sunday.
 
+Themes include: holiness, purity, God's holy ones, Mount Zion, the holy city.
+
 Year A
 
 * **Revelation 7.9-17** (see BCP) has a 'great multitude ... standing before the throne and before the Lamb, robed in white'.
@@ -1564,9 +1566,9 @@ Year A
 Year B
 
 * **Wisdom of Solomon 3.1-9** (from the Apocrypha) says, 'the souls of the righteous are in the hand of God'.
-* Alternatively, **Isaiah 25.6-9** is echoed in the reading from Revelation: God 'will swallow up death for ever' and 'will wipe away the tears from all faces'.
+* Alternatively, **Isaiah 25.6-9** speaks of 'this mountain' and is echoed in the reading from Revelation: God 'will swallow up death for ever' and 'will wipe away the tears from all faces'.
 * **Psalm 24.1-6** says, 'Who shall ascend the hill of the Lord? And who shall stand in his holy place? Those who have clean hands and pure hearts'.
-* **Revelation 21.1-6a** speaks of the 'holy city' and of God dwelling with his people, and says, 'he will wipe every tear from their eyes. Death will be no more'.
+* **Revelation 21.1-6a** speaks of 'the holy city, the new Jerusalem, coming down out of heaven from God', and of God dwelling with his people, and says, 'he will wipe every tear from their eyes. Death will be no more'.
 * **John 11.32-44** reflects the readings from Revelation and Isaiah, with Lazarus being raised from the dead.
 
 Year C
@@ -1576,7 +1578,7 @@ Year C
 * **Ephesians 1.11-23** speaks of the 'glorious inheritance among the saints'.
 * **Luke 6.20-31** says 'your reward is great in heaven'.
 
-If All Saints' Day is celebrated on a Sunday, there may be a supplementary celebration on 1 November.
+If All Saints' Day is celebrated on a Sunday, there may be a supplementary celebration on 1 November:
 
 Years A, B and C
 
@@ -1621,10 +1623,10 @@ Year A
 
 Year B
 
-The Gospel and related Old Testament and Psalm are transferred from RCL Epiphany 3, conceivably because they were considered more suitable to Remembrance Sunday than the RCL readings (Mark 12.38-44 and related passages about poor widows).
+The Gospel and related Old Testament and Psalm are transferred from RCL Epiphany 3, conceivably because they were considered more suitable to Remembrance Sunday and the Sundays before Advent than the RCL readings (Mark 12.38-44 and related passages about poor widows).
 
 * **Hebrews 9.24-28** continues the series in Hebrews 1-10, and is about Christ's priestly offering of himself as a sacrifice.
-* **Mark 1.14-20** continues the series in Mark (out of sequence), and is about Jesus proclaiming, 'repent, and believe the good news', and calling people to follow him. **Jonah 3.1-5, 10** is about the people of Nineveh repenting at the preaching of Jonah: 'they turned from their evil ways'. **Psalm 62.5-12** reflects God's response to the repentance of the people of Nineveh: 'Steadfast love belongs to you, O Lord, for you repay everyone according to their deeds.'
+* **Mark 1.14-20** continues the series in Mark (out of sequence), and is about Jesus proclaiming, 'repent, and believe the good news', and calling people to follow him. **Jonah 3.1-5, 10** is about the people of Nineveh believing (trust) God and repenting at the preaching of Jonah: 'they turned from their evil ways'. **Psalm 62.5-12** is about trusting God, and reflects God's response to the repentance of the people of Nineveh: 'Steadfast love belongs to you, O Lord, for you repay everyone according to their deeds.'
 
 Year C
 
