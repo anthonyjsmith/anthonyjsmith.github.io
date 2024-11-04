@@ -1456,7 +1456,7 @@ Year A
 Year B
 
 * **Job 1.1; 2.1-10** continues the series on history and wisdom, and begins a four-part series in Job, with an introduction to Job ('blameless and upright') and his sufferings. **Psalm 26** says, 'I have walked with integrity', and calls on God to 'Prove me ... and try me'.
-* **Hebrews 1.1-4; 2.5-12** begins a seven-part series in Hebrews 1-10, and is about Jesus being 'crowned with glory and honour because of the suffering of death' (perhaps providing a link with the Old Testament reading).
+* **Hebrews 1.1-4; 2.5-12** begins a seven-part series on Christ as high priest in Hebrews 1-10, and is about Jesus having 'made purification for sins' and being 'crowned with glory and honour because of the suffering of death'.
 * **Mark 10.2-16** continues the series in Mark (skipping one verse), and has Jesus teaching about divorce and blessing little children. The 'Related' reading, **Genesis 2.18-24**, has man giving 'names to all cattle, and to the birds of the air, and to every animal of the field', before God makes a woman, and is quoted in the Gospel reading ('Therefore a man leaves his father and his mother and clings to his wife, and they become one flesh'). The 'Related' psalm, **Psalm 8** (also quoted in the reading from Hebrews), says that all living things have been put under the feet of 'man'.
 
 Year C
@@ -1476,7 +1476,7 @@ Year A
 Year B
 
 * **Job 23.1-9, 16-17** continues the series on history and wisdom and in Job, and has Job longing to lay his case before God. **Psalm 22.1-15** says, 'I cry in the daytime, but you do not answer'.
-* **Hebrews 4.12-16** continues the series in Hebrews 1-10, and is an invitation to 'approach the throne of grace with boldness', because Jesus is a 'great high priest' (see next week).
+* **Hebrews 4.12-16** continues the series on Christ as high priest in Hebrews 1-10, and is an invitation to 'hold fast to our confession' and 'approach the throne of grace with boldness', because Jesus is a 'great high priest' who is able 'to sympathize with our weaknesses'.
 * **Mark 10.17-31** continues the series in Mark (without a gap), and is about the rich man and Jesus, ending with the promise that 'the last will be first'. The 'Related' reading, **Amos 5.6-7, 10-15**, calls on those who 'trample on the poor' to 'establish justice'. The 'Related' psalm, **Psalm 90.12-17**, says, 'Give us gladness for the days you have afflicted us'.
 
 Year C
@@ -1496,7 +1496,7 @@ Year A
 Year B
 
 * **Job 38.1-7 [34-41]** continues the series on history and wisdom and in Job, and is the first part of God's response to Job, pointing to God's wisdom in creation. **Psalm 104.1-10, 26, 37b** [correction: cf. RCL] (EV: 1-9, 24, 35b) [or 104.1-10 (EV: 1-9)] praises God for his wisdom in creation ('In wisdom you have made them all', 26 [EV: 24]).
-* **Hebrews 5.1-10** continues the series in Hebrews 1-10 (without a gap), and continues on the theme of Jesus as 'high priest'.
+* **Hebrews 5.1-10** continues the series on Christ as high priest in Hebrews 1-10 (without a gap), and is about Jesus, the 'Son' who 'learned obedience through what he suffered', who has been 'made perfect', the 'source of eternal salvation for all who obey him', and 'designated by God a high priest according to the order of Melchizedek' (the only mention of Melchizedek in the series).
 * **Mark 10.35-45** continues the series in Mark, and has the request of James and John, and Jesus teaching about greatness and service: 'For the Son of Man came not to be served but to serve, and to give his life a ransom for many.' The 'Related' reading, **Isaiah 53.4-12**, is about the 'servant' who 'poured out himself to death' and yet 'shall prolong his days' and be allotted 'a portion with the great'. The 'Related' psalm, **Psalm 91.9-16**, has God saying of those who take refuge in him in the face of danger: 'I will lift them up' and 'With long life will I satisfy them'.
 
 Year C
@@ -1518,7 +1518,7 @@ Year A
 Year B
 
 * **Job 42.1-6, 10-17** concludes the series on history and wisdom and in Job, and is about Job's fortunes being restored after his suffering. **Psalm 34.1-8, 19-22** [or 34.1-8] says, 'This poor soul cried, and the Lord heard me and saved me from all my troubles.'
-* **Hebrews 7.23-28** continues the series in Hebrews 1-10, and continues on the theme of Jesus as 'high priest'.
+* **Hebrews 7.23-28** continues the series on Christ as high priest in Hebrews 1-10, and says that Jesus, unlike 'the former priests', 'continues for ever', and is therefore 'able for all time to save those who approach God through him, since he always lives to make intercession for them'.
 * **Mark 10.46-52** continues the series in Mark (without a gap), and is about Bartimaeus, who 'regained his sight and followed [Jesus] on the way'. The 'Related' reading, **Jeremiah 31.7-9**, says of the returning remnant, 'among them the blind and the lame', and speaks of 'gladness' and 'weeping'. The 'Related' psalm, **Psalm 126**, says, 'Those who go out weeping ... will come back with shouts of joy.'
 
 Year C
@@ -1602,7 +1602,7 @@ Year A
 
 Year B
 
-* **Hebrews 9.11-14** continues the series in Hebrews 1-10, and continues on the theme of Jesus as 'high priest'.
+* **Hebrews 9.11-14** continues the series on Christ as high priest in Hebrews 1-10, and contrasts the sacrifices of the earthly tabernacle with the sacrifice of Christ (see next week), focusing on the power of Christ's blood to sanctify and purify.
 * **Mark 12.28-34** continues the series in Mark, and is about the greatest commandments. **Deuteronomy 6.1-9** is quoted in the Gospel reading: 'Hear, O Israel ...'. **Psalm 119.1-8** says, 'You, O Lord, have charged that we should diligently keep your commandments.'
 
 Year C
@@ -1625,7 +1625,7 @@ Year B
 
 The Gospel and related Old Testament and Psalm are transferred from RCL Epiphany 3, conceivably because they were considered more suitable to Remembrance Sunday and the Sundays before Advent than the RCL readings (Mark 12.38-44 and related passages about poor widows).
 
-* **Hebrews 9.24-28** continues the series in Hebrews 1-10, and is about Christ's priestly offering of himself as a sacrifice.
+* **Hebrews 9.24-28** continues the series on Christ as high priest in Hebrews 1-10, and continues to contrast the sacrifices of the earthly tabernacle with the sacrifice of Christ (see last week), focusing on the 'once for all' nature of Christ's sacrifice, preparing the way for Christ to 'appear a second time, not to deal with sin, but to save those who are eagerly waiting for him'.
 * **Mark 1.14-20** continues the series in Mark (out of sequence), and is about Jesus proclaiming, 'repent, and believe the good news', and calling people to follow him. **Jonah 3.1-5, 10** is about the people of Nineveh believing (trust) God and repenting at the preaching of Jonah: 'they turned from their evil ways'. **Psalm 62.5-12** is about trusting God, and reflects God's response to the repentance of the people of Nineveh: 'Steadfast love belongs to you, O Lord, for you repay everyone according to their deeds.'
 
 Year C
@@ -1646,7 +1646,7 @@ Year A
 
 Year B
 
-* **Hebrews 10.11-14 [15-18] 19-25** concludes the series in Hebrews 1-10, and is about Christ having finished his priestly work, and a call to persevere.
+* **Hebrews 10.11-14 [15-18] 19-25** concludes the series on Christ as high priest in Hebrews 1-10, and focuses on our response: 'let us approach ... Let us hold fast to the confession of our hope without wavering ... And let us consider how to provoke one another to love and good deeds'.
 * **Mark 13.1-8** continues the series in Mark, and has Jesus warning of 'wars and rumours of wars', as 'the beginning of the birth pangs', before 'the end'. **Daniel 12.1-3** speaks of 'a time of anguish' and of the dead being raised. **Psalm 16** expresses confidence in the face of death: 'my flesh also shall rest secure. For you will not abandon my soul to Death'.
 
 Year C
@@ -2037,7 +2037,7 @@ What follows is a complete index to each of the four Gospels, showing which pass
 
 For Matthew, Mark and Luke, the semicontinuous series from Epiphany 3 to the end of Ordinary Time is shown in bold.
 
-It is difficult to quantify how much material is included from the Synoptic Gospels, without first creating a harmony of the Gospels. In one English Version, the Synoptic Gospels have 61,615 words, of which 10,147 words are in the passages listed below as 'omitted'. This would mean that 84% of the material in the Synoptic Gospels is included, making certain assumptions about how likely it is that included or omitted passages have a parallel in another Gospel.
+It is difficult to quantify how much material is included from the Synoptic Gospels, without first creating a harmony of the Gospels. In one English Version, the Synoptic Gospels have 61,615 words, of which around 10,147 words are in the passages listed below as 'omitted'. This would mean that 84% of the material in the Synoptic Gospels is included, making certain assumptions about how likely it is that included or omitted passages have a parallel in another Gospel.
 
 ## Matthew (Year A) {#matthewgospel}
 
