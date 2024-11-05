@@ -1626,7 +1626,7 @@ Year B
 The Gospel and related Old Testament and Psalm are transferred from RCL Epiphany 3, conceivably because they were considered more suitable to Remembrance Sunday and the Sundays before Advent than the RCL readings (Mark 12.38-44 and related passages about poor widows).
 
 * **Hebrews 9.24-28** continues the series on Christ as high priest in Hebrews 1-10, and continues to contrast the sacrifices of the earthly tabernacle with the sacrifice of Christ (see last week), focusing on the 'once for all' nature of Christ's sacrifice, preparing the way for Christ to 'appear a second time, not to deal with sin, but to save those who are eagerly waiting for him'.
-* **Mark 1.14-20** continues the series in Mark (out of sequence), and is about Jesus proclaiming, 'repent, and believe the good news', and calling people to follow him. **Jonah 3.1-5, 10** is about the people of Nineveh believing (trust) God and repenting at the preaching of Jonah: 'they turned from their evil ways'. **Psalm 62.5-12** is about trusting God, and reflects God's response to the repentance of the people of Nineveh: 'Steadfast love belongs to you, O Lord, for you repay everyone according to their deeds.'
+* **Mark 1.14-20** continues the series in Mark (out of sequence), and is about Jesus proclaiming, 'repent, and believe the good news' (because 'the kingdom of God has come near'), and calling people to follow him. **Jonah 3.1-5, 10** is about the people of Nineveh believing (trust) God and repenting at the preaching of Jonah: 'they turned from their evil ways'. **Psalm 62.5-12** is about trusting God, and reflects God's response to the repentance of the people of Nineveh: 'Steadfast love belongs to you, O Lord, for you repay everyone according to their deeds.'
 
 Year C
 
