@@ -13,7 +13,7 @@ Any feedback? Please [contact](/contact/) me!
 **_Work in progress!_**
 
 * Year A: complete
-* Year B: complete except for the Sunday before Advent
+* Year B: complete
 * Year C: complete from Palm Sunday onwards
 * Festivals: complete
 * Appendix: Gospels: complete
@@ -1662,6 +1662,13 @@ Year A
 
 * **Ephesians 1.15-23** says that God has put all things under Christ's feet.
 * **Matthew 25.31-46** concludes the series in Matthew (continuing without a gap), and is about the 'Son of Man' on his throne separating the 'sheep' from the 'goats'. **Ezekiel 34.11-16, 20-24** is about God's care for his sheep: 'I will judge between sheep and sheep'. **Psalm 95.1-7** (EV: 1-7a) says, 'we are the people of his pasture and the sheep of his hand'.
+
+Year B
+
+* **Daniel 7.9-10, 13-14** has 'one like a human being coming with the clouds of heaven', being presented before 'the Ancient One': 'his kingship is one that shall never be destroyed'.
+* **Psalm 93** begins, 'The Lord is king'.
+* **Revelation 1.4b-8** speaks of Jesus as 'the ruler of the kings of the earth', and quotes the reading from Daniel: 'He is coming with the clouds'.
+* **John 18.33-37** has Jesus speaking to Pilate about his 'kingdom'.
 
 Year C
 
