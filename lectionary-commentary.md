@@ -14,7 +14,7 @@ Any feedback? Please [contact](/contact/) me!
 
 * Year A: complete
 * Year B: complete
-* Year C: complete for Advent 1 and from Palm Sunday onwards
+* Year C: complete up to Advent 2, and from Palm Sunday onwards
 * Festivals: complete
 * Appendix: Gospels: complete
 
@@ -284,6 +284,11 @@ Year B
 * **Isaiah 40.1-11** continues in Isaiah, speaks words of comfort to God's people, is quoted in the Gospel reading: 'prepare the way', and looks to the coming of the Lord. **Psalm 85.1-2, 8-13** [or 85.8-13] says of God: 'he shall speak peace to his people ... that they turn not again to folly'.
 * **2 Peter 3.8-15a** says, 'the day of the Lord will come like a thief', and calls for repentance and peace: 'lives of holiness and godliness ... strive to be found by him at peace, without spot or blemish'.
 * **Mark 1.1-8** quotes Isaiah 40.3 ('Prepare the way'), and is about John the Baptist 'proclaiming a baptism of repentance for the forgiveness of sins' in order to prepare the way for Jesus.
+
+Year C
+
+* **Philippians 1.3-11** looks ahead to 'the day of Jesus Christ'.
+* **Luke 3.1-6** says, 'the word of God came to John son of Zechariah in the wilderness', and quotes Isaiah: 'Prepare the way of the Lord, make his paths straight. Every valley shall be filled, and every mountain and hill shall be made low'. **Baruch 5.1-9** (from the Apocrypha) proclaims good news to Jerusalem, and echoes Isaiah, as quoted in the Gospel reading: 'For God has ordered that every high mountain and the everlasting hills be made low and the valleys filled up, to make level ground'. Alternatively, **Malachi 3.1-4** also echoes Isaiah, as quoted in the Gospel reading: 'See, I am sending my messenger to prepare the way before me'. The canticle is the **Benedictus (Luke 1.68-79)**, the song of Zechariah, who says to John, 'you will go before the Lord to prepare his way' (Common Worship).
 
 ## Advent 3 {#advent3}
 
