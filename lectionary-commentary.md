@@ -14,7 +14,7 @@ Any feedback? Please [contact](/contact/) me!
 
 * Year A: complete
 * Year B: complete
-* Year C: complete up to Advent 2, and from Palm Sunday onwards
+* Year C: complete up to Advent 3, and from Palm Sunday onwards
 * Festivals: complete
 * Appendix: Gospels: complete
 
@@ -315,6 +315,16 @@ Three themes are present in the readings: the coming of the Lord, anointing, and
 * Alternatively, the canticle is the **Magnificat (Luke 1.46-55)**, which is a song of joy: 'my spirit rejoices in God my Saviour'.
 * **1 Thessalonians 5.16-24** could be seen as concluding the series in 1 Thessalonians from the end of Year A, and says 'Rejoice always', looking ahead to 'the coming of our Lord Jesus Christ'.
 * **John 1.6-8, 19-28** is about the testimony of John concerning Jesus the Messiah (anointed one).
+
+Year C
+
+Joy is the theme of all the readings except for the Gospel reading.
+
+* **Zephaniah 3.14-20** says, 'Rejoice and exult with all your heart, O daughter Jerusalem', and speaks of 'that day'.
+* The canticle, **Isaiah 12.2-6**, says, 'On that day you will say, "... Shout aloud and sing for joy, you that dwell in Zion"' (Common Worship).
+* Alternatively, **Psalm 146.4-10** (EV: 5-10) says, 'Happy are those who have the God of Jacob for their help'.
+* **Philippians 4.4-7** says, 'Rejoice in the Lord always; again I will say, Rejoice.'
+* **Luke 3.7-18** is about John's call for repentance.
 
 ## Advent 4 {#advent4}
 
@@ -2282,7 +2292,9 @@ It is difficult to quantify how much material is included from the Synoptic Gosp
 * Luke 2.22-40: Epiphany 4, Candlemas (2.33-35: Mothering Sunday, first alternative).
 * Luke 2.41-52: Christmas 1.
 * Luke 3.1-6: Advent 2.
-* Luke 3.7-22: 3.7-18: Advent 3; 3.15-17, 21-22: Epiphany 1 (3.19, 20: see Mark 6.14-29).
+* Luke 3.7-18: Advent 3.
+* Luke 3.15-17, 21-22: Epiphany 1.
+* Luke 3.19-20: see Mark 6.14-29.
 * Luke 3.23-38: omitted.
 * Luke 4.1-13: Lent 1.
 * Luke 4.14-21: **Epiphany 3**.
