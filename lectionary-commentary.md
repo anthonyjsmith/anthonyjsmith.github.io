@@ -14,7 +14,7 @@ Any feedback? Please [contact](/contact/) me!
 
 * Year A: complete
 * Year B: complete
-* Year C: complete from Palm Sunday onwards
+* Year C: complete for Advent 1 and from Palm Sunday onwards
 * Festivals: complete
 * Appendix: Gospels: complete
 
@@ -261,7 +261,10 @@ Year B
 
 Year C
 
-* **Psalm 25.1-9** (see BCP+).
+* **Jeremiah 33.14-16** speaks of God fulfilling his promise, and causing 'a righteous Branch to spring up for David'.
+* **Psalm 25.1-9** (EV: 1-10) (see BCP+) calls on God to act: 'Remember, Lord, your compassion and love'.
+* **1 Thessalonians 3.9-13** has Paul speaking of the Thessalonians being 'blameless before our God and Father at the coming of our Lord Jesus with all his saints'.
+* **Luke 21.25-36** says, 'Then they will see "the Son of Man coming in a cloud" with power and great glory.'
 
 ## Advent 2 {#advent2}
 
@@ -1490,7 +1493,7 @@ Year C
 Year A
 
 * **Exodus 33.12-23** continues the series in the Pentateuch and concludes the series in Exodus, and is about Moses interceding for God's people. **Psalm 99** says of Moses (and others): 'they called upon the Lord and he answered them'.
-* **1 Thessalonians 1.1-10** begins a five-part series in 1 Thessalonians (1.1 &ndash; 2.13; 4.13 &ndash; 5.11), and is about the faith and example of the Thessalonian believers.
+* **1 Thessalonians 1.1-10** begins a five-part series in 1 Thessalonians (1.1 &ndash; 2.13; 4.13 &ndash; 5.11), and is about the faith and example of the Thessalonian believers. (See Advent 1, Year C, for 1 Thessalonians 3.9-13.)
 * **Matthew 22.15-22** continues the series in Matthew (without a gap), and is about paying taxes to the emperor. The 'Related' reading, **Isaiah 45.1-7**, is about God's lordship over Cyrus (the emperor). The 'Related' psalm, **Psalm 96.1-9 [10-13]** is about God's superiority over the nations.
 
 Year B
@@ -1646,7 +1649,7 @@ Year A
 
 Year B
 
-* **Hebrews 10.11-14 [15-18] 19-25** concludes the series on Christ as high priest in Hebrews 1-10, and focuses on our response: 'let us approach ... Let us hold fast to the confession of our hope without wavering ... And let us consider how to provoke one another to love and good deeds'.
+* **Hebrews 10.11-14 [15-18] 19-25** concludes the series on Christ as high priest in Hebrews 1-10, and focuses on our response: 'let us approach ... Let us hold fast to the confession of our hope without wavering ... And let us consider how to provoke one another to love and good deeds'. (The series could be concluded a few weeks later, in Advent 4, Year C, with the preceding passage, Hebrews 10.5-10.)
 * **Mark 13.1-8** continues the series in Mark, and has Jesus warning of 'wars and rumours of wars', as 'the beginning of the birth pangs', before 'the end'. **Daniel 12.1-3** speaks of 'a time of anguish' and of the dead being raised. **Psalm 16** expresses confidence in the face of death: 'my flesh also shall rest secure. For you will not abandon my soul to Death'.
 
 Year C
