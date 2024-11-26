@@ -14,7 +14,7 @@ Any feedback? Please [contact](/contact/) me!
 
 * Year A: complete
 * Year B: complete
-* Year C: complete up to Advent 3, and from Palm Sunday onwards
+* Year C: complete up to Advent 4, and from Palm Sunday onwards
 * Festivals: complete
 * Appendix: Gospels: complete
 
@@ -345,6 +345,14 @@ The readings reflect the theme of God's promises being fulfilled.
 * The canticle is the **Magnificat (Luke 1.46-55)**, the song of Mary: 'He has come to the aid of his servant Israel, to remember his promise of mercy'.
 * Alternatively, **Psalm 89.1-4, 19-26** [or 89.1-8] speaks of God's promise to David: 'Your seed will I establish for ever and build up your throne for all generations.'
 * **Luke 1.26-38** is the annunciation to Mary, 'engaged to a man whose name was Joseph, of the house of David', and says of Jesus, that 'the Lord God will give to him the throne of his ancestor David'. Mary's response is, 'let it be with me according to your word'. **Romans 16.25-27** speaks about 'the revelation of the mystery that was kept secret for long ages ... to bring about the obedience of faith', reflecting Mary's response of obedient faith.
+
+Year C
+
+* **Micah 5.2-5a** foretells a ruler coming from Bethlehem, from 'one of the little clans of Judah'.
+* The canticle is the **Magnificat (Luke 1.46-55)**, the song of Mary: 'He has ... lifted up the lowly'.
+* Alternatively, **Psalm 80.1-8** (EV: 1-7) expresses the people's lowly condition ('our enemies laugh us to scorn'), and calls on God to 'come to our salvation'.
+* **Hebrews 10.5-10** speaks of the incarnation: 'when Christ came into the world, he said, "... a body you have prepared for me"'.
+* **Luke 1.39-45 [46-55]** has Mary visiting Elizabeth after the annunciation. At Mary's greeting, the child in Elizabeth's womb (John the Baptist) leaps for joy [and Mary responds with the Magnificat].
 
 # Christmas {#christmas}
 
@@ -1749,7 +1757,7 @@ This is a Principal Feast, but it comes across as somewhat unwanted, as it is ne
 
 * **Isaiah 7.10-14** (see BCP+) says, 'Look, the young woman [Gk _the virgin_] is with child and shall bear a son, and shall name him Immanuel.'
 * **Psalm 40.5-11** (EV: 5-10) reflects Mary's response: 'In the scroll of the book it is written of me that I should do your will, O my God; I delight to do it: your law is within my heart.'
-* **Hebrews 10.4-10** quotes Psalm 40 in relation to Jesus: 'Then I said, "See, God, I have come to do your will, O God" (in the scroll of the book it is written of me).'
+* **Hebrews 10.4-10** quotes Psalm 40 in relation to Jesus: 'a body you have prepared for me ... Then I said, "See, God, I have come to do your will, O God" (in the scroll of the book it is written of me).'
 * **Luke 1.26-38** (see BCP) is about the visit of Gabriel to Mary: 'you will conceive in your womb and bear a son', concluding with Mary saying, 'Here am I, the servant of the Lord; let it be with me according to your word.'
 
 ## George, Martyr, Patron of England (23 April) {#george}
