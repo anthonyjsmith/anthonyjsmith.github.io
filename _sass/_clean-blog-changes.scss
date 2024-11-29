@@ -33,12 +33,10 @@ blockquote p:first-child {
 @media only screen and (min-width: 1170px) {
   .navbar-custom.is-fixed {
     top: -67px;
+  }
 }
 // link colour
 .intro-header {
-  .site-heading,
-  .post-heading,
-  .page-heading {
   a {
     color: rgba(255, 255, 255, 0.8);
   }
@@ -78,6 +76,9 @@ blockquote p:first-child {
   }
 }
 // Use CSS class ".blog-footer" rather than "footer"
+footer {
+  padding: 0;
+}
 .blog-footer {
   padding: 50px 0 65px;
 }
