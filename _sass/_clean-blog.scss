@@ -2,8 +2,6 @@
  * Clean Blog v1.0.0 (http://startbootstrap.com)
  * Copyright 2014 Start Bootstrap
  * Licensed under Apache 2.0 (https://github.com/IronSummitMedia/startbootstrap/blob/gh-pages/LICENSE)
- *
- * This file has been altered.
  */
 
 body {
@@ -15,15 +13,6 @@ p {
   line-height: 1.5;
   margin: 30px 0;
 }
-// For when a post starts or ends with something other than a "p" element
-.post-content {
-  margin: 30px 0;
-}
-// Same margin for embedded videos
-.embed-responsive {
-  margin: 30px 0;
-}
-article li a,
 p a {
   text-decoration: underline;
 }
@@ -48,11 +37,8 @@ a img:focus {
   cursor: zoom-in;
 }
 blockquote {
-  font-size: 20px;
   color: #808080;
-}
-blockquote p:first-child {
-  margin-top: 0;
+  font-style: italic;
 }
 hr.small {
   max-width: 100px;
@@ -77,10 +63,6 @@ hr.small {
   font-weight: 800;
   letter-spacing: 1px;
 }
-.navbar-custom .dropdown-menu .btn {
-  padding: 6px 12px; // Search button: default bootstrap
-}
-
 @media only screen and (min-width: 768px) {
   .navbar-custom {
     background: transparent;
@@ -102,9 +84,6 @@ hr.small {
   .navbar-custom .nav li a:focus {
     color: rgba(255, 255, 255, 0.8);
   }
-  .navbar-custom .dropdown-menu .form-control {
-    width: 400px; // Wider search box
-  }
 }
 @media only screen and (min-width: 1170px) {
   .navbar-custom {
@@ -123,8 +102,7 @@ hr.small {
   .navbar-custom.is-fixed {
     /* when the user scrolls down, we hide the header right above the viewport */
     position: fixed;
-    /* fa-2x icon in navbar increases height from 60 to 66: increased top from 61 to 67 */
-    top: -67px;
+    top: -61px;
     background-color: rgba(255, 255, 255, 0.9);
     border-bottom: 1px solid #f2f2f2;
     -webkit-transition: -webkit-transform 0.3s;
@@ -164,16 +142,11 @@ hr.small {
   -o-background-size: cover;
   margin-bottom: 50px;
 }
-.intro-header {
-  .site-heading,
-  .post-heading,
-  .page-heading {
-    padding: 100px 0 50px;
-    color: white;
-  }
-  a {
-    color: rgba(255, 255, 255, 0.8);
-  }
+.intro-header .site-heading,
+.intro-header .post-heading,
+.intro-header .page-heading {
+  padding: 100px 0 50px;
+  color: white;
 }
 @media only screen and (min-width: 768px) {
   .intro-header .site-heading,
@@ -227,7 +200,7 @@ hr.small {
   font-size: 20px;
 }
 .intro-header .post-heading .meta a {
-  color: rgba(255, 255, 255, 0.8);
+  color: white;
 }
 @media only screen and (min-width: 768px) {
   .intro-header .post-heading h1 {
@@ -245,8 +218,7 @@ hr.small {
   text-decoration: none;
   color: #0085a1;
 }
-// Don't restrict to direct descendant
-.post-preview > a .post-title {
+.post-preview > a > .post-title {
   font-size: 30px;
   margin-top: 30px;
   margin-bottom: 10px;
@@ -256,25 +228,23 @@ hr.small {
   font-weight: 300;
   margin-bottom: 10px;
 }
-// Don't restrict to direct descendant
-.post-preview .post-meta {
+.post-preview > .post-meta {
   color: #808080;
   font-size: 18px;
   font-style: italic;
   margin-top: 0;
 }
-.post-preview .post-meta > a {
+.post-preview > .post-meta > a {
   text-decoration: none;
   color: #404040;
 }
-.post-preview .post-meta > a:hover,
-.post-preview .post-meta > a:focus {
+.post-preview > .post-meta > a:hover,
+.post-preview > .post-meta > a:focus {
   color: #0085a1;
   text-decoration: underline;
 }
 @media only screen and (min-width: 768px) {
-  // Don't restrict to direct descendant
-  .post-preview > a .post-title {
+  .post-preview > a > .post-title {
     font-size: 36px;
   }
 }
@@ -293,15 +263,14 @@ hr.small {
   border-bottom-right-radius: 5px;
   border-bottom-left-radius: 5px;
 }
-// Use CSS class ".blog-footer" rather than "footer"
-.blog-footer {
+footer {
   padding: 50px 0 65px;
 }
-.blog-footer .list-inline {
+footer .list-inline {
   margin: 0;
   padding: 0;
 }
-.blog-footer .copyright {
+footer .copyright {
   font-size: 14px;
   text-align: center;
   margin-bottom: 0;
@@ -342,7 +311,7 @@ hr.small {
   -ms-transition: top 0.3s ease,opacity 0.3s ease;
   transition: top 0.3s ease,opacity 0.3s ease;
 }
-.floating-label-form-group:not(:first-child) {
+.floating-label-form-group::not(:first-child) {
   padding-left: 14px;
   border-left: 1px solid #eeeeee;
 }
@@ -423,45 +392,4 @@ img::-moz-selection {
 }
 body {
   webkit-tap-highlight-color: #0085a1;
-}
-
-/* Make long lines of code scroll horizontally */
-pre code {
-  overflow-x: auto;
-  word-wrap: normal;
-  white-space: pre;
-}
-
-img {
-  height: auto;
-  max-width: 100%;
-}
-
-// Padding on blog-post = 15px either side
-// Width of blog post may be up to 779 px
-// Don't align images inline for narrower than 500
-@media (min-width: 500px) {
-  img.alignleft,
-  img.alignright {
-    padding: 3px;
-    margin-top: 4px;
-    margin-bottom: 4px;
-    border-radius: 4px;
-  }
-
-  img.alignright {
-    float: right;
-    margin-left: 8px;
-  }
-
-  img.alignleft {
-    float: left;
-    margin-right: 8px;
-  }
-}
-@media (max-width: 499px) {
-  img.alignleft,
-  img.alignright {
-    display: block;
-  }
 }

@@ -1,0 +1,131 @@
+// For when a post starts or ends with something other than a "p" element
+.post-content {
+  margin: 30px 0;
+}
+// Same margin for embedded videos
+.embed-responsive {
+  margin: 30px 0;
+}
+// underline
+article li a {
+  text-decoration: underline;
+}
+// blockquote styling
+blockquote {
+  font-size: 20px;
+  font-style: normal;
+}
+// blockquote styling
+blockquote p:first-child {
+  margin-top: 0;
+}
+// Search button: default bootstrap
+.navbar-custom .dropdown-menu .btn {
+  padding: 6px 12px;
+}
+// Wider search box
+@media only screen and (min-width: 768px) {
+  .navbar-custom .dropdown-menu .form-control {
+    width: 400px;
+  }
+}
+// fa-2x icon in navbar increases height from 60 to 66: increased top from 61 to 67
+@media only screen and (min-width: 1170px) {
+  .navbar-custom.is-fixed {
+    top: -67px;
+}
+// link colour
+.intro-header {
+  .site-heading,
+  .post-heading,
+  .page-heading {
+  a {
+    color: rgba(255, 255, 255, 0.8);
+  }
+}
+// link colour
+.intro-header .post-heading .meta a {
+  color: rgba(255, 255, 255, 0.8);
+}
+// Don't restrict to direct descendant
+.post-preview > a .post-title {
+  font-size: 30px;
+  margin-top: 30px;
+  margin-bottom: 10px;
+}
+// Don't restrict to direct descendant
+.post-preview .post-meta {
+  color: #808080;
+  font-size: 18px;
+  font-style: italic;
+  margin-top: 0;
+}
+// Don't restrict to direct descendant
+.post-preview .post-meta > a {
+  text-decoration: none;
+  color: #404040;
+}
+// Don't restrict to direct descendant
+.post-preview .post-meta > a:hover,
+.post-preview .post-meta > a:focus {
+  color: #0085a1;
+  text-decoration: underline;
+}
+// Don't restrict to direct descendant
+@media only screen and (min-width: 768px) {
+  .post-preview > a .post-title {
+    font-size: 36px;
+  }
+}
+// Use CSS class ".blog-footer" rather than "footer"
+.blog-footer {
+  padding: 50px 0 65px;
+}
+.blog-footer .list-inline {
+  margin: 0;
+  padding: 0;
+}
+.blog-footer .copyright {
+  font-size: 14px;
+  text-align: center;
+  margin-bottom: 0;
+}
+// Make long lines of code scroll horizontally
+pre code {
+  overflow-x: auto;
+  word-wrap: normal;
+  white-space: pre;
+}
+// images
+img {
+  height: auto;
+  max-width: 100%;
+}
+// Padding on blog-post = 15px either side
+// Width of blog post may be up to 779 px
+// Don't align images inline for narrower than 500
+@media (min-width: 500px) {
+  img.alignleft,
+  img.alignright {
+    padding: 3px;
+    margin-top: 4px;
+    margin-bottom: 4px;
+    border-radius: 4px;
+  }
+
+  img.alignright {
+    float: right;
+    margin-left: 8px;
+  }
+
+  img.alignleft {
+    float: left;
+    margin-right: 8px;
+  }
+}
+@media (max-width: 499px) {
+  img.alignleft,
+  img.alignright {
+    display: block;
+  }
+}
