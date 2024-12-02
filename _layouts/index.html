@@ -1,22 +1,12 @@
 ---
 layout: default
 ---
-    <!-- Page Header -->
-    <header class="masthead" style="background-image: url('/assets/bg.jpg')">
-      <div class="overlay"></div>
-      <div class="container">
-        <div class="row">
-          <div class="col-lg-8 col-md-10 mx-auto">
-            <div class="site-heading">
-              <h1>{{ site.name }}</h1>
-              <span class="subheading">A CofE vicar's take on <a href="/tag/christianity/">Christianity</a> and <a href="/tag/culture/">culture</a></span>
-              <span class="subheading">(occasional technical posts on <a href="/tag/astronomy/">astronomy</a> and <a href="/tag/computing/">computing</a>)</span>
-              <span class="subheading">This man enjoys math (anag.)</span>
-            </div>
-          </div>
-        </div>
-      </div>
-    </header>
+{% include page-header-open.html site_page_post='site' %}
+                  <h1>{{ site.name }}</h1>
+                  <span class="subheading">A CofE vicar's take on <a href="/tag/christianity/">Christianity</a> and <a href="/tag/culture/">culture</a></span>
+                  <span class="subheading">(occasional technical posts on <a href="/tag/astronomy/">astronomy</a> and <a href="/tag/computing/">computing</a>)</span>
+                  <span class="subheading">This man enjoys math (anag.)</span>
+{% include page-header-close.html %}
 
     <!-- Main Content -->
     <div class="container">

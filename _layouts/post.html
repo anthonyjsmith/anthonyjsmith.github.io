@@ -3,24 +3,14 @@ layout: default
 ---
     <main>
       <article>
-        <!-- Page Header -->
-        <header class="masthead" style="background-image: url('/assets/bg.jpg')">
-          <div class="overlay"></div>
-          <div class="container">
-            <div class="row">
-              <div class="col-lg-8 col-md-10 mx-auto">
-                <div class="post-heading">
+{% include page-header-open.html site_page_post='post' %}
                   <header>
                     <h1>{{ page.title | smartify }}</h1>
                   </header>
                   <footer>
                     <span class="meta">{% include postmeta.html post=page %} | <a href="#disqus_thread">Comments</a></span>
                   </footer>
-                </div>
-              </div>
-            </div>
-          </div>
-        </header>
+{% include page-header-close.html %}
 
         <!-- Post Content -->
         <div class="container">
