@@ -2,14 +2,13 @@
 layout: default
 ---
     <!-- Page Header -->
-    <!-- Set your background image for this header on the line below. -->
-    <header class="intro-header" style="background-image: url('/assets/bg.jpg')">
+    <header class="masthead" style="background-image: url('/assets/bg.jpg')">
+      <div class="overlay"></div>
       <div class="container">
         <div class="row">
-          <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+          <div class="col-lg-8 col-md-10 mx-auto">
             <div class="site-heading">
               <h1>{{ site.name }}</h1>
-              <hr class="small">
               <span class="subheading">A CofE vicar's take on <a href="/tag/christianity/">Christianity</a> and <a href="/tag/culture/">culture</a></span>
               <span class="subheading">(occasional technical posts on <a href="/tag/astronomy/">astronomy</a> and <a href="/tag/computing/">computing</a>)</span>
               <span class="subheading">This man enjoys math (anag.)</span>
@@ -20,9 +19,9 @@ layout: default
     </header>
 
     <!-- Main Content -->
-    <main class="container">
+    <div class="container">
       <div class="row">
-        <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+        <div class="col-lg-8 col-md-10 mx-auto">
 
 {{ content }}
 

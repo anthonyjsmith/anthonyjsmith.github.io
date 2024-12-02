@@ -20,29 +20,27 @@ blockquote p:first-child {
   margin-top: 0;
 }
 // Search button: default bootstrap
-.navbar-custom .dropdown-menu .btn {
+#mainNav .dropdown-menu .btn {
   padding: 6px 12px;
 }
 // Wider search box
-@media only screen and (min-width: 768px) {
-  .navbar-custom .dropdown-menu .form-control {
+@media only screen and (min-width: 992px) {
+  #mainNav .dropdown-menu .form-control {
     width: 400px;
   }
 }
-// fa-2x icon in navbar increases height from 60 to 66: increased top from 61 to 67
-@media only screen and (min-width: 1170px) {
-  .navbar-custom.is-fixed {
-    top: -67px;
-  }
-}
 // link colour
-.intro-header {
+header.masthead {
   a {
     color: rgba(255, 255, 255, 0.8);
   }
 }
+// opacity
+header.masthead .overlay {
+  opacity: 0;
+}
 // link colour
-.intro-header .post-heading .meta a {
+header.masthead .post-heading .meta a {
   color: rgba(255, 255, 255, 0.8);
 }
 // Don't restrict to direct descendant
@@ -64,10 +62,9 @@ blockquote p:first-child {
   color: #404040;
 }
 // Don't restrict to direct descendant
-.post-preview .post-meta > a:hover,
-.post-preview .post-meta > a:focus {
-  color: #0085a1;
+.post-preview .post-meta > a:focus, .post-preview .post-meta > a:hover {
   text-decoration: underline;
+  color: #0085a1;
 }
 // Don't restrict to direct descendant
 @media only screen and (min-width: 768px) {
@@ -88,9 +85,10 @@ footer {
 }
 .blog-footer .copyright {
   font-size: 14px;
-  text-align: center;
   margin-bottom: 0;
+  text-align: center;
 }
+
 // Make long lines of code scroll horizontally
 pre code {
   overflow-x: auto;
@@ -129,4 +127,19 @@ img {
   img.alignright {
     display: block;
   }
+}
+
+li.dropdown.show {
+    position: static;
+}
+li.dropdown.show .dropdown-menu {
+    display:table; width: 100%; text-align: center; left:0; right:0;
+}
+.dropdown-menu > li {
+    display: table-cell;
+}
+
+// Pager: wrap text
+.btn.pager {
+  white-space: normal;
 }

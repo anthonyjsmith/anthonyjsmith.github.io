@@ -1,33 +1,37 @@
 
     <header>
       <!-- Navigation -->
-      <nav class="navbar navbar-default navbar-custom navbar-fixed-top">
-        <div class="container-fluid">
-          <!-- Brand and toggle get grouped for better mobile display -->
-          <div class="navbar-header page-scroll">
-            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
-              <span class="sr-only">Toggle navigation</span>
-              Menu <i class="fa fa-bars"></i>
-            </button>
-            <a class="navbar-brand" href="/">Anthony Smith</a>
-          </div>
+      <nav class="navbar navbar-expand-lg navbar-light fixed-top" id="mainNav">
+        <div class="container">
+          <a class="navbar-brand" href="/">Anthony Smith</a>
+          <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+            Menu
+            <i class="fa fa-bars"></i>
+          </button>
+          <div class="collapse navbar-collapse" id="navbarResponsive">
+            <ul class="navbar-nav ml-auto">
+              <li class="nav-item">
+                <a class="nav-link" href="/about/">About</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="/contact/">Contact</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="/subscribe/">Subscribe</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="https://twitter.com/anthonyjsmith"><span class="fa fa-twitter fa-2x"></span></a>
+              </li>
+              <li class="dropdown nav-item">
+                <a href="#" class="nav-link" data-toggle="dropdown" role="button" id="dropdownMenuLink" aria-haspopup="true" aria-expanded="false"><span class="fa fa-search fa-2x"></span></a>
 
-          <!-- Collect the nav links, forms, and other content for toggling -->
-          <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-            <ul class="nav navbar-nav navbar-right">
-              <li><a href="/about/">About</a></li>
-              <li><a href="/contact/">Contact</a></li>
-              <li><a href="/subscribe/">Subscribe</a></li>
-              <li><a href="https://twitter.com/anthonyjsmith"><span class="fa fa-twitter fa-2x"></span></a></li>
-              <li class="dropdown">
-                <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><span class="fa fa-search fa-2x"></span></a>
-                <ul class="dropdown-menu">
-                  <li>
+                <ul class="dropdown-menu w-100" aria-labelledby="dropdownMenuLink">
+                  <li class="dropdown-item">
                     <a>
                       <form role="search" method="get" action="https://duckduckgo.com/">
                         <input type="hidden" name="sites" value="www.anthonysmith.me.uk">
                         <div class="input-group">
-                          <input name="q" type="search" class="form-control" placeholder="Search..." size="100">
+                          <input name="q" type="search" class="form-control" placeholder="Search...">
                           <span class="input-group-btn">
                             <button class="btn btn-default" type="submit">Go!</button>
                           </span>
@@ -39,8 +43,6 @@
               </li>
             </ul>
           </div>
-          <!-- /.navbar-collapse -->
         </div>
-        <!-- /.container -->
       </nav>
     </header>

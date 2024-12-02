@@ -4,11 +4,11 @@ layout: default
     <main>
       <article>
         <!-- Page Header -->
-        <!-- Set your background image for this header on the line below. -->
-        <div class="intro-header" style="background-image: url('/assets/bg.jpg')">
+        <header class="masthead" style="background-image: url('/assets/bg.jpg')">
+          <div class="overlay"></div>
           <div class="container">
             <div class="row">
-              <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+              <div class="col-lg-8 col-md-10 mx-auto">
                 <div class="post-heading">
                   <header>
                     <h1>{{ page.title | smartify }}</h1>
@@ -20,12 +20,12 @@ layout: default
               </div>
             </div>
           </div>
-        </div>
+        </header>
 
         <!-- Post Content -->
         <div class="container">
           <div class="row">
-            <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+            <div class="col-lg-8 col-md-10 mx-auto">
               <div class="post-content">
 
 {{ content }}
@@ -36,20 +36,15 @@ layout: default
 
               <hr>
 
-              <!-- Pager -->
               <nav>
-                <ul class="pager">
+                <div class="clearfix">
                   {% if page.previous %}
-                  <li class="previous">
-                    <a rel="previous" href="{{ page.previous.url }}">&larr; {{ page.previous.title | smartify }}</a>
-                  </li>
+                  <a rel="previous" class="btn btn-primary float-left pager" href="{{ page.previous.url }}">&larr; {{ page.previous.title | smartify }}</a>
                   {% endif %}
                   {% if page.next %}
-                  <li class="next">
-                    <a rel="next" href="{{ page.next.url }}">{{ page.next.title | smartify }} &rarr;</a>
-                  </li>
+                  <a rel="next" class="btn btn-primary float-right pager" href="{{ page.next.url }}">{{ page.next.title | smartify }} &rarr;</a>
                   {% endif %}
-                </ul>
+                </div>
               </nav>
 
               <hr>
