@@ -114,17 +114,6 @@ img {
   }
 }
 
-// https://stackoverflow.com/questions/23547665/how-to-style-bootstrap-dropdown-menu-to-be-full-page-width
-li.dropdown.show {
-    position: static;
-}
-li.dropdown.show .dropdown-menu {
-    display:table; width: 100%; text-align: center; left:0; right:0;
-}
-.dropdown-menu > li {
-    display: table-cell;
-}
-
 // Pager: wrap text
 .btn.pager {
   white-space: normal;
