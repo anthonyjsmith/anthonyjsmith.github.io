@@ -13,63 +13,61 @@ layout: default
 {% include page-header-close.html %}
 
         <!-- Post Content -->
-        <div class="container">
-          <div class="row">
-            <div class="col-lg-8 col-md-10 mx-auto">
-              <div class="post-content">
+        <div class="mb-4">
+          <div class="container px-4 px-lg-5">
+            <div class="row gx-4 gx-lg-5 justify-content-center">
+              <div class="col-md-10 col-lg-8 col-xl-7 post-content">
 
 {{ content }}
 
-              </div>
 
 {% include addtoany.html %}
 
-              <hr>
+                <hr>
 
-              <nav>
-                <div class="clearfix">
-                  {% if page.previous %}
-                  <a rel="previous" class="btn btn-primary float-left pager" href="{{ page.previous.url }}">&larr; {{ page.previous.title | smartify }}</a>
+                <nav>
+                  <div class="clearfix">
+                    {% if page.previous %}
+                    <a rel="previous" class="btn btn-primary float-start pager" href="{{ page.previous.url }}">&larr; {{ page.previous.title | smartify }}</a>
+                    {% endif %}
+                    {% if page.next %}
+                    <a rel="next" class="btn btn-primary float-end pager" href="{{ page.next.url }}">{{ page.next.title | smartify }} &rarr;</a>
+                    {% endif %}
+                  </div>
+                </nav>
+
+                <hr>
+
+                <section>
+                  {% if page.draft != true %}
+                  <div id="disqus_thread"></div>
+                  <script type="text/javascript">
+                    /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+                    var disqus_shortname = '{{ page.disqus_shortname | default: site.disqus_shortname }}'; // required: replace example with your forum shortname
+                    var disqus_identifier = '{{ page.url }}';
+                    var disqus_url = '{{ site.url }}{{ page.url }}';
+                    var disqus_title = "{{ page.title | replace: '"', '&quot;' }}";
+
+                    /* * * DON'T EDIT BELOW THIS LINE * * */
+                    (function() {
+                        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+                        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+                        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+                    })();
+                  </script>
+                  <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+                  <a href="https://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+                  {% else %}
+                  <i>Comments disabled for draft posts.</i>
                   {% endif %}
-                  {% if page.next %}
-                  <a rel="next" class="btn btn-primary float-right pager" href="{{ page.next.url }}">{{ page.next.title | smartify }} &rarr;</a>
-                  {% endif %}
-                </div>
-              </nav>
+                </section>
 
-              <hr>
-
-              <section>
-                {% if page.draft != true %}
-                <div id="disqus_thread"></div>
-                <script type="text/javascript">
-                  /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
-                  var disqus_shortname = '{{ page.disqus_shortname | default: site.disqus_shortname }}'; // required: replace example with your forum shortname
-                  var disqus_identifier = '{{ page.url }}';
-                  var disqus_url = '{{ site.url }}{{ page.url }}';
-                  var disqus_title = "{{ page.title | replace: '"', '&quot;' }}";
-
-                  /* * * DON'T EDIT BELOW THIS LINE * * */
-                  (function() {
-                      var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
-                      dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
-                      (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
-                  })();
-                </script>
-                <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-                <a href="https://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
-                {% else %}
-                <i>Comments disabled for draft posts.</i>
-                {% endif %}
-              </section>
-
+              </div>
             </div>
           </div>
         </div>
       </article>
     </main>
-
-    <hr>
 
     {% include footer.html %}
 

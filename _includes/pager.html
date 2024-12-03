@@ -2,10 +2,10 @@
           <nav>
             <div class="clearfix">
               {% if include.previous_path %}
-              <a rel="previous" class="btn btn-primary float-left" href="{{ include.previous_path | replace: 'index.html', '' }}">&larr; Newer Posts</a>
+              <a rel="previous" class="btn btn-primary float-start" href="{{ include.previous_path | replace: 'index.html', '' }}">&larr; Newer Posts</a>
               {% endif %}
               {% if include.next_path %}
-              <a rel="next" class="btn btn-primary float-right" href="{{ include.next_path | replace: 'index.html', '' }}">Older Posts &rarr;</a>
+              <a rel="next" class="btn btn-primary float-end" href="{{ include.next_path | replace: 'index.html', '' }}">Older Posts &rarr;</a>
               {% endif %}
             </div>
           </nav>

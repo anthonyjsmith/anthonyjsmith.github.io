@@ -3,7 +3,7 @@
   margin: 30px 0;
 }
 // Same margin for embedded videos
-.embed-responsive {
+.ratio.ratio-16x9 {
   margin: 30px 0;
 }
 // underline (for when article is used in place of p: see "p a" in theme)
@@ -27,53 +27,42 @@ blockquote p:last-child {
 #mainNav .dropdown-menu .btn {
   padding: 6px 12px;
 }
-// Wider search box
-@media only screen and (min-width: 992px) {
-  #mainNav .dropdown-menu .form-control {
-    width: 400px;
-  }
-}
 // link colour
 header.masthead {
   a {
     color: rgba(255, 255, 255, 0.8);
   }
 }
-// opacity
-header.masthead .overlay {
-  opacity: 0;
-}
 // link colour
 header.masthead .post-heading .meta a {
   color: rgba(255, 255, 255, 0.8);
 }
+// Don't restrict to direct descendant (because I've added a header tag)
+.post-preview .post-meta > a:focus, .post-preview .post-meta > a:hover {
+  text-decoration: none;
+  color: #0085A1;
+}
 // Don't restrict to direct descendant
 .post-preview > a .post-title {
-  font-size: 30px;
-  margin-top: 30px;
-  margin-bottom: 10px;
+  font-size: 1.875rem;
+  margin-top: 1.875rem;
+  margin-bottom: 0.625rem;
 }
 // Don't restrict to direct descendant
 .post-preview .post-meta {
-  color: #808080;
-  font-size: 18px;
+  font-size: 1.125rem;
   font-style: italic;
   margin-top: 0;
+  color: #6c757d;
 }
 // Don't restrict to direct descendant
 .post-preview .post-meta > a {
   text-decoration: none;
-  color: #404040;
-}
-// Don't restrict to direct descendant
-.post-preview .post-meta > a:focus, .post-preview .post-meta > a:hover {
-  text-decoration: underline;
-  color: #0085a1;
 }
 // Don't restrict to direct descendant
 @media only screen and (min-width: 768px) {
   .post-preview > a .post-title {
-    font-size: 36px;
+    font-size: 2.25rem;
   }
 }
 // Use CSS class ".blog-footer" rather than "footer"
@@ -81,16 +70,8 @@ footer {
   padding: 0;
 }
 .blog-footer {
-  padding: 50px 0 65px;
-}
-.blog-footer .list-inline {
-  margin: 0;
-  padding: 0;
-}
-.blog-footer .copyright {
-  font-size: 14px;
-  margin-bottom: 0;
-  text-align: center;
+  padding-top: 3rem;
+  padding-bottom: 3rem;
 }
 
 // Make long lines of code scroll horizontally
