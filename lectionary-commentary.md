@@ -348,7 +348,7 @@ The readings reflect the theme of God's promises being fulfilled.
 
 Year C
 
-* **Micah 5.2-5a** foretells a ruler coming from Bethlehem, from 'one of the little clans of Judah'.
+* **Micah 5.2-5a** (see BCP+ Christmas Eve) foretells a ruler coming from Bethlehem, from 'one of the little clans of Judah'.
 * The canticle is the **Magnificat (Luke 1.46-55)**, the song of Mary: 'He has ... lifted up the lowly'.
 * Alternatively, **Psalm 80.1-8** (EV: 1-7) expresses the people's lowly condition ('our enemies laugh us to scorn'), and calls on God to 'come to our salvation'.
 * **Hebrews 10.5-10** speaks of the incarnation: 'when Christ came into the world, he said, "... a body you have prepared for me"'.
@@ -365,14 +365,14 @@ Set I (emphasis on the salvation Jesus brings)
 * **Isaiah 9.2-7** (see BCP+) speaks of those in darkness seeing 'a great light', and announces that 'a child has been born', who will be named 'Wonderful Counsellor...', and who will reign 'with justice and with righteousness'.
 * **Psalm 96** calls for rejoicing before the Lord, because 'he comes, he comes to judge the earth', 'with righteousness'.
 * **Titus 2.11-14** says that 'the grace of God has appeared, bringing salvation to all' through Jesus, who 'gave himself for us'.
-* **Luke 2.1-14 [15-20]** (see BCP+) is about Jesus' birth in Bethlehem, the angels appearing to the shepherds and announcing the birth of a Saviour, [and the shepherds going to Bethlehem to 'see'].
+* **Luke 2.1-14 [15-20]** (see BCP+ Christmas Eve) is about Jesus' birth in Bethlehem, the angels appearing to the shepherds and announcing the birth of a Saviour, [and the shepherds going to Bethlehem to 'see'].
 
 Set II (emphasis on God's glory appearing and being seen)
 
 * **Isaiah 62.6-12** begins by speaking of king and nations who will 'see ... your glory', and says to Zion, 'See, your salvation comes'.
 * **Psalm 97** says of the Lord that 'all the peoples have seen his glory'.
-* **Titus 3.4-7** (see BCP+) speaks of 'when the goodness and loving-kindness of God our Saviour appeared'.
-* **Luke 2.[1-7] 8-20** (see BCP+) is about [Jesus' birth in Bethlehem], the angels appearing to the shepherds and announcing the birth of a Saviour, and the shepherds going to Bethlehem to 'see'.
+* **Titus 3.4-7** (see BCP+ Christmas Eve) speaks of 'when the goodness and loving-kindness of God our Saviour appeared'.
+* **Luke 2.[1-7] 8-20** (see BCP+ Christmas Eve) is about [Jesus' birth in Bethlehem], the angels appearing to the shepherds and announcing the birth of a Saviour, and the shepherds going to Bethlehem to 'see'.
 
 Set III (emphasis on Jesus' divinity)
 
