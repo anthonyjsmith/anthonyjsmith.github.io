@@ -320,11 +320,11 @@ Year C
 
 Joy is the theme of all the readings except for the Gospel reading.
 
-* **Zephaniah 3.14-20** says, 'Rejoice and exult with all your heart, O daughter Jerusalem', and speaks of 'that day'.
+* **Zephaniah 3.14-20** says, 'Rejoice and exult with all your heart, O daughter Jerusalem', because God is 'in your midst', and speaks of 'that day'.
 * The canticle, **Isaiah 12.2-6**, says, 'On that day you will say, "... Shout aloud and sing for joy, you that dwell in Zion"' (Common Worship).
 * Alternatively, **Psalm 146.4-10** (EV: 5-10) says, 'Happy are those who have the God of Jacob for their help'.
 * **Philippians 4.4-7** says, 'Rejoice in the Lord always; again I will say, Rejoice.'
-* **Luke 3.7-18** is about John's call for repentance.
+* **Luke 3.7-18** has John calling for repentance, and saying that 'one who is more powerful than I is coming'.
 
 ## Advent 4 {#advent4}
 
