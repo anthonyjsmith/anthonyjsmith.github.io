@@ -348,7 +348,7 @@ The readings reflect the theme of God's promises being fulfilled.
 
 Year C
 
-* **Micah 5.2-5a** (see BCP+ Christmas Eve) foretells a ruler coming from Bethlehem, from 'one of the little clans of Judah'.
+* **Micah 5.2-5a** (see BCP+ Christmas Eve) foretells a ruler coming from Bethlehem, from 'one of the little clans of Judah', and speaks of 'the time when she who is in labour has brought forth'.
 * The canticle is the **Magnificat (Luke 1.46-55)**, the song of Mary: 'He has ... lifted up the lowly'.
 * Alternatively, **Psalm 80.1-8** (EV: 1-7) expresses the people's lowly condition ('our enemies laugh us to scorn'), and calls on God to 'come to our salvation'.
 * **Hebrews 10.5-10** speaks of the incarnation: 'when Christ came into the world, he said, "... a body you have prepared for me"'.
