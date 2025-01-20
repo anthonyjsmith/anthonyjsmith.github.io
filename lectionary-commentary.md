@@ -14,7 +14,7 @@ Any feedback? Please [contact](/contact/) me!
 
 * Year A: complete
 * Year B: complete
-* Year C: complete up to Advent 4, and from Palm Sunday onwards
+* Year C: complete up to Epiphany, and from Palm Sunday onwards
 * Festivals: complete
 * Appendix: Gospels: complete
 
@@ -400,6 +400,10 @@ Year B
 The focus is on the naming and circumcision of Jesus, celebrated on 1 January, which may coincide with Christmas 1.
 
 * **Luke 2.15-21** begins with the response of the shepherds, and concludes with the naming and circumcision of Jesus. **Isaiah 61.10 &ndash; 62.3** reflects the theme of naming: 'you will be called by a new name that the mouth of the Lord will bestow'. **Galatians 4.4-7** (see BCP) says that Jesus was 'born under the law', which explains why he was circumcised.
+
+Year C
+
+* **Luke 2.41-52** is about the child Jesus in the temple, concluding with: 'And Jesus increased in wisdom and in years, and in divine and human favour.' **1 Samuel 2.18-20, 26** is about the child Samuel at 'the house of the L<span style="font-variant:small-caps">ord</span>' (1.24), concluding with: 'Now the boy Samuel continued to grow both in stature and in favour with the L<span style="font-variant:small-caps">ord</span> and with the people.' **Psalm 148** [or 148.7-14] says (in addition to the note above), 'Young men and women, old and young together; let them praise the name of the Lord.' **Colossians 3.12-17** is about growing in virtue and wisdom: 'Let the word of Christ dwell in you richly; teach and admonish one another in all wisdom'.
 
 ## Christmas 2* {#christmas2}
 
