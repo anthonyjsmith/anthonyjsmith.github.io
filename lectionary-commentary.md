@@ -14,7 +14,7 @@ Any feedback? Please [contact](/contact/) me!
 
 * Year A: complete
 * Year B: complete
-* Year C: complete up to Epiphany 1, and from Palm Sunday onwards
+* Year C: complete up to Epiphany 2, and from Palm Sunday onwards
 * Festivals: complete
 * Appendix: Gospels: complete
 
@@ -179,9 +179,9 @@ New Testament readings after Trinity and before Advent cover the following books
 Other semicontinuous treatments of New Testament books are as follows:
 
 * 1 Corinthians:
-  * Year A: chapters 1-3 for three Sundays in Epiphany and in February
+  * Year A: chapters 1-3 for three Sundays in Epiphany and in February (RCL also includes 4.1-5 for 'Proper 3')
   * Year B: chapter 9 for two Sundays in February (RCL also features chapters 6-8 in Epiphany 2-4)
-  * Year C: chapters 12-13 for two Sundays in Epiphany, followed by chapter 15 for three Sundays in February
+  * Year C: chapters 12-13 for two Sundays in Epiphany, followed by chapter 15 for three Sundays in February (RCL also includes 15.51-58 for 'Proper 3')
 * 1 Peter: Easter season, Year A
 * 1 John: Easter season, Year B
 * Revelation: Easter season, Year C (also three Sundays in Epiphany, Year B, not sequential)
@@ -462,7 +462,7 @@ The Gospel readings for this Sunday cover John 1.29 &ndash; 2.11. In the RCL, it
 
 Year A
 
-* **1 Corinthians 1.1-9** begins a series covering almost all of 1 Corinthians 1-3. Paul gives thanks for the grace of God that has been given to the church in Corinth.
+* **1 Corinthians 1.1-9** begins a six-part series covering almost all of 1 Corinthians 1-3. Paul gives thanks for the grace of God that has been given to the church in Corinth.
 * **John 1.29-42** has John (the Baptist) saying of Jesus, 'Here is the Lamb of God who takes away the sin of the world', reflecting the Epiphany season, adding that 'he was before me'. **Isaiah 49.1-7** continues in Isaiah, and has the 'servant' saying, 'The Lord called me before I was born', and the Lord saying to his servant, 'I will give you as a light to the nations, that my salvation may reach to the end of the earth'. **Psalm 40.1-12** (EV: 1-11) has the speaker saying, 'Lo, I come. In the scroll of the book it is written of me that I should do your will, O my God'.
 
 Year B
@@ -472,7 +472,8 @@ Year B
 
 Year C
 
-* **John 2.1-11** (see BCP) is the account of Jesus turning water into wine, by which he 'revealed his glory' (an Epiphany theme).
+* **1 Corinthians 12.1-11** begins a six-part series in 1 Corinthians 12-15 (RCL also includes 15.51-58 for 'Proper 3'), and is about spiritual gifts: 'To each is given the manifestation of the Spirit for the common good.'
+* **John 2.1-11** (see BCP) is the account of Jesus turning water into wine, by which he 'revealed his glory' (an Epiphany theme). This account features in Years A, B and C, each time on a different Sunday of Epiphany. Here, the focus is on the wedding. **Isaiah 62.1-5** says, 'as the bridegroom rejoices over the bride, so shall your God rejoice over you'. **Psalm 36.5-10** rejoices in God's love.
 
 ## Epiphany 3 {#epiphany3}
 
@@ -490,7 +491,7 @@ Year B
 RCL has Mark 1.14-20 as the Gospel reading, with related readings from Jonah 3.1-5, 10 and Psalm 62.5-12, all of which are transferred to 3 before Advent in Common Worship.
 
 * **Revelation 19.6-10** continues the series about the revelation of Jesus' glory in Revelation (replacing the RCL reading), and is about 'the marriage supper of the Lamb' (providing a connection with the Gospel reading).
-* **John 2.1-11** is the account of Jesus turning water into wine, by which he 'revealed his glory' (an Epiphany theme). **Genesis 14.17-20** is about King Melchizedek who brings wine and is honoured by Abram. **Psalm 128** says, 'Your wife will be like a fruitful vine'.
+* **John 2.1-11** is the account of Jesus turning water into wine, by which he 'revealed his glory' (an Epiphany theme). This account features in Years A, B and C, each time on a different Sunday of Epiphany. Here, the focus is on the wine. **Genesis 14.17-20** is about King Melchizedek who brings wine and is honoured by Abram. **Psalm 128** says, 'Your wife will be like a fruitful vine'.
 
 Year C
 
@@ -507,7 +508,7 @@ Year A
 RCL has Matthew 5.1-12 as the Gospel reading, with related readings from Micah 6.1-8 and Psalm 15. Note that Matthew 5.1-12 is the Gospel reading for All Saints' Day. Micah 6.1-8, however, is not included elsewhere.
 
 * **1 Corinthians 1.18-31** continues the series in 1 Corinthians 1-3 (overlapping by one verse), and is about 'the message of the cross' and 'Christ the power of God and the wisdom of God'. (Also set for Tuesday of Holy Week.)
-* **John 2.1-11** is the account of Jesus turning water into wine, by which he 'revealed his glory' (an Epiphany theme). (This account features in Years A, B and C, each time on a different Sunday of Epiphany.) **1 Kings 17.8-16** is about Elijah's provision of meal and oil to a widow who was running out. **Psalm 36.5-10** is about God's provision: 'They shall be satisfied with the abundance of your house; they shall drink from the river of your delights. For with you is the well of life'.
+* **John 2.1-11** is the account of Jesus turning water into wine, by which he 'revealed his glory' (an Epiphany theme). This account features in Years A, B and C, each time on a different Sunday of Epiphany. Here, the focus is on God's provision. **1 Kings 17.8-16** is about Elijah's provision of meal and oil to a widow who was running out. **Psalm 36.5-10** is about God's provision: 'They shall be satisfied with the abundance of your house; they shall drink from the river of your delights. For with you is the well of life'.
 
 Year B
 
