@@ -14,7 +14,7 @@ Any feedback? Please [contact](/contact/) me!
 
 * Year A: complete
 * Year B: complete
-* Year C: complete up to Epiphany, and from Palm Sunday onwards
+* Year C: complete up to Epiphany 1, and from Palm Sunday onwards
 * Festivals: complete
 * Appendix: Gospels: complete
 
@@ -449,6 +449,10 @@ Year A
 Year B
 
 * **Mark 1.4-11** describes John the Baptist's ministry of baptism ('I have baptized you with water; but he will baptize you with the Holy Spirit'), and has Jesus being baptised by John, with 'the Spirit' descending on him, and 'a voice ... from heaven'. **Genesis 1.1-5** says, 'a wind from God [or 'the spirit of God'] swept over the face of the waters. Then God said ...'. **Acts 19.1-7** has Paul in Ephesus contrasting the baptism of John with baptism 'in the name of the Lord Jesus', which is accompanied by the Holy Spirit.
+
+Year C
+
+* **Luke 3.15-17, 21-22** contrasts John's baptism ('with water') with that of Jesus ('with the Holy Spirit and fire'), and has Jesus being baptised, with the Holy Spirit descending upon him, and a voice from heaven. **Isaiah 43.1-7** says, 'I have called you by name, you are mine', and, 'When you pass through the waters, I will be with you'. **Acts 8.14-17** is about the believers in Samaria receiving the Holy Spirit, because they had 'only been baptized in the name of the Lord Jesus'.
 
 ## Epiphany 2 {#epiphany2}
 
