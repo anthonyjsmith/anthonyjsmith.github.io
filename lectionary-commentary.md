@@ -14,7 +14,7 @@ Any feedback? Please [contact](/contact/) me!
 
 * Year A: complete
 * Year B: complete
-* Year C: complete up to Epiphany 2, and from Palm Sunday onwards
+* Year C: complete up to Epiphany 3, and from Palm Sunday onwards
 * Festivals: complete
 * Appendix: Gospels: complete
 
@@ -495,7 +495,8 @@ RCL has Mark 1.14-20 as the Gospel reading, with related readings from Jonah 3.1
 
 Year C
 
-* **Luke 4.14-21**
+* **1 Corinthians 12.12-31a** continues the series in 1 Corinthians 12-15 (without a gap), and is about the body of Christ, its members, and their various gifts.
+* **Luke 4.14-21** begins a semicontinuous series in Luke 4-23, which covers this Sunday, three Sundays in February, and all the Sundays after Trinity until the Sunday before Advent. Jesus begins his public ministry by reading from Isaiah in the synagogue. Verses 22-30 could be included (set in the RCL for the following Sunday, see also Bible Sunday). **Nehemiah 8.1-3, 5-6, 8-10** has Ezra reading from 'the book of the law of Moses', and the Levites teaching the people. (The lists of names are omitted.) **Psalm 19** [or 19.1-6] rejoices in God's law (7-14). (The shorter version is a Common Worship alteration to the RCL, and makes little sense.)
 
 ## Epiphany 4* {#epiphany4}
 
