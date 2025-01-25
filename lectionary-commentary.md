@@ -1742,6 +1742,8 @@ According to rule 6 at the top of the [lectionary](https://www.churchofengland.o
 
 > If there are only two readings at the principal service on ... the Conversion of Paul ..., the reading from the Acts of the Apostles must always be used.
 
+Most of the readings are about the nations/Gentiles hearing and responding to God's message.
+
 * **Jeremiah 1.4-10** is about Jeremiah's call as 'a prophet to the nations'. (See below for the alternative, **Acts 9.1-22**.)
 * **Psalm 67** (see BCP+) says, 'let all the peoples praise you'.
 * **Acts 9.1-22** (see BCP) is the account of Saul/Paul's experience on the road to Damascus, in which the Lord says of him, 'he is an instrument whom I have chosen to bring my name before Gentiles'.
