@@ -14,7 +14,7 @@ Any feedback? Please [contact](/contact/) me!
 
 * Year A: complete
 * Year B: complete
-* Year C: complete up to Epiphany 3, and from Palm Sunday onwards
+* Year C: complete, except between 2 before Lent and Lent 5
 * Festivals: complete
 * Appendix: Gospels: complete
 
@@ -39,7 +39,7 @@ Any feedback? Please [contact](/contact/) me!
   * [Epiphany 2](#epiphany2)
   * [Epiphany 3](#epiphany3)
   * [Epiphany 4](#epiphany4)
-  * [Candlemas](#candlemas)
+  * [The Presentation of Christ in the Temple](#presentation)
 * [Ordinary Time](#ordinarytime1)
   * [Proper 1](#proper1)
   * [Proper 2](#proper2)
@@ -479,7 +479,7 @@ Year C
 
 These readings are used on the third Sunday _after_ the Epiphany (the Sunday between 21 and 27 January).
 
-In the RCL, it makes sense to see this Sunday as marking the beginning of the semicontinuous series in the respective Gospel, with the Gospel reading marking the beginning of Jesus' public ministry. Common Worship has a different approach, which emphasises the Epiphany season, partly by including John 2.1-11 in Year A (Epiphany 4) and Year B (Epiphany 3), in addition to Year C (Epiphany 2), and partly by setting the Candlemas Gospel reading for Epiphany 4 in Year C.
+In the RCL, it makes sense to see this Sunday as marking the beginning of the semicontinuous series in the respective Gospel, with the Gospel reading marking the beginning of Jesus' public ministry. Common Worship has a different approach, which emphasises the Epiphany season, partly by including John 2.1-11 in Year A (Epiphany 4) and Year B (Epiphany 3), in addition to Year C (Epiphany 2), and partly by setting the Gospel reading for the Presentation as the Gospel reading for Epiphany 4 in Year C.
 
 Year A
 
@@ -502,11 +502,11 @@ Year C
 
 These readings are used on the fourth Sunday _after_ the Epiphany (the Sunday between 28 January and 3 February).
 
-Displaced if Candlemas falls (or is celebrated) on a Sunday.
+Displaced if the Presentation falls (or is celebrated) on a Sunday.
 
 Year A
 
-RCL has Matthew 5.1-12 as the Gospel reading, with related readings from Micah 6.1-8 and Psalm 15. Note that Matthew 5.1-12 is the Gospel reading for All Saints' Day. Micah 6.1-8, however, is not included elsewhere.
+RCL has Matthew 5.1-12 as the Gospel reading, with related readings from Micah 6.1-8 and Psalm 15. (NB: Matthew 5.1-12 is set for All Saints' Day.) Micah 6.1-8, however, is not included elsewhere.
 
 * **1 Corinthians 1.18-31** continues the series in 1 Corinthians 1-3 (overlapping by one verse), and is about 'the message of the cross' and 'Christ the power of God and the wisdom of God'. (Also set for Tuesday of Holy Week.)
 * **John 2.1-11** is the account of Jesus turning water into wine, by which he 'revealed his glory' (an Epiphany theme). This account features in Years A, B and C, each time on a different Sunday of Epiphany. Here, the focus is on God's provision. **1 Kings 17.8-16** is about Elijah's provision of meal and oil to a widow who was running out. **Psalm 36.5-10** is about God's provision: 'They shall be satisfied with the abundance of your house; they shall drink from the river of your delights. For with you is the well of life'.
@@ -518,9 +518,12 @@ Year B
 
 Year C
 
-RCL has Luke 4.21-30 as the Gospel reading, which is replaced by Luke 2.22-40 (the Gospel reading for Candlemas).
+RCL has Luke 4.21-30 as the Gospel reading, which is replaced by Luke 2.22-40 (the Gospel reading for the Presentation), along with related readings from the Old Testament and the Psalms.
 
-## The Presentation of Christ in the Temple (Candlemas) {#candlemas}
+* **1 Corinthians 13.1-13** continues the series in 1 Corinthians 12-15 (skipping half a verse), and is about love.
+* **Luke 2.22-40** is the Gospel reading for the Presentation: see below. **Ezekiel 43.27 &ndash; 44.4** speaks of the L<span style="font-variant:small-caps">ord</span> entering the sanctuary, and says, 'the glory of the L<span style="font-variant:small-caps">ord</span> filled the temple of the L<span style="font-variant:small-caps">ord</span>'. **Psalm 48** speaks of 'Mount Zion' as 'the divine dwelling place', and says, 'We have waited on your loving-kindness, O God, in the midst of your temple.'
+
+## The Presentation of Christ in the Temple (Candlemas) {#presentation}
 
 May be celebrated on the Sunday between 28 January and 3 February (the fourth Sunday _after_ the Epiphany).
 
@@ -546,7 +549,7 @@ Year B
 
 Year C
 
-* **1 Corinthians 15.1-11**, on the preaching of the resurrection, begins a three-part series on 1 Corinthians 15, covering most of the chapter. (NB: on Easter Day, verses 1-11 are read in Year B, and verses 19-26 in Year C.)
+* **1 Corinthians 15.1-11** continues the series in 1 Corinthians 12-15 (skipping chapter 14), and is about the preaching of the resurrection. (NB: on Easter Day, verses 1-11 are read in Year B, and verses 19-26 in Year C.)
 * **Luke 5.1-11** begins/resumes a semicontinuous series in Luke 5-21 (plus a bit of 23), which covers these three Sundays in February, and all the Sundays between Trinity and Advent. Jesus calls fishermen as his first disciples. **Isaiah 6.1-8 [9-13]** continues the theme of calling, with the calling of Isaiah, following the same pattern as Luke 5.1-11: epiphany, reaction ('unclean', 'sinful'), reassurance, commission.[^Proper1] Isaiah saw the Lord, 'high and lofty', in his heavenly temple, and **Psalm 138** refers to God as 'high' and speaks of his 'holy temple'.
 
 ## Sunday between 11 and 17 February (Proper 2)* {#proper2}
@@ -565,8 +568,8 @@ Year B
 
 Year C
 
-* **1 Corinthians 15.12-20**, on the resurrection of the dead, continues the series in 1 Corinthians 15.
-* **Luke 6.17-26** continues the series in Luke, with the blessings and woes. (NB: Luke 6.20-31 set for All Saints' Day.) **Jeremiah 17.5-10** continues the theme ('Cursed are those ...', 'Blessed are those ...'), as does **Psalm 1** ('Blessed are they ...', 'As for the wicked ...').
+* **1 Corinthians 15.12-20** continues the series in 1 Corinthians 12-15 (without a gap), and is about the resurrection of the dead.
+* **Luke 6.17-26** continues the series in Luke, with the blessings and woes. (NB: Luke 6.20-31 is set for All Saints' Day.) **Jeremiah 17.5-10** continues the theme ('Cursed are those ...', 'Blessed are those ...'), as does **Psalm 1** ('Blessed are they ...', 'As for the wicked ...').
 
 ## Sunday between 18 and 24 February (Proper 3)* {#proper3}
 
@@ -584,14 +587,14 @@ Year B
 
 Year C
 
-* **1 Corinthians 15.35-38, 42-50** concludes the series in 1 Corinthians 15, with extracts from the section on the resurrection body. (15.51-58 is the reading for the following week in the RCL.)
+* **1 Corinthians 15.35-38, 42-50** concludes the series in 1 Corinthians 12-15, with extracts from the section on the resurrection body. (15.51-58 is the reading for the following week in the RCL.)
 * **Luke 6.27-38** continues the series in Luke (without a gap), and focuses on loving one's enemies. (6.39-49 is the reading for the following week in the RCL, which is omitted in Common Worship: see discussion below. To fill in the gap, this week's reading could be extended to 6.42 'when opportunity allows'.) (NB: Luke 6.20-31 set for All Saints' Day.) **Genesis 45.3-11, 15** is about Joseph's love for his brothers, who had behaved like his enemies. **Psalm 37.1-11, 40-41** (EV: 1-11, 39-40) [or 37.1-7] calls us not to fret about evildoers.
 
 ## 2 before Lent* {#beforelent2}
 
 Creation theme.
 
-The addition of this creation-themed week means that 'Proper 3' in the RCL is not included (although the Gospel reading for Year A is almost the same). The Gospel readings from that week contain several famous sayings of Jesus: see the the [Appendix](#appendixgospels) for Mark 2.13-22 and Luke 6.39-49.
+The addition of this creation-themed week means that 'Proper 3' in the RCL is not included (although the Gospel reading for Year A is almost the same). The Gospel readings from that week contain several famous sayings of Jesus: see the [Appendix](#appendixgospels) for Mark 2.13-22 and Luke 6.39-49.
 
 Year A
 
@@ -2309,7 +2312,7 @@ It is difficult to quantify how much material is included from the Synoptic Gosp
 * Luke 2.1-14 [15-20]: Christmas Day (I).
 * Luke 2.[1-7] 8-20: Christmas Day (II).
 * Luke 2.15-21: Christmas 1, Year B; Naming and Circumcision of Jesus.
-* Luke 2.22-40: Epiphany 4, Candlemas (2.33-35: Mothering Sunday, first alternative).
+* Luke 2.22-40: Epiphany 4, Presentation (2.33-35: Mothering Sunday, first alternative).
 * Luke 2.41-52: Christmas 1.
 * Luke 3.1-6: Advent 2.
 * Luke 3.7-18: Advent 3.
