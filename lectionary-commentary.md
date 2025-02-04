@@ -547,7 +547,7 @@ Year B
 Year C
 
 * **1 Corinthians 15.1-11**, on the preaching of the resurrection, begins a three-part series on 1 Corinthians 15, covering most of the chapter. (NB: on Easter Day, verses 1-11 are read in Year B, and verses 19-26 in Year C.)
-* **Luke 5.1-11** begins/resumes a semicontinuous series in Luke 5-21 (plus a bit of 23), which covers these three Sundays in February, and all the Sundays between Trinity and Advent. Jesus calls his first disciples. **Isaiah 6.1-8 [9-13]** continues the theme of calling, with the calling of Isaiah. Isaiah saw the Lord, 'high and lofty', in his heavenly temple, and **Psalm 138** refers to God as 'high' and speaks of his 'holy temple'.
+* **Luke 5.1-11** begins/resumes a semicontinuous series in Luke 5-21 (plus a bit of 23), which covers these three Sundays in February, and all the Sundays between Trinity and Advent. Jesus calls fishermen as his first disciples. **Isaiah 6.1-8 [9-13]** continues the theme of calling, with the calling of Isaiah, following the same pattern as Luke 5.1-11: epiphany, reaction ('unclean', 'sinful'), reassurance, commission.[^Proper1] Isaiah saw the Lord, 'high and lofty', in his heavenly temple, and **Psalm 138** refers to God as 'high' and speaks of his 'holy temple'.
 
 ## Sunday between 11 and 17 February (Proper 2)* {#proper2}
 
@@ -2570,6 +2570,8 @@ Web resources
   * [Common Worship Changes to Revised Common Lectionary](http://justus.anglican.org/~ss/rcldifferences.html)
 
 # Notes {#notes}
+
+[^Proper1]: Joel B. Green, _The Gospel of Luke_, The New International Commentary on the New Testament (Grand Rapids: Eerdmans, 1997), p. 233.
 
 [^Lent]: Jeremy Haselock, 'Lent', in David Kennedy with Jeremy Haselock, _Using Common Worship: Times and Seasons, Part 2 (Lent to Embertide)_ (London: Church House Publishing, 2008), p. 17.
 
