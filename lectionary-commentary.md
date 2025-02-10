@@ -14,7 +14,7 @@ Any feedback? Please [contact](/contact/) me!
 
 * Year A: complete
 * Year B: complete
-* Year C: complete, except between 2 before Lent and Lent 5
+* Year C: complete, except between 1 before Lent and Lent 5
 * Festivals: complete
 * Appendix: Gospels: complete
 
@@ -605,10 +605,21 @@ Year A
 
 Year B
 
+The focus is on creation through God's wisdom and through God's Son (or 'the Word').
+
 * **Proverbs 8.1, 22-31** is about wisdom's role in creation.
 * **Psalm 104.26-37** (EV: 24-35) praises God for his creation: 'In wisdom you have made them all'.
 * **Colossians 1.15-20** says of God's Son that 'all things have been created through him and for him'.
 * **John 1.1-14** says of the 'Word' that 'All things came into being through him, and without him not one thing came into being.'
+
+Year C
+
+The focus is on the place of water in God's creation.
+
+* **Genesis 2.4b-9, 15-25** starts with water ('a stream would rise from the earth, and water the whole face of the ground'), and then is about the creation of the man, the garden in Eden, the animals, and the woman (omitting the names of the rivers).
+* **Psalm 65** says, 'You visit the earth and water it'.
+* **Revelation 4** is a vision of heaven (with 'a sea of glass'), and has the 'elders' praising God, 'for you created all things'.
+* **Luke 8.22-25** has a 'gale' on the lake: Jesus 'rebuked the wind and the raging waves; they ceased, and there was a calm'.
 
 ## 1 before Lent* {#beforelent1}
 
