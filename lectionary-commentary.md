@@ -601,7 +601,7 @@ Year A
 * **Genesis 1.1 &ndash; 2.3** is about the creation of the heavens and the earth (and could be seen as beginning a series on Genesis that continues in the summer).
 * **Psalm 136** [or 136.1-9, 23-26] is about God who 'made the heavens' (5-9) and 'gives food to all creatures' (25).
 * **Romans 8.18-25** says that 'the creation waits with eager longing for the revealing of the children of God'.
-* **Matthew 6.25-34** says, 'do not worry', and invites us to consider God's care for the birds and the 'grass of the field'. (Matthew 6.25-33 also set for Harvest Thanksgiving, Year B.)
+* **Matthew 6.25-34** continues the series in Matthew, and says, 'do not worry', and invites us to consider God's care for the birds and the 'grass of the field'. (Matthew 6.25-33 also set for Harvest Thanksgiving, Year B.)
 
 Year B
 
@@ -619,7 +619,7 @@ The focus is on the place of water in God's creation.
 * **Genesis 2.4b-9, 15-25** starts with water ('a stream would rise from the earth, and water the whole face of the ground'), and then is about the creation of the man, the garden in Eden, the animals, and the woman (omitting the names of the rivers).
 * **Psalm 65** says, 'You visit the earth and water it'.
 * **Revelation 4** is a vision of heaven (with 'a sea of glass'), and has the 'elders' praising God, 'for you created all things'.
-* **Luke 8.22-25** has a 'gale' on the lake: Jesus 'rebuked the wind and the raging waves; they ceased, and there was a calm'.
+* **Luke 8.22-25** jumps ahead in the series in Luke (between Proper 6 and 7), and has a 'gale' on the lake: Jesus 'rebuked the wind and the raging waves; they ceased, and there was a calm'.
 
 ## 1 before Lent* {#beforelent1}
 
