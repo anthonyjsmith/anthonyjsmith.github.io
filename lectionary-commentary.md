@@ -535,6 +535,8 @@ Years A, B and C
 
 ## Sunday between 4 and 10 February (Proper 1)* {#proper1}
 
+Omitted around half the time (if Ash Wednesday falls between 4 and 20 February).
+
 (RCL 'Fifth Sunday after the Epiphany'.)
 
 Year A
@@ -553,6 +555,8 @@ Year C
 * **Luke 5.1-11** begins/resumes a semicontinuous series in Luke 5-21 (plus a bit of 23), which covers these three Sundays in February, and all the Sundays between Trinity and Advent. Jesus calls fishermen as his first disciples. **Isaiah 6.1-8 [9-13]** continues the theme of calling, with the calling of Isaiah, following the same pattern as Luke 5.1-11: epiphany, reaction ('unclean', 'sinful'), reassurance, commission.[^Proper1] Isaiah saw the Lord, 'high and lofty', in his heavenly temple, and **Psalm 138** refers to God as 'high' and speaks of his 'holy temple'.
 
 ## Sunday between 11 and 17 February (Proper 2)* {#proper2}
+
+Omitted most years (if Ash Wednesday falls between 4 and 27 February).
 
 (RCL 'Sixth Sunday after the Epiphany', 'Proper 1'.)
 
@@ -573,6 +577,8 @@ Year C
 
 ## Sunday between 18 and 24 February (Proper 3)* {#proper3}
 
+Included very rarely (when Ash Wednesday falls between 7 and 10 March, or between 6 and 10 March in a leap year). Only falls on the Sunday between 18 and 21 February (22 February in a leap year).
+
 (RCL 'Seventh Sunday after the Epiphany', 'Proper 2'.)
 
 Year A
@@ -591,6 +597,8 @@ Year C
 * **Luke 6.27-38** continues the series in Luke (without a gap), and focuses on loving one's enemies. (6.39-49 is the reading for the following week in the RCL, which is omitted in Common Worship: see discussion below. To fill in the gap, this week's reading could be extended to 6.42 'when opportunity allows'.) (NB: Luke 6.20-31 set for All Saints' Day.) **Genesis 45.3-11, 15** is about Joseph's love for his brothers, who had behaved like his enemies. **Psalm 37.1-11, 40-41** (EV: 1-11, 39-40) [or 37.1-7] calls us not to fret about evildoers.
 
 ## 2 before Lent* {#beforelent2}
+
+Omitted occasionally (if Ash Wednesday falls between 4 and 13 February). Falls between 4 and 29 February.
 
 Creation theme.
 
@@ -622,6 +630,8 @@ The focus is on the place of water in God's creation.
 * **Luke 8.22-25** jumps ahead in the series in Luke (between Proper 6 and 7), and has a 'gale' on the lake: Jesus 'rebuked the wind and the raging waves; they ceased, and there was a calm'.
 
 ## 1 before Lent* {#beforelent1}
+
+Omitted very occasionally (if Ash Wednesday falls between 4 and 6 February). Falls between 4 February and 7 March.
 
 (RCL 'Last Sunday after the Epiphany', or 'Transfiguration Sunday'.)
 
