@@ -15,7 +15,7 @@ Please [contact](/contact/) me with any feedback.
 **_Work in progress!_**
 
 * Years A and B: complete
-* Year C: complete, except for Lent 2-5
+* Year C: complete, except for Lent 3-5
 * Festivals: complete
 * Appendix: Gospels: complete
 
@@ -707,6 +707,12 @@ Year B
 
 * **Genesis 17.1-7, 15-16** is about God's covenant with Abraham and Sarah: 'I will make nations of you'. **Psalm 22.23-31** calls for praise from nations and future generations. **Romans 4.13-25** is about God's promise and Abraham's faith, and quotes Genesis 17: 'for he is the father of all of us, as it is written, "I have made you the father of many nations"'.
 * **Mark 8.31-38** begins a series looking towards the cross, has Jesus foretelling his death and resurrection, and calling his followers to 'take up their cross'.
+
+Year C
+
+* **Genesis 15.1-12, 17-18** has God saying to Abram, 'Do not be afraid', and making a covenant with him: 'To your descendants I give this land'. (Verses 13-16 could be included 'when opportunity allows'.) **Psalm 27** says, 'The Lord is my light and my salvation; whom then shall I fear? The Lord is the strength of my life; of whom then shall I be afraid?'
+* **Philippians 3.17 &ndash; 4.1** speaks of those who 'live as enemies of the cross of Christ', and of awaiting 'a Saviour, the Lord Jesus Christ', who 'will transform the body of our humiliation so that it may be conformed to the body of his glory'.
+* **Luke 13.31-35** has Jesus, on the way to Jerusalem (22), saying that 'it is impossible for a prophet to be killed away from Jerusalem'.
 
 ## Lent 3
 
