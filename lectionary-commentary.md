@@ -15,7 +15,7 @@ Please [contact](/contact/) me with any feedback.
 **_Work in progress!_**
 
 * Years A and B: complete
-* Year C: complete, except for Lent 3-5
+* Year C: complete, except for Lent 5
 * Festivals: complete
 * Appendix: Gospels: complete
 
@@ -726,6 +726,11 @@ Year B
 * **1 Corinthians 1.18-25** looks towards the cross: 'the message about the cross is foolishness to those who are perishing, but to us who are being saved it is the power of God'.
 * **John 2.13-22** continues the series looking towards the cross, has Jesus saying (of his body), 'Destroy this temple, and in three days I will raise it up.'
 
+Year C
+
+* **1 Corinthians 10.1-13** says of Israel's history that 'these things occurred as examples for us, so that we might not desire evil as they did'.
+* **Luke 13.1-9** says, 'unless you repent, you will all perish'. **Isaiah 55.1-9** says, 'Seek the L<span style="font-variant:small-caps">ord</span> ... let the wicked forsake their way, ... let them return to the L<span style="font-variant:small-caps">ord</span>, that he may have mercy on them'. **Psalm 63.1-9** (EV: 1-8) says, 'eagerly I seek you'.
+
 ## Lent 4
 
 May be 'displaced' by Mothering Sunday.
@@ -737,6 +742,11 @@ Year A
 Year B
 
 * **John 3.14-21** continues the series looking towards the cross, and says, 'just as Moses lifted up the serpent in the wilderness, so must the Son of Man be lifted up, that whoever believes in him may have eternal life'. The following verses discuss the different kinds of deeds done by those who do or do not believe: 'done in God' or 'evil'. **Numbers 21.4-9** is about Moses making a bronze serpent and putting it on a pole. **Psalm 107.1-3, 17-22** [or 107.1-9] is about God delivering and healing those are rebellious and go astray. **Ephesians 2.1-10** is about being 'dead through the trespasses and sins' and being saved by grace through faith (believing) &ndash; 'not the result of works', but 'for good works'.
+
+Year C
+
+* **2 Corinthians 5.16-21** says, 'in Christ God was reconciling the world to himself'.
+* **Luke 15.1-3, 11b-32** has the Pharisees and scribes saying that Jesus 'welcomes sinners', and Jesus telling the parable of the two sons, one of whom (the 'Prodigal Son') returns from 'a distant country', acknowledges his sin, and is forgiven. **Joshua 5.9-12** has God saying, 'Today I have rolled away from you the disgrace of Egypt', and is about the end of the Israelites' time in the wilderness, as they eat 'the produce of the land', and as the manna ceases. **Psalm 32** says, 'I said, "I will confess my transgressions to the Lord," and you forgave the guilt of my sin.'
 
 ## Mothering Sunday
 
