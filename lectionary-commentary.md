@@ -1,7 +1,9 @@
 ---
-title: Commentary on the Common Worship Lectionary (Principal Service)
-description: 'This is a commentary on the lectionary, not a commentary on the passages. The aim is to answer the question: Why was this passage chosen?'
+title: Common Worship Lectionary Commentary
+description: 'A commentary on the Common Worship Principal Service Lectionary. A commentary on the lectionary (not on the passages), aiming to answer the question: Why was this passage chosen?'
 ---
+A commentary on the _Common Worship_ Principal Service Lectionary.
+
 This is a commentary on the _lectionary_, not a commentary on the _passages_. The aim is to answer the question: _Why was this passage chosen?_
 
 Simply navigate or search for the relevant day, e.g., 'Advent 1', 'Proper 21', 'Bartholomew'.
@@ -144,7 +146,7 @@ Any feedback? Please [contact](/contact/) me!
 
 # Introduction
 
-**Common Worship** was introduced in the Church of England in 2000. It includes a [Lectionary for Sundays, Principal Feasts and Holy Days, and Festivals][Lectionary], which provides a lectionary for three services on each of those days: Principal Service, Second Service, and Third Service (along with 'Evening Prayer on the Eve' for some occasions). This page covers the **Principal Service Lectionary**, which is drawn (with modifications) from the ecumenical **Revised Common Lectionary (RCL)**.
+**_Common Worship_** was introduced in the Church of England in 2000. It includes a [Lectionary for Sundays, Principal Feasts and Holy Days, and Festivals][Lectionary], which provides a lectionary for three services on each of those days: Principal Service, Second Service, and Third Service (along with 'Evening Prayer on the Eve' for some occasions). This page covers the **Principal Service Lectionary**, which is drawn (with modifications) from the ecumenical **_Revised Common Lectionary_ (_RCL_)**.
 
 Note that there is often no 'theme' tying the readings together. (Many people persist in looking for one, even decades after the ASB.) Where readings are closely related, they are grouped together below. In many cases, however, a particular reading will not be related to other readings on the same day, but it will turn out to be part of a series on a particular book of the Bible running over several weeks. This principle of continuous (or semicontinuous) reading of Scripture is one of the key principles behind the lectionary.
 
@@ -156,7 +158,7 @@ For the Gospels, Year A focuses on Matthew, Year B on Mark, and Year C on Luke.
 
 John is read in all three years, mostly during the seasons (especially Easter), but with some appearances in Ordinary Time in Year B (such as a summer series on John 6).
 
-The Gospel readings on Sundays during Ordinary Time work semicontinuously through the central portions of Matthew, Mark and Luke. More precisely, this actually begins just before Ordinary Time, in Epiphany 3, with the start of Jesus' public ministry (or at least, it does in the RCL: see notes on Epiphany 3), continuing into February until 3 before Lent, and then the series resumes after Trinity, continuing until the Sunday before Advent. (The one exception is Year B, 3 before Advent, Mark 1.14-20.) Material from Matthew 1.1 &ndash; 4.11, Mark 1.1-13 and Luke 1.1 &ndash; 4.13 is included in Advent, Christmas, Epiphany 1 and Lent (along with extracts from other chapters), and the resurrection accounts are included during Easter. Note that the Passion narratives (Matthew 26-27, Mark 14-15 and Luke 22-23), with one or two small exceptions, are included _only_ on Palm Sunday, within the Liturgy of the Passion. See the [Appendix](#appendixgospels) for details.
+The Gospel readings on Sundays during Ordinary Time work semicontinuously through the central portions of Matthew, Mark and Luke. More precisely, this actually begins just before Ordinary Time, in Epiphany 3, with the start of Jesus' public ministry (or at least, it does in the _RCL_: see notes on Epiphany 3), continuing into February until 3 before Lent, and then the series resumes after Trinity, continuing until the Sunday before Advent. (The one exception is Year B, 3 before Advent, Mark 1.14-20.) Material from Matthew 1.1 &ndash; 4.11, Mark 1.1-13 and Luke 1.1 &ndash; 4.13 is included in Advent, Christmas, Epiphany 1 and Lent (along with extracts from other chapters), and the resurrection accounts are included during Easter. Note that the Passion narratives (Matthew 26-27, Mark 14-15 and Luke 22-23), with one or two small exceptions, are included _only_ on Palm Sunday, within the Liturgy of the Passion. See the [Appendix](#appendixgospels) for details.
 
 Acts is read at the Baptism of Christ, between Easter Day and Pentecost (vaguely sequentially), and on some Festivals.
 
@@ -179,9 +181,9 @@ New Testament readings after Trinity and before Advent cover the following books
 Other semicontinuous treatments of New Testament books are as follows:
 
 * 1 Corinthians:
-  * Year A: chapters 1-3 for three Sundays in Epiphany and in February (RCL also includes 4.1-5 for 'Proper 3')
-  * Year B: chapter 9 for two Sundays in February (RCL also features chapters 6-8 in Epiphany 2-4)
-  * Year C: chapters 12-13 for two Sundays in Epiphany, followed by chapter 15 for three Sundays in February (RCL also includes 15.51-58 for 'Proper 3')
+  * Year A: chapters 1-3 for three Sundays in Epiphany and in February (the _RCL_ also includes 4.1-5 for 'Proper 3')
+  * Year B: chapter 9 for two Sundays in February (the _RCL_ also features chapters 6-8 in Epiphany 2-4)
+  * Year C: chapters 12-13 for two Sundays in Epiphany, followed by chapter 15 for three Sundays in February (the _RCL_ also includes 15.51-58 for 'Proper 3')
 * 1 Peter: Easter season, Year A
 * 1 John: Easter season, Year B
 * Revelation: Easter season, Year C (also three Sundays in Epiphany, Year B, not sequential)
@@ -201,7 +203,7 @@ What about those parts of the Bible that are not read sequentially?
 
 ## Choosing between the readings {#choosing}
 
-It is worth noting rule 5 at the top of the [lectionary](https://www.churchofengland.org/prayer-and-worship/worship-texts-and-resources/common-worship/churchs-year/lectionary#p539a), which gives permission to extend the readings:
+It is worth noting [rule 5][Lectionary Rules] at the top of the lectionary, which gives permission to extend the readings:
 
 > In a compact cycle of readings such as these, some passages have necessarily been abbreviated. When opportunity allows, the passages may be read in full. Verses in brackets may be included or omitted, as desired.
 
@@ -212,7 +214,7 @@ Each service has the following readings:
 * **New Testament reading** (from an epistle or Revelation), and
 * **Gospel reading**.
 
-The psalm or canticle should normally be used, along with two or three of the other readings. When using just two of the other readings, Common Worship specifies:
+The psalm or canticle should normally be used, along with two or three of the other readings. When using just two of the other readings, [rule 6][Lectionary Rules] specifies:
 
 > When there are only two readings at the principal service and that service is Holy Communion, the second reading is always the Gospel reading. ...
 >
@@ -220,21 +222,21 @@ The psalm or canticle should normally be used, along with two or three of the ot
 
 In addition, when the first reading is from Acts, it must be included as one of the readings.
 
-Note that in Common Worship Holy Communion (Order One or Two), 'Either one or two readings from Scripture precede the Gospel reading', and 'The psalm or canticle follows the first reading'. As the psalm or canticle is usually related to the Old Testament reading, this makes a lot of sense when that reading is used; it makes less sense when the Old Testament reading is omitted, because the psalm or canticle is often unrelated to the New Testament reading.
+Note that in _Common Worship_ Holy Communion (Order One or Two), 'Either one or two readings from Scripture precede the Gospel reading', and 'The psalm or canticle follows the first reading'. As the psalm or canticle is usually related to the Old Testament reading, this makes a lot of sense when that reading is used; it makes less sense when the Old Testament reading is omitted, because the psalm or canticle is often unrelated to the New Testament reading.
 
-On the Sundays after Trinity, the Gospel reading and the New Testament reading follow separate tracks, and there are two alternative tracks for the Old Testament reading and the psalm, as explained in Common Worship:
+On the Sundays after Trinity, the Gospel reading and the New Testament reading follow separate tracks, and there are two alternative tracks for the Old Testament reading and the psalm, as explained in [rule 10][Lectionary Rules]:
 
 > Those under the heading 'Continuous' allow the Old Testament reading and its complementary psalm to stand independently of the other readings. Those under the heading 'Related' relate the Old Testament reading and the psalm to the Gospel reading.
 
-Those who prefer the readings to cohere can have their wishes partially satisfied by opting for the 'Related' Old Testament reading (and psalm), which is related to the Gospel reading. But the cost of this is that it prevents the Old Testament from speaking so clearly with its own voice. Also, there is no 'Related' alternative reading from the New Testament. (RCL provides these two tracks until the Sunday before Advent, whereas Common Worship provides only the 'Related' track for the four Sundays before Advent, with some modifications.)
+Those who prefer the readings to cohere can have their wishes partially satisfied by opting for the 'Related' Old Testament reading (and psalm), which is related to the Gospel reading. But the cost of this is that it prevents the Old Testament from speaking so clearly with its own voice. Also, there is no 'Related' alternative reading from the New Testament. (the _RCL_ provides these two tracks until the Sunday before Advent, whereas _Common Worship_ provides only the 'Related' track for the four Sundays before Advent, with some modifications.)
 
 ## Introductory Notes
 
-Psalm references are to the Common Worship psalter. Where the versification is different in standard English versions of the Bible, this is indicated by 'EV'. Quotations are drawn from the Common Worship psalter or the NRSV.
+Psalm references are to the [_Common Worship_ psalter](https://www.churchofengland.org/prayer-and-worship/worship-texts-and-resources/common-worship/common-material/psalter). Where the versification is different in standard English versions of the Bible, this is indicated by 'EV'. Quotations are drawn from the Common Worship psalter or the [NRSV](https://www.biblegateway.com/versions/New-Revised-Standard-Version-Anglicised-NRSVA-Bible/).
 
 Depending on the day of the week for Christmas and the Epiphany, and the date of Easter, lectionary provision for days marked with * might not be used in any given year. Other days might also be displaced for various reasons.
 
-Readings that are the same as (or overlap with) the 'Epistles and Gospels' printed in the Book of Common Prayer are marked with '(see BCP)', while those that are the same as (or overlap with) the supplementary readings in ['A Lectionary and Additional Collects for Holy Communion (Book of Common Prayer)'](https://www.churchofengland.org/sites/default/files/2017-11/Lectionary.pdf) (linked from the [Common Worship Lectionary page][Lectionary]) are marked with '(see BCP+)'.
+Readings that are the same as (or overlap with) the 'Epistles and Gospels' printed in the Book of Common Prayer are marked with '(see BCP)', while those that are the same as (or overlap with) the supplementary readings in ['A Lectionary and Additional Collects for Holy Communion (Book of Common Prayer)'](https://www.churchofengland.org/sites/default/files/2017-11/Lectionary.pdf) (linked from the [_Common Worship_ Lectionary page][Lectionary]) are marked with '(see BCP+)'.
 
 # Advent
 
@@ -288,7 +290,7 @@ Year B
 Year C
 
 * **Philippians 1.3-11** looks ahead to 'the day of Jesus Christ'.
-* **Luke 3.1-6** says, 'the word of God came to John son of Zechariah in the wilderness', and quotes Isaiah: 'Prepare the way of the Lord, make his paths straight. Every valley shall be filled, and every mountain and hill shall be made low'. **Baruch 5.1-9** (from the Apocrypha) proclaims good news to Jerusalem, and echoes Isaiah, as quoted in the Gospel reading: 'For God has ordered that every high mountain and the everlasting hills be made low and the valleys filled up, to make level ground'. Alternatively, **Malachi 3.1-4** also echoes Isaiah, as quoted in the Gospel reading: 'See, I am sending my messenger to prepare the way before me'. The canticle is the **Benedictus (Luke 1.68-79)**, the song of Zechariah, who says to John, 'you will go before the Lord to prepare his way' (Common Worship).
+* **Luke 3.1-6** says, 'the word of God came to John son of Zechariah in the wilderness', and quotes Isaiah: 'Prepare the way of the Lord, make his paths straight. Every valley shall be filled, and every mountain and hill shall be made low'. **Baruch 5.1-9** (from the Apocrypha) proclaims good news to Jerusalem, and echoes Isaiah, as quoted in the Gospel reading: 'For God has ordered that every high mountain and the everlasting hills be made low and the valleys filled up, to make level ground'. Alternatively, **Malachi 3.1-4** also echoes Isaiah, as quoted in the Gospel reading: 'See, I am sending my messenger to prepare the way before me'. The canticle is the **Benedictus (Luke 1.68-79)**, the song of Zechariah, who says to John, 'you will go before the Lord to prepare his way' (_Common Worship_).
 
 ## Advent 3
 
@@ -321,7 +323,7 @@ Year C
 Joy is the theme of all the readings except for the Gospel reading.
 
 * **Zephaniah 3.14-20** says, 'Rejoice and exult with all your heart, O daughter Jerusalem', because God is 'in your midst', and speaks of 'that day'.
-* The canticle, **Isaiah 12.2-6**, says, 'On that day you will say, "... Shout aloud and sing for joy, you that dwell in Zion, for great in your midst is the Holy One of Israel"' ([Common Worship](https://www.churchofengland.org/prayer-and-worship/worship-texts-and-resources/common-worship/daily-prayer/canticles-daily-17)).
+* The canticle, **Isaiah 12.2-6**, says, 'On that day you will say, "... Shout aloud and sing for joy, you that dwell in Zion, for great in your midst is the Holy One of Israel"' ([_Common Worship_](https://www.churchofengland.org/prayer-and-worship/worship-texts-and-resources/common-worship/daily-prayer/canticles-daily-17)).
 * Alternatively, **Psalm 146.4-10** (EV: 5-10) says, 'Happy are those who have the God of Jacob for their help'.
 * **Philippians 4.4-7** says, 'Rejoice in the Lord always; again I will say, Rejoice. ... The Lord is near.'
 * **Luke 3.7-18** has John calling for repentance, and saying that 'one who is more powerful than I is coming'.
@@ -420,9 +422,9 @@ Years A, B and C
 
 # Epiphany
 
-Although the Sundays are the Sundays _of_ Epiphany, if the Epiphany falls on a Sunday, the readings are moved to the following week. In other words, the readings for Epiphany N are used on the Nth Sunday _after_ the Epiphany (as in the RCL).
+Although the Sundays are the Sundays _of_ Epiphany, if the Epiphany falls on a Sunday, the readings are moved to the following week. In other words, the readings for Epiphany N are used on the Nth Sunday _after_ the Epiphany (as in the _RCL_).
 
-Note that the RCL considers the 'Season of Epiphany' to be part of 'Ordinary Time', and to cover the whole period between the Epiphany and Lent.
+Note that the _RCL_ considers the 'Season of Epiphany' to be part of 'Ordinary Time', and to cover the whole period between the Epiphany and Lent.
 
 ## The Epiphany
 
@@ -458,7 +460,7 @@ Year C
 
 These readings are used on the second Sunday _after_ the Epiphany (the Sunday between 14 and 20 January).
 
-The Gospel readings for this Sunday cover John 1.29 &ndash; 2.11. In the RCL, it makes sense to see these readings as John's announcement of the beginning of Jesus' public ministry (with echoes of Jesus' baptism), to go alongside next week's readings from Matthew, Mark and Luke. This makes slightly less sense under Common Worship: see note on Epiphany 3.
+The Gospel readings for this Sunday cover John 1.29 &ndash; 2.11. In the _RCL_, it makes sense to see these readings as John's announcement of the beginning of Jesus' public ministry (with echoes of Jesus' baptism), to go alongside next week's readings from Matthew, Mark and Luke. This makes slightly less sense under _Common Worship_: see note on Epiphany 3.
 
 Year A
 
@@ -467,19 +469,19 @@ Year A
 
 Year B
 
-* **Revelation 5.1-10** begins a three-part non-sequential series about the revelation of Jesus' glory in Revelation (replacing the RCL readings: 1 Corinthians 6.12-20; 7.29-31; 8.1-13), and is about the 'Lion' who is a 'Lamb', and who is 'worthy to take the scroll'.
+* **Revelation 5.1-10** begins a three-part non-sequential series about the revelation of Jesus' glory in Revelation (replacing the _RCL_ readings: 1 Corinthians 6.12-20; 7.29-31; 8.1-13), and is about the 'Lion' who is a 'Lamb', and who is 'worthy to take the scroll'.
 * **John 1.43-51** has Jesus calling Philip and Nathanael, who asks, 'Where did you come to know me?' **1 Samuel 3.1-10 [11-20]** is about God calling Samuel (see Proper 4). **Psalm 139.1-5, 12-18** (EV: 1-6, 13-18) [or 139.1-9 (EV: 1-10)] says, 'O Lord, you have searched me out and known me'.
 
 Year C
 
-* **1 Corinthians 12.1-11** begins a six-part series in 1 Corinthians 12-15 (RCL also includes 15.51-58 for 'Proper 3'), and is about spiritual gifts: 'To each is given the manifestation of the Spirit for the common good.'
+* **1 Corinthians 12.1-11** begins a six-part series in 1 Corinthians 12-15 (the _RCL_ also includes 15.51-58 for 'Proper 3'), and is about spiritual gifts: 'To each is given the manifestation of the Spirit for the common good.'
 * **John 2.1-11** (see BCP) is the account of Jesus turning water into wine, by which he 'revealed his glory' (an Epiphany theme). This account features in Years A, B and C, each time on a different Sunday of Epiphany. Here, the focus is on the wedding. **Isaiah 62.1-5** says, 'as the bridegroom rejoices over the bride, so shall your God rejoice over you'. **Psalm 36.5-10** rejoices in God's love.
 
 ## Epiphany 3
 
 These readings are used on the third Sunday _after_ the Epiphany (the Sunday between 21 and 27 January).
 
-In the RCL, it makes sense to see this Sunday as marking the beginning of the semicontinuous series in the respective Gospel, with the Gospel reading marking the beginning of Jesus' public ministry. Common Worship has a different approach, which emphasises the Epiphany season, partly by including John 2.1-11 in Year A (Epiphany 4) and Year B (Epiphany 3), in addition to Year C (Epiphany 2), and partly by setting the Gospel reading for the Presentation as the Gospel reading for Epiphany 4 in Year C.
+In the _RCL_, it makes sense to see this Sunday as marking the beginning of the semicontinuous series in the respective Gospel, with the Gospel reading marking the beginning of Jesus' public ministry. _Common Worship_ has a different approach, which emphasises the Epiphany season, partly by including John 2.1-11 in Year A (Epiphany 4) and Year B (Epiphany 3), in addition to Year C (Epiphany 2), and partly by setting the Gospel reading for the Presentation as the Gospel reading for Epiphany 4 in Year C.
 
 Year A
 
@@ -488,15 +490,15 @@ Year A
 
 Year B
 
-RCL has Mark 1.14-20 as the Gospel reading, with related readings from Jonah 3.1-5, 10 and Psalm 62.5-12, all of which are transferred to 3 before Advent in Common Worship.
+The _RCL_ has Mark 1.14-20 as the Gospel reading, with related readings from Jonah 3.1-5, 10 and Psalm 62.5-12, all of which are transferred to 3 before Advent in _Common Worship_.
 
-* **Revelation 19.6-10** continues the series about the revelation of Jesus' glory in Revelation (replacing the RCL reading), and is about 'the marriage supper of the Lamb' (providing a connection with the Gospel reading).
+* **Revelation 19.6-10** continues the series about the revelation of Jesus' glory in Revelation (replacing the _RCL_ reading), and is about 'the marriage supper of the Lamb' (providing a connection with the Gospel reading).
 * **John 2.1-11** is the account of Jesus turning water into wine, by which he 'revealed his glory' (an Epiphany theme). This account features in Years A, B and C, each time on a different Sunday of Epiphany. Here, the focus is on the wine. **Genesis 14.17-20** is about King Melchizedek who brings wine and is honoured by Abram. **Psalm 128** says, 'Your wife will be like a fruitful vine'.
 
 Year C
 
 * **1 Corinthians 12.12-31a** continues the series in 1 Corinthians 12-15 (without a gap), and is about the body of Christ, its members, and their various gifts.
-* **Luke 4.14-21** begins a semicontinuous series in Luke 4-23, which covers this Sunday, three Sundays in February, and all the Sundays after Trinity until the Sunday before Advent. Jesus begins his public ministry by reading from Isaiah in the synagogue. Verses 22-30 could be included (set in the RCL for the following Sunday, see also Bible Sunday). **Nehemiah 8.1-3, 5-6, 8-10** has Ezra reading from 'the book of the law of Moses', and the Levites teaching the people. (The lists of names are omitted.) **Psalm 19** [or 19.1-6] rejoices in God's law (7-14). (The shorter version is a Common Worship alteration to the RCL, and makes little sense.)
+* **Luke 4.14-21** begins a semicontinuous series in Luke 4-23, which covers this Sunday, three Sundays in February, and all the Sundays after Trinity until the Sunday before Advent. Jesus begins his public ministry by reading from Isaiah in the synagogue. Verses 22-30 could be included (set in the _RCL_ for the following Sunday, see also Bible Sunday). **Nehemiah 8.1-3, 5-6, 8-10** has Ezra reading from 'the book of the law of Moses', and the Levites teaching the people. (The lists of names are omitted.) **Psalm 19** [or 19.1-6] rejoices in God's law (7-14). (The shorter version is a _Common Worship_ alteration to the _RCL_, and makes little sense.)
 
 ## Epiphany 4*
 
@@ -506,19 +508,19 @@ Displaced if the Presentation falls (or is celebrated) on a Sunday.
 
 Year A
 
-RCL has Matthew 5.1-12 as the Gospel reading, with related readings from Micah 6.1-8 and Psalm 15. (NB: Matthew 5.1-12 is set for All Saints' Day.) Micah 6.1-8, however, is not included elsewhere.
+The _RCL_ has Matthew 5.1-12 as the Gospel reading, with related readings from Micah 6.1-8 and Psalm 15. (NB: Matthew 5.1-12 is set for All Saints' Day.) Micah 6.1-8, however, is not included elsewhere.
 
 * **1 Corinthians 1.18-31** continues the series in 1 Corinthians 1-3 (overlapping by one verse), and is about 'the message of the cross' and 'Christ the power of God and the wisdom of God'. (Also set for Tuesday of Holy Week.)
 * **John 2.1-11** is the account of Jesus turning water into wine, by which he 'revealed his glory' (an Epiphany theme). This account features in Years A, B and C, each time on a different Sunday of Epiphany. Here, the focus is on God's provision. **1 Kings 17.8-16** is about Elijah's provision of meal and oil to a widow who was running out. **Psalm 36.5-10** is about God's provision: 'They shall be satisfied with the abundance of your house; they shall drink from the river of your delights. For with you is the well of life'.
 
 Year B
 
-* **Revelation 12.1-5a** concludes the series about the revelation of Jesus' glory in Revelation (replacing the RCL reading), and is about the 'woman' and her 'son ... who is to rule all the nations with a rod of iron'.
-* **Mark 1.21-28** begins a semicontinuous series in Mark 1-13, which covers this Sunday, three Sundays in February, and all the Sundays after Trinity until 2 before Advent, apart from five weeks in John 6 in July and August. (The series begins more naturally in RCL with Mark 1.14-20 in Epiphany 3, but this is transferred to 3 before Advent in Common Worship.) Jesus heals a man with an unclean spirit, provoking amazement: 'A new teaching—with authority!' **Deuteronomy 18.15-20** is about the new 'prophet' like Moses who will speak God's words. **Psalm 111** praises God for his 'marvellous deeds'.
+* **Revelation 12.1-5a** concludes the series about the revelation of Jesus' glory in Revelation (replacing the _RCL_ reading), and is about the 'woman' and her 'son ... who is to rule all the nations with a rod of iron'.
+* **Mark 1.21-28** begins a semicontinuous series in Mark 1-13, which covers this Sunday, three Sundays in February, and all the Sundays after Trinity until 2 before Advent, apart from five weeks in John 6 in July and August. (The series begins more naturally in the _RCL_ with Mark 1.14-20 in Epiphany 3, but this is transferred to 3 before Advent in _Common Worship_.) Jesus heals a man with an unclean spirit, provoking amazement: 'A new teaching—with authority!' **Deuteronomy 18.15-20** is about the new 'prophet' like Moses who will speak God's words. **Psalm 111** praises God for his 'marvellous deeds'.
 
 Year C
 
-RCL has Luke 4.21-30 as the Gospel reading, which is replaced by Luke 2.22-40 (the Gospel reading for the Presentation), along with related readings from the Old Testament and the Psalms.
+The _RCL_ has Luke 4.21-30 as the Gospel reading, which is replaced by Luke 2.22-40 (the Gospel reading for the Presentation), along with related readings from the Old Testament and the Psalms.
 
 * **1 Corinthians 13.1-13** continues the series in 1 Corinthians 12-15 (skipping half a verse), and is about love.
 * **Luke 2.22-40** is the Gospel reading for the Presentation: see below. **Ezekiel 43.27 &ndash; 44.4** speaks of the L<span style="font-variant:small-caps">ord</span> entering the sanctuary, and says, 'the glory of the L<span style="font-variant:small-caps">ord</span> filled the temple of the L<span style="font-variant:small-caps">ord</span>'. **Psalm 48** speaks of 'Mount Zion' as 'the divine dwelling place', and says, 'We have waited on your loving-kindness, O God, in the midst of your temple.'
@@ -537,7 +539,7 @@ Years A, B and C
 
 Omitted around half the time (if Ash Wednesday falls between 4 and 20 February).
 
-(RCL 'Fifth Sunday after the Epiphany'.)
+(_RCL_ 'Fifth Sunday after the Epiphany'.)
 
 Year A
 
@@ -546,7 +548,7 @@ Year A
 
 Year B
 
-* **1 Corinthians 9.16-23** begins a two-part series in 1 Corinthians (which would have begun on Epiphany 2 in the RCL), and is about doing everything for the sake of the gospel.
+* **1 Corinthians 9.16-23** begins a two-part series in 1 Corinthians (which would have begun on Epiphany 2 in the _RCL_), and is about doing everything for the sake of the gospel.
 * **Mark 1.29-39** continues the series in Mark (without a gap), and is about Jesus healing many and proclaiming the message. **Isaiah 40.21-31** says of God, 'He gives power to the faint, and strengthens the powerless.' **Psalm 147.1-12, 21c** (EV: 1-11, 20c) [or 147.1-12 (EV: 1-11)] says of God, 'He heals the brokenhearted and binds up all their wounds.'
 
 Year C
@@ -558,7 +560,7 @@ Year C
 
 Omitted most years (if Ash Wednesday falls between 4 and 27 February).
 
-(RCL 'Sixth Sunday after the Epiphany', 'Proper 1'.)
+(_RCL_ 'Sixth Sunday after the Epiphany', 'Proper 1'.)
 
 Year A
 
@@ -579,7 +581,7 @@ Year C
 
 Included very rarely (when Ash Wednesday falls between 7 and 10 March, or between 6 and 10 March in a leap year). Only falls on the Sunday between 18 and 21 February (22 February in a leap year).
 
-(RCL 'Seventh Sunday after the Epiphany', 'Proper 2'.)
+(_RCL_ 'Seventh Sunday after the Epiphany', 'Proper 2'.)
 
 Year A
 
@@ -588,21 +590,23 @@ Year A
 
 Year B
 
-* **2 Corinthians 1.18-22** begins a seven-part series in 2 Corinthians (see Proper 4-9, NB: RCL 'Proper 3'), and says that 'every one of God’s promises is a "Yes"'.
+* **2 Corinthians 1.18-22** begins a seven-part series in 2 Corinthians (see Proper 4-9, NB: _RCL_ 'Proper 3'), and says that 'every one of God’s promises is a "Yes"'.
 * **Mark 2.1-12** continues the series in Mark (without a gap), and is about Jesus healing and forgiving a paralysed man, concluding with amazement: 'We have never seen anything like this!' **Isaiah 43.18-25** says that God is doing 'a new thing': 'I will not remember your sins'. **Psalm 41** says, 'The Lord sustains them on their sickbed; their sickness, Lord, you will remove.'
 
 Year C
 
-* **1 Corinthians 15.35-38, 42-50** concludes the series in 1 Corinthians 12-15, with extracts from the section on the resurrection body. (15.51-58 is the reading for the following week in the RCL.)
-* **Luke 6.27-38** continues the series in Luke (without a gap), and focuses on loving one's enemies. (6.39-49 is the reading for the following week in the RCL, which is omitted in Common Worship: see discussion below. To fill in the gap, this week's reading could be extended to 6.42 'when opportunity allows'.) (NB: Luke 6.20-31 set for All Saints' Day.) **Genesis 45.3-11, 15** is about Joseph's love for his brothers, who had behaved like his enemies. **Psalm 37.1-11, 40-41** (EV: 1-11, 39-40) [or 37.1-7] calls us not to fret about evildoers.
+* **1 Corinthians 15.35-38, 42-50** concludes the series in 1 Corinthians 12-15, with extracts from the section on the resurrection body. (15.51-58 is the reading for the following week in the _RCL_.)
+* **Luke 6.27-38** continues the series in Luke (without a gap), and focuses on loving one's enemies. (6.39-49 is the reading for the following week in the _RCL_, which is omitted in _Common Worship_: see discussion below. To fill in the gap, this week's reading could be extended to 6.42 'when opportunity allows'.) (NB: Luke 6.20-31 set for All Saints' Day.) **Genesis 45.3-11, 15** is about Joseph's love for his brothers, who had behaved like his enemies. **Psalm 37.1-11, 40-41** (EV: 1-11, 39-40) [or 37.1-7] calls us not to fret about evildoers.
 
 ## 2 before Lent* {#before-lent-2}
 
 Omitted occasionally (if Ash Wednesday falls between 4 and 13 February). Falls between 4 and 29 February.
 
-Creation theme.
+Creation theme. As Gordon Giles explains,
 
-The addition of this creation-themed week means that 'Proper 3' in the RCL is not included (although the Gospel reading for Year A is almost the same). The Gospel readings from that week contain several famous sayings of Jesus: see the [Appendix](#appendixgospels) for Mark 2.13-22 and Luke 6.39-49.
+> the Church of England has replaced the _RCL_ provision for the Second Sunday before Lent with 'creation' texts.[^Giles]
+
+The addition of this creation-themed week means that 'Proper 3' in the _RCL_ is not included (although the Gospel reading for Year A is almost the same). The Gospel readings from that week contain several famous sayings of Jesus: see the [Appendix](#appendixgospels) for Mark 2.13-22 and Luke 6.39-49.
 
 Year A
 
@@ -633,7 +637,7 @@ The focus is on the place of water in God's creation.
 
 Omitted very occasionally (if Ash Wednesday falls between 4 and 6 February). Falls between 4 February and 7 March.
 
-(RCL 'Last Sunday after the Epiphany', or 'Transfiguration Sunday'.)
+(_RCL_ 'Last Sunday after the Epiphany', or 'Transfiguration Sunday'.)
 
 The Gospel readings are about Jesus' Transfiguration (which is also celebrated on 6 August).
 
@@ -750,7 +754,7 @@ Year B
 
 ## Palm Sunday
 
-The lectionary assumes a 'Liturgy of the Palms' and a 'Liturgy of the Passion', each with its own reading from the Gospels and the Psalms (as in [_Times and Seasons_](https://www.churchofengland.org/prayer-and-worship/worship-texts-and-resources/common-worship/churchs-year/times-and-seasons-2#mmm151)). But this is not mandatory, and it is not clear what should be done if there is no 'Liturgy of the Palms'. Presumably that part could simply be omitted. But the [RCL](http://www.commontexts.org/rcl/download/) describes an alternative: 'Those who do not observe the procession with palms and do not wish to use the passion gospel may substitute the gospel and psalm given for the Liturgy of the Passion with the gospel and psalm indicated for the Liturgy of the Palms. Whenever possible, the whole passion narrative should be read.'
+The lectionary assumes a 'Liturgy of the Palms' and a 'Liturgy of the Passion', each with its own reading from the Gospels and the Psalms (as in [_Times and Seasons_](https://www.churchofengland.org/prayer-and-worship/worship-texts-and-resources/common-worship/churchs-year/times-and-seasons-2#mmm151)). But this is not mandatory, and it is not clear what should be done if there is no 'Liturgy of the Palms'. Presumably that part could simply be omitted. But the [_RCL_](http://www.commontexts.org/rcl/download/) describes an alternative: 'Those who do not observe the procession with palms and do not wish to use the passion gospel may substitute the gospel and psalm given for the Liturgy of the Passion with the gospel and psalm indicated for the Liturgy of the Palms. Whenever possible, the whole passion narrative should be read.'
 
 **Liturgy of the Palms**
 
@@ -763,7 +767,7 @@ Year B
 
 * **Mark 11.1-11** is Mark's account of Jesus' entry into Jerusalem (branches are mentioned, but no palms specifically).
 * Alternatively, **John 12.12-16** is John's account of Jesus' entry into Jerusalem (and the only account to mention palm branches).
-* **Psalm 118.1-2, 19-24** [or 118.19-24] omits the verse about 'Blessed is he...' (see Year A), presumably for brevity (or possibly by mistake: see RCL), and therefore focuses on entering (the city) with joy.
+* **Psalm 118.1-2, 19-24** [or 118.19-24] omits the verse about 'Blessed is he...' (see Year A), presumably for brevity (or possibly by mistake: see _RCL_), and therefore focuses on entering (the city) with joy.
 
 Year C
 
@@ -1113,7 +1117,7 @@ Falls between 17 May and 20 June.
 
 Year A
 
-(RCL has Genesis 1.1 &ndash; 2.4a as the first reading, which then serves as the beginning of a series in Genesis. See 2 before Lent, which includes this passage as the Old Testament reading.)
+(The _RCL_ has Genesis 1.1 &ndash; 2.4a as the first reading, which then serves as the beginning of a series in Genesis. See 2 before Lent, which includes this passage as the Old Testament reading.)
 
 * **Isaiah 40.12-17, 27-31** says, 'Who has directed the spirit of the Lord ...?' Is the answer, 'Jesus'? Otherwise, the connection with Trinity Sunday is not immediately obvious.
 * **Psalm 8** (Years A and C) (see BCP+) is about God's glory being revealed in creation and redemption (this finds its climax when God is revealed as Trinity), and is about God's 'name' (cf. Matthew 28.19: 'in the name of the Father and of the Son and of the Holy Spirit').
@@ -1148,15 +1152,15 @@ See [Sunday between 18 and 24 February](#proper3).
 
 Year A
 
-* **Genesis 6.9-22; 7.24; 8.14-19** begins a 22-week semicontinuous series in the Pentateuch (12 weeks in Genesis, 9 weeks in Exodus and Deuteronomy 34 for the final week), which covers all of the Sundays after Trinity. (In the RCL, the series begins at Genesis 1.1 on Trinity Sunday, whereas in Common Worship that passage is set for 2 before Lent.) A brief account is provided of Noah and the flood. (See also the alternative first readings for Easter 4-6.) **Psalm 46** says, 'Therefore we will not fear, though ... the waters rage and swell'. (Perhaps intentionally, there is a link with the 'floods' in the Gospel reading.)
+* **Genesis 6.9-22; 7.24; 8.14-19** begins a 22-week semicontinuous series in the Pentateuch (12 weeks in Genesis, 9 weeks in Exodus and Deuteronomy 34 for the final week), which covers all of the Sundays after Trinity. (In the _RCL_, the series begins at Genesis 1.1 on Trinity Sunday, whereas in _Common Worship_ that passage is set for 2 before Lent.) A brief account is provided of Noah and the flood. (See also the alternative first readings for Easter 4-6.) **Psalm 46** says, 'Therefore we will not fear, though ... the waters rage and swell'. (Perhaps intentionally, there is a link with the 'floods' in the Gospel reading.)
 * **Romans 1.16, 17; 3.22b-28 [29-31]** begins a 16-part semicontinuous series in Romans, and is about the righteousness of God through faith.
-* **Matthew 7.21-29** continues the series in Matthew (from 2 before Lent), on the theme of hearing and doing, with the house on rock or sand, and the floods coming. (If the reading is extended to begin at verse 16, this would restore to the lectionary some important sayings that are omitted by Common Worship: see RCL 'Proper 3' and Luke 6.43-44.) The 'Related' reading, **Deuteronomy 11.18-21, 26-28**, is about blessing following obedience, and curse following disobedience. The 'Related' psalm, **Psalm 31.1-5, 19-24** [or 31.19-24] mentions God being a 'strong rock', and speaks of the blessings that come from fearing God.
+* **Matthew 7.21-29** continues the series in Matthew (from 2 before Lent), on the theme of hearing and doing, with the house on rock or sand, and the floods coming. (If the reading is extended to begin at verse 16, this would restore to the lectionary some important sayings that are omitted by _Common Worship_: see _RCL_ 'Proper 3' and Luke 6.43-44.) The 'Related' reading, **Deuteronomy 11.18-21, 26-28**, is about blessing following obedience, and curse following disobedience. The 'Related' psalm, **Psalm 31.1-5, 19-24** [or 31.19-24] mentions God being a 'strong rock', and speaks of the blessings that come from fearing God.
 
 Year B
 
 * **1 Samuel 3.1-10 [11-20]** begins a series on history and wisdom (4 weeks in 1 Samuel, 7 weeks in 2 Samuel, 2 weeks in 1 Kings, 1 week in Song of Solomon, 3 weeks in Proverbs, 1 week in Esther, 4 weeks in Job). This reading begins a series on Samuel, Saul, David and Solomon from 1 and 2 Samuel and 1 Kings, and is about God calling Samuel (see Epiphany 2). **Psalm 139.1-5, 12-18** says, 'you know my sitting down and my rising up'.
-* **2 Corinthians 4.5-12** continues the series in 2 Corinthians (see Proper 3, NB: RCL 'Proper 3'), and says, 'we have this treasure in clay jars'.
-* **Mark 2.23 &ndash; 3.6** continues the series in Mark (from Proper 3, NB: RCL 'Proper 3'), and is about Jesus and the sabbath. The 'Related' reading, **Deuteronomy 5.12-15**, is about the sabbath. The 'Related' psalm, **Psalm 81.1-10**, says, 'I eased their shoulder from the burden', reflecting the sabbath.
+* **2 Corinthians 4.5-12** continues the series in 2 Corinthians (see Proper 3, NB: _RCL_ 'Proper 3'), and says, 'we have this treasure in clay jars'.
+* **Mark 2.23 &ndash; 3.6** continues the series in Mark (from Proper 3, NB: _RCL_ 'Proper 3'), and is about Jesus and the sabbath. The 'Related' reading, **Deuteronomy 5.12-15**, is about the sabbath. The 'Related' psalm, **Psalm 81.1-10**, says, 'I eased their shoulder from the burden', reflecting the sabbath.
 
 Year C
 
@@ -1555,7 +1559,7 @@ Year A
 
 Year B
 
-* **Job 38.1-7 [34-41]** continues the series on history and wisdom and in Job, and is the first part of God's response to Job, pointing to God's wisdom in creation. **Psalm 104.1-10, 26, 37b** [correction: cf. RCL] (EV: 1-9, 24, 35b) [or 104.1-10 (EV: 1-9)] praises God for his wisdom in creation ('In wisdom you have made them all', 26 [EV: 24]).
+* **Job 38.1-7 [34-41]** continues the series on history and wisdom and in Job, and is the first part of God's response to Job, pointing to God's wisdom in creation. **Psalm 104.1-10, 26, 37b** [correction: cf. _RCL_] (EV: 1-9, 24, 35b) [or 104.1-10 (EV: 1-9)] praises God for his wisdom in creation ('In wisdom you have made them all', 26 [EV: 24]).
 * **Hebrews 5.1-10** continues the series on Christ as high priest in Hebrews 1-10 (without a gap), and is about Jesus, the 'Son' who 'learned obedience through what he suffered', who has been 'made perfect', the 'source of eternal salvation for all who obey him', and 'designated by God a high priest according to the order of Melchizedek' (the only mention of Melchizedek in the series).
 * **Mark 10.35-45** continues the series in Mark, and has the request of James and John, and Jesus teaching about greatness and service: 'For the Son of Man came not to be served but to serve, and to give his life a ransom for many.' The 'Related' reading, **Isaiah 53.4-12**, is about the 'servant' who 'poured out himself to death' and yet 'shall prolong his days' and be allotted 'a portion with the great'. The 'Related' psalm, **Psalm 91.9-16**, has God saying of those who take refuge in him in the face of danger: 'I will lift them up' and 'With long life will I satisfy them'.
 
@@ -1650,15 +1654,15 @@ Years A, B and C
 
 ## 4 before Advent (between 30 October and 5 November)* {#before-advent-4}
 
-(RCL 'Proper 26'.)
+(_RCL_ 'Proper 26'.)
 
 Displaced if All Saints' Day falls (or is celebrated) on a Sunday.
 
 Year A
 
-* The alternative psalm, **Psalm 107.1-8**, is derived from the RCL, which has a 'Continuous' Old Testament reading from Joshua 3.7-17, about the crossing of the Jordan, followed by Psalm 107.1-7, 33-37, which says, 'The Lord turns rivers into wilderness' (33).
+* The alternative psalm, **Psalm 107.1-8**, is derived from the _RCL_, which has a 'Continuous' Old Testament reading from Joshua 3.7-17, about the crossing of the Jordan, followed by Psalm 107.1-7, 33-37, which says, 'The Lord turns rivers into wilderness' (33).
 * **1 Thessalonians 2.9-13** continues the series in 1 Thessalonians (without a gap), and is about how both Paul and the word of God worked among the believers.
-* **Matthew 24.1-14** continues the series in Matthew, and is about 'the sign of [Jesus'] coming and of the end of the age'. (RCL has Matthew 23.1-12, which fits less well with the themes of the Sundays before Advent, but the change leaves a gap in the lectionary provision.) **Micah 3.5-12** is the related reading for the RCL reading, Matthew 23.1-12, pronouncing judgment on the prophets and rulers, but it also fits with Matthew 24.1-14, declaring that 'Jerusalem shall become a heap of ruins'. **Psalm 43** calls out for deliverance 'from the deceitful and the wicked'.
+* **Matthew 24.1-14** continues the series in Matthew, and is about 'the sign of [Jesus'] coming and of the end of the age'. (The _RCL_ has Matthew 23.1-12, which fits less well with the themes of the Sundays before Advent, but the change leaves a gap in the lectionary provision.) **Micah 3.5-12** is the related reading for the _RCL_ reading, Matthew 23.1-12, pronouncing judgment on the prophets and rulers, but it also fits with Matthew 24.1-14, declaring that 'Jerusalem shall become a heap of ruins'. **Psalm 43** calls out for deliverance 'from the deceitful and the wicked'.
 
 Year B
 
@@ -1672,7 +1676,7 @@ Year C
 
 ## 3 before Advent (between 6 and 12 November) {#before-advent-3}
 
-(RCL 'Proper 27'.)
+(_RCL_ 'Proper 27'.)
 
 Usually Remembrance Sunday (the Sunday between 8 and 14 November).
 
@@ -1683,7 +1687,7 @@ Year A
 
 Year B
 
-The Gospel and related Old Testament and Psalm are transferred from RCL Epiphany 3, conceivably because they were considered more suitable to Remembrance Sunday and the Sundays before Advent than the RCL readings (Mark 12.38-44 and related passages about poor widows).
+The Gospel and related Old Testament and Psalm are transferred from _RCL_ Epiphany 3, conceivably because they were considered more suitable to Remembrance Sunday and the Sundays before Advent than the _RCL_ readings (Mark 12.38-44 and related passages about poor widows).
 
 * **Hebrews 9.24-28** continues the series on Christ as high priest in Hebrews 1-10, and continues to contrast the sacrifices of the earthly tabernacle with the sacrifice of Christ (see last week), focusing on the 'once for all' nature of Christ's sacrifice, preparing the way for Christ to 'appear a second time, not to deal with sin, but to save those who are eagerly waiting for him'.
 * **Mark 1.14-20** continues the series in Mark (out of sequence), and is about Jesus proclaiming, 'repent, and believe the good news' (because 'the kingdom of God has come near'), and calling people to follow him. **Jonah 3.1-5, 10** is about the people of Nineveh believing (trust) God and repenting at the preaching of Jonah: 'they turned from their evil ways'. **Psalm 62.5-12** is about trusting God, and reflects God's response to the repentance of the people of Nineveh: 'Steadfast love belongs to you, O Lord, for you repay everyone according to their deeds.'
@@ -1695,7 +1699,7 @@ Year C
 
 ## 2 before Advent (between 13 and 19 November) {#before-advent-2}
 
-(RCL 'Proper 28'.)
+(_RCL_ 'Proper 28'.)
 
 Sometimes Remembrance Sunday (the Sunday between 8 and 14 November).
 
@@ -1716,7 +1720,7 @@ Year C
 
 ## Christ the King: 1 before Advent (between 20 and 26 November) {#before-advent-1}
 
-(RCL 'Proper 29'.)
+(_RCL_ 'Proper 29'.)
 
 Year A
 
@@ -1739,7 +1743,7 @@ Year C
 
 # Festivals
 
-The RCL provides readings only for a small number of the Festivals listed below: the Annunciation, the Visitation, Holy Cross, and Thanksgiving Day (observed in Common Worship as Harvest Thanksgiving).
+The _RCL_ provides readings only for a small number of the Festivals listed below: the Annunciation, the Visitation, Holy Cross, and Thanksgiving Day (observed in _Common Worship_ as Harvest Thanksgiving).
 
 According to the [Rules], Festivals are 'not usually displaced'. However,
 
@@ -1762,7 +1766,7 @@ If Jesus was born on 25 December, he was circumcised on 1 January.
 
 ## The Conversion of Paul (25 January) {#paul}
 
-According to rule 6 at the top of the [lectionary](https://www.churchofengland.org/prayer-and-worship/worship-texts-and-resources/common-worship/churchs-year/lectionary#p539a),
+According to [rule 6][Lectionary Rules] at the top of the lectionary,
 
 > If there are only two readings at the principal service on ... the Conversion of Paul ..., the reading from the Acts of the Apostles must always be used.
 
@@ -1837,7 +1841,7 @@ Little is known of Philip or James. The readings reflect Philip's desire to see 
 
 14 May always falls between Easter and Trinity, so this Festival is never celebrated on a Sunday (unless it is the Patronal Festival celebrated as a Principal Feast).
 
-According to rule 6 at the top of the [lectionary](https://www.churchofengland.org/prayer-and-worship/worship-texts-and-resources/common-worship/churchs-year/lectionary#p539a),
+According to [rule 6][Lectionary Rules] at the top of the lectionary,
 
 > If there are only two readings at the principal service on ... the Festivals of Matthias ..., the reading from the Acts of the Apostles must always be used.
 
@@ -1861,7 +1865,7 @@ Also known as the Visitation.
 
 11 June occasionally falls before Trinity (20 June at the latest).
 
-According to rule 6 at the top of the [lectionary](https://www.churchofengland.org/prayer-and-worship/worship-texts-and-resources/common-worship/churchs-year/lectionary#p539a),
+According to [rule 6][Lectionary Rules] at the top of the lectionary,
 
 > If there are only two readings at the principal service on ... the Festivals of ... Barnabas ..., the reading from the Acts of the Apostles must always be used.
 
@@ -1914,7 +1918,7 @@ The focus is on Mary Magdalene seeing the risen Christ.
 
 ## James the Apostle (25 July) {#james}
 
-According to rule 6 at the top of the [lectionary](https://www.churchofengland.org/prayer-and-worship/worship-texts-and-resources/common-worship/churchs-year/lectionary#p539a),
+According to [rule 6][Lectionary Rules] at the top of the lectionary,
 
 > If there are only two readings at the principal service on ... the Festivals of ... James ..., the reading from the Acts of the Apostles must always be used.
 
@@ -2015,7 +2019,7 @@ According to tradition, Simon and Jude worked together as evangelists and were m
 
 ## Stephen, Deacon, First Martyr (26 December) {#stephen}
 
-According to rule 6 at the top of the [lectionary](https://www.churchofengland.org/prayer-and-worship/worship-texts-and-resources/common-worship/churchs-year/lectionary#p539a),
+According to [rule 6][Lectionary Rules] at the top of the lectionary,
 
 > If there are only two readings at the principal service on ... the Festivals of ... Stephen, the reading from the Acts of the Apostles must always be used.
 
@@ -2073,7 +2077,7 @@ Year C
 
 ## Harvest Thanksgiving
 
-Based on the RCL readings for Thanksgiving Day.
+Based on the _RCL_ readings for Thanksgiving Day.
 
 Year A
 
@@ -2118,7 +2122,7 @@ It is difficult to quantify how much material is included from the Synoptic Gosp
 * Matthew 3.13-17: Epiphany 1.
 * Matthew 4.1-11: Lent 1.
 * Matthew 4.12-23: **Epiphany 3** (4.18-22: Andrew).
-* Matthew 5.1-12: All Saints' Day (NB: RCL Epiphany 4).
+* Matthew 5.1-12: All Saints' Day (NB: _RCL_ Epiphany 4).
 * Matthew 5.13-20: **Proper 1**.
 * Matthew 5.21-37: **Proper 2**.
 * Matthew 5.38-48: **Proper 3**.
@@ -2130,7 +2134,7 @@ It is difficult to quantify how much material is included from the Synoptic Gosp
 * Matthew 6.24: see Luke 16.1-13.
 * Matthew 6.25-34: **2 before Lent** (6.25-33: Harvest Thanksgiving, Year B).
 * Matthew 7.1-2: see Luke 6.27-38.
-* Matthew 7.3-5: omitted, along with its parallel in Luke 6.41-42 (NB: RCL 'Proper 3').
+* Matthew 7.3-5: omitted, along with its parallel in Luke 6.41-42 (NB: _RCL_ 'Proper 3').
 * Matthew 7.6: omitted.
 * Matthew 7.7-11: see Luke 11.1-13.
 * Matthew 7.12a: see Luke 6.27-38.
@@ -2149,7 +2153,7 @@ It is difficult to quantify how much material is included from the Synoptic Gosp
 * Matthew 9.1: omitted.
 * Matthew 9.2-8: see Mark 2.1-12.
 * Matthew 9.9-13, 18-26: **Proper 5** (9.9-13: Matthew).
-* Matthew 9.14-17: omitted, along with its parallels in Mark 2.18-22 and Luke 5.33-39 (NB: RCL 'Proper 3').
+* Matthew 9.14-17: omitted, along with its parallels in Mark 2.18-22 and Luke 5.33-39 (NB: _RCL_ 'Proper 3').
 * Matthew 9.27-31: omitted, along with its close parallel in Mark 8.22-26.
 * Matthew 9.32-33: omitted (cf. Matthew 12.22-23).
 * Matthew 9.34: see Mark 3.20-35 (cf. Matthew 12.24).
@@ -2225,8 +2229,8 @@ It is difficult to quantify how much material is included from the Synoptic Gosp
 * Matthew 22.23-32: see Luke 20.27-38.
 * Matthew 22.33: omitted.
 * Matthew 22.34-46: **Proper 25**.
-* Matthew 23.1-7: omitted, along with its parallels in Mark 12.38-39 and Luke 11.43; 20.45-46 (NB: RCL 'Proper 26').
-* Matthew 23.8-12: omitted (NB: RCL 'Proper 26').
+* Matthew 23.1-7: omitted, along with its parallels in Mark 12.38-39 and Luke 11.43; 20.45-46 (NB: _RCL_ 'Proper 26').
+* Matthew 23.8-12: omitted (NB: _RCL_ 'Proper 26').
 * Matthew 23.13-36: omitted, along with Luke 11.39-42, 44-52, which contains many parallels.
 * Matthew 23.37-39: see Luke 13.31-35.
 * Matthew 24.1-14: **4 before Advent**.
@@ -2252,14 +2256,14 @@ It is difficult to quantify how much material is included from the Synoptic Gosp
 * Mark 1.1-8: Advent 2.
 * Mark 1.4-11: Epiphany 1.
 * Mark 1.9-15: Lent 1.
-* Mark 1.14-20: **3 before Advent** (NB: RCL Epiphany 3).
+* Mark 1.14-20: **3 before Advent** (NB: _RCL_ Epiphany 3).
 * Mark 1.21-28: **Epiphany 4**.
 * Mark 1.29-39: **Proper 1**.
 * Mark 1.40-45: **Proper 2**.
 * Mark 2.1-12: **Proper 3**.
-* Mark 2.13: omitted (NB: RCL 'Proper 3').
+* Mark 2.13: omitted (NB: _RCL_ 'Proper 3').
 * Mark 2.14-17: see Matthew 9.9-13, 18-26.
-* Mark 2.18-22: omitted, along with its parallels in Matthew 9.14-17 and Luke 5.33-39 (NB: RCL 'Proper 3').
+* Mark 2.18-22: omitted, along with its parallels in Matthew 9.14-17 and Luke 5.33-39 (NB: _RCL_ 'Proper 3').
 * Mark 2.23 &ndash; 3.6: **Proper 4**
 * Mark 3.7-12: omitted.
 * Mark 3.13-19: see Matthew 9.35 &ndash; 10.8.
@@ -2314,8 +2318,8 @@ It is difficult to quantify how much material is included from the Synoptic Gosp
 * Mark 12.18-27: see Luke 20.27-38.
 * Mark 12.28-34: **4 before Advent**.
 * Mark 12.35-37: see Matthew 22.34-46.
-* Mark 12.38-40: omitted, along with its parallels in Matthew 23.1-7 and Luke 20.45-47 (NB: RCL 'Proper 26' and 'Proper 27').
-* Mark 12.41-44 (widow's offering): omitted, along with its parallel in Luke 21.1-4 (NB: RCL 'Proper 27').
+* Mark 12.38-40: omitted, along with its parallels in Matthew 23.1-7 and Luke 20.45-47 (NB: _RCL_ 'Proper 26' and 'Proper 27').
+* Mark 12.41-44 (widow's offering): omitted, along with its parallel in Luke 21.1-4 (NB: _RCL_ 'Proper 27').
 * Mark 13.1-8: **2 before Advent**.
 * Mark 13.5-13: Mark.
 * Mark 13.14-23: omitted, along with its parallels in Matthew 24.15-25 and Luke 21.20-24.
@@ -2343,20 +2347,20 @@ It is difficult to quantify how much material is included from the Synoptic Gosp
 * Luke 4.1-13: Lent 1.
 * Luke 4.14-21: **Epiphany 3**.
 * Luke 4.16-24: Bible Sunday.
-* Luke 4.25-30: omitted (NB: RCL Epiphany 4).
+* Luke 4.25-30: omitted (NB: _RCL_ Epiphany 4).
 * Luke 4.31-37: see Mark 1.21-28.
 * Luke 4.38-44: see Mark 1.29-39.
 * Luke 5.1-11: **Proper 1**.
 * Luke 5.12-16: see Mark 1.40-45.
 * Luke 5.17-26: see Mark 2.1-12.
 * Luke 5.27-32: see Matthew 9.9-13.
-* Luke 5.33-39: omitted, along with its parallels in Matthew 9.14-17 and Mark 2.18-22 (NB: RCL 'Proper 3').
+* Luke 5.33-39: omitted, along with its parallels in Matthew 9.14-17 and Mark 2.18-22 (NB: _RCL_ 'Proper 3').
 * Luke 6.1-11: see Mark 2.23 &ndash; 3.6.
 * Luke 6.12-16: see Matthew 9.35 &ndash; 10.8.
 * Luke 6.17-26: **Proper 2**.
 * Luke 6.20-31: All Saints' Day.
 * Luke 6.27-38: **Proper 3**.
-* Luke 6.39-49 (NB: RCL 'Proper 3')...
+* Luke 6.39-49 (NB: _RCL_ 'Proper 3')...
   * Luke 6.39: see Matthew 15.[10-20] 21-28.
   * Luke 6.40: see John 13.1-17, 31b-35.
   * Luke 6.41-42: omitted, along with its parallel in Matthew 7.3-5.
@@ -2400,7 +2404,7 @@ It is difficult to quantify how much material is included from the Synoptic Gosp
 * Luke 11.33: see Matthew 5.13-20.
 * Luke 11.34-35: omitted, along with its parallel in Matthew 6.22-23.
 * Luke 11.36: omitted.
-* Luke 11.37-54 ('woe to you...'): omitted, along with Matthew 23.1-36, which contains many parallels (NB: RCL 'Proper 26').
+* Luke 11.37-54 ('woe to you...'): omitted, along with Matthew 23.1-36, which contains many parallels (NB: _RCL_ 'Proper 26').
 * Luke 12.1-9: see Matthew 10.24-39.
 * Luke 12.10: see Mark 3.20-35.
 * Luke 12.11-12: omitted (but see Matthew 10.17-22, set for Stephen). Compare Luke 21.5-19 (and Mark 13.5-13, set for Mark).
@@ -2467,8 +2471,8 @@ It is difficult to quantify how much material is included from the Synoptic Gosp
 * Luke 20.27-38: **3 before Advent**.
 * Luke 20.39-40: omitted.
 * Luke 20.41-44: see Matthew 22.34-46.
-* Luke 20.45-47: omitted, along with its parallels in Matthew 23.1-7 and Mark 12.38-40 (NB: RCL 'Proper 26' and 'Proper 27').
-* Luke 21.1-4 (widow's offering): omitted, along with its parallel in Mark 12.41-44 (NB: RCL 'Proper 27').
+* Luke 20.45-47: omitted, along with its parallels in Matthew 23.1-7 and Mark 12.38-40 (NB: _RCL_ 'Proper 26' and 'Proper 27').
+* Luke 21.1-4 (widow's offering): omitted, along with its parallel in Mark 12.41-44 (NB: _RCL_ 'Proper 27').
 * Luke 21.5-19: **2 before Advent**.
 * Luke 21.20-24: omitted, along with its parallels in Matthew 24.15-21 and Mark 13.14-19.
 * Luke 21.25-36: Advent 1.
@@ -2580,12 +2584,12 @@ In detail:
 
 # Further reading
 
-Common Worship
+_Common Worship_
 
-* Main Volume
+* _Common Worship: Services and Prayers for the Church of England_ ('Main Volume')
   * [Calendar]
-  * [Rules]
-  * [Lectionary]
+  * [Rules], including ['Rules to Order the Christian Year'](https://www.churchofengland.org/prayer-and-worship/worship-texts-and-resources/common-worship/churchs-year/rules#p526)
+  * [Lectionary], including ['Rules to order how the Psalter and the rest of Holy Scripture are appointed to be read'][Lectionary Rules]
 
 Print resources
 
@@ -2595,14 +2599,16 @@ Print resources
 Web resources
 
 * Consultation on Common Texts (CCT), founded in the 1960s
-  * [The Revised Common Lectionary](http://www.commontexts.org/rcl/) (RCL)
-  * [Introduction to the Revised Common Lectionary](http://www.commontexts.org/wp-content/uploads/2015/11/RCL_Introduction_Web.pdf) (1992)
+  * [The _Revised Common Lectionary_](http://www.commontexts.org/rcl/) (_RCL_)
+  * [Introduction to the _Revised Common Lectionary_](http://www.commontexts.org/wp-content/uploads/2015/11/RCL_Introduction_Web.pdf) (1992)
 * [Simon Sarmiento](http://justus.anglican.org/~ss/)
-  * [Common Worship Changes to Revised Common Lectionary](http://justus.anglican.org/~ss/rcldifferences.html)
+  * [_Common Worship_ Changes to _Revised Common Lectionary_](http://justus.anglican.org/~ss/rcldifferences.html)
 
 # Notes
 
 [^Proper1]: Joel B. Green, _The Gospel of Luke_, The New International Commentary on the New Testament (Grand Rapids: Eerdmans, 1997), p. 233.
+
+[^Giles]: Gordon Giles, 'The Sunday Lectionary', in _A Companion to Common Worship_, Volume 1, ed. by Paul Bradshaw (London: SPCK, 2001), p. 232.
 
 [^Lent]: Jeremy Haselock, 'Lent', in David Kennedy with Jeremy Haselock, _Using Common Worship: Times and Seasons, Part 2 (Lent to Embertide)_ (London: Church House Publishing, 2008), p. 17.
 
@@ -2610,6 +2616,8 @@ Web resources
 
 [Calendar]: https://www.churchofengland.org/prayer-and-worship/worship-texts-and-resources/common-worship/churchs-year/calendar
 
-[Rules]: https://www.churchofengland.org/prayer-and-worship/worship-texts-and-resources/common-worship/churchs-year/rules
-
 [Lectionary]: https://www.churchofengland.org/prayer-and-worship/worship-texts-and-resources/common-worship/churchs-year/lectionary
+
+[Lectionary Rules]: https://www.churchofengland.org/prayer-and-worship/worship-texts-and-resources/common-worship/churchs-year/lectionary#p539a
+
+[Rules]: https://www.churchofengland.org/prayer-and-worship/worship-texts-and-resources/common-worship/churchs-year/rules
