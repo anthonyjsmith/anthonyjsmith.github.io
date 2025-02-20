@@ -12,13 +12,6 @@ Most of the comments below are 'reverse engineered' using the lectionary and a f
 
 Please [contact](/contact/) me with any feedback.
 
-**_Work in progress!_**
-
-* Years A and B: complete
-* Year C: complete, except for Lent 5
-* Festivals: complete
-* Appendix: Gospels: complete
-
 # Contents
 
 * [Introduction](#introduction)
@@ -773,6 +766,13 @@ Year B
 
 * **Jeremiah 31.31-34** is the promise of a new covenant: 'I will put my law within them, and I will write it on their hearts'. **Psalm 51.1-13** (EV: 1-12) says, 'you ... shall make me understand wisdom in the depths of my heart'. Alternatively, **Psalm 119.9-16** says, 'Your words have I hidden within my heart, that I should not sin against you.'
 * **John 12.20-33** concludes the series looking towards the cross, and says that Jesus will be glorified through his death, in which he will be 'lifted up' (see John 3.14 from last week). **Hebrews 5.5-10** says that Jesus 'did not glorify himself', but suffered and then was 'designated by God a high priest according to the order of Melchizedek'.
+
+Year C
+
+* **Isaiah 43.16-21** has God saying, 'I am about to do a new thing ... I will make a way in the wilderness and rivers in the desert.' **Psalm 126** says, 'Restore again our fortunes, O Lord, as the river beds of the desert.'
+* **Philippians 3.4b-14** says, 'I want to know Christ and the power of his resurrection and the sharing of his sufferings by becoming like him in his death, if somehow I may attain the resurrection from the dead.'
+* **John 12.1-8** has Jesus in Bethany being anointed with oil by Mary, and saying, 'She bought it so that she might keep it for the day of my burial.'
+
 
 ## Palm Sunday
 
