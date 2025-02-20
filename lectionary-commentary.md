@@ -10,13 +10,12 @@ Simply navigate or search for the relevant day, e.g., 'Advent 1', 'Proper 21', '
 
 Most of the comments below are 'reverse engineered' using the lectionary and a fair bit of guesswork, so they should not be taken as authoritative.
 
-Any feedback? Please [contact](/contact/) me!
+Please [contact](/contact/) me with any feedback.
 
 **_Work in progress!_**
 
-* Year A: complete
-* Year B: complete
-* Year C: complete, except between 1 before Lent and Lent 5
+* Years A and B: complete
+* Year C: complete, except for Lent 1-5
 * Festivals: complete
 * Appendix: Gospels: complete
 
@@ -650,6 +649,10 @@ Year A
 Year B
 
 * **Mark 9.2-9** (see _BCP+_, Transfiguration) is Mark's account of Jesus' Transfiguration, on a 'high mountain', with Moses and Elijah appearing. **2 Kings 2.1-12** is about Elijah being taken up to heaven. **Psalm 50.1-6** says that God 'has spoken' and 'shines forth'. **2 Corinthians 4.3-6** speaks about 'the light of the knowledge of the glory of God in the face of Jesus Christ'.
+
+Year C
+
+* **Luke 9.28-36 [37-43a]** is Luke's account of Jesus' Transfiguration 'on the mountain' [and his coming down from the mountain]: 'they saw his glory'. **Exodus 34.29-35** is about Moses coming down from Mount Sinai: 'the skin of his face was shining', and Moses veiled his face. **Psalm 99**: see Year A. **2 Corinthians 3.12 &ndash; 4.2** is about Moses veiling his face, but 'all of us, with unveiled faces, seeing the glory of the Lord'.
 
 # Lent
 
