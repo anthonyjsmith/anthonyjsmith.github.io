@@ -15,7 +15,7 @@ Please [contact](/contact/) me with any feedback.
 **_Work in progress!_**
 
 * Years A and B: complete
-* Year C: complete, except for Lent 1-5
+* Year C: complete, except for Lent 2-5
 * Festivals: complete
 * Appendix: Gospels: complete
 
@@ -691,7 +691,8 @@ Year B
 
 Year C
 
-* **Psalm 91.1-2, 9-16** [or 91.1-11] (see _BCP+_).
+* **Romans 10.8b-13** is about salvation through Jesus' death and resurrection: 'if you confess with your lips that Jesus is Lord and believe in your heart that God raised him from the dead, you will be saved'.
+* **Luke 4.1-13** is about Jesus being tempted by the devil in the wilderness. **Deuteronomy 26.1-11** looks ahead to the end of Israel's time in the wilderness, when they 'come into the land'. **Psalm 91.1-2, 9-16** [or 91.1-11] (see _BCP+_) is quoted (by the devil) in the Gospel reading: 'For he shall give his angels charge over you, to keep you in all your ways. They shall bear you in their hands, lest you dash your foot against a stone' (11-12).
 
 ## Lent 2
 
