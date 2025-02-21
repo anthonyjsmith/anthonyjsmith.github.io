@@ -684,8 +684,7 @@ Year B
 
 Year C
 
-* **Romans 10.8b-13** is about salvation through Jesus' death and resurrection: 'if you confess with your lips that Jesus is Lord and believe in your heart that God raised him from the dead, you will be saved'.
-* **Luke 4.1-13** is about Jesus being tempted by the devil in the wilderness. **Deuteronomy 26.1-11** looks ahead to the end of Israel's time in the wilderness, when they 'come into the land'. **Psalm 91.1-2, 9-16** [or 91.1-11] (see _BCP+_) is quoted (by the devil) in the Gospel reading: 'For he shall give his angels charge over you, to keep you in all your ways. They shall bear you in their hands, lest you dash your foot against a stone' (11-12).
+* **Luke 4.1-13** is about Jesus being tempted by the devil in the wilderness, and quoting words from Deuteronomy in response. **Deuteronomy 26.1-11** looks ahead to the end of Israel's time in the wilderness, when they 'come into the land'. **Psalm 91.1-2, 9-16** [or 91.1-11] (see _BCP+_) is quoted (by the devil) in the Gospel reading: 'For he shall give his angels charge over you, to keep you in all your ways. They shall bear you in their hands, lest you dash your foot against a stone' (11-12). **Romans 10.8b-13** begins by quoting from Deuteronomy, and is about the 'word of faith' that brings salvation.
 
 ## Lent 2
 
@@ -703,8 +702,7 @@ Year B
 
 Year C
 
-* **Genesis 15.1-12, 17-18** has God saying to Abram, 'Do not be afraid', and making a covenant with him: 'To your descendants I give this land'. (Verses 13-16 could be included 'when opportunity allows'.) **Psalm 27** says, 'The Lord is my light and my salvation; whom then shall I fear? The Lord is the strength of my life; of whom then shall I be afraid?'
-* **Philippians 3.17 &ndash; 4.1** speaks of those who 'live as enemies of the cross of Christ', and of awaiting 'a Saviour, the Lord Jesus Christ', who 'will transform the body of our humiliation so that it may be conformed to the body of his glory'.
+* **Genesis 15.1-12, 17-18** has God leading Abram from fear ('Do not be afraid') to faith in God's promises for the future ('To your descendants I give this land'). (Verses 13-16 could be included 'when opportunity allows'.) **Psalm 27** says, 'whom then shall I fear?' **Philippians 3.17 &ndash; 4.1** is about living in the light of God's promises for the future, awaiting 'a Saviour' from heaven.
 * **Luke 13.31-35** has Jesus, on the way to Jerusalem (22), saying that 'it is impossible for a prophet to be killed away from Jerusalem'.
 
 ## Lent 3
@@ -721,8 +719,7 @@ Year B
 
 Year C
 
-* **1 Corinthians 10.1-13** says of Israel's history that 'these things occurred as examples for us, so that we might not desire evil as they did'.
-* **Luke 13.1-9** says, 'unless you repent, you will all perish'. **Isaiah 55.1-9** says, 'Seek the L<span style="font-variant:small-caps">ord</span> ... let the wicked forsake their way, ... let them return to the L<span style="font-variant:small-caps">ord</span>, that he may have mercy on them'. **Psalm 63.1-9** (EV: 1-8) says, 'eagerly I seek you'.
+* **Luke 13.1-9** has Jesus warning the people of God's displeasure with them and calling them to repent: 'unless you repent, you will all perish'. **Isaiah 55.1-9** says, 'Seek the L<span style="font-variant:small-caps">ord</span> ... let the wicked forsake their way, ... let them return to the L<span style="font-variant:small-caps">ord</span>, that he may have mercy on them'. **Psalm 63.1-9** (EV: 1-8) says, 'eagerly I seek you'. **1 Corinthians 10.1-13** is a warning of God's displeasure with his people and a call to repentance.
 
 ## Lent 4
 
@@ -738,8 +735,7 @@ Year B
 
 Year C
 
-* **2 Corinthians 5.16-21** says, 'in Christ God was reconciling the world to himself'.
-* **Luke 15.1-3, 11b-32** has the Pharisees and scribes saying that Jesus 'welcomes sinners', and Jesus telling the parable of the two sons, one of whom (the 'Prodigal Son') returns from 'a distant country', acknowledges his sin, and is forgiven. **Joshua 5.9-12** has God saying, 'Today I have rolled away from you the disgrace of Egypt', and is about the end of the Israelites' time in the wilderness, as they eat 'the produce of the land', and as the manna ceases. **Psalm 32** says, 'I said, "I will confess my transgressions to the Lord," and you forgave the guilt of my sin.'
+* **Luke 15.1-3, 11b-32** has the Pharisees and scribes saying that Jesus 'welcomes sinners', and Jesus telling the parable of the two sons, one of whom (the 'Prodigal Son') returns from 'a distant country', acknowledges his sin, and finds reconciliation. **Joshua 5.9-12** has God saying, 'Today I have rolled away from you the disgrace of Egypt', and is about the end of the Israelites' time in the wilderness, as they eat 'the produce of the land', and as the manna ceases. **Psalm 32** says, 'I said, "I will confess my transgressions to the Lord," and you forgave the guilt of my sin.' **2 Corinthians 5.16-21** is about reconciliation with God.
 
 ## Mothering Sunday
 
@@ -770,9 +766,7 @@ Year B
 Year C
 
 * **Isaiah 43.16-21** has God saying, 'I am about to do a new thing ... I will make a way in the wilderness and rivers in the desert.' **Psalm 126** says, 'Restore again our fortunes, O Lord, as the river beds of the desert.'
-* **Philippians 3.4b-14** says, 'I want to know Christ and the power of his resurrection and the sharing of his sufferings by becoming like him in his death, if somehow I may attain the resurrection from the dead.'
-* **John 12.1-8** has Jesus in Bethany being anointed with oil by Mary, and saying, 'She bought it so that she might keep it for the day of my burial.'
-
+* **John 12.1-8** has Jesus in Bethany being anointed with 'costly perfume' by Mary. Judas complains that the perfume could have been sold, but Jesus says, 'She bought it so that she might keep it for the day of my burial.' **Philippians 3.4b-14** is about valuing things differently because of Christ: 'I regard everything as loss because of the surpassing value of knowing Christ Jesus my Lord'.
 
 ## Palm Sunday
 
