@@ -1604,7 +1604,7 @@ Year B
 Year C
 
 * **Joel 2.23-32** concludes the series on the prophets, with a single extract from Joel. Joel is difficult to date, so it is unlikely that this passage is here for chronological reasons. It follows well from last week, with the promise that God will pour abundant rain on the earth, and his spirit on all flesh. **Psalm 65** [or 65.1-7 (EV: 1-8)] is about God watering the earth abundantly.
-* **2 Timothy 4.6-8, 16-18** concludes the series in 2 Timothy, with Paul looking towards his departure.
+* **2 Timothy 4.6-8, 16-18** concludes the series in 2 Timothy (continuing without a gap), with Paul looking towards his departure.
 * **Luke 18.9-14** continues the series in Luke (without a gap), with the parable of the Pharisee and the tax-collector. The 'Related' reading, **Ecclesiasticus 35.12-17**, is about God listening to the prayer of the poor (the tax-collector being taken as someone who is poor, at least in spirit, presumably). The alternative 'Related' reading, **Jeremiah 14.7-10, 19-22**, is a confession of sin and a plea for God's help. The 'Related' psalm, **Psalm 84.1-7** (EV: 1-8), expresses a desire 'to enter the courts of the Lord', and asks God to 'hear my prayer'.
 
 ## The Last Sunday after Trinity if observed as Bible Sunday {#bible-sunday}
