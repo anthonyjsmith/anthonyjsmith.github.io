@@ -1,6 +1,6 @@
 <script async defer src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v3.2"></script>
 <div class="fb-video"
-  data-href="https://www.facebook.com/watch/?v={{ include.facebook_id }}">
+  data-href="https://www.facebook.com/watch/?v={{ include.facebook_id }}{% if include.t %}&t={{ include.t }}{% endif %}">
 </div>
 
-(If the video doesn't appear, [click to watch it on Facebook](https://www.facebook.com/watch/?v={{ include.facebook_id }}).)
+(If the video doesn't appear, [click to watch it on Facebook](https://www.facebook.com/watch/?v={{ include.facebook_id }}{% if include.t %}&t={{ include.t }}{% endif %}).)
