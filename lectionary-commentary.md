@@ -766,7 +766,7 @@ Year B
 Year C
 
 * **Isaiah 43.16-21** has God saying, 'I am about to do a new thing ... I will make a way in the wilderness and rivers in the desert.' **Psalm 126** says, 'Restore again our fortunes, O Lord, as the river beds of the desert.'
-* **John 12.1-8** has Jesus in Bethany being anointed with 'costly perfume' by Mary. Judas complains that the perfume could have been sold, but Jesus says, 'She bought it so that she might keep it for the day of my burial.' **Philippians 3.4b-14** is about valuing things differently because of Christ: 'I regard everything as loss because of the surpassing value of knowing Christ Jesus my Lord'.
+* **John 12.1-8** has Jesus in Bethany being anointed with 'costly perfume' by Mary. Judas complains that the perfume could have been sold, but Jesus says, 'She bought it so that she might keep it for the day of my burial.' (This event is also recorded in Matthew and Mark, but not in Luke, although a similar event is described in Luke 7.36-50. Mark's account is included on Palm Sunday in Year B, but Matthew's account is not included in the lectionary.) **Philippians 3.4b-14** is about valuing things differently because of Christ: 'I regard everything as loss because of the surpassing value of knowing Christ Jesus my Lord'.
 
 ## Palm Sunday
 
