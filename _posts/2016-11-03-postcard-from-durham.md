@@ -29,6 +29,6 @@ This year, I'm expecting my modules to look something like this _(final set of m
 
 In addition, I'm on a term-time placement this term and next term in a couple of semi-rural parishes not too far from Newcastle (Sundays, mainly), and there will (probably) be a couple of two-week placements later in the year.
 
-No postcard would be complete without a picture. In case you are reading this via something like [feedly](http://feedly.com/) (if so, well done), you'll need to click through (sorry) to see my new header image, which is the view from Prebends' Bridge, taken the other week on my daily commute. Remind me [why I chose Durham]({% post_url 2016-06-13-a-prospective-ordinands-travel-journal %})... it wasn't only for the food!
+No postcard would be complete without a picture. In case you are reading this via something like [Feedly](https://feedly.com/) (if so, well done), you'll need to click through (sorry) to see my new header image, which is the view from Prebends' Bridge, taken the other week on my daily commute. Remind me [why I chose Durham]({% post_url 2016-06-13-a-prospective-ordinands-travel-journal %})... it wasn't only for the food!
 
 That's all for now!
