@@ -64,6 +64,6 @@ The paradox of the gospel is that we have been set free in order that we might d
 
 > I have been crucified with Christ and I no longer live, but Christ lives in me. The life I now live in the body, I live by faith in the Son of God, who loved me and gave himself for me (2:20).
 
-But as we die with Christ, we put our faith in God, who 'raised him from the dead'. And we live in confident hope that 'whoever sows to please the Spirit, from the Spirit will reap eternal life' (6:8) and will one day 'inherit the kingdom of God' (5:21).
+But as we die with Christ, we put our faith in God, who 'raised him from the dead' (1:1). And we live in confident hope that 'whoever sows to please the Spirit, from the Spirit will reap eternal life' (6:8) and will one day 'inherit the kingdom of God' (5:21).
 
 > Let us not become weary in doing good, for at the proper time we will reap a harvest if we do not give up (6:9).
