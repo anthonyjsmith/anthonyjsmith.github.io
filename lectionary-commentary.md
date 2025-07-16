@@ -212,7 +212,7 @@ The psalm or canticle should normally be used, along with two or three of the ot
 >
 > When the Principal Service Lectionary is used at a service other than Holy Communion, the Gospel reading need not always be chosen.
 
-In addition, when the first reading is from Acts, it must be included as one of the readings.
+In addition, on Sundays between Easter Day and Pentecost (and on Ascension Day, and on certain Festivals), the reading from Acts must be included.
 
 Note that in _Common Worship_ Holy Communion (Order One or Two), 'Either one or two readings from Scripture precede the Gospel reading', and 'The psalm or canticle follows the first reading'. As the psalm or canticle is usually related to the Old Testament reading, this makes a lot of sense when that reading is used; it makes less sense when the Old Testament reading is omitted, because the psalm or canticle is often unrelated to the New Testament reading.
 
@@ -869,7 +869,7 @@ Years A, B and C
 
 # Easter
 
-A reading from Acts is included at every service between Easter Day and Pentecost, and it 'must be used as either the first or second reading'.
+A reading from Acts is included every Sunday between Easter Day and Pentecost, and on Ascension Day, and it 'must be used as either the first or second reading', even if there are ['only two readings'][Lectionary Rules].
 
 Gospel readings between Easter Day and Pentecost are exclusively from John's Gospel (continuing to Trinity Sunday in Years B and C), except on Easter 3 in Years A and B, on Ascension Day, and except for the alternative readings for Easter Day (which duplicate those for the Easter Vigil). Furthermore, on Easter 5, 6 and 7 (and on Pentecost in Years B and C, and Trinity in Year C), the readings are from the 'farewell discourse' (John 13-17).
 
