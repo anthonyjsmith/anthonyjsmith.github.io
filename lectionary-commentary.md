@@ -2114,9 +2114,9 @@ Year B
 
 Year C
 
-* **Deuteronomy 26.1-11** (see _BCP+_) is about offering some of the first fruits of the harvest.
+* **Deuteronomy 26.1-11** (see _BCP+_) is about offering some of the first fruits of the harvest, and calls the people to 'celebrate'.
 * **Psalm 100** calls for joy and thanksgiving.
-* **Philippians 4.4-9** calls for 'prayer and supplication with thanksgiving'.
+* **Philippians 4.4-9** is a call to 'rejoice' and to offer 'prayer and supplication with thanksgiving'.
 * Alternatively, **Revelation 14.14-18** is about 'one like the Son of Man' reaping the harvest of the earth.
 * **John 6.25-35** says (after the feeding of the 5000), 'Do not work for the food that perishes, but for the food that endures for eternal life'.
 
