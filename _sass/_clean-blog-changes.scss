@@ -1,11 +1,16 @@
 // For when a post starts or ends with something other than a "p" element
 .post-content {
-  margin: 30px 0;
+  margin: 2rem 0;
 }
 // Same margin for embedded videos
 .ratio.ratio-16x9 {
-  margin: 30px 0;
+  margin: 2rem 0;
 }
+// Same margin above add to any boxes regardless of type
+div.a2a_kit.a2a_kit_size_32.a2a_default_style {
+  margin-top: 2rem;
+}
+
 // underline (for when article is used in place of p: see "p a" in theme)
 article li a {
   text-decoration: underline;
