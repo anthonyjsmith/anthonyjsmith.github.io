@@ -1,6 +1,6 @@
 name: Anthony Smith
 title: Anthony Smith # for jekyll-seo-tag, otherwise <title> ends up as <page title> | anthonyjsmith.github.io
-description: "Christian. Husband. Vicar near Darlington (Middleton St George, Hurworth, Girsby, Dinsdale). Was: organist, astronomer, software developer. Singer."
+description: "Vicar near Darlington. Previously: organist, astronomer, software developer. Singer."
 url: https://www.anthonysmith.me.uk
 exclude: [README.md, Gemfile, Gemfile.lock, CNAME]
 permalink: pretty
