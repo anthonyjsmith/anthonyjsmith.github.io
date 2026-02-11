@@ -637,7 +637,7 @@ The Gospel readings are about Jesus' Transfiguration (which is also celebrated o
 
 Year A
 
-* **Matthew 17.1-9** is Matthew's account of Jesus' Transfiguration, on a mountain, with Peter, James and John, with Moses and Elijah appearing, a cloud overshadowing them, and a voice saying, 'This is my Son'. **Exodus 24.12-18** (see _BCP+_, Transfiguration) is about Moses seeing the glory of the Lord on the mountain. **Psalm 2** has God saying, 'You are my Son'. Alternatively, **Psalm 99** (also set for Year C) says that God 'spoke to them out of the pillar of cloud', and calls people to 'worship him upon his holy hill'. **2 Peter 1.16-21** includes Peter's eyewitness account of the Transfiguration.
+* **Matthew 17.1-9** is Matthew's account of Jesus' Transfiguration, on a mountain, with Peter, James and John, with Moses and Elijah appearing, a cloud overshadowing them, and a voice saying, 'This is my Son'. **Exodus 24.12-18** (see _BCP+_, Transfiguration) is about Moses seeing the glory of the Lord on the mountain. **Psalm 2** has God saying, 'Yet have I set my king upon my holy hill of Zion', and, 'You are my Son'. Alternatively, **Psalm 99** (also set for Year C) says that God 'spoke to them out of the pillar of cloud', and calls people to 'worship him upon his holy hill'. **2 Peter 1.16-21** includes Peter's eyewitness account of the Transfiguration.
 
 Year B
 
