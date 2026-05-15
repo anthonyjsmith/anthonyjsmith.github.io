@@ -1864,6 +1864,7 @@ According to [rule 6][Lectionary Rules] at the top of the lectionary,
 * **Isaiah 22.15-25** is about Shebna being thrust from his office and Eliakim taking his place (as Matthias took the place of Judas).
 * **Psalm 15** says that the one who 'leads an uncorrupt life ... shall never fall' (like Matthias, and unlike Judas).
 * **Acts 1.15-26** (see _BCP_) is about Matthias being chosen by the 'Lord' (Jesus) to take the place of Judas.
+* Alternatively, the passage from Acts can be the first reading, with **2 Corinthians 4.1-7** (see _BCP_) as the second reading, which says, 'We have renounced the shameful things that one hides'.
 * **John 15.9-17** has Jesus saying, 'You did not choose me but I chose you'.
 
 ## The Visit of the Blessed Virgin Mary to Elizabeth (31 May) {#visit}
