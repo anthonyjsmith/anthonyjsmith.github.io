@@ -1133,12 +1133,10 @@ Falls between 17 May and 20 June.
 
 Year A
 
-(The _RCL_ has Genesis 1.1 &ndash; 2.4a as the first reading, which then serves as the beginning of a series in Genesis. See 2 before Lent, which includes this passage as the Old Testament reading.)
+(The _RCL_ has Genesis 1.1 &ndash; 2.4a as the first reading, which then serves as the beginning of a series in Genesis. In _Common Worship_, this passage is assigned to 2 before Lent, to fit with the creation theme.)
 
-* **Isaiah 40.12-17, 27-31** says, 'Who has directed the spirit of the Lord ...?' Is the answer, 'Jesus'? Otherwise, the connection with Trinity Sunday is not immediately obvious.
-* **Psalm 8** (Years A and C) (see _BCP+_) is about God's glory being revealed in creation and redemption (this finds its climax when God is revealed as Trinity), and is about God's 'name' (cf. Matthew 28.19: 'in the name of the Father and of the Son and of the Holy Spirit').
 * **2 Corinthians 13.11-13** refers to the Trinity: 'The grace of the Lord Jesus Christ, the love of God, and the communion of the Holy Spirit be with all of you.'
-* **Matthew 28.16-20** says, 'Go therefore and make disciples of all nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit'.
+* **Matthew 28.16-20** says, 'All authority in heaven and on earth has been given to me. Go therefore and make disciples of all nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit'. **Isaiah 40.12-17, 27-31** is the _Common Worship_ alternative to the _RCL_ reading (Genesis 1.1 &ndash; 2.4a), and is about God as supreme over the nations and 'Creator of the ends of the earth'. **Psalm 8** (Years A and C) (see _BCP+_) is about God's glory being revealed in creation, God's 'name' (cf. Matthew 28.19: 'in the name of the Father and of the Son and of the Holy Spirit'), and says of 'the son of man', 'You have given him dominion over the works of your hands'.
 
 Year B
 
