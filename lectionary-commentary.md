@@ -1186,7 +1186,7 @@ Year C
 
 Year A
 
-* **Genesis 12.1-9** continues the series in the Pentateuch and in Genesis, and is about the call of Abram. **Psalm 33.1-12** responds to God's call of Abram: 'Happy the nation whose God is the Lord and the people he has chosen for his own.'
+* **Genesis 12.1-9** continues the series in the Pentateuch and in Genesis, and is about the call of Abram, including the promise to Abram that 'in you all the families of the earth shall be blessed'. **Psalm 33.1-12** says, 'Let all the earth fear the Lord', speaks of God's 'counsel' and 'designs' which 'shall endure for ever', and responds to God's call of Abram: 'Happy the nation whose God is the Lord and the people he has chosen for his own.'
 * **Romans 4.13-25** continues the series in Romans, and is about the fulfilment of God's promise to Abraham (the connection with the first reading might be deliberate).
 * **Matthew 9.9-13, 18-26** continues the series in Matthew, and is about Jesus calling Matthew and eating with 'tax-collectors and sinners', and then about Jesus restoring a girl to life and healing a woman. (The gap in the reading could be filled to include material that is otherwise omitted from the lectionary.) The 'Related' reading, **Hosea 5.15 &ndash; 6.6**, says, 'I desire steadfast love [mercy] and not sacrifice', which is quoted in the Gospel reading. The 'Related' psalm, **Psalm 50.7-15**, has God testifying against Israel, despite their sacrifices.
 
