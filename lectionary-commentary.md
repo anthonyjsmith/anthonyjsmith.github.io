@@ -1909,7 +1909,7 @@ Both Peter and Paul faced persecution and martyrdom, and this is reflected in th
 * _Peter and Paul:_ **Zechariah 4.1-6a, 10b-14** is the vision of the two olive trees (see Revelation 11), which have been associated with Peter and Paul.
 * _Peter alone:_ **Ezekiel 3.22-27** is part of Ezekiel's calling as a prophet, and includes 'cords shall be placed on you, and you shall be bound with them' (see Acts 12).
 * **Psalm 125** (see _BCP+_) says, 'Those who trust in the Lord are like Mount Zion, which cannot be moved, but stands fast for ever', like the 'rock' in Matthew 16.
-* **Acts 12.1-11** (see _BCP_) is about Peter being imprisoned and chained, and then being rescued by an angel.
+* **Acts 12.1-11** (see _BCP_) is about Peter being imprisoned and chained, and then being rescued by an angel, after which 'the iron gate ... opened for them of its own accord', reflecting the Gospel reading ('the gates of Hades will not prevail').
 * Alternatively, the passage from Acts can be the first reading, with one of the following as the second reading:
   * _Peter and Paul:_ **2 Timothy 4.6-8, 17-18** has Paul anticipating his death, looking ahead to 'the crown of righteousness', and trusting in the Lord to rescue him.
   * _Peter alone:_ **1 Peter 2.19-25** is about suffering unjustly, after the example of Christ.
