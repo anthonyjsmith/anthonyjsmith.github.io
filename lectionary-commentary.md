@@ -2127,6 +2127,8 @@ For Matthew, Mark and Luke, the semicontinuous series from Epiphany 3 to the end
 
 It is difficult to quantify how much material is included from the Synoptic Gospels, without first creating a harmony of the Gospels. In one English Version, the Synoptic Gospels have 61,615 words, of which around 10,147 words are in the passages listed below as 'omitted'. This would mean that 84% of the material in the Synoptic Gospels is included, making certain assumptions about how likely it is that included or omitted passages have a parallel in another Gospel.
 
+The most obvious and consistent omissions are of most of the verses in which Jesus pronounces judgment and condemnation, such as Matthew 7.15-20; 8.11-12; 11.20-24; 12.33-45; 21.18-22; 23.1-36; Mark 11.12-14, 20-21; 12.38-39; Luke 10.12-15; 11.37-52; 13.28-29; 20.45-47: see below for details.
+
 ## Matthew (Year A) {#matthewgospel}
 
 * Matthew 1.1-17: omitted.
@@ -2155,11 +2157,12 @@ It is difficult to quantify how much material is included from the Synoptic Gosp
 * Matthew 7.12a: see Luke 6.27-38.
 * Matthew 7.12b: omitted.
 * Matthew 7.13-14: omitted, along with its close parallel in Luke 13.22-24.
-* Matthew 7.15-20: omitted.
+* Matthew 7.15-20: omitted, along with its parallels in Matthew 12.33-35 and Luke 6.43-45.
 * Matthew 7.21-29: **Proper 4**.
 * Matthew 8.1: omitted.
 * Matthew 8.2-4: see Mark 1.40-45.
-* Matthew 8.5-13: see Luke 7.1-10.
+* Matthew 8.5-10, 13: see Luke 7.1-10.
+* Matthew 8.11-12: omitted, along with its parallel in Luke 13.28-29.
 * Matthew 8.14-16: see Mark 1.29-39.
 * Matthew 8.17: omitted.
 * Matthew 8.18-22: see Luke 9.51-62.
@@ -2379,7 +2382,7 @@ It is difficult to quantify how much material is included from the Synoptic Gosp
   * Luke 6.39: see Matthew 15.[10-20] 21-28.
   * Luke 6.40: see John 13.1-17, 31b-35.
   * Luke 6.41-42: omitted, along with its parallel in Matthew 7.3-5.
-  * Luke 6.43-44: omitted, along with its parallels in Matthew 7.16, 18, 20 and Matthew 11.33-35.
+  * Luke 6.43-44: omitted, along with its parallels in Matthew 7.16, 18, 20 and Matthew 12.33-35.
   * Luke 6.45: see Matthew 12.34-35 (which is omitted) and a near parallel in Mark 7.20-23, which is (mostly) included in Mark 7.1-8, 14-15, 21-23.
   * Luke 6.46-49: see Matthew 7.21-29.
 * Luke 7.1-10: **Proper 4**.
