@@ -150,7 +150,7 @@ For the Gospels, Year A focuses on Matthew, Year B on Mark, and Year C on Luke.
 
 John is read in all three years, mostly during the seasons (especially Easter), but with some appearances in Ordinary Time in Year B (such as a summer series on John 6).
 
-The Gospel readings on Sundays during Ordinary Time work semicontinuously through the central portions of Matthew, Mark and Luke. More precisely, this actually begins just before Ordinary Time, in Epiphany 3, with the start of Jesus' public ministry (or at least, it does in the _RCL_: see notes on Epiphany 3), continuing into February until 3 before Lent, and then the series resumes after Trinity, continuing until the Sunday before Advent. (The one exception is Year B, 3 before Advent, Mark 1.14-20.) Material from Matthew 1.1 &ndash; 4.11, Mark 1.1-13 and Luke 1.1 &ndash; 4.13 is included in Advent, Christmas, Epiphany 1 and Lent (along with extracts from other chapters), and the resurrection accounts are included during Easter. Note that the Passion narratives (Matthew 26-27, Mark 14-15 and Luke 22-23), with one or two small exceptions, are included _only_ on Palm Sunday, within the Liturgy of the Passion. See the [Appendix](#appendixgospels) for details.
+The Gospel readings on Sundays during Ordinary Time work semicontinuously through the central portions of Matthew, Mark and Luke. More precisely, this actually begins just before Ordinary Time, in Epiphany 3, with the start of Jesus' public ministry (or at least, it does in the _RCL_: see notes on Epiphany 3), continuing into February until 3 before Lent, and then the series resumes after Trinity, continuing until the Sunday before Advent. (The one exception is Year B, 3 before Advent, Mark 1.14-20.) Material from Matthew 1.1 &ndash; 4.11, Mark 1.1-13 and Luke 1.1 &ndash; 4.13 is included in Advent, Christmas, Epiphany 1 and Lent (along with extracts from other chapters), and the resurrection accounts are included during Easter. Note that the Passion narratives (Matthew 26-27, Mark 14-15 and Luke 22-23), with one or two small exceptions, are included _only_ on Palm Sunday, within the Liturgy of the Passion. See the [Appendix](#appendix-gospels) for details.
 
 Acts is read at the Baptism of Christ, between Easter Day and Pentecost (vaguely sequentially), and on some Festivals.
 
@@ -600,7 +600,7 @@ Creation theme. As Gordon Giles explains,
 
 Many of the readings are also found in the _ASB_ for the Ninth Sunday before Christmas (with its theme of 'The Creation'): these are indicated below.
 
-The addition of this creation-themed week means that 'Proper 3' in the _RCL_ is not included (although the Gospel reading for Year A is almost the same). The Gospel readings from that week contain several famous sayings of Jesus: see the [Appendix](#appendixgospels) for Mark 2.13-22 and Luke 6.39-49.
+The addition of this creation-themed week means that 'Proper 3' in the _RCL_ is not included (although the Gospel reading for Year A is almost the same). The Gospel readings from that week contain several famous sayings of Jesus: see the [Appendix](#appendix-gospels) for Mark 2.13-22 and Luke 6.39-49.
 
 Year A
 
