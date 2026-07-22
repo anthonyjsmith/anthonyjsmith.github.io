@@ -47,6 +47,14 @@ More recent discussion in the Church of England has been on the topic of gluten-
 
 Looking a bit further back in the history of the Church of England, Andrew Atherstone had an article published on 19 September 2025 on ['Germ Panic and Chalice Hygiene in the Church of England, c.1895–1930'](https://onlinelibrary.wiley.com/doi/10.1111/1467-9809.70010).
 
+The Anglican Communion's Lambeth Conference of 1948 [has the following resolution](https://www.anglicancommunion.org/lambeth-conference-1948-resolutions/):
+
+> **Resolution 118**
+>
+> **Administration of Holy Communion**
+>
+> The Conference holds that administration from a common chalice, being scriptural and having a spiritual meaning of great value, should continue to be the normal method of administration in the Anglican Communion; but is of opinion that there is no objection to administration of both kinds by the method of intinction where conditions require it, and that any part of the Anglican Communion by provincial regulation according to its own constitutional procedure has liberty to sanction administration by intinction as an optional alternative to the traditional method, and that the methods of intinction to be adopted or permitted should not be left to the discretion of individual priests.
+
 Outside the Church of England, there was quite a debate on the topic of intinction in the **Presbyterian Church in America (PCA)** around 2012, [with the 40th General Assembly](https://www.pcahistory.org/pca/ga/actions/40thGA_2012_Actions.pdf) in 2012 giving 'initial approval' to an amendment 'to prohibit the practice of intinction in communion', which was then not approved by the presbyteries and was therefore taken no further, as noted at the [41st General Assembly](https://www.pcahistory.org/pca/ga/actions/41stGA_2013_Actions.pdf) in 2013.
 
 * The most detailed treatment I have found on the topic of intinction is a paper by Lane B. Keister published in 2018 in the Mid-America Journal of Theology (MAJT), ['Intinction: An Historical, Exegetical, and Systematic-Theological Examination'](https://www.midamerica.edu/uploads/files//pdf/journal/06keisterjournal2018.pdf).
