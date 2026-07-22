@@ -63,6 +63,6 @@ On the same side of the pond, in **The Episcopal Church**, I came across a coupl
 That post has some helpful links to the **science**, including ['Holy Communion and Infection Transmission: A Literature Review' by 
 Dimitrios Anyfantakis](https://pmc.ncbi.nlm.nih.gov/articles/PMC7377019/) (2020).
 
-**Roman Catholic** practice is governed by the [General Instruction of the Roman Missal](https://www.vatican.va/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20030317_ordinamento-messale_en.html), as described [in](https://www.catholic.com/qa/what-are-the-rules-for-dipping-the-consecrated-host-into-the-precious-blood) [various](https://adoremus.org/2016/11/rite-questions-intinction-allowed/) [places](https://www.catechistcafe.com/liturgy/august-08th-2015).
+In the **Roman Catholic** Church, the laity received only the bread (the host) until 1970 (following Vatican II), after which practice has been governed by the [General Instruction of the Roman Missal](https://www.vatican.va/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20030317_ordinamento-messale_en.html), as described [in](https://www.catholic.com/qa/what-are-the-rules-for-dipping-the-consecrated-host-into-the-precious-blood) [various](https://adoremus.org/2016/11/rite-questions-intinction-allowed/) [places](https://www.catechistcafe.com/liturgy/august-08th-2015).
 
 Plenty to read, if anyone is inclined to delve deeper into the topic!
