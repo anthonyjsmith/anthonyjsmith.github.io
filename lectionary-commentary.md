@@ -1329,7 +1329,7 @@ Year A
 
 * **Genesis 29.15-28** continues the series in the Pentateuch and in Genesis, and is about Jacob marrying Laban's daughters. **Psalm 105.1-11, 45b** [or 105.1-11] (see also Proper 14, 17 and 20) speaks of God's faithfulness to his covenant with Abraham, Isaac and Jacob. Alternatively, **Psalm 128** speaks of God's blessing in terms of wife and children.
 * **Romans 8.26-39** continues the series in Romans (without a gap), and is about 'the love of God in Christ Jesus our Lord'.
-* **Matthew 13.31-33, 44-52** continues the series in Matthew (without a gap), and consists of several parables, likening understanding to treasure. The 'Related' reading, **1 Kings 3.5-12**, speaks of Solomon's request for 'an understanding mind', which is more precious than riches. The 'Related' psalm, **Psalm 119.129-136** echoes Solomon's request: 'Order my steps by your word ... and teach me your statutes'.
+* **Matthew 13.31-33, 44-52** continues the series in Matthew (without a gap), and consists of several parables, likening understanding to treasure. (13.34-35 could be included 'when opportunity allows'.) The 'Related' reading, **1 Kings 3.5-12**, speaks of Solomon's request for 'an understanding mind', which is more precious than riches. The 'Related' psalm, **Psalm 119.129-136** echoes Solomon's request: 'Order my steps by your word ... and teach me your statutes'.
 
 Year B
 
