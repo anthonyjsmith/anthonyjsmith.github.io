@@ -1367,7 +1367,7 @@ Year C
 
 Year A
 
-* **Genesis 37.1-4,12-28** continues the series in the Pentateuch and in Genesis, and is about Joseph's dreams and his brothers selling him to be taken to Egypt. **Psalm 105.1-6, 16-22, 45b** [or 105.1-10] (see also Proper 12, 17 and 20) speaks of 'Joseph, who was sold as a slave'.
+* **Genesis 37.1-4, 12-28** continues the series in the Pentateuch and in Genesis, and is about Jacob's love for Joseph, and Joseph's brothers selling him to be taken to Egypt. **Psalm 105.1-6, 16-22, 45b** [or 105.1-10] (see also Proper 12, 17 and 20) speaks of 'Joseph, who was sold as a slave'.
 * **Romans 10.5-15** continues the series in Romans, and is about salvation through Jesus for Jew and Greek.
 * **Matthew 14.22-33** continues the series in Matthew (without a gap), and is about Jesus (and Peter) walking on water, and Jesus speaking peace: 'Take heart, it is I; do not be afraid.' The 'Related' reading, **1 Kings 19.9-18**, is about Elijah meeting God on the mountain, and has various things in common with the Gospel reading: a mountain, wind, and God's presence being recognised when the wind ceases. The 'Related' psalm, **Psalm 85.8-13**, says that God 'shall speak peace to his people'.
 
