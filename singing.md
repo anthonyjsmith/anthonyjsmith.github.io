@@ -34,7 +34,7 @@ Anthony Smith started singing as a boy chorister in Hitchin, Hertfordshire, and 
 
 On moving to Brighton in 2002, Anthony began studying with Charles Corp in Worthing. Performances as a soloist have included Handel's _Messiah_ in Hitchin and Worthing, Bach's _St Matthew Passion_ (Christus) in Wandsworth and, with the Worthing Philharmonic Choir, Haydn's _Creation_, _Nelson Mass_ and _Harmoniemesse_, and Mozart's _Mass in C Minor_.
 
-As a choral singer, while in Brighton he sang regularly with the [BREMF](https://www.bremf.org.uk) Singers and the [BREMF Consort of Voices](https://www.bremf.org.uk/ensembles/bcv/). Since leaving Brighton, he sang with the [Yorkshire Bach Choir](https://www.yorkshirebachchoir.org.uk) from 2011-2013, and with the [Durham Singers](http://www.durham-singers.org) from 2017-2023.
+As a choral singer, he has sung with various choirs, including the [Brighton Festival Chorus](https://bfc.org.uk) (2002-2003), the [BREMF](https://www.bremf.org.uk) Singers (2006-2008), the [BREMF Consort of Voices](https://www.bremf.org.uk/ensembles/bcv/) (2009-2011), the [Yorkshire Bach Choir](https://www.yorkshirebachchoir.org.uk) (2011-2013), the [Durham Singers](http://www.durham-singers.org) (2017-2023) and the [Cleveland Philharmonic Choir](https://www.clevelandphilharmonicchoir.com) (2025-present).
 
 ### Concerts
 
