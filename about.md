@@ -2,9 +2,11 @@
 title: About
 description: "Vicar near Darlington. Previous lives: organist, astronomer, software developer. Singer (classical)."
 ---
+<img alt="Me" title="Me" src="/assets/me.jpg" class="alignright">
+
 _Vicar near Darlington. Previous lives: organist, [astronomer](/astronomy/), [software developer](/software/). [Singer (classical)](/singing/)._
 
-<img alt="Me" title="Me" src="/assets/me.jpg" class="alignleft">On 6 August 2023 I was licensed to serve as Priest in Charge (vicar) of the 'Riverside' group of parishes near Darlington ([Middleton St George](https://stlmsg.org), [Hurworth](https://allsaintshurworth.org), [Girsby/Sockburn](https://www.achurchnearyou.com/church/13608/) and [Low Dinsdale](https://www.achurchnearyou.com/church/13599/)), in the Diocese of Durham (Church of England). Prior to that, on 30 June 2019 I was [ordained]({% post_url 2018-10-14-curacy-announcement %}) in Durham Cathedral, to serve as curate of [St Paul's Church, Spennymoor](https://www.stpaulsspennymoor.co.uk), and [Whitworth Church](https://www.achurchnearyou.com/church/13568/), also in the Diocese of Durham. From 2016 to 2019 I trained for ordained ministry in the Church of England at [Cranmer Hall](https://community.dur.ac.uk/cranmer.hall/) in Durham.
+On 6 August 2023 I was licensed to serve as Priest in Charge (vicar) of the 'Riverside' group of parishes near Darlington ([Middleton St George](https://stlmsg.org), [Hurworth](https://allsaintshurworth.org), [Girsby/Sockburn](https://www.achurchnearyou.com/church/13608/) and [Low Dinsdale](https://www.achurchnearyou.com/church/13599/)), in the Diocese of Durham (Church of England). Prior to that, on 30 June 2019 I was [ordained]({% post_url 2018-10-14-curacy-announcement %}) in Durham Cathedral, to serve as curate of [St Paul's Church, Spennymoor](https://www.stpaulsspennymoor.co.uk), and [Whitworth Church](https://www.achurchnearyou.com/church/13568/), also in the Diocese of Durham. From 2016 to 2019 I trained for ordained ministry in the Church of England at [Cranmer Hall](https://community.dur.ac.uk/cranmer.hall/) in Durham.
 
 Previously I was a university researcher in [astronomy](/astronomy/), but that drifted towards [computer software](/software/), first astronomical computer software, and then freelance web development. I also spent a fair bit of time trying to support Christian postgraduate students, partly through involvement in [Faith-in-Scholarship](http://wysocs.org.uk/faith-in-scholarship) and [Transforming the Mind](http://christianpostgrad.org.uk/content/node/34).
 
