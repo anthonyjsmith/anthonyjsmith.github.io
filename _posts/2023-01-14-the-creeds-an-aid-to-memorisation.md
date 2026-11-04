@@ -9,7 +9,7 @@ date: 2023-01-14 16:02:16.303160000 +00:00
 ---
 It's quite embarrassing when you can't recite the creed by heart but the congregation can!
 
-But it's understandable: unlike the congregation, you might regularly be reciting not one but four creeds, all subtly different: the Apostles' Creed and the Nicene Creed, each taken from [_The Book of Common Prayer_](https://www.churchofengland.org/prayer-and-worship/worship-texts-and-resources/book-common-prayer) (BCP) and from [_Common Worship_](https://www.churchofengland.org/prayer-and-worship/worship-texts-and-resources/common-worship) (CW).
+But it's understandable: unlike the congregation, you might regularly be reciting not one but four creeds, all subtly different: the Apostles' Creed and the Nicene Creed, each taken from [_The Book of Common Prayer_](https://www.churchofengland.org/liturgy/book-of-common-prayer) (BCP) and from [_Common Worship_](https://www.churchofengland.org/liturgy/common-worship) (CW).
 
 I put the following table together a while ago, but I've just dusted it off for public consumption ([PDF](/assets/creeds.pdf)/[Word](/assets/creeds.docx)). It has the four creeds in four columns, with the similarities and differences highlighted.
 

@@ -10,11 +10,11 @@ So it seems a good excuse to put up a few thoughts I was having a while ago abou
 
 Most people in the Reformed tradition would (I think) argue that infants should be baptised because _their parents_ profess faith in Christ. But, as far as I can tell, there is no hint of this in Anglican practice. On the contrary, an infant is baptised on _their own_ profession of faith. For example...
 
-[Book of Common Prayer 1662](https://www.churchofengland.org/prayer-and-worship/worship-texts-and-resources/book-common-prayer/public-baptism-infants) (compare [1549](http://justus.anglican.org/resources/bcp/1549/Baptism_1549.htm)) (emphasis added):
+[Book of Common Prayer 1662](https://www.churchofengland.org/liturgy/book-of-common-prayer/public-baptism-infants) (compare [1549](http://justus.anglican.org/resources/bcp/1549/Baptism_1549.htm)) (emphasis added):
 
 > **this Infant must** also faithfully, for his part, **promise** by you that are his sureties, (until he come of age to take it upon himself,) that he will renounce the devil ... . Dost thou, **in the name of this Child**, renounce the devil ... ? Foreasmuch as **this Child hath promised** by you his sureties to renounce the devil ... it is your parts and duties to see that this Infant be taught ... what a solemn vow, promise and profession **he hath here made** by you."
 
-[Common Worship 2000](https://www.churchofengland.org/prayer-and-worship/worship-texts-and-resources/common-worship/christian-initiation/baptism-and#mm018) (emphasis added):
+[Common Worship 2000](https://www.churchofengland.org/liturgy/common-worship/baptism-and-confirmation/holy-baptism/holy-baptism-liturgy) (emphasis added):
 
 > The president addresses **the candidates** directly, or through their parents, godparents and sponsors ... Do **you** reject the devil ... ?
 

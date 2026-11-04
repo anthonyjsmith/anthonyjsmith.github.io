@@ -8,7 +8,7 @@ tags:
 - Reviews
 date: 2024-07-23 10:33:12.150253000 +01:00
 ---
-In England, around 19% of primary school pupils and around 6% of secondary pupils [are in Church of England schools](https://www.churchofengland.org/about/education-and-schools/education-publications/deeply-christian-serving-common-good-2016).
+In England, around 19% of primary school pupils and around 6% of secondary pupils [are in Church of England schools](https://www.nse.org.uk/s/CofE-Vision-for-Education-2016.pdf).
 
 I’ve been reading a few bits and pieces to help me to understand what church schools are all about.
 
@@ -22,7 +22,7 @@ Rather than blurring things, I would have preferred some more clarity. For examp
 
 ## Margaret James, A Fresh Look at Church School Inspection: Examining the 2023 SIAMS Framework (Grove Booklet)
 
-Perhaps a better way to understand church schools is to look at the way in which they are assessed as church schools. [This booklet](https://grovebooks.co.uk/product/ed-55-a-fresh-look-at-church-school-inspection-examining-the-2023-siams-framework/) focuses on the 2023 framework for the Statutory Inspection of Anglican and Methodist Schools ([SIAMS](https://www.churchofengland.org/about/education-and-schools/church-schools-and-academies/siams-inspections)), and is written by Margaret James, the National Director of SIAMS.
+Perhaps a better way to understand church schools is to look at the way in which they are assessed as church schools. [This booklet](https://grovebooks.co.uk/product/ed-55-a-fresh-look-at-church-school-inspection-examining-the-2023-siams-framework/) focuses on the 2023 framework for the Statutory Inspection of Anglican and Methodist Schools ([SIAMS](https://www.nse.org.uk/statutory-inspection-of-anglican-methodist-schools)), and is written by Margaret James, the National Director of SIAMS.
 
 The booklet helpfully explains the statutory nature of this. Although SIAMS inspections are undertaken by the church, rather than by the state, they have a statutory basis in Section 48 of the [Education Act 2005](https://www.legislation.gov.uk/ukpga/2005/18/part/1/chapter/6/crossheading/inspection-of-religious-education?timeline=false) (p. 4). Paragraph 4 of that section says (emphasis added):
 
@@ -58,7 +58,7 @@ How does a school go about developing a 'theologically rooted Christian vision'?
 
 ## Church of England Vision for Education: Deeply Christian, Serving the Common Good
 
-The Church of England has articulated its 'Vision for Education' in a document from 2016, [Deeply Christian, Serving the Common Good](https://www.churchofengland.org/about/education-and-schools/education-publications/deeply-christian-serving-common-good-2016). The context for this is a decreasing role for the local authority, and an increasing role for the diocese, in ensuring quality of education.
+The Church of England has articulated its 'Vision for Education' in a document from 2016, [Deeply Christian, Serving the Common Good](https://www.nse.org.uk/s/CofE-Vision-for-Education-2016.pdf). The context for this is a decreasing role for the local authority, and an increasing role for the diocese, in ensuring quality of education.
 
 The title for the document is inspired by Jesus turning water into wine:
 
@@ -79,7 +79,7 @@ Education for 'fullness of life' includes academic excellence, but its focus is 
 
 ## Our Hope for a Flourishing Schools System
 
-The theme of flourishing continues in a recent publication from the Church of England, [Our Hope for a Flourishing Schools System](https://www.cefel.org.uk/flourishingsystem/) ([published in 2023](https://www.churchofengland.org/media/press-releases/church-england-sets-out-hopes-flourishing-schools-system)).
+The theme of flourishing continues in a recent publication from the Church of England, [Our Hope for a Flourishing Schools System](https://www.nse.org.uk/s/Our-Hope-for-a-Flourishing-Schools-System-2024-d27d.pdf) ([published in 2023](https://www.churchofengland.org/news/church-england-sets-out-hopes-flourishing-schools-system)).
 
 The themes of wisdom, hope, community and dignity are applied to the various parts of the school system, starting with children at the centre, and then in relation to adults, schools, school trusts, dioceses, and the schools system as a whole.
 

@@ -11,7 +11,7 @@ Before Covid (BC), at [St Paul's Church (Spennymoor)](https://www.stpaulsspennym
 
 Another issue with Anglican liturgy in general is that there seems to be a conviction that the liturgy should 'just work', without any need for explanation. Service books don't explain the rationale behind the service (understandably: they are wordy enough as it is), and it is clunky when leading a service to keep stopping and explaining things. The result is that many people have never been told why we do certain things in a certain order.
 
-We're currently trying out the document below (four sides of A5), which aims to guide people through the service, but without duplicating material on the screen. (We use [Holy Communion Order One](https://www.churchofengland.org/prayer-and-worship/worship-texts-and-resources/common-worship/holy-communion-service#mm7c2) from _Common Worship_.)
+We're currently trying out the document below (four sides of A5), which aims to guide people through the service, but without duplicating material on the screen. (We use [Holy Communion Order One](https://www.churchofengland.org/liturgy/common-worship/holy-communion-order-one) from _Common Worship_.)
 
 To make it more accessible, symbols are included, thanks to [SymWriter by Widgit](https://www.widgit.com/products/symwriter/index.htm). (Our licence [allows us](https://www.widgit.com/symbol-services/copyright.htm) to share a small amount of material online, but I'm a bit uneasy about sharing the symbols in an editable file, so I have removed them from the Word version.)
 

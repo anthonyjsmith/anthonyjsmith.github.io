@@ -3,7 +3,7 @@ title: Morning Prayers
 tags:
 - Christianity
 ---
-From the [Book of Common Prayer](http://www.churchofengland.org/prayer-worship/worship/book-of-common-prayer/the-order-for-morning-prayer.aspx):
+From the [Book of Common Prayer](https://www.churchofengland.org/liturgy/book-of-common-prayer/order-morning-prayer):
 
 > O God, who art the author of peace and lover of concord, in knowledge of whom standeth our eternal life, whose service is perfect freedom: Defend us thy humble servants in all assaults of our enemies; that we, surely trusting in thy defence, may not fear the power of any adversaries; through the might of Jesus Christ our Lord. Amen.
 >

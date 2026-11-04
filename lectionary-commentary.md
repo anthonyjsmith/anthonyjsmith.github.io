@@ -224,11 +224,11 @@ Those who prefer the readings to cohere can have their wishes partially satisfie
 
 ## Introductory Notes
 
-Psalm references are to the [_Common Worship_ psalter](https://www.churchofengland.org/prayer-and-worship/worship-texts-and-resources/common-worship/common-material/psalter). Where the versification is different in standard English versions of the Bible, this is indicated by 'EV'. Quotations are drawn from the Common Worship psalter or the [NRSV](https://www.biblegateway.com/versions/New-Revised-Standard-Version-Anglicised-NRSVA-Bible/).
+Psalm references are to the [_Common Worship_ psalter](https://www.churchofengland.org/liturgy/common-worship/book/psalter). Where the versification is different in standard English versions of the Bible, this is indicated by 'EV'. Quotations are drawn from the Common Worship psalter or the [NRSV](https://www.biblegateway.com/versions/New-Revised-Standard-Version-Anglicised-NRSVA-Bible/).
 
 Depending on the day of the week for Christmas and the Epiphany, and the date of Easter, lectionary provision for days marked with * might not be used in any given year. Other days might also be displaced for various reasons.
 
-Readings that are the same as (or overlap with) the 'Epistles and Gospels' printed in the Book of Common Prayer are marked with '(see _BCP_)', while those that are the same as (or overlap with) the supplementary readings in ['A Lectionary and Additional Collects for Holy Communion (Book of Common Prayer)'](https://www.churchofengland.org/sites/default/files/2017-11/Lectionary.pdf) (linked from the [_Common Worship_ Lectionary page][Lectionary]) are marked with '(see _BCP+_)'.
+Readings that are the same as (or overlap with) the 'Epistles and Gospels' printed in the Book of Common Prayer are marked with '(see _BCP_)', while those that are the same as (or overlap with) the supplementary readings in ['A Lectionary and Additional Collects for Holy Communion (Book of Common Prayer)'](https://www.churchofengland.org/sites/default/files/2026-10/Lectionary-%282%29.pdf) (linked from the [_Common Worship_ Lectionary page][Lectionary]) are marked with '(see _BCP+_)'.
 
 # Advent
 
@@ -315,7 +315,7 @@ Year C
 Joy is the theme of all the readings except for the Gospel reading.
 
 * **Zephaniah 3.14-20** says, 'Rejoice and exult with all your heart, O daughter Jerusalem', because God is 'in your midst', and speaks of 'that day'.
-* The canticle, **Isaiah 12.2-6**, says, 'On that day you will say, "... Shout aloud and sing for joy, you that dwell in Zion, for great in your midst is the Holy One of Israel"' ([_Common Worship_](https://www.churchofengland.org/prayer-and-worship/worship-texts-and-resources/common-worship/daily-prayer/canticles-daily-17)).
+* The canticle, **Isaiah 12.2-6**, says, 'On that day you will say, "... Shout aloud and sing for joy, you that dwell in Zion, for great in your midst is the Holy One of Israel"' ([_Common Worship_](https://www.churchofengland.org/liturgy/common-worship/daily-prayer/canticles-daily-prayer/27-song-deliverance)).
 * Alternatively, **Psalm 146.4-10** (EV: 5-10) says, 'Happy are those who have the God of Jacob for their help'.
 * **Philippians 4.4-7** says, 'Rejoice in the Lord always; again I will say, Rejoice. ... The Lord is near.'
 * **Luke 3.7-18** has John calling for repentance, and saying that 'one who is more powerful than I is coming'.
@@ -770,7 +770,7 @@ Year C
 
 ## Palm Sunday
 
-The lectionary assumes a 'Liturgy of the Palms' and a 'Liturgy of the Passion', each with its own reading from the Gospels and the Psalms (as in [_Times and Seasons_](https://www.churchofengland.org/prayer-and-worship/worship-texts-and-resources/common-worship/churchs-year/times-and-seasons-2#mmm151)). But this is not mandatory, and it is not clear what should be done if there is no 'Liturgy of the Palms'. Presumably that part could simply be omitted. But the [_RCL_](http://www.commontexts.org/rcl/download/) describes an alternative: 'Those who do not observe the procession with palms and do not wish to use the passion gospel may substitute the gospel and psalm given for the Liturgy of the Passion with the gospel and psalm indicated for the Liturgy of the Palms. Whenever possible, the whole passion narrative should be read.'
+The lectionary assumes a 'Liturgy of the Palms' and a 'Liturgy of the Passion', each with its own reading from the Gospels and the Psalms (as in [_Times and Seasons_](https://www.churchofengland.org/liturgy/common-worship/seasonal-material/passiontide/liturgy-palm-sunday)). But this is not mandatory, and it is not clear what should be done if there is no 'Liturgy of the Palms'. Presumably that part could simply be omitted. But the [_RCL_](http://www.commontexts.org/rcl/download/) describes an alternative: 'Those who do not observe the procession with palms and do not wish to use the passion gospel may substitute the gospel and psalm given for the Liturgy of the Passion with the gospel and psalm indicated for the Liturgy of the Palms. Whenever possible, the whole passion narrative should be read.'
 
 **Liturgy of the Palms**
 
@@ -2606,7 +2606,7 @@ _Common Worship_
 
 * _Common Worship: Services and Prayers for the Church of England_ ('Main Volume')
   * [Calendar]
-  * [Rules], including ['Rules to Order the Christian Year'](https://www.churchofengland.org/prayer-and-worship/worship-texts-and-resources/common-worship/churchs-year/rules#p526)
+  * [Rules], including ['Rules to Order the Christian Year'](https://www.churchofengland.org/liturgy/common-worship/rules-regulating-authorized-forms-service#text_5814_rules_to_order_the_christian_year)
   * [Lectionary], including ['Rules to order how the Psalter and the rest of Holy Scripture are appointed to be read'][Lectionary Rules]
 
 Print resources
@@ -2632,10 +2632,10 @@ Web resources
 
 [^Andrew]: 'Andrew, St', in _The Oxford Dictionary of the Christian Church_, ed. by F. L. Cross and E. A. Livingstone, 3rd ed. (Oxford: Oxford University Press, 1997), p. 60.
 
-[Calendar]: https://www.churchofengland.org/prayer-and-worship/worship-texts-and-resources/common-worship/churchs-year/calendar
+[Calendar]: https://www.churchofengland.org/liturgy/common-worship/calendar-and-date-easter-and-other-variable-dates
 
-[Lectionary]: https://www.churchofengland.org/prayer-and-worship/worship-texts-and-resources/common-worship/churchs-year/lectionary
+[Lectionary]: https://www.churchofengland.org/liturgy/common-worship/lectionary-and-calendar
 
-[Lectionary Rules]: https://www.churchofengland.org/prayer-and-worship/worship-texts-and-resources/common-worship/churchs-year/lectionary#p539a
+[Lectionary Rules]: https://www.churchofengland.org/liturgy/common-worship/lectionary-and-calendar/lectionary-rules
 
-[Rules]: https://www.churchofengland.org/prayer-and-worship/worship-texts-and-resources/common-worship/churchs-year/rules
+[Rules]: https://www.churchofengland.org/liturgy/common-worship/rules-regulating-authorized-forms-service

@@ -7,7 +7,7 @@ tags:
 - Christianity
 date: 2018-08-05 15:08:38.919740000 +01:00
 ---
-Most Church of England churches follow the [_Common Worship_ Lectionary](https://www.churchofengland.org/prayer-and-worship/worship-texts-and-resources/common-worship/prayer-and-worship/worship-texts-and-resources/common-worship/churchs-year/lectionary) for their Bible readings on Sundays. And most preachers, it seems, struggle to make sense of it. This is because they are haunted by the _Alternative Service Book_ (_ASB_), which should have been thoroughly put to death in the year 2000, but which continues to exercise considerable influence.
+Most Church of England churches follow the [_Common Worship_ Lectionary](https://www.churchofengland.org/liturgy/common-worship/lectionary-and-calendar) for their Bible readings on Sundays. And most preachers, it seems, struggle to make sense of it. This is because they are haunted by the _Alternative Service Book_ (_ASB_), which should have been thoroughly put to death in the year 2000, but which continues to exercise considerable influence.
 
 But help is at hand, in the form of _A Companion to Common Worship, Volume 1_ (2001), specifically in Carolyn Headley's chapter on 'Preaching'. At the time, Carolyn Headley was Tutor in Liturgy and Spirituality at Wycliffe Hall, Oxford (she is now a [hospital chaplain](https://www.epsom-sthelier.nhs.uk/chaplaincy-and-pastoral-care)). The following, from her chapter, has the potential to transform the preaching in many churches:
 

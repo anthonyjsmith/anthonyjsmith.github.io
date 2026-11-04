@@ -6,9 +6,9 @@ tags:
 - Christianity
 date: 2017-09-12 14:54:06.909858000 +01:00
 ---
-Article XIX of the [Thirty-Nine Articles](https://www.churchofengland.org/prayer-worship/worship/book-of-common-prayer/articles-of-religion.aspx), 'Of the Church', describes the church as 'a congregation'. It's [not unusual](http://www.stpetersharoldwood.org/Articles/481597/St_Peters_Harold/Extras_not_for/Blog/Healthy_local_Anglican.aspx) for people to understand this as referring to a _local_ congregation, and hence to assume that Anglican renewal is all about '[healthy local churches](https://www.renewconference.org.uk/)' (as opposed to healthy _dioceses_, or healthy _national_ churches, for example). But is that what Article XIX actually means?
+Article XIX of the [Thirty-Nine Articles](https://www.churchofengland.org/liturgy/book-of-common-prayer/articles-religion), 'Of the Church', describes the church as 'a congregation'. It's [not unusual](http://www.stpetersharoldwood.org/Articles/481597/St_Peters_Harold/Extras_not_for/Blog/Healthy_local_Anglican.aspx) for people to understand this as referring to a _local_ congregation, and hence to assume that Anglican renewal is all about '[healthy local churches](https://www.renewconference.org.uk/)' (as opposed to healthy _dioceses_, or healthy _national_ churches, for example). But is that what Article XIX actually means?
 
-A few quotes should suffice for the time being. First, the [article itself](https://www.churchofengland.org/prayer-worship/worship/book-of-common-prayer/articles-of-religion.aspx):
+A few quotes should suffice for the time being. First, the [article itself](https://www.churchofengland.org/liturgy/book-of-common-prayer/articles-religion):
 
 > XIX. Of the Church
 >
